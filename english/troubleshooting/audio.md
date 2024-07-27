@@ -3,6 +3,7 @@ title: Audio
 sidebar: english_sidebar
 permalink: trbl_audio.html
 folder: english
+toc: false
 ---
 
 ## There a distracting echo when playing vocals.
