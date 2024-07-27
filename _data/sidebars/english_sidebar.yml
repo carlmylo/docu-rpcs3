@@ -20,6 +20,10 @@ entries:
       type: frontmatter
 
   - title: Quick Configuration
+    output: web, pdf
+    folderitems:
+
+    - title: About
       url: /quick_config.html
       output: web, pdf
       type: homepage
