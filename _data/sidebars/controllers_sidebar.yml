@@ -19,21 +19,12 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Empezando
-    output: web, pdf
-    folderitems:
-
-    - title: Advertencias
-      url: /gs_disc_es
-      output: web, pdf
-      type: homepage
-
   - title: Instruments and Controllers
     output: web, pdf
     folderitems:
 
-    - title: MIDI Drums
-      url: /ctrls_drums_midi
+    - title: Intro
+      url: /ctrls
       output: web, pdf
       type: homepage
 
@@ -41,8 +32,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: RPCN - Getting Started
-      url: /rpcn_intro_es
+    - title: MIDI Drums
+      url: /ctrls_drums_midi
       output: web, pdf
       type: homepage
 
