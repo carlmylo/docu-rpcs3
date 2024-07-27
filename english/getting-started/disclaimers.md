@@ -1,6 +1,7 @@
 ---
 title: Disclaimers
 sidebar: english_sidebar
+topnav: langen
 permalink: gs_disc
 folder: english
 ---
