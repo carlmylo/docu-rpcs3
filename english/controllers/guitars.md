@@ -36,5 +36,6 @@ folder: english
 [![Guitar Hero World Tour](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrwt.png)](https://rb3pc.milohax.org/instruments/misc/pcghwt "Guitar Hero Genericaster") | Guitar Hero World Tour | ![PC](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/pc.png) | ![Bad Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/bad.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/pcghwt) |
 [![Unknown Guitar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrmyst.png)](https://rb3pc.milohax.org/instruments/misc/guitars "Unknown Guitar") | Unknown Guitar | ![Unknown Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/myst.png) | N/A |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/guitars) |
 
+{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboard, guitar) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
 
 {% include links.html %}

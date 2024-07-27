@@ -19,6 +19,41 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
+
+    - title: Disclaimer
+      url: /gs_disc.html
+      output: web, pdf
+      type: homepage
+
+    - title: Requirements
+      url: /gs_reqs.html
+      output: web, pdf
+      type: homepage
+
+    - title: Downloads
+      url: /gs_downloads.html
+      output: web, pdf
+      type: homepage
+
+    - title: Initializing
+      url: /gs_init.html
+      output: web, pdf
+      type: homepage
+
+    - title: User Account
+      url: /gs_useraccount.html
+      output: web, pdf
+      type: homepage
+
+    - title: Quick Configuration
+      url: /gs_quick_config.html
+      output: web, pdf
+      type: homepage
+
+
   - title: Instruments and Controllers
     output: web, pdf
     folderitems:
@@ -51,16 +86,6 @@ entries:
     - title: Pro Guitars
       url: /ctrls_protars.html
       output: web, pdf
-
-  - title: Quick Configuration
-    output: web, pdf
-    folderitems:
-
-    - title: About
-      url: /quick_config.html
-      output: web, pdf
-      type: homepage
-
 
   - title: Custom Configuration
     output: web, pdf

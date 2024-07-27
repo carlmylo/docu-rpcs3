@@ -1,9 +1,8 @@
 ---
 title: User Account
-author: Carl Mylo
-date: 1000-03-01
-category: English
-layout: post
+sidebar: english_sidebar
+permalink: gs_useraccount.html
+folder: english
 ---
 
 In RPCS3, go to **Manage > User Accounts** 

@@ -14,5 +14,4 @@ folder: english
 |[![Roll Limitless](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/drmroll.png)](https://rb3pc.milohax.org/instruments/misc/rolllimitless "Roll Limitless") | Roll Limitless | ![MIDI](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/midi.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/rolllimitless) |
 |[![Legacy Guitar Configurator](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrgc.png)](https://rb3pc.milohax.org/instruments/misc/gtrcfg "Legacy Guitar Configurator") | Legacy Guitar Configurator | ![Guitar Configurator](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/lgc.png) | ![Okay Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/okay.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/gtrcfg) |
 
-
 {% include links.html %}

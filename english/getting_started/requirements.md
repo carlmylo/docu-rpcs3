@@ -1,9 +1,8 @@
 ---
 title: Requirements
-author: Carl Mylo
-date: 1000-01-02
-category: English
-layout: post
+sidebar: english_sidebar
+permalink: gs_reqs.html
+folder: english
 ---
 
 You will need:
