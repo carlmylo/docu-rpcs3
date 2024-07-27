@@ -1,0 +1,35 @@
+---
+title: Audio
+sidebar: en_sidebar
+permalink: encustom_config_aud.html
+folder: english
+---
+
+| COLOR | MEANING |
+|---|---|
+| ![A green square with a dashed outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/biggreen.png "Green Square") | **REQUIRED** |
+| ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
+| ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
+
+<br/>
+
+## Audio
+
+![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png "Audio")
+
+* ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png "Blue Square") **Tweak depending on audio hardware and CPU**: 
+	* **Adjust "Audio Buffer Duration"** depending on system.
+		* Lower values give you less audio latency but use more CPU.
+		* Higher values give you more audio latency but use less CPU.
+		* Vocalists are affected the most by this, as a higher latency creates a distracting echo. Instrument players can use calibration to compensate regardless of audio buffer setting.
+		* You can change this while the game is running, but it will require re-calibrating in Rock Band 3's system settings.
+	* **Change "Audio Out" to "XAudio2"** - While **most users should stay on Cubeb**, a couple of people have experienced better performance with XAudio2. Your milage may vary.
+
+* ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Tan Square") **For Vocalists**: 
+	* **Set Microphone type to Standard or Rocksmith**.
+	* **Select an input device in "Mic1", "Mic2", and "Mic3"** for vocals. If not playing vocals, Mic1 will be used for voice chat.
+	* Once again, keep in mind that playing with framerates higher than 60 may cause issues with vocal detection.
+
+<br/>
+
+{% include links.html %}
