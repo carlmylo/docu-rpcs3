@@ -88,20 +88,20 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "espanol"
     values:
       layout: "post"
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: home_sidebar
+      sidebar: espanol_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
 - english_sidebar
-- mydoc_sidebar
+- espanol_sidebar
 - product1_sidebar
 - product2_sidebar
 - other

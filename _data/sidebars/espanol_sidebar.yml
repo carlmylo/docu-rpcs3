@@ -1,0 +1,210 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Rock Band 3 on 
+  version: RPCS3
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
+
+    - title: Disclaimer
+      url: /gs_disc.html
+      output: web, pdf
+      type: homepage
+
+    - title: Requirements
+      url: /gs_reqs.html
+      output: web, pdf
+      type: homepage
+
+    - title: Downloads
+      url: /gs_downloads.html
+      output: web, pdf
+      type: homepage
+
+    - title: Initializing
+      url: /gs_init.html
+      output: web, pdf
+      type: homepage
+
+    - title: User Account
+      url: /gs_user.html
+      output: web, pdf
+      type: homepage
+
+    - title: Quick Configuration
+      url: /gs_quick_config.html
+      output: web, pdf
+      type: homepage
+
+  - title: Instruments and Controllers
+    output: web, pdf
+    folderitems:
+
+    - title: Intro
+      url: /ctrls_eng.html
+      output: web, pdf
+      type: homepage
+
+    - title: Drums
+      url: /ctrls_drums.html
+      output: web, pdf
+
+    - title: Guitars
+      url: /ctrls_guitar.html
+      output: web, pdf
+
+    - title: Modded Controllers
+      url: /modded_ctrls.html
+      output: web, pdf
+
+    - title: Gamepads
+      url: /ctrls_pads.html
+      output: web, pdf
+
+    - title: Keyboards
+      url: /ctrls_keys.html
+      output: web, pdf
+
+    - title: Pro Guitars
+      url: /ctrls_protars.html
+      output: web, pdf
+
+  - title: Online
+    output: web, pdf
+    folderitems:
+
+    - title: RPCN - Getting Started
+      url: /rpcn_intro.html
+      output: web, pdf
+      type: homepage
+
+    - title: RPCN - Managing Friends
+      url: /rpcn_friends.html
+      output: web, pdf
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral.html
+      output: web, pdf
+      type: homepage
+
+  - title: Custom Configuration
+    output: web, pdf
+    folderitems:
+
+    - title: Managing Custom Configuration
+      url: /custom_config_start.html
+      output: web, pdf
+      type: homepage
+
+    - title: CPU
+      url: /custom_config_cpu.html
+      output: web, pdf
+
+    - title: GPU
+      url: /custom_config_gpu.html
+      output: web, pdf
+
+    - title: Audio
+      url: /custom_config_aud.html
+      output: web, pdf
+
+    - title: I/O
+      url: /custom_config_io.html
+      output: web, pdf
+
+    - title: Network
+      url: /custom_config_net.html
+      output: web, pdf
+
+    - title: Advanced
+      url: /custom_config_adv.html
+      output: web, pdf
+
+    - title: Emulator
+      url: /custom_config_emu.html
+      output: web, pdf
+
+  - title: Troubleshooting
+    output: web, pdf
+    folderitems:
+
+    - title: Common Problems
+      url: /trbl_common.html
+      output: web, pdf
+      type: homepage
+
+    - title: Online
+      url: /trbl_online.html
+      output: web, pdf
+
+    - title: Crashes
+      url: /trbl_crashes.html
+      output: web, pdf
+
+    - title: Audio
+      url: /trbl_audio.html
+      output: web, pdf
+
+    - title: Controllers
+      url: /trbl_controllers.html
+      output: web, pdf
+
+    - title: Deluxe
+      url: /trbl_deluxe.html
+      output: web, pdf
+
+    - title: Misc
+      url: /trbl_misc.html
+      output: web, pdf
+
+  - title: Advanced
+    output: web, pdf
+    folderitems:
+
+    - title: Passthrough Devices
+      url: /adv_passthrough.html
+      output: web, pdf
+      type: homepage
+
+    - title: Add more memory to Rock Band 3
+      url: /adv_himem.html
+      output: web, pdf
+
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs.html
+      output: web, pdf
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex.html
+      output: web, pdf
+
+    - title: Move Game Files
+      url: /adv_movedir.html
+      output: web, pdf
+
+  - title: Conclusion
+    output: web, pdf
+    folderitems:
+
+    - title: That's It!
+      url: /conclusion.html
+      output: web, pdf
+      type: homepage
