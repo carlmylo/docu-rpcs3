@@ -35,10 +35,10 @@ folder: english
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">[Pro Drums] "Hitting two cymbals registers as a tom.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">[Pro Drums] "Hitting two cymbals registers as a tom.</a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even console versions. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs to get around this.
                             </div>
@@ -48,10 +48,10 @@ folder: english
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">I cannot use Automatic Calibration in System Settings.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">I cannot use Automatic Calibration in System Settings.</a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 Automatic Calibration only works for PS3 Rock Band guitar/bass and Fender Mustang Pro Guitar controllers with passthrough.
                             </div>
