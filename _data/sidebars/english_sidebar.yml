@@ -19,6 +19,12 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Quick Configuration
+      url: /quick_config.html
+      output: web, pdf
+      type: homepage
+
+
   - title: Custom Configuration
     output: web, pdf
     folderitems:

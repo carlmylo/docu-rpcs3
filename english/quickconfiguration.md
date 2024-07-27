@@ -1,6 +1,6 @@
 ---
 title: Quick Configuration
-sidebar: mainen_sidebar
+sidebar: english_sidebar
 permalink: quick_config.html
 folder: english
 ---

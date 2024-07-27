@@ -1,7 +1,7 @@
 ---
 title: Advanced
 sidebar: english_sidebar
-permalink: en/custom_config_adv.html
+permalink: custom_config_adv.html
 folder: english
 ---
 
