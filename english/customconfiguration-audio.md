@@ -1,19 +1,11 @@
 ---
 title: Audio
-sidebar: en_sidebar
+sidebar: english_sidebar
 permalink: encustom_config_aud.html
 folder: english
 ---
 
-| COLOR | MEANING |
-|---|---|
-| ![A green square with a dashed outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/biggreen.png "Green Square") | **REQUIRED** |
-| ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
-| ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
-
-<br/>
-
-## Audio
+# Audio
 
 ![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png "Audio")
 

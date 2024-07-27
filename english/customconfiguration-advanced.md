@@ -1,19 +1,11 @@
 ---
 title: Advanced
-sidebar: en_sidebar
+sidebar: english_sidebar
 permalink: encustom_config_adv.html
 folder: english
 ---
 
-| COLOR | MEANING |
-|---|---|
-| ![A green square with a dashed outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/biggreen.png "Green Square") | **REQUIRED** |
-| ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
-| ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
-
-<br/>
-
-## Advanced
+# Advanced
 
 ![A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, "Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png "Advanced")
 

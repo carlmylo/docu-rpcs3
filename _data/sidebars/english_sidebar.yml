@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Rock Band 3 on RPCS3
-  version: 
+  product: Rock Band 3 on 
+  version: RPCS3
   folders:
 
   - title:
@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Custom Configuration
+    - title: Managing Custom Configuration
       url: /encustom_config_start.html
       output: web, pdf
       type: homepage

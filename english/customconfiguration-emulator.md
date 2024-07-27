@@ -1,19 +1,11 @@
 ---
 title: Emulator
-sidebar: en_sidebar
+sidebar: english_sidebar
 permalink: encustom_config_emu.html
 folder: english
 ---
 
-| COLOR | MEANING |
-|---|---|
-| ![A green square with a dashed outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/biggreen.png "Green Square") | **REQUIRED** |
-| ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
-| ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
-
-<br/>
-
-## Emulator
+# Emulator
 
 ![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface."](https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png "Emulator")
 

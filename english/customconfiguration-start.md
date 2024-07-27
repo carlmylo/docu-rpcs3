@@ -1,9 +1,11 @@
 ---
 title: Intro
-sidebar: en_sidebar
+sidebar: english_sidebar
 permalink: encustom_config_start.html
 folder: english
 ---
+
+# Custom Configurations
 
 While Quick Configuration should work in most cases, some users might want to squeeze more fidelity or performance out of their game or prefer setting everything up themselves. This involves creating or editing a Custom Configuration for Rock Band 3.
 
@@ -16,6 +18,8 @@ If you don't have a Custom Configuration yet, **right click on Rock Band 3** in 
 
 If you're editing a Custom Configuration, **right click on Rock Band 3** in RPCS3, then click on "**Change Custom Configuration**".  
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Create Custom Configuration From Default Settings")
+
+## Color Guide
 
 This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Anything not colored should be left alone.
 
