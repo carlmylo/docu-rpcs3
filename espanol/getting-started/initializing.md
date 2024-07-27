@@ -1,65 +1,65 @@
 ---
-title: Initializing
+title: Iniciando
 sidebar: espanol_sidebar
 permalink: gs_init_es
 folder: espanol
 ---
 
-Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
-![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3init.png "Welcome to RPCS3")
+Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta abierta en el fondo. **Marca "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again"** (No volver a mostrar) **y, al final, haz clic en "Continue"** (Continuar).  
+![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
 ## Firmware
 
-**Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3**. 
+**Arrastra el archivo PS3UPDAT.PUP** que acabas de descargar del sitio de Sony **a RPCS3**.
 
-![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwdnd.gif "PST3UPDAT.PUP")
+![Una GIF de PS3UPDAT.PUP siendo instalado en RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwdnd.gif "PST3UPDAT.PUP")
 
-**Click "Yes"** when the firmware installer prompts you.  
-![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP."](https://carlmylo.github.io/docu-rpcs3/images/inst/fwinstall.png "RPCS3 Firmware Installer")
+**Haz click en "Yes"** (Si) cuando el programa te pregunte si quieres instalar el archivo.  
+![[Una captura del instalador de software del sistema de RPCS3 preguntándole al usuario si quiere instalar la software del sistema llamado "PS3UPDAT.PUP".]](https://carlmylo.github.io/docu-rpcs3/images/inst/fwinstall.png "RPCS3 Firmware Installer (Instalador de software del sistema de RPCS3)")
 
-**Let it install.**  
-![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fw.png "RPCS3 Firmware Installer progress")
+**Déjalo instalar.**  
+![Una captura del instalador del software del sistema de RPCS3 después de una instalación exitosa del software del sistema y los módulos LLE.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fw.png "RPCS3 Firmware Installer (Instalador de software del sistema de RPCS3) en acción")
 
-**When it finishes, click "OK."**  
-![A screenshot of RPCS3's Firmware Installer after a successful install of PS3 firmware and LLE modules.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwdone.png "Success!")
+**Cuando termine, haz click en "OK"**  
+![Una captura del instalador de firmware de RPCS3 después de una exitosa instalación del firmware de PS3 y los módulos LLE.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwdone.png "Success (Completo)!")
 
-It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
-![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
+Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
+![Una captura de RPCS3 compilando módulos PPU con una barra de progreso en 1/8 de finalización.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwcomp.png "Compiling PPU modules... (Compilando módulos de PPU...)")
 
 ## Rock Band 3
 
-Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
+Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" adentro de la carpeta de RPCS3**. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)  
 
-![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
+![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-After dragging it in, click "Refresh" in RPCS3.
+Después de mover la carpeta de Rock Band 3, haz clic en "Refresh" (actualizar) en RPCS3 para actualizar tu biblioteca en RPCS3. Rock Band 3 debe de aparecer en tu biblioteca de juegos.
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
 ## Rock Band 3 Deluxe
 
-After Rock Band 3 appears in your library, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.milohax.org/).
+**Ahora, vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/index_es).
 
-This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.milohax.org/features).
+Rock Band 3 Deluxe es una modificación que arregla problemas críticos con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.milohax.org/features_es).
 
-[**[Click here to download Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads).
+[**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads_es).
 
-[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/inst/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip")
+[![Carpeta .zip de Rock Band 3 Deluxe en la bandeja de descarga de Edge.](https://carlmylo.github.io/docu-rpcs3/images/inst/rb3dxdles.png)](https://rb3dx.milohax.org/downloads_es "RB3DX-PS3.zip")
 
-**When it's finished downloading, extract the archive**.  
+Cuando se baje, **extrae el archivo**.
 
-![Rock Band 3 Deluxe's .zip being extracted with 7-Zip.](https://carlmylo.github.io/docu-rpcs3/images/inst/rb3dxext.png "RB3DX-PS3.zip")
+![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](https://carlmylo.github.io/docu-rpcs3/images/inst/rb3dxextes.png "Extraer ficheros...")
 
-**When it finishes extracting, drag the PKG file into RPCS3 and click "Yes"** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
+**Cuando termine de extraer, arrastra el archivo PKG a RPCS3 y haz click en "Yes" (Si)**, como con el archivo PS3UPDAT.PUP.  
 
-![A GIF of Rock Band 3 Deluxe's PKG file being dragged into RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG file")
+![Una GIF de el archivo PKG siendo arrastrato en RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG")
 
-![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 Deluxe package file.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
+![Una captura de Decrypter/Installer de RPCS3 preguntando si el usuario desea instalar el archivo de paquete de Rock Band 3 Deluxe.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3pkg.png "PKG Decrypter/ Installer (Descifrador/Instalador)")
 
-If it installed successfully, you should see that the Rock Band 3 icon has changed.
+Si se instala correctamente, el icono de Rock Band 3 va a cambiar.
 
-![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
+![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "Rename In Game List."
+Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist" (Renombrar en lista de juegos).
 
 {% include links.html %}

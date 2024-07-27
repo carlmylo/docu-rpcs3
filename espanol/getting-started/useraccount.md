@@ -5,13 +5,12 @@ permalink: gs_user_es
 folder: espanol
 ---
 
-In RPCS3, go to **Manage > User Accounts** 
-![RPCS3 showing "User Accounts" option under the "Manage" menu.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3user.png "RPCS3: User Accounts")
+En RPCS3, ve a **Manage > User Accounts** (Administrar > Cuentas de usuario)  
+![RPCS3 mostrando "User Accounts" abajo del menú de "Manage".](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3user.png "RPCS3: User Accounts")
 
-Once you're there, **click on the default username (00000001 - User) and then click "Rename User".** 
+Una vez que estés ahí, dale click en el nombre de usuario predeterminado (00000001 - User) y luego click en **"Rename user"** (Renombrar usuario).
 
-![RPCS3's "User Manager", showing the default username.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3rename.png "RPCS3: User Accounts")
+!["User Manager" de RPCS3, mostrando usuario predeterminado.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3rename.png "RPCS3: User Accounts")
 
-**Now change it** to whatever you want, then close it out.  
-
-![RPCS3's "Rename User", showing the user changing the name.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3namepanel.png "RPCS3: Rename User")
+**Ahora cámbialo** al nombre que quieras y luego haz click en "Close" (Cerrar).  
+!["User Manager" de RPCS3, mostrando usuario predeterminado.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3namepanel.png "RPCS3: Rename User")

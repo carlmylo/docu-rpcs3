@@ -6,67 +6,75 @@ folder: espanol
 toc: false
 ---
 
-These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config_start.html/) to tweak to what's best for your computer.  
-[[**Rock Band 3 Deluxe must be installed**]](https://rb3dx.milohax.org/) but if it's not already installed, you're not reading this guide and should go back and read it.  
+Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#creando-una-configuraci%C3%B3n-personalizada) para ajustar todo a lo mejor que pueda tu computadora.  
+**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://rb3dx.milohax.org/install_es) o no funcionaran a su máximo potencial. Si no lo tienes instalado en este momento, no estás leyendo la guía.
 
-You will still have to set up [controllers](https://carlmylo.github.io/docu-rpcs3/ctrls_drums.html). Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://rb3pc.milohax.org/english/controllers/#keyboards), [[Electronic Drum Kits]](https://rb3pc.milohax.org/instruments/misc/mididrums), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://rb3pc.milohax.org/english/passthroughdevices/) will still need to configure those.
+Los jugadores que desean utilizar [[micrófonos]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada#audio), [[guitarras Pro con cable, teclados USB/MIDI, y baterías electrónicas con conexión MIDI]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](https://rb3pc.milohax.org/espanol/conexiondirecta/) todavía requieren configuración adicional.
 
-* [[Recommended settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [[requirements]](https://rb3pc.milohax.org/english/requirements/).
-* [[Minimum settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [[requirements]](https://rb3pc.milohax.org/english/requirements/).
+* [[Configuración recomendada]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/recommended_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://rb3pc.milohax.org/espanol/requisitos/).
+* [[Configuración mínima]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/minimum_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://rb3pc.milohax.org/espanol/requisitos/).
 
-## How to
-To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
-In the GIF example below, the "Recommended" requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
+## Como Usar
 
-![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/docu-rpcs3/images/cust/quickconf.gif "Recommended.zip")
+Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
+El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada.
 
-## Affected Settings
-If you need any more information about what these settings are changing:
+![Una animacion de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/cust/quickconf.gif "Recommended.zip")
 
-### Recommended
+## Detalles de Configuraciones
 
-* **CPU**:
-	* SPU Block Size: Mega
-* **GPU**:
-	* Write Color Buffers
-	* Framelimit: Off
-	* Resolution Scale: 150% (1920x1080)
-	* Anisotropic Filter: 16x
-	* ZCULL Accuracy: Relaxed (Fastest)
-	* VSync Enabled
-* **Audio**:
-	- Audio Buffer Duration: 32 ms
-* **Network**:
-	* Network Status: Connected
-	* DNS: Configured for RBEnhanced
-	* Enable UPNP: On
-* **Advanced**:
-	* Debug Console Mode: On
-	* Exclusive Fullscreen Mode: Prefer Borderless fullscreen
-	* Driver Wake-Up Delay: 20 µs
-* **Emulator**:
-	* Show trophy popups: Off
+Se necesitas mas detalles sobre estas configuraciones:
 
-### Minimum
+### Recomendada
 
 * **CPU**:
-	* SPU Block Size: Mega
-	* Preferred SPU Threads: 2
-* **GPU**:
-	* Write Color Buffers
-	* Framelimit: Off
-	* ZCULL Accuracy: Relaxed (Fastest)
-* **Audio**:
-	* Audio Buffer Duration: 100 ms
-* **Network**:
-	* Network Status: Connected
-	* DNS: Configured for RBEnhanced
-	* Enable UPNP: On
-* **Advanced**:
-	* Debug Console Mode: On
-	* Exclusive Fullscreen Mode: Prefer Borderless fullscreen
-	* Driver Wake-Up Delay: 40 µs
-* **Emulator**:
-	* Show trophy popups: Off
+	- SPU Block Size (Tamaño de bloques del SPU): Mega
+- **GPU**:
+	- Write Color Buffers (Ingresar búferes de colores): Activado
+	- Framelimit (Limite de fotogramas): Off (Apagado)
+	- Resolution Scale (Nivel de resolución): 150% (1920x1080)
+	- Anisotropic Filter (Filtro anisotrópico): 16x
+	- ZCULL Accuracy (Precisión de ZCull): Relaxed (Fastest) (Relajada (Mas Rápida))
+	- VSync (Sincronización vertical): Activado
+- **Audio**:
+	- Audio Buffer Duration (Duración de búferes de audio): 32 ms
+- **System**:
+	- Console Language (Lenguaje de sistema): Spanish (Español)
+	- Keyboard Type (Tipo de teclado): Spanish Keyboard (Teclado Español)
+- **Network**:
+	- Network Status (Estado de red): Connected (Conectado)
+	- DNS: Configurado para RBEnhanced
+	- Enable UPNP (Activar UPnP): Activado
+- **Advanced**:
+	- Debug Console Mode (Modo de consola saca-errores): Activado
+	- Exclusive Fullscreen Mode (Modo de exclusividad de pantalla llena): Prefer Borderless fullscreen (Preferir pantalla llena sin bordos)
+	- Driver Wake-Up Delay (Retraso de activación de controlador): 20 µs
+- **Emulator**:
+	- Show trophy popups (Enseñar notificaciones de trofeos): Desactivado
+
+## Mínima
+
+- **CPU**:
+	- SPU Block Size (Tamaño de bloques del SPU): Mega
+	- Preferred SPU Threads (Hilos preferidos del SPU): 2
+- **GPU**:
+	- Write Color Buffers (Ingresar búferes de colores): Activado
+	- Framelimit (Limite de fotogramas): Off (Apagado)
+	- ZCULL Accuracy (Precisión de ZCull): Relaxed (Fastest) (Relajada (Mas Rápida))
+- **Audio**:
+	- Audio Buffer Duration (Duración de búferes de audio): 100 ms
+- **System**:
+	- Console Language (Lenguaje de sistema): Spanish (Español)
+	- Keyboard Type (Tipo de teclado): Spanish Keyboard (Teclado Español)
+- **Network**:
+	- Network Status (Estado de red): Connected (Conectado)
+	- DNS: Configurado para RBEnhanced
+	- Enable UPNP (Activar UPnP): Activado
+- **Advanced**:
+	- Debug Console Mode (Modo de consola saca-errores): Activado
+	- Exclusive Fullscreen Mode (Modo de exclusividad de pantalla llena): Prefer Borderless fullscreen (Preferir pantalla llena sin bordos)
+	- Driver Wake-Up Delay (Retraso de activación de controlador): 40 µs
+- **Emulator**:
+	- Show trophy popups (Enseñar notificaciones de trofeos): Desactivado
 
 {% include links.html %}

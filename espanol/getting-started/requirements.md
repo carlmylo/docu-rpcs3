@@ -1,49 +1,50 @@
 ---
-title: Requirements
+title: Requisitos
 sidebar: espanol_sidebar
 permalink: gs_reqs_es
 folder: espanol
 ---
 
-You will need:
-* _A copy of Rock Band 3 (BLUS-30463 version) for the PS3 on your computer._
-* _A controller. You can use:_
-	* _Any Rock Band and Guitar Hero Guitar (PS2, PS3, Wii, X360, XBONE, XSS/X)_<sup>a
-	* _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360, XBONE, XSS/X)_<sup>b
-	* _A standard controller/computer keyboard for "Padtar"_<sup>
-	* _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar, and MIDI keyboard (PS3 version only)_<sup>c
-	* _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (PS3, Wii, X360)_<sup>c
-	* _Rock Band 3 Keyboard \[**Wireless**\] (PS3 version via dongle only)_<sup>c
-	* _Rock Band 3 Keyboard \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_<sup>d
-	* _Rock Band 3 Fender Mustang PRO Guitar \[**Wireless**\] (PS3 version via dongle only)_<sup>c
-	* _Rock Band 3 Fender Mustang PRO Guitar \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
-	* _Rock Band 3 Squier Stratocaster PRO Guitar (PS3, Wii, X360 via MIDI to USB adapter)_
-	* _Any MIDI Keyboard (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
-	* _MIDI Electronic Drum Kit (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)_
-	* _A microphone (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
-	* [_[Click here for a visual guide]_](https://rb3pc.milohax.org/english/controllers)
-*   _A computer_
-	* Minimum:
-		* OS: Windows 10
-		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
-		* Memory: 8 GBs
-		* Graphics: GeForce GT 730 2GB (or equivalent) with Vulkan support
-		* Storage: 7200 RPM Hard Drive with ~11.2 GBs of space for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all.
-			* Additional custom songs require more space.
-		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 100 ms audio latency, 60 Hz with occasional performance drops.
-	* Recommended:
-		* OS: Windows 10 or higher
-		* Processor: AMD Ryzen 5 2600 (or equivalent) or better
-		* Memory: 16 GBs or higher
-		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent) or better with Vulkan support
-		* Storage: SATA SSD (or faster) with ~67.4 GBs for Rock Band 3, Rock Band 3 Deluxe, all DLC, and exports. An additional 80 GBs are required for RBN 1+2.
-			* Additional custom songs require more space.
-		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 32 ms audio (or lower), 75 Hz.
-	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit exaggerated for this game.
-	* **Laptop users** should check [[the RPCS3 website]]((https://rpcs3.net/quickstart)) for requirements.
-*   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
+Necesitarás:
+* _Una copia de Rock Band 3 (versión BLUS-30463) para PS3 en tu computadora._
+* _Un instrumento/control. Puedes usar:_
+	* _Cualquier guitarra de Rock Band y Guitar Hero (PS2, PS3, PS4, PS5, Wii, X360, XBONE, XSS/X)_<sup>a
+	* _Cualquier batería de Rock Band y Guitar Hero (PS3, PS4, PS5, Wii, X360, XBONE, XSS/X)_<sup>b
+	* _Un control/teclado de computadora/mando para jugar "Padtar" (guitarra por mando)_<sup>
+	* _Cualquier guitarra o teclado, con salida MIDI, compatible con el adaptador MIDI Pro de Rock Band 3 (solo la versión de PS3)_<sup>c
+	* _Cualquier batería electrónica con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (PS3, Wii, X360)_<sup>c
+	* _Teclado de Rock Band 3 \[**Inalámbrico**\] (solo la versión de PS3 con receptor propio)_<sup>c
+	* _Teclado de Rock Band 3 \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB)_<sup>d
+	* _Guitarra PRO de Rock Band 3 Fender Mustang \[**Inalámbrica**\] (solo la versión de PS3 con receptor propio)_<sup>c
+	* _Guitarra PRO de Rock Band 3 Fender Mustang \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB)_z
+	* _Guitarra PRO Rock Band 3 Squier Stratocaster (PS3, Wii, X360 con adaptador de MIDI a USB)_
+	* _Cualquier teclado MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB)_<sup>d
+	* _Batería MIDI (conectada por USB o por adaptador MIDI a USB o con MIDI a Roll Limitless)_<sup>
+	* _Cualquier micrófono detectado por tu computadora (el juego se puede controlar con la mayoría de mandos o con el teclado cuando juegas como vocalista)_
 
-<sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible.</sub>  
-<sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible.</sub>  
-<sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
-<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://rb3pc.milohax.org/instruments/misc/midikeys)</sub>  
+*   _Una computadora_
+	* Mínimo:
+		* SO: Windows 10
+		* Procesador: Intel Core i5-4460 (o equivalente con una puntuación de CPUMark de 4872 y AVX2)
+		* Memoria: 8 GBs
+		* Gráficas: GeForce GT 730 2GB (o equivalente) con Vulkan
+		* Almacenamiento: Disco Duro de 7200 RPM con ~11.2 GBs de espacio libre para Rock Band 3 con Rock Band 3 Deluxe sin DLC.
+			* Canciones adicionales (customs) requieren espacio adicional.
+		* Notas adicionales: La configuración más básica. Tendrás resolución de 720p sin efectos adicionales, latencia de audio de 130 ms, y frecuencia de actualización de 60 Hz, con tirones de rendimiento ocasionales.
+	* Recomendado:
+		* SO: Windows 10 o mejor
+		* Procesador: AMD Ryzen 5 2600 (o equivalente) o mejor
+		* Memoria: 16 GBs o mas
+		* Gráficas: NVIDIA GeForce GTX 1650 (o equivalente) o mejor con Vulkan
+		* Almacenamiento: Disco de Estado Sólido SATA con ~67.4 GBs de espacio libre para Rock Band 3, Rock Band 3 Deluxe y todo el DLC y expansiones. ~80 GBs adicionales son requeridos para RBN 1+2.
+		* Canciones personalizadas (customs) requieren espacio adicional
+		* Notas adicionales: Excelente rendimiento. 1080p con todos los efectos, audio de 32 ms (o menos), y 75 Hz (o mas).
+	* Puedes ver [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart), aunque están exagerado para este juego.
+	* Para **computadora portátiles/laptops**, refiérete a las recomendaciones del [[sitio de RPCS3]](https://rpcs3.net/quickstart).
+ 
+*   _[[7zip]](https://7zip-es.updatestar.com/) (o WinRAR si odias tu vida)_
+
+<sup>a</sup> <sub>Guitarras de PS4 no están incluidas porque RPCS3 no toma whammy, ladeo, o switch de efectos. También tiene latencia terrible.</sub>  
+<sup>b</sup> <sub>Baterías/tambores de PS4 no están incluidas porque los platillos no son compatible con RPCS3. También tiene latencia terrible.</sub>  
+<sup>c</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
+<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://rb3pc.milohax.org/instrumentos/misc/midikeys)</sub> 

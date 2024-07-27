@@ -1,53 +1,54 @@
 ---
-title: Downloads
+title: Descargas
 sidebar: espanol_sidebar
 permalink: gs_downloads_es
 folder: espanol
 ---
 
-Before you begin, **make sure your drivers and operating system are up to date**.
+Antes de empezar con la instalación, **asegúrate que tus controladores y sistema operativo estén actualizados.**
 
 ## Prerequisites
 
-**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next steps.**
+**Empezamos descargando 7-Zip**, porque va ayudar abrir mayoría de los archivos que bajamos en esta guía. **Si ya tienes 7-Zip** o una alternativa instalada, **puedes seguir adelante**.
 
-[**[Click here to go to 7-Zip's download page]**](https://www.7-zip.org/download.html).
+[**[Haz clic aquí para ir a la página de descarga de 7-Zip]**](https://7zip-es.updatestar.com/).
 
-[![A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer.](https://carlmylo.github.io/docu-rpcs3/images/inst/7zip.png)](https://www.7-zip.org/download.html "7-zip.org/download")
+[![Una captura de la pagina para descargar 7-Zip, con el cursor sobre el instalador .exe de 64 bits.](https://carlmylo.github.io/docu-rpcs3/images/inst/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com")
 
-**Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to double check.
+**Ahora**, **vamos a instalar Microsoft Visual C++ 2019 Redistributable**, porque es necesario para RPCS3. La mayoría de computadoras ya lo tienen, pero no está mal estar seguro.
 
-[**[Click here to download Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+[**[Haz clic aquí para descargar Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
-**Once it finishes downloading**, open it up and **install it**.  
+**Cuando se descargue**, ábrelo y instálalo (Install). 
 
-[![A screenshot of Microsoft Visual C++ 2019 Redistributable's installer prompting the user to accept the license terms and conditions and to install.](https://carlmylo.github.io/docu-rpcs3/images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
+[![Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](https://carlmylo.github.io/docu-rpcs3/images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")14.3833130")
 
 ## RPCS3
 
-**Next**, let's **download RPCS3**.
+**Después, vamos a descargar RPCS3**.
 
-[**[Click here to go to RPCS3's download site]**](https://rpcs3.net/download).
+[**[Haz clic aquí para ir al sitio de descarga de RPCS3]**](https://rpcs3.net/download).
 
-Scroll down a bit and download the Windows version.
+Baja un poco y descarga la versión para Windows.
 
-[![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download")
+[![Una captura del sitio de descarga para RPCS3, con el cursor en la versión de Windows.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download")
 
-**Once it downloads, extract the .7zip file.**  
-![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://carlmylo.github.io/docu-rpcs3/images/inst/extractrpcs3.png "Extract Files")
+**Cuando se descargue, extrae el archivo .7zip.**  
 
-I would strongly suggest extracting the files into "C:\\Games\\RPCS3" or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
+![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](https://carlmylo.github.io/docu-rpcs3/images/inst/extractrpcs3es.png "Extraer ficheros...")
 
-**Avoid installing to and running from an external drive or from a synced folder (Dropbox, OneDrive, etc.)**, as this usually leads to an unstable experience.  
+Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicional para evitar problemas de permisos. También desactiva la opción para crear un subdirectorio, como en la imagen.
 
-![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](https://carlmylo.github.io/docu-rpcs3/images/inst/extractdir.png "Extract")
+**Evita instalar y lanzar Rock Band 3 de un disco externo o una carpeta sincronizada (Dropbox, OneDrive, etc.)**, porque pueden causar inestabilidad y otros problemas.  
+
+![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](https://carlmylo.github.io/docu-rpcs3/images/inst/extractdires.png "Extract")
 
 ## Firmware
 
-Once that's extracted, [**[download the PlayStation 3 system software from Sony's website]**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** "**Update using a computer**." **Click that** to expand, **then click on "Download PS3 Update.**"  
-  
-_**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU RIGHT-CLICK AND "Save link as," or your download MAY become stuck.**_
+Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 del sitio de Sony]**](https://www.playstation.com/support/hardware/ps3/system-software/). **Mira un poco abajo en la página** hasta que llegues a "**Actualizar por computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar la actualización de la PS3**".
 
-[![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](https://carlmylo.github.io/docu-rpcs3/images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
+_**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE HACER click DERECHO Y "Guardar enlace como..." o tu descarga PUEDE FALLAR.**_
+
+[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](https://carlmylo.github.io/docu-rpcs3/images/inst/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3")
 
 {% include links.html %}
