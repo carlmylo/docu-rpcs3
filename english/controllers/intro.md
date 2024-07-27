@@ -1,6 +1,7 @@
 ---
 title: Instruments and Controllers
 sidebar: english_sidebar
+permalink: ctrls_eng.html
 folder: english
 ---
 
@@ -188,3 +189,5 @@ The following information is needed:
 * Bindings for every button ((Green Fret = Cross)
 * Bindings file (`RPCS3\config\input_configs\BLUS30463\Default.yml`)
 * Screenshot of Custom Gamepad Configuration
+
+{% include links.html %}

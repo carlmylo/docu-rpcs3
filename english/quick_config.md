@@ -5,12 +5,10 @@ permalink: quick_config.html
 folder: english
 ---
 
-## About
-
-These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://rb3pc.milohax.org/english/quickconfiguration/) to tweak to what's best for your computer.  
+These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config_start.html/) to tweak to what's best for your computer.  
 [[**Rock Band 3 Deluxe must be installed**]](https://rb3dx.neocities.org/) but if it's not already installed, you're not reading this guide and should go back and read it.  
 
-Players who want to use [[microphones]](https://rb3pc.milohax.org/english/customconfiguration#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://rb3pc.milohax.org/english/controllers/#keyboards), [[Electronic Drum Kits]](https://rb3pc.milohax.org/instruments/misc/mididrums), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://rb3pc.milohax.org/english/passthroughdevices/) will still need to configure those.
+Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://rb3pc.milohax.org/english/controllers/#keyboards), [[Electronic Drum Kits]](https://rb3pc.milohax.org/instruments/misc/mididrums), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://rb3pc.milohax.org/english/passthroughdevices/) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [[requirements]](https://rb3pc.milohax.org/english/requirements/).
 * [[Minimum settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [[requirements]](https://rb3pc.milohax.org/english/requirements/).
