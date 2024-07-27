@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Rock Band 3 on 
+  product: Rock Band 3 en 
   version: RPCS3
   folders:
 
@@ -24,32 +24,32 @@ entries:
     folderitems:
 
     - title: Disclaimer
-      url: /gs_disc.html
+      url: /gs_disc_es.html
       output: web, pdf
       type: homepage
 
     - title: Requirements
-      url: /gs_reqs.html
+      url: /gs_reqs_es.html
       output: web, pdf
       type: homepage
 
     - title: Downloads
-      url: /gs_downloads.html
+      url: /gs_downloads_es.html
       output: web, pdf
       type: homepage
 
     - title: Initializing
-      url: /gs_init.html
+      url: /gs_init_es.html
       output: web, pdf
       type: homepage
 
     - title: User Account
-      url: /gs_user.html
+      url: /gs_user_es.html
       output: web, pdf
       type: homepage
 
     - title: Quick Configuration
-      url: /gs_quick_config.html
+      url: /gs_quick_config_es.html
       output: web, pdf
       type: homepage
 
@@ -58,32 +58,32 @@ entries:
     folderitems:
 
     - title: Intro
-      url: /ctrls_eng.html
+      url: /ctrls_eng_es.html
       output: web, pdf
       type: homepage
 
     - title: Drums
-      url: /ctrls_drums.html
+      url: /ctrls_drums_es.html
       output: web, pdf
 
     - title: Guitars
-      url: /ctrls_guitar.html
+      url: /ctrls_guitar_es.html
       output: web, pdf
 
     - title: Modded Controllers
-      url: /modded_ctrls.html
+      url: /modded_ctrls_es.html
       output: web, pdf
 
     - title: Gamepads
-      url: /ctrls_pads.html
+      url: /ctrls_pads_es.html
       output: web, pdf
 
     - title: Keyboards
-      url: /ctrls_keys.html
+      url: /ctrls_keys_es.html
       output: web, pdf
 
     - title: Pro Guitars
-      url: /ctrls_protars.html
+      url: /ctrls_protars_es.html
       output: web, pdf
 
   - title: Online
@@ -91,17 +91,17 @@ entries:
     folderitems:
 
     - title: RPCN - Getting Started
-      url: /rpcn_intro.html
+      url: /rpcn_intro_es.html
       output: web, pdf
       type: homepage
 
     - title: RPCN - Managing Friends
-      url: /rpcn_friends.html
+      url: /rpcn_friends_es.html
       output: web, pdf
       type: homepage
 
     - title: GoCentral
-      url: /gocentral.html
+      url: /gocentral_es.html
       output: web, pdf
       type: homepage
 
@@ -110,36 +110,36 @@ entries:
     folderitems:
 
     - title: Managing Custom Configuration
-      url: /custom_config_start.html
+      url: /custom_config_start_es.html
       output: web, pdf
       type: homepage
 
     - title: CPU
-      url: /custom_config_cpu.html
+      url: /custom_config_cpu_es.html
       output: web, pdf
 
     - title: GPU
-      url: /custom_config_gpu.html
+      url: /custom_config_gpu_es.html
       output: web, pdf
 
     - title: Audio
-      url: /custom_config_aud.html
+      url: /custom_config_aud_es.html
       output: web, pdf
 
     - title: I/O
-      url: /custom_config_io.html
+      url: /custom_config_io_es.html
       output: web, pdf
 
     - title: Network
-      url: /custom_config_net.html
+      url: /custom_config_net_es.html
       output: web, pdf
 
     - title: Advanced
-      url: /custom_config_adv.html
+      url: /custom_config_adv_es.html
       output: web, pdf
 
     - title: Emulator
-      url: /custom_config_emu.html
+      url: /custom_config_emu_es.html
       output: web, pdf
 
   - title: Troubleshooting
@@ -147,32 +147,32 @@ entries:
     folderitems:
 
     - title: Common Problems
-      url: /trbl_common.html
+      url: /trbl_common_es.html
       output: web, pdf
       type: homepage
 
     - title: Online
-      url: /trbl_online.html
+      url: /trbl_online_es.html
       output: web, pdf
 
     - title: Crashes
-      url: /trbl_crashes.html
+      url: /trbl_crashes_es.html
       output: web, pdf
 
     - title: Audio
-      url: /trbl_audio.html
+      url: /trbl_audio_es.html
       output: web, pdf
 
     - title: Controllers
-      url: /trbl_controllers.html
+      url: /trbl_controllers_es.html
       output: web, pdf
 
     - title: Deluxe
-      url: /trbl_deluxe.html
+      url: /trbl_deluxe_es.html
       output: web, pdf
 
     - title: Misc
-      url: /trbl_misc.html
+      url: /trbl_misc_es.html
       output: web, pdf
 
   - title: Advanced
@@ -180,24 +180,24 @@ entries:
     folderitems:
 
     - title: Passthrough Devices
-      url: /adv_passthrough.html
+      url: /adv_passthrough_es.html
       output: web, pdf
       type: homepage
 
     - title: Add more memory to Rock Band 3
-      url: /adv_himem.html
+      url: /adv_himem_es.html
       output: web, pdf
 
     - title: Add Custom Songs to Rock Band 3 Deluxe
-      url: /adv_customsongs.html
+      url: /adv_customsongs_es.html
       output: web, pdf
 
     - title: Add Custom Textures to Rock Band 3 Deluxe
-      url: /adv_customtex.html
+      url: /adv_customtex_es.html
       output: web, pdf
 
     - title: Move Game Files
-      url: /adv_movedir.html
+      url: /adv_movedir_es.html
       output: web, pdf
 
   - title: Conclusion
@@ -205,6 +205,6 @@ entries:
     folderitems:
 
     - title: That's It!
-      url: /conclusion.html
+      url: /conclusion_es.html
       output: web, pdf
       type: homepage
