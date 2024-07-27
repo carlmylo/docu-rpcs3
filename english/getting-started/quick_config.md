@@ -3,6 +3,7 @@ title: Quick Configuration
 sidebar: english_sidebar
 permalink: gs_quick_config.html
 folder: english
+toc: false
 ---
 
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config_start.html/) to tweak to what's best for your computer.  

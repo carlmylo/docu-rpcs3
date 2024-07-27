@@ -3,6 +3,7 @@ title: Conclusion
 sidebar: english_sidebar
 permalink: conclusion.html
 folder: english
+toc: false
 ---
 
 You now (hopefully) have set up Rock Band 3 on your PC. While you're here, why not join some communities that are helping keep the Rock Band community alive?
