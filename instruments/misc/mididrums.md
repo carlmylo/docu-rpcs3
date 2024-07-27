@@ -1,9 +1,8 @@
 ---
 title: MIDI Drums
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_drums_midi
+folder: instruments
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Platform" title="Platform"></div>

@@ -58,7 +58,7 @@ entries:
     folderitems:
 
     - title: Intro
-      url: /ctrls_eng
+      url: /ctrls
       output: web, pdf
       type: homepage
 

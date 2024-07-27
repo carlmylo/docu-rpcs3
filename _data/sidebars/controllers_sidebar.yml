@@ -28,65 +28,16 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Requisitos
-      url: /gs_reqs_es
-      output: web, pdf
-      type: homepage
-
-    - title: Descargas
-      url: /gs_downloads_es
-      output: web, pdf
-      type: homepage
-
-    - title: Iniciando
-      url: /gs_init_es
-      output: web, pdf
-      type: homepage
-
-    - title: Cuenta De Usuario
-      url: /gs_user_es
-      output: web, pdf
-      type: homepage
-
-    - title: Configuración Rápida
-      url: /gs_quick_config_es
-      output: web, pdf
-      type: homepage
-
   - title: Instruments and Controllers
     output: web, pdf
     folderitems:
 
-    - title: Intro
-      url: /ctrls_eng_es
+    - title: MIDI Drums
+      url: /ctrls_drums_midi
       output: web, pdf
       type: homepage
 
-    - title: Drums
-      url: /ctrls_drums_es
-      output: web, pdf
-
-    - title: Guitars
-      url: /ctrls_guitar_es
-      output: web, pdf
-
-    - title: Modded Controllers
-      url: /modded_ctrls_es
-      output: web, pdf
-
-    - title: Gamepads
-      url: /ctrls_pads_es
-      output: web, pdf
-
-    - title: Keyboards
-      url: /ctrls_keys_es
-      output: web, pdf
-
-    - title: Pro Guitars
-      url: /ctrls_protars_es
-      output: web, pdf
-
-  - title: Online
+  - title: Drums
     output: web, pdf
     folderitems:
 
@@ -95,17 +46,8 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: RPCN - Managing Friends
-      url: /rpcn_friends_es
-      output: web, pdf
-      type: homepage
 
-    - title: GoCentral
-      url: /gocentral_es
-      output: web, pdf
-      type: homepage
-
-  - title: Custom Configuration
+  - title: Guitars
     output: web, pdf
     folderitems:
 
@@ -114,35 +56,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: CPU
-      url: /custom_config_cpu_es
-      output: web, pdf
-
-    - title: GPU
-      url: /custom_config_gpu_es
-      output: web, pdf
-
-    - title: Audio
-      url: /custom_config_aud_es
-      output: web, pdf
-
-    - title: I/O
-      url: /custom_config_io_es
-      output: web, pdf
-
-    - title: Network
-      url: /custom_config_net_es
-      output: web, pdf
-
-    - title: Advanced
-      url: /custom_config_adv_es
-      output: web, pdf
-
-    - title: Emulator
-      url: /custom_config_emu_es
-      output: web, pdf
-
-  - title: Troubleshooting
+  - title: Modded Controllers
     output: web, pdf
     folderitems:
 
@@ -151,31 +65,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Online
-      url: /trbl_online_es
-      output: web, pdf
-
-    - title: Crashes
-      url: /trbl_crashes_es
-      output: web, pdf
-
-    - title: Audio
-      url: /trbl_audio_es
-      output: web, pdf
-
-    - title: Controllers
-      url: /trbl_controllers_es
-      output: web, pdf
-
-    - title: Deluxe
-      url: /trbl_deluxe_es
-      output: web, pdf
-
-    - title: Misc
-      url: /trbl_misc_es
-      output: web, pdf
-
-  - title: Advanced
+  - title: Gamepads
     output: web, pdf
     folderitems:
 
@@ -184,27 +74,11 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Add more memory to Rock Band 3
-      url: /adv_himem_es
-      output: web, pdf
-
-    - title: Add Custom Songs to Rock Band 3 Deluxe
-      url: /adv_customsongs_es
-      output: web, pdf
-
-    - title: Add Custom Textures to Rock Band 3 Deluxe
-      url: /adv_customtex_es
-      output: web, pdf
-
-    - title: Move Game Files
-      url: /adv_movedir_es
-      output: web, pdf
-
-  - title: Conclusion
+  - title: Keyboards
     output: web, pdf
     folderitems:
 
-    - title: That's It!
+    - title: Pro Guitars
       url: /conclusion_es
       output: web, pdf
       type: homepage
