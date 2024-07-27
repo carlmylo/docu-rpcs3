@@ -1,9 +1,8 @@
 ---
-title: Extra - Advanced Stuff
-author: Carl Mylo
-date: 1000-10-02
-category: English
-layout: post
+title: Drums
+sidebar: english_sidebar
+permalink: adv_drums.html
+folder: english
 ---
 
 # Extra Guides
@@ -116,3 +115,5 @@ Finally, click "Save".
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
 
 That's it!
+
+{% include links.html %}
