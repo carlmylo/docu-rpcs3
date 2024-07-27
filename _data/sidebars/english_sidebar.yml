@@ -71,7 +71,7 @@ entries:
       output: web, pdf
 
     - title: Modded Controllers
-      url: /modded_ctrls
+      url: /ctrls_modded
       output: web, pdf
 
     - title: Gamepads
@@ -208,3 +208,4 @@ entries:
       url: /conclusion
       output: web, pdf
       type: homepage
+e

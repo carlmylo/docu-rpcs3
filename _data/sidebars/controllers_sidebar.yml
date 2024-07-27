@@ -19,6 +19,40 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
+
+    - title: Disclaimer
+      url: /gs_disc
+      output: web, pdf
+      type: homepage
+
+    - title: Requirements
+      url: /gs_reqs
+      output: web, pdf
+      type: homepage
+
+    - title: Downloads
+      url: /gs_downloads
+      output: web, pdf
+      type: homepage
+
+    - title: Initializing
+      url: /gs_init
+      output: web, pdf
+      type: homepage
+
+    - title: User Account
+      url: /gs_user
+      output: web, pdf
+      type: homepage
+
+    - title: Quick Configuration
+      url: /gs_quick_config
+      output: web, pdf
+      type: homepage
+
   - title: Instruments and Controllers
     output: web, pdf
     folderitems:
@@ -114,5 +148,137 @@ entries:
 
     - title: Pro Guitars
       url: /conclusion_es
+      output: web, pdf
+      type: homepage
+
+  - title: Pro Guitars
+    output: web, pdf
+    folderitems:
+
+    - title: Pro Guitars
+      url: /conclusion_es
+      output: web, pdf
+      type: homepage
+  
+  - title: Online
+    output: web, pdf
+    folderitems:
+
+    - title: RPCN - Getting Started
+      url: /rpcn_intro
+      output: web, pdf
+      type: homepage
+
+    - title: RPCN - Managing Friends
+      url: /rpcn_friends
+      output: web, pdf
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral
+      output: web, pdf
+      type: homepage
+
+  - title: Custom Configuration
+    output: web, pdf
+    folderitems:
+
+    - title: Managing Custom Configuration
+      url: /custom_config_start
+      output: web, pdf
+      type: homepage
+
+    - title: CPU
+      url: /custom_config_cpu
+      output: web, pdf
+
+    - title: GPU
+      url: /custom_config_gpu
+      output: web, pdf
+
+    - title: Audio
+      url: /custom_config_aud
+      output: web, pdf
+
+    - title: I/O
+      url: /custom_config_io
+      output: web, pdf
+
+    - title: Network
+      url: /custom_config_net
+      output: web, pdf
+
+    - title: Advanced
+      url: /custom_config_adv
+      output: web, pdf
+
+    - title: Emulator
+      url: /custom_config_emu
+      output: web, pdf
+
+  - title: Troubleshooting
+    output: web, pdf
+    folderitems:
+
+    - title: Common Problems
+      url: /trbl_common
+      output: web, pdf
+      type: homepage
+
+    - title: Online
+      url: /trbl_online
+      output: web, pdf
+
+    - title: Crashes
+      url: /trbl_crashes
+      output: web, pdf
+
+    - title: Audio
+      url: /trbl_audio
+      output: web, pdf
+
+    - title: Controllers
+      url: /trbl_controllers
+      output: web, pdf
+
+    - title: Deluxe
+      url: /trbl_deluxe
+      output: web, pdf
+
+    - title: Misc
+      url: /trbl_misc
+      output: web, pdf
+
+  - title: Advanced
+    output: web, pdf
+    folderitems:
+
+    - title: Passthrough Devices
+      url: /adv_passthrough
+      output: web, pdf
+      type: homepage
+
+    - title: Add more memory to Rock Band 3
+      url: /adv_himem
+      output: web, pdf
+
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs
+      output: web, pdf
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex
+      output: web, pdf
+
+    - title: Move Game Files
+      url: /adv_movedir
+      output: web, pdf
+
+  - title: Conclusion
+    output: web, pdf
+    folderitems:
+
+    - title: That's It!
+      url: /conclusion
       output: web, pdf
       type: homepage
