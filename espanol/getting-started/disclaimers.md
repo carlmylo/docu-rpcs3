@@ -1,6 +1,5 @@
 ---
 title: Disclaimers
-topnav: langes
 sidebar: espanol_sidebar
 permalink: gs_disc_es
 folder: espanol
