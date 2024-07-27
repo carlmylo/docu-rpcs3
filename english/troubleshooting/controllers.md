@@ -15,7 +15,7 @@ toc: false
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                This seems to vary by controller. Try using the whammy or effects switch if you have it. I'd also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don't have enough buttons to use the on-screen keyboard. You can also try disabling the Native Interface as mentioned in [[the Emulator section of Custom Configuration]](https://rb3pc.milohax.org/english/customconfiguration#emulator).
+                                This seems to vary by controller. Try using the whammy or effects switch if you have it. I’d also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don’t have enough buttons to use the on-screen keyboard. You can also try disabling the Native Interface as mentioned in <a href="https://rb3pc.milohax.org/english/customconfiguration#emulator">[the Emulator section of Custom Configuration]</a>.
                             </div>
                         </div>
                     </div>
@@ -28,7 +28,7 @@ toc: false
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                You did [[controller configuration]](https://rb3pc.milohax.org/english/controllers/) for a PS3 Rock Band controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
+                                You did <a href="https://rb3pc.milohax.org/english/controllers/">[controller configuration]</a> for a PS3 Rock Band controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
                             </div>
                         </div>
                     </div>
@@ -41,7 +41,7 @@ toc: false
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even console versions. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs to get around this.
+                                This is an infamous Rock Band 3 bug called the “double cymbal glitch” and plagues all versions of Rock Band 3, even console versions. You can try to slightly <a href="https://en.wikipedia.org/wiki/Drum_rudiment#Flam">[flam]</a> the two inputs to get around this.
                             </div>
                         </div>
                     </div>
