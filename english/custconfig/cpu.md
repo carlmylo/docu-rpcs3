@@ -1,7 +1,7 @@
 ---
 title: CPU
 sidebar: english_sidebar
-permalink: en/custom_config_cpu.html
+permalink: custom_config_cpu.html
 folder: english
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Audio
 sidebar: english_sidebar
-permalink: en/custom_config_aud.html
+permalink: custom_config_aud.html
 folder: english
 ---
 
