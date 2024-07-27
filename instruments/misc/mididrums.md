@@ -3,6 +3,7 @@ title: MIDI Drums
 sidebar: controllers_sidebar
 permalink: ctrls_drums_midi
 folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Platform" title="Platform"></div>
