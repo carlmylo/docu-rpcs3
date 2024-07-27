@@ -2,7 +2,7 @@
 title: Custom Configuration
 sidebar: mainen_sidebar
 permalink: custom_config.html
-folder: mydoc
+folder: english
 ---
 
 While Quick Configuration should work in most cases, some users might want to squeeze more fidelity or performance out of their game or prefer setting everything up themselves. This involves creating or editing a Custom Configuration for Rock Band 3.
@@ -178,3 +178,5 @@ To do this, **right click in RPCS3's log at the bottom and then left click on "F
 ![A screenshot of RPCS3's log being right clicked and showing that it has been switched to only log "Fatal" errors.](https://carlmylo.github.io/docu-rpcs3/images/cust/logging.png "RPCS3 Fatal Logging")
 
 That's the difficult part over with.
+
+{% include links.html %}
