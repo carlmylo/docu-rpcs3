@@ -37,6 +37,49 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Xbox 360 Rock Band Drums
+      url: /ctrls_rbdrums_360
+      output: web, pdf
+      type: homepage
+
+    - title: Nintendo Wii Rock Band Drums
+      url: /ctrls_rbdrums_wii
+      output: web, pdf
+      type: homepage
+
+    - title: "Xbox One/Xbox Series Rock Band 4 Drums"
+      url: /ctrls_rb4drums_xbox
+      output: web, pdf
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Drums
+      url: /ctrls_ghdrums_360
+      output: web, pdf
+      type: homepage
+
+    - title: PlayStation 3 Guitar Hero Drums
+      url: /ctrls_ghdrums_ps3
+      output: web, pdf
+      type: homepage
+
+
+    - title: Nintendo Wii Guitar Hero Drums (Raphnet)
+      url: /ctrls_ghdrums_wii
+      output: web, pdf
+      type: homepage
+
+
+    - title: "PlayStation 4/PlayStation 5 Rock Band 4 Drums"
+      url: /ctrls_rb4drums_ps4
+      output: web, pdf
+      type: homepage
+
+
+    - title: Unknown Drum Controllers
+      url: /ctrls_drums_gen
+      output: web, pdf
+      type: homepage
+
 
   - title: Guitars
     output: web, pdf

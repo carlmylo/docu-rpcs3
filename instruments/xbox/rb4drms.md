@@ -1,9 +1,9 @@
 ---
-title: Xbox One/Xbox Series Rock Band 4 Drums
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+title: "Xbox One/Xbox Series Rock Band 4 Drums"
+sidebar: controllers_sidebar
+permalink: ctrls_rb4drums_xbox
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/xbx.png" alt="Platform" title="Platform"></div>

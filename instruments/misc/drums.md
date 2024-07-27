@@ -1,10 +1,11 @@
 ---
 title: Unknown Drum Controllers
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_drums_gen
+folder: instruments
+toc: false
 ---
+
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/myst.png" alt="Platform" title="Platform"></div>
 

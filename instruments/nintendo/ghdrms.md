@@ -1,9 +1,9 @@
-y---
+---
 title: Nintendo Wii Guitar Hero Drums (Raphnet)
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_ghdrums_wii
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
