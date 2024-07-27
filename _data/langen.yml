@@ -8,8 +8,8 @@ topnav_dropdowns:
     - title: Idioma
       folderitems:
         - title: Ingles
-          url: /{{page.permalink | replace: '/', '' }}
+          url: {{page.permalink | replace: '/', '' }}
         - title: Español
-          url: /{{page.permalink | replace: '/', '' }_es}
+          url: {{page.permalink | replace: '/', '' }_es}
 
 # Copyright 2021 Google LLC
