@@ -19,36 +19,36 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: Empezando
     output: web, pdf
     folderitems:
 
-    - title: Disclaimer
+    - title: Advertencias
       url: /gs_disc_es.html
       output: web, pdf
       type: homepage
 
-    - title: Requirements
+    - title: Requisitos
       url: /gs_reqs_es.html
       output: web, pdf
       type: homepage
 
-    - title: Downloads
+    - title: Descargas
       url: /gs_downloads_es.html
       output: web, pdf
       type: homepage
 
-    - title: Initializing
+    - title: Iniciando
       url: /gs_init_es.html
       output: web, pdf
       type: homepage
 
-    - title: User Account
+    - title: Cuenta De Usuario
       url: /gs_user_es.html
       output: web, pdf
       type: homepage
 
-    - title: Quick Configuration
+    - title: Configuración Rápida
       url: /gs_quick_config_es.html
       output: web, pdf
       type: homepage
