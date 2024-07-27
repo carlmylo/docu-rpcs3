@@ -24,34 +24,34 @@ entries:
     folderitems:
 
     - title: Managing Custom Configuration
-      url: /encustom_config_start.html
+      url: /en/custom_config_start.html
       output: web, pdf
       type: homepage
 
     - title: CPU
-      url: /encustom_config_cpu.html
+      url: /en/custom_config_cpu.html
       output: web, pdf
 
     - title: GPU
-      url: /encustom_config_gpu.html
+      url: /en/custom_config_gpu.html
       output: web, pdf
 
     - title: Audio
-      url: /encustom_config_aud.html
+      url: /en/custom_config_aud.html
       output: web, pdf
 
     - title: I/O
-      url: /encustom_config_io.html
+      url: /en/custom_config_io.html
       output: web, pdf
 
     - title: Network
-      url: /encustom_config_net.html
+      url: /en/custom_config_net.html
       output: web, pdf
 
     - title: Advanced
-      url: /encustom_config_adv.html
+      url: /en/custom_config_adv.html
       output: web, pdf
 
     - title: Emulator
-      url: /encustom_config_emu.html
+      url: /en/custom_config_emu.html
       output: web, pdf

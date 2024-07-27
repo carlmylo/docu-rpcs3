@@ -1,11 +1,9 @@
 ---
 title: CPU
 sidebar: english_sidebar
-permalink: encustom_config_cpu.html
+permalink: en/custom_config_cpu.html
 folder: english
 ---
-
-# CPU
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/cpu.png "CPU")
 

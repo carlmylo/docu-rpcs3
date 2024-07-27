@@ -1,11 +1,9 @@
 ---
 title: Emulator
 sidebar: english_sidebar
-permalink: encustom_config_emu.html
+permalink: en/custom_config_emu.html
 folder: english
 ---
-
-# Emulator
 
 ![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface."](https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png "Emulator")
 

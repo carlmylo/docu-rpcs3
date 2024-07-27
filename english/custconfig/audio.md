@@ -1,11 +1,9 @@
 ---
 title: Audio
 sidebar: english_sidebar
-permalink: encustom_config_aud.html
+permalink: en/custom_config_aud.html
 folder: english
 ---
-
-# Audio
 
 ![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png "Audio")
 

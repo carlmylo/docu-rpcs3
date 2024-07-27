@@ -1,11 +1,9 @@
 ---
 title: GPU
 sidebar: english_sidebar
-permalink: encustom_config_gpu.html
+permalink: en/custom_config_gpu.html
 folder: english
 ---
-
-# GPU
 
 ![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/gpu.png "GPU")
 

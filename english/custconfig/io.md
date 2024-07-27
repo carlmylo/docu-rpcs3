@@ -1,15 +1,13 @@
 ---
 title: I/O
 sidebar: english_sidebar
-permalink: encustom_config_io.html
+permalink: en/custom_config_io.html
 folder: english
 ---
 
-# I/O
-
 **This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!**
-* **If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard,** [[**skip** over **this section**].](#network)  
-* **If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,** [[**skip** over **this section**].](#network)  
+* **If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard,** [[**skip** over **this section**].](https://carlmylo.github.io/docu-rpcs3/encustom_config_net)  
+* **If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,** [[**skip** over **this section**].](https://carlmylo.github.io/docu-rpcs3/encustom_config_net)  
 
 **If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
 ![A picture of a MIDI controller's back, showing a USB port and a sustain pedal](https://carlmylo.github.io/docu-rpcs3/images/midi/usbkeys.png "USB Keyboard")  

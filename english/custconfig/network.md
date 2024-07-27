@@ -1,11 +1,9 @@
 ---
 title: Network
 sidebar: english_sidebar
-permalink: encustom_config_net.html
+permalink: en/custom_config_net.html
 folder: english
 ---
-
-# Network
 
 ![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/network.png "Network")
 

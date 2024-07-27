@@ -1,11 +1,9 @@
 ---
 title: Intro
 sidebar: english_sidebar
-permalink: encustom_config_start.html
+permalink: en/custom_config_start.html
 folder: english
 ---
-
-# Custom Configurations
 
 While Quick Configuration should work in most cases, some users might want to squeeze more fidelity or performance out of their game or prefer setting everything up themselves. This involves creating or editing a Custom Configuration for Rock Band 3.
 

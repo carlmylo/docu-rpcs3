@@ -1,11 +1,9 @@
 ---
 title: Advanced
 sidebar: english_sidebar
-permalink: encustom_config_adv.html
+permalink: en/custom_config_adv.html
 folder: english
 ---
-
-# Advanced
 
 ![A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, "Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png "Advanced")
 
