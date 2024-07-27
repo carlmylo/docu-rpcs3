@@ -38,13 +38,13 @@ After dragging it in, click "Refresh" in RPCS3.
 
 ## Rock Band 3 Deluxe
 
-After Rock Band 3 appears in your library, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.neocities.org/).
+After Rock Band 3 appears in your library, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.milohax.org/).
 
-This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.neocities.org/features).
+This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.milohax.org/features).
 
-[**[Click here to download Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/downloads).
+[**[Click here to download Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads).
 
-[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/inst/rb3dxdl.png)](https://rb3dx.neocities.org/downloads "RB3DX-PS3.zip")
+[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/inst/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip")
 
 **When it's finished downloading, extract the archive**.  
 

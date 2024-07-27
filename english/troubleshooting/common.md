@@ -15,7 +15,7 @@ You did not follow the guide and did not [**[enable Write Color Buffers in the G
 
 ![A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar.](https://carlmylo.github.io/docu-rpcs3/images/trbl/flyinst.png "Graphical issues")
 
-There is a fix being worked on for this. Stay tuned for further development. Join the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) if you want to help test.
+There is a fix being worked on for this. Stay tuned for further development. Join the [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) if you want to help test.
 
 You can use [**[this list]**](https://rb3pc.milohax.org/extra/teleprob) as a reference for which hats, hairsyles, and microphones to avoid.
 

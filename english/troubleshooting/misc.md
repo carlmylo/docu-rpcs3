@@ -12,6 +12,6 @@ folder: english
 * This is a known issue with RPCS3. Restart it and it will should work.
 
 ## You didn't mention changing (SETTING) in the guide. It helped my performance."_**
-* [[Open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, I'll probably add it to this guide.
+* [[Open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) with your findings. If it checks out, I'll probably add it to this guide.
 
 {% include links.html %}
