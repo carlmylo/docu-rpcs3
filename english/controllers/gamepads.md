@@ -1,11 +1,9 @@
 ---
 title: Gamepads
 sidebar: english_sidebar
-permalink: ctrls_gamepads.html
+permalink: ctrls_pads.html
 folder: english
 ---
-
-# Modded Controllers
 
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|

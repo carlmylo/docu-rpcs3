@@ -5,8 +5,6 @@ permalink: ctrls_drums.html
 folder: english
 ---
 
-# Drums
-
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
 |[![MIDI Drums](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/drmmidi.png)](https://rb3pc.milohax.org/instruments/misc/mididrums "MIDI Drums")  | MIDI Drums | ![MIDI Drums](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/midi.png) | ![Okay Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/okay.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/mididrums) |
@@ -20,6 +18,6 @@ folder: english
 |[![Rock Band Drums 4 with cymbals](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/drmrbpro.png)](https://rb3pc.milohax.org/instruments/sony/rb4drms "Xbox One Rock Band 4 Drums") | Rock Band Drums 4 (without cymbals) | ![PlayStation 4](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/ps4.png) | ![Bad Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/bad.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/sony/rb4drms) |
 |[![Unknown Drums](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/drrmyst.png)](https://rb3pc.milohax.org/instruments/misc/drums "Unknown Drums") | Unknown Drums | ![Unknown Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/myst.png) | N/A |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/drums) |
 
-{% include callout.html content="**<sup>a**: Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboard, guitar) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
+{% include callout.html content="<sup>a</sup>: Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboard, guitar) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
 
 {% include links.html %}

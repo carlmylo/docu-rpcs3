@@ -5,8 +5,6 @@ permalink: ctrls_guitar.html
 folder: english
 ---
 
-# Guitars
-
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
 |![Rock Band Stratocaster](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrrb2.png) | Rock Band Stratocaster | ![PlayStation 3](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/great.png) | Plug and play!<sup>a |

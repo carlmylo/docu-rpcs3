@@ -5,8 +5,6 @@ permalink: ctrls_keys.html
 folder: english
 ---
 
-# Keyboards
-
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
 |[![MIDI Keyboard](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/promidi.png)](https://rb3pc.milohax.org/instruments/misc/midikeys "MIDI Keyboard") | MIDI Keyboard | ![MIDI](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/midi.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/midikeys) |

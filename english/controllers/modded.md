@@ -5,8 +5,6 @@ permalink: modded_ctrls.html
 folder: english
 ---
 
-# Modded Controllers
-
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
 |[![Santroller Powered Custom Guitars](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrmod.png)](https://rb3pc.milohax.org/instruments/misc/santroller "Santroller Powered Custom Guitars") | Santroller Powered Custom Guitars | ![Santroller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/santroller.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/instruments/misc/santroller) |

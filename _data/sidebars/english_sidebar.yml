@@ -19,6 +19,39 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Instruments and Controllers
+    output: web, pdf
+    folderitems:
+
+    - title: Intro
+      url: /ctrls_eng.html
+      output: web, pdf
+      type: homepage
+
+    - title: Drums
+      url: /ctrls_drums.html
+      output: web, pdf
+
+    - title: Guitars
+      url: /ctrls_guitar.html
+      output: web, pdf
+
+    - title: Modded Controllers
+      url: /modded_ctrls.html
+      output: web, pdf
+
+    - title: Gamepads
+      url: /ctrls_pads.html
+      output: web, pdf
+
+    - title: Keyboards
+      url: /ctrls_keys.html
+      output: web, pdf
+
+    - title: Pro Guitars
+      url: /ctrls_protars.html
+      output: web, pdf
+
   - title: Quick Configuration
     output: web, pdf
     folderitems:
