@@ -1,7 +1,7 @@
 ---
 title: Conclusion
 sidebar: espanol_sidebar
-permalink: conclusion_es.html
+permalink: conclusion_es
 folder: espanol
 toc: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: Move Game Files
 sidebar: espanol_sidebar
-permalink: adv_movedir_es.html
+permalink: adv_movedir_es
 folder: espanol
 ---
 

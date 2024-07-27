@@ -1,7 +1,7 @@
 ---
 title: Add Custom Textures to Rock Band 3 Deluxe
 sidebar: english_sidebar
-permalink: adv_customtex.html
+permalink: adv_customtex
 folder: english
 ---
 

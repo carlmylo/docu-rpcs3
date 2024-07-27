@@ -1,7 +1,7 @@
 ---
 title: RPCN - Managing Friends
 sidebar: english_sidebar
-permalink: rpcn_friends.html
+permalink: rpcn_friends
 folder: english
 ---
 

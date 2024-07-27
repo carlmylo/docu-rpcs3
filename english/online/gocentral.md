@@ -1,7 +1,7 @@
 ---
 title: GoCentral
 sidebar: english_sidebar
-permalink: gocentral.html
+permalink: gocentral
 folder: english
 ---
 

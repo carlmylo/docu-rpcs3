@@ -1,7 +1,7 @@
 ---
 title: Conclusion
 sidebar: english_sidebar
-permalink: conclusion.html
+permalink: conclusion
 folder: english
 toc: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: Add Custom Songs to Rock Band 3 Deluxe
 sidebar: espanol_sidebar
-permalink: adv_customsongs_es.html
+permalink: adv_customsongs_es
 folder: espanol
 ---
 

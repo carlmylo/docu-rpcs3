@@ -1,7 +1,7 @@
 ---
 title: Intro
 sidebar: english_sidebar
-permalink: custom_config_start.html
+permalink: custom_config_start
 folder: english
 toc: false
 ---

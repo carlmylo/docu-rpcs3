@@ -1,7 +1,7 @@
 ---
 title: Keyboards
 sidebar: espanol_sidebar
-permalink: ctrls_keys_es.html
+permalink: ctrls_keys_es
 folder: espanol
 ---
 

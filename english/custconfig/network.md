@@ -1,7 +1,7 @@
 ---
 title: Network
 sidebar: english_sidebar
-permalink: custom_config_net.html
+permalink: custom_config_net
 folder: english
 ---
 

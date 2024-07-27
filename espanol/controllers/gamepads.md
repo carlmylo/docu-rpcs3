@@ -1,7 +1,7 @@
 ---
 title: Gamepads
 sidebar: espanol_sidebar
-permalink: ctrls_pads_es.html
+permalink: ctrls_pads_es
 folder: espanol
 ---
 

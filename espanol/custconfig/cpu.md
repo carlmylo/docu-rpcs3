@@ -1,7 +1,7 @@
 ---
 title: CPU
 sidebar: espanol_sidebar
-permalink: custom_config_cpu_es.html
+permalink: custom_config_cpu_es
 folder: espanol
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Modded Controllers
 sidebar: espanol_sidebar
-permalink: modded_ctrls_es.html
+permalink: modded_ctrls_es
 folder: espanol
 ---
 

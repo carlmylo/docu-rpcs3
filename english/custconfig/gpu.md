@@ -1,7 +1,7 @@
 ---
 title: GPU
 sidebar: english_sidebar
-permalink: custom_config_gpu.html
+permalink: custom_config_gpu
 folder: english
 ---
 

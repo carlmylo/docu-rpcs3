@@ -1,7 +1,7 @@
 ---
 title: Common
 sidebar: espanol_sidebar
-permalink: trbl_common_es.html
+permalink: trbl_common_es
 folder: espanol
 ---
 

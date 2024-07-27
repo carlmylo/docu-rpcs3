@@ -1,7 +1,7 @@
 ---
 title: Guitars
 sidebar: english_sidebar
-permalink: ctrls_guitar.html
+permalink: ctrls_guitar
 folder: english
 ---
 

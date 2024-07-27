@@ -1,7 +1,7 @@
 ---
 title: Requirements
 sidebar: english_sidebar
-permalink: gs_reqs.html
+permalink: gs_reqs
 folder: english
 ---
 

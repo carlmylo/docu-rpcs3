@@ -1,7 +1,7 @@
 ---
 title: Passthrough Devices
 sidebar: english_sidebar
-permalink: adv_passthrough.html
+permalink: adv_passthrough
 folder: english
 ---
 

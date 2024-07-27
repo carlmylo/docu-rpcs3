@@ -1,7 +1,7 @@
 ---
 title: Common
 sidebar: english_sidebar
-permalink: trbl_crashes.html
+permalink: trbl_crashes
 folder: english
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Instruments and Controllers
 sidebar: espanol_sidebar
-permalink: ctrls_es.html
+permalink: ctrls_es
 folder: espanol
 ---
 

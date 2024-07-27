@@ -1,7 +1,7 @@
 ---
 title: Emulator
 sidebar: espanol_sidebar
-permalink: custom_config_emu_es.html
+permalink: custom_config_emu_es
 folder: espanol
 ---
 

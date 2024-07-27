@@ -1,7 +1,7 @@
 ---
 title: RPCN - Getting Started
 sidebar: espanol_sidebar
-permalink: rpcn_intro_es.html
+permalink: rpcn_intro_es
 folder: espanol
 ---
 

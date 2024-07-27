@@ -1,7 +1,7 @@
 ---
 title: Pro Guitars
 sidebar: english_sidebar
-permalink: ctrls_protars.html
+permalink: ctrls_protars
 folder: english
 ---
 

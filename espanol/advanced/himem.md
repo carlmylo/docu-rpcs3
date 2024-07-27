@@ -1,7 +1,7 @@
 ---
 title: Add more memory to Rock Band 3
 sidebar: espanol_sidebar
-permalink: adv_himem_es.html
+permalink: adv_himem_es
 folder: espanol
 ---
 

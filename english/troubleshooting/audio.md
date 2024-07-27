@@ -1,7 +1,7 @@
 ---
 title: Audio
 sidebar: english_sidebar
-permalink: trbl_audio.html
+permalink: trbl_audio
 folder: english
 toc: false
 ---

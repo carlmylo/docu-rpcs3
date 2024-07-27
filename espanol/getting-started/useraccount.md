@@ -1,7 +1,7 @@
 ---
 title: User Account
 sidebar: espanol_sidebar
-permalink: gs_user_es.html
+permalink: gs_user_es
 folder: espanol
 ---
 

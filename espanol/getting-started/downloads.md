@@ -1,7 +1,7 @@
 ---
 title: Downloads
 sidebar: espanol_sidebar
-permalink: gs_downloads_es.html
+permalink: gs_downloads_es
 folder: espanol
 ---
 

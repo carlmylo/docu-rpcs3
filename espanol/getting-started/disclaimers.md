@@ -1,7 +1,7 @@
 ---
 title: Disclaimers
 sidebar: espanol_sidebar
-permalink: gs_disc_es.html
+permalink: gs_disc_es
 folder: espanol
 ---
 

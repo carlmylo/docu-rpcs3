@@ -1,7 +1,7 @@
 ---
 title: Drums
 sidebar: english_sidebar
-permalink: ctrls_drums.html
+permalink: ctrls_drums
 folder: english
 ---
 

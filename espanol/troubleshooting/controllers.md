@@ -1,7 +1,7 @@
 ---
 title: Controllers
 sidebar: espanol_sidebar
-permalink: trbl_controllers_es.html
+permalink: trbl_controllers_es
 folder: espanol
 toc: false
 ---

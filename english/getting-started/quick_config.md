@@ -1,7 +1,7 @@
 ---
 title: Quick Configuration
 sidebar: english_sidebar
-permalink: gs_quick_config.html
+permalink: gs_quick_config
 folder: english
 toc: false
 ---

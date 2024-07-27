@@ -1,7 +1,7 @@
 ---
 title: Initializing
 sidebar: english_sidebar
-permalink: gs_init.html
+permalink: gs_init
 folder: english
 ---
 

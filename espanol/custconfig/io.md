@@ -1,7 +1,7 @@
 ---
 title: I/O
 sidebar: espanol_sidebar
-permalink: custom_config_io_es.html
+permalink: custom_config_io_es
 folder: espanol
 ---
 
