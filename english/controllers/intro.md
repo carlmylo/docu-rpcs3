@@ -15,7 +15,7 @@ Controllers have been rated with a "Compatibility" rating depending on whether o
 | ![A green square.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/okay.png "Green Square") | **Okay Compatibility** |
 | ![An orange circle.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/great.png "Orange Circle") | **Great Compatibility** |
 
-# Mapping
+## Mapping
 
 **Right click on "Rock Band 3" and select "Create Custom Gamepad Configuration"**
 
@@ -31,7 +31,7 @@ Click on the instrument icon or the **"[CLICK HERE]"** link to be taken to their
 Once you've finished configuring, **remember to click "Save".**
 
 
-# Using Profiles
+## Using Profiles
 
 Profiles are premade setup files made by the community. They are drag and drop files which have preconfigured mappings for various instruments.
 Before you install, **if you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
@@ -56,7 +56,7 @@ Paste it into:
 * Line 432 to 516 for Player 6
 * Line 518 to 602 for Player 7
 
-# Contributing
+## Contributing
 
 Do you have a controller we don't have documentation on? Want to help expand this list further? Contact me (@carlmylo) on [**[the Milohax discord]**](https://discord.gg/milohax) or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new).  
 The following information is needed:
