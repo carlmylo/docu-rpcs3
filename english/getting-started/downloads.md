@@ -7,7 +7,7 @@ folder: english
 
 Before you begin, **make sure your drivers and operating system are up to date**.
 
-## Downloads
+## Prerequisites
 
 **Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next steps.**
 
@@ -22,6 +22,8 @@ Before you begin, **make sure your drivers and operating system are up to date**
 **Once it finishes downloading**, open it up and **install it**.  
 
 [![A screenshot of Microsoft Visual C++ 2019 Redistributable's installer prompting the user to accept the license terms and conditions and to install.](https://carlmylo.github.io/docu-rpcs3/images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
+
+## RPCS3
 
 **Next**, let's **download RPCS3**.
 
@@ -39,6 +41,8 @@ I would strongly suggest extracting the files into "C:\\Games\\RPCS3" or a separ
 **Avoid installing to and running from an external drive or from a synced folder (Dropbox, OneDrive, etc.)**, as this usually leads to an unstable experience.  
 
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](https://carlmylo.github.io/docu-rpcs3/images/inst/extractdir.png "Extract")
+
+## Firmware
 
 Once that's extracted, [**[download the PlayStation 3 system software from Sony's website]**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** "**Update using a computer**." **Click that** to expand, **then click on "Download PS3 Update.**"  
   

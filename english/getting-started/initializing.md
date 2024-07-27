@@ -8,6 +8,7 @@ folder: english
 Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
 ![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3init.png "Welcome to RPCS3")
 
+## Firmware
 
 **Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3**. 
 
@@ -25,6 +26,8 @@ Now, **go to the folder where you extracted RPCS3.** Keep this folder open in th
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
+## Rock Band 3
+
 Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
 
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
@@ -32,6 +35,8 @@ Next, **open a new file browser window. Now go to the folder where you have your
 After dragging it in, click "Refresh" in RPCS3.
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
+
+## Rock Band 3 Deluxe
 
 After Rock Band 3 appears in your library, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.neocities.org/).
 

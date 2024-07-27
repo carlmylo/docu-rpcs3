@@ -21,7 +21,7 @@ You will need:
 	* _Any MIDI Keyboard (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
 	* _MIDI Electronic Drum Kit (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)_
 	* _A microphone (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
-	* [[Click here for a visual guide]](https://rb3pc.milohax.org/english/controllers)
+	* [_[Click here for a visual guide]_](https://rb3pc.milohax.org/english/controllers)
 *   _A computer_
 	* Minimum:
 		* OS: Windows 10

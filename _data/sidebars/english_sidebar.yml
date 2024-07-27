@@ -86,6 +86,25 @@ entries:
       url: /ctrls_protars.html
       output: web, pdf
 
+  - title: Online
+    output: web, pdf
+    folderitems:
+
+    - title: RPCN - Getting Started
+      url: /rpcn_intro.html
+      output: web, pdf
+      type: homepage
+
+    - title: RPCN - Managing Friends
+      url: /rpcn_friends.html
+      output: web, pdf
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral.html
+      output: web, pdf
+      type: homepage
+
   - title: Custom Configuration
     output: web, pdf
     folderitems:

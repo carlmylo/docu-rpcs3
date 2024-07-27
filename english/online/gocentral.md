@@ -1,18 +1,11 @@
 ---
 title: GoCentral
-author: Carl Mylo
-date: 1000-06-01
-category: English
-layout: post
+sidebar: english_sidebar
+permalink: gocentral.html
+folder: english
 ---
 
-## Intro
-
-**If you're not interested in playing online, skip to the [[next section]](https://rb3pc.milohax.org/english/passthroughdevices/).**
-
-This part of the guide **requires** that you have a [[**RPCN Account**]](https://rb3pc.milohax.org/english/rpcn/) **and set your [[network configuration]](https://rb3pc.milohax.org/english/customconfiguration#network) to use GoCentral server settings.**
-
-Thanks to the talented crew at RBEnhanced, the GoCentral has revived Rock Band 3's online mode. This part will be going over how to get the most out of your experience while playing online.
+Thanks to the talented crew at RBEnhanced, the GoCentral project has revived Rock Band 3's online mode. This part will be going over how to get the most out of your experience while playing online.
 
 ## Inviting Friends
 
@@ -80,3 +73,5 @@ Searching for random players works just like it did originally
 That's it! You should soon find other players!
 
 ![A screenshot of Rock Band 3 in a multiplayer lobby.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/hostlobby.png "Finding GoCentral Players")
+
+{% include links.html %}
