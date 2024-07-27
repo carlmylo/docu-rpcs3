@@ -3,6 +3,7 @@ title: Controllers
 sidebar: english_sidebar
 permalink: trbl_controllers.html
 folder: english
+toc: false
 ---
 
 <div class="panel-group" id="accordion">
