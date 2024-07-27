@@ -5,73 +5,73 @@ permalink: gocentral_es
 folder: espanol
 ---
 
-Thanks to the talented crew at RBEnhanced, the GoCentral project has revived Rock Band 3's online mode. This part will be going over how to get the most out of your experience while playing online.
+Gracias al equipo talentoso en RBEnhanced, el proyecto de GoCentral ha revivido las funciones del internet para Rock Band 3. Esta parte de la guía te va dar detalles sobre cómo tomar ventaja de todas las opciones disponibles para jugar en línea.
 
-## Inviting Friends
+## Invitando Amigos
 
-Before sending or receiving invites, make sure you're online. For that, open the Start menu and press on "Play on GoCentral" to go online.
+Antes de mandar o recibir invitaciones, primero necesitas estar conectado. Para hacer eso, abre el menú principal y escoge "Jugar en GoCentral."
 
-![A screenshot of Rock Band 3 with "Play on GoCentral" selected](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/gocentral.png "Play on GoCentral")
+![Una captura de Rock Band 3 con "Jugar en GoCentral" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/gocentrales.png "Jugar en GoCentral")
 
-## Sending invites
+## Mandando Invitaciones
 
-To invite people, **open the Start menu and press "GoCentral Options."**
+Para mandar invitaciones, **abre el menú y selecciona "Opciones de GoCentral."**
 
-![A screenshot of Rock Band 3 with "GoCentral Options" selected](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/gooptions.png "GoCentral Options")
+![Una captura de Rock Band 3 con "Opciones de GoCentral" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/gooptionses.png "Opciones de GoCentral")
 
-**Press "Invite Friends"**
+**Escoge "Invitar A Amigos"**
 
-![A screenshot of Rock Band 3 with "Invite Friends" selected](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invite.png "Invite Friends")
+![Una captura de Rock Band 3 con "Invitar a Amigos" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invitees.png "Invitar a Amigos")
 
-**Select any name.** It doesn't matter as **the actual friend you're sending an invite to will be on the next screen.**
+**Selecciona cualquier nombre.** No importa cual selecciones porque **lo que importa es la pantalla de selección que sigue.**
 
-![A screenshot of Rock Band 3 with "Invite Friends" selected](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invfriends.png "Invite Friends")
+![Una captura de Rock Band 3 con "Invitar a Amigos" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invfriendses.png "Invitar a Amigos")
 
-**Here's where you actually select the friend you want to send an invite to.**
+**Esta es la pantalla donde vas a elegir a quien le quieres mandar la invitación.**
 
-![A screenshot of RPCN's Message screen.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invrpcnlist.png "Select Message To Send")
+![Una captura de la pantalla de mensajes de RPCN.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invrpcnlistes.png "Select Message To Send (Seleccionar mensaje para mandar)")
 
-You will be asked to confirm if you want to send the message. **Press "Yes" to send it.**
+Te va preguntar que confirmes mandar el mensaje. **Presiona "Yes"** (Si) **para mandarlo.**
 
-![A screenshot of a Rock Band 3 invite message in RPCN's messaging system.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invitemsg.png "Send message to friend?")
+![Una captura de RPCN con una invitación de Rock Band 3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invitemsges.png "Send message to friend? (Enviar mensaje a un amigo)")
 
-Once your friend accepts the invite, they'll be in your session.
+Cuando tu amigo acepte la invitación, va entrar a tu sesión.
 
-![A screenshot of Rock Band 3 with a friend in a party, waiting on the main menu.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/rb3joined.png "Rock Band 3: Main Menu with two players")
+![Una captura de Rock Band 3 con un amigo en el menú principal.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/rb3joinedes.png "Rock Band 3: Menú principal con un amigo")
 
 
-## Receiving invites
+## Recibiendo Invitaciones
 
-To receive invites, open the **Start menu and press "GoCentral Options."**
+Para recibir invitaciones, **abre el menú principal y selecciona "Opciones de GoCentral."**
 
-![A screenshot of Rock Band 3 with "GoCentral Options" selected](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/gooptions.png "GoCentral Options")
+![Una captura de Rock Band 3 con "Opciones de GoCentral" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/gooptionses.png "Opciones de GoCentral")
 
-**Press "Check Invites"**
+**Escoge "Ver Invitaciones"**
 
-![A screenshot of Rock Band 3 with "Invite Friends" selected](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invcheck.png "Check Invites")
+![Una captura de Rock Band 3 con "Ver invitaciones" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invcheckes.png "Ver Invitaciones")
 
-A message selection screen will appear. Invites will appear with your friend's name and the subject will be "Rock Band 3".  
-**Select the message.**
+Una bandeja de correo va aparecer. Arriba, dice "Select Message" (Selecciona Mensaje). Las invitaciones tendrán "From (De)" con el nombre de tu amigo y "Subject: Rock Band 3" (Asunto: Rock Band 3).  
+**Selecciona el mensaje.**
 
-![A screenshot of RPCN's Message screen.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invmsg.png "Select Message")
+![Una captura de la pantalla de mensajes de RPCN.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invmsges.png "Select Message (Selecciona Mensaje)")
 
-You will then join their session.
+De ahí, vas a entrar a su sesión.
 
-![A screenshot of a Rock Band 3, with the player joining a session.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/invjoin.png "Rock Band 3: Joining Session")
+![Una captura de Rock Band 3, uniéndose a sesión.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/invjoines.png "Rock Band 3: Uniéndose a Sesión")
 
-**That's it!** You should be in a session with your friend.
+**Eso es todo.** Ahora debes de estar en una sesión con tu amigo.
 
-![A screenshot of Rock Band 3 with a friend in a party, waiting on the main menu.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/rb3joined.png "Rock Band 3: Main Menu with two players")
+![Una captura de Rock Band 3 con un amigo en el menú principal.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/rb3joinedes.png "Rock Band 3: Menú principal con un amigo")
 
-## Searching for random people
+## Buscando a cualquier jugador
 
-Searching for random players works just like it did originally
+Buscando a jugadores funciona como funciono originalmente.
 
-**Go to Play Now > Quick Play > Find GoCentral Players**
-![A screenshot of Rock Band 3 with "Find GoCentral Players" selected.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/findgocentralplayers.png "Find GoCentral Players")
+**Ve a Jugar  > Partida Rápida > Buscar Jugadores en GoCentral**
+![Una captura de Rock Band 3 con "Buscar jugadores en GoCentral" seleccionado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/findGoCentralplayerses.png "Buscar Jugadores en GoCentral")
 
-That's it! You should soon find other players!
+Eso es todo! Si alguien mas esta buscando, se van a encontrar.
 
-![A screenshot of Rock Band 3 in a multiplayer lobby.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/hostlobby.png "Finding GoCentral Players")
+![Una captura de Rock Band 3 en una partida de Rock Band 3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/hostlobbyes.png "Buscando Jugadores en GoCentral")
 
 {% include links.html %}

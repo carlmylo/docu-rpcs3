@@ -1,5 +1,5 @@
 ---
-title: Quick Configuration
+title: Configuración Rapida
 sidebar: espanol_sidebar
 permalink: gs_quick_config_es
 folder: espanol

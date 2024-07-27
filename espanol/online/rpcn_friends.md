@@ -1,50 +1,49 @@
 ---
-title: RPCN - Managing Friends
+title: RPCN - Administrando Amigos
 sidebar: espanol_sidebar
 permalink: rpcn_friends_es
 folder: espanol
 ---
 
-Let's go over how to manage friends in RPCN.
+Ahora, vamos a ver como administrar tu lista de amigos.
 
-Go to **Configuration > RPCN**
-![A screenshot of RPCS3's Configuration with "RPCN" highlighted](https://carlmylo.github.io/docu-rpcs3/images/rpcn/rpcn.png "RPCS3: RPCN")
+Ve a **Configuration > RPCN** (Configuración > RPCN)
+![A screenshot of RPCS3's Configuration with "RPCN" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/rpcn.png "RPCS3: RPCN")
 
-Click on **Friends**.
+Haz click en **Friends** (Amigos).
 
-![A screenshot of RPCS3's RPCN menu, with "Friends" highlighted](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friends.png "RPCS3: RPCN")
+![A screenshot of RPCS3's RPCN menu, with "Friends" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friends.png "RPCS3: RPCN")
 
-This will open the Friends window.
+Esto va abrir la lista de amigos.
 
-![A screenshot of RPCN's Friends window.](https://carlmylo.github.io/docu-rpcs3/images/rpcn/rpcnfriends.png "RPCS3: RPCN")
+![A screenshot of RPCN's Friends window.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/rpcnfriends.png "RPCS3: RPCN")
 
-Once here, you can add friends in different ways including:
+En esta lista, puedes añadir a personas en muchas formas, incluyendo:
 
-## RPCN: Adding by Search
+## RPCN: Buscando Amigos
 
-**To add a friend** by their username, **click on "Add Friend"**, at the bottom side of the RPCN: Friends window.
+**Para añadir a una persona** por su usuario, **haz click en "Add Friend"** (Añadir Amigo), **en la parte baja del menú**.
 
-![A screenshot of RPCN's Friends window, with the user selecting "Add Friend".](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friendadd.png "RPCS3: Add Friend")
+![A screenshot of RPCN's Friends window, with the user selecting "Add Friend".](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendadd.png "RPCS3: Add Friend")
 
-A popup will appear. **Type in your friend's username then click "OK".**
+Saldrá una pantalla nueva. **Entra el usuario de tu amigo y haz click en "OK".**
 
-![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK".](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friendaddpopup.png "RPCS3: Add Friend")
+![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK".](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendaddpopup.png "RPCS3: Add Friend")
 
-If you typed in their name correctly, you should see a "Friend added!" popup. The icon next to their name will be orange until they add you. **Once they accept your request, that's it!**
+Si lo hiciste bien, te va decir "Friend was successfully added!" (Amigo fue añadido!). El circulo al lado de su nombre estará naranja. **Cuando tu amigo te añade, eso es todo.**
 
-![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK". The friend icon is orange.](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friendadded.png "RPCS3: Friend Added")
+![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK". The friend icon is orange.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendadded.png "RPCS3: Friend Added")
 
-## RPCN: Accepting Friend Requests
+## RPCN: Aceptando Solicitudes 
 
-Any friend requests will be below "Friend Requests" in the RPCN:Friends window, with a yellow icon next to their name. **To accept any requests,** simply **right click the request and click "Accept Request."**
+Todas las solicitudes de amigos estarán bajo "Friend Requests" (Solicitudes de amistad) en el menu de RPCN:Friends, con un símbolo amarillo al lado de su nombre. **Para aceptar solicitudes,** simplemente **haz click derecho en su nombre y luego en "Accept Request"** (Aceptar solicitud)
 
-![A screenshot of RPCN's Friends window, with the user about to accept a friend request. The icon next to the friend's name is yellow.](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friendpending.png "RPCS3: Accept Request")
+![A screenshot of RPCN's Friends window, with the user about to accept a friend request. The icon next to the friend's name is yellow.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendpending.png "RPCS3: Accept Request")
 
-## RPCN: Adding Recent Players
+## RPCN: Añadiendo Jugadores Recientes
 
-Any person you've played with that isn't already your friend will show up in the right side of the RPCN:Friends window.
-To add anyone here, simply **right click the name and** you will be able to **send them a friend request.**
+Cualquier persona con quien haz jugado recientemente estará en la lista bajo "Recent Players." Para añadir personas por esta manera, haz **click derecho en su nombre y manda una solicitud con "Send Friend Request"** (Mandar Solicitud de Amistad).
 
-![A screenshot of RPCN's Friends window, with the user adding a recent player.](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friendrecent.png "RPCS3: Recent Players")
+![A screenshot of RPCN's Friends window, with the user adding a recent player.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendrecent.png "RPCS3: Recent Players")
 
 {% include links.html %}

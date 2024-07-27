@@ -1,5 +1,5 @@
 ---
-title: User Account
+title: Cuenta de Usuario
 sidebar: espanol_sidebar
 permalink: gs_user_es
 folder: espanol
