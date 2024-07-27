@@ -14,7 +14,6 @@ layout: post
 
 * There is no binding file.
 * **Do NOT map this instrument via Gamepad Configuration.**
-* Requires a MIDI keyboard connected via USB or a MIDI to USB interface.
 * It is suggested to have a keyboard with **at least 37 keys** or 25 keys and 11 drum pads.
 * Your MIDI keyboard needs to:
 	* **be set to MIDI Channel 1.**
@@ -25,7 +24,24 @@ layout: post
 
 ## Instructions
 
-**Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+**If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
+
+>![A picture of a MIDI controller's back, showing a USB port and a sustain pedal](https://carlmylo.github.io/docu-rpcs3/images/midi/usbkeys.png "USB Keyboard")  
+
+**If your keyboard only has a MIDI output, you will need a MIDI to USB interface**.
+
+>![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output highlighted in yellow with a solid white outline, and multiple pedal inputs.](https://carlmylo.github.io/docu-rpcs3/images/midi/midikeys.png "MIDI Keyboard")  
+
+Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**. 
+
+>![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
+
+**If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
+>![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
+
+Find whichever way is the most convenient for you then connect your MIDI Keyboard to your computer.
+
+After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 

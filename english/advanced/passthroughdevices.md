@@ -5,9 +5,15 @@ permalink: adv_passthrough
 folder: english
 ---
 
-**If you're not playing with a PS3 Mustang Pro Guitar or a PS3 Keyboard with their respective dongles**, [[**skip over this section**]](https://rb3pc.milohax.org/english/troubleshooting/).
+If you're playing with a RB3 Mustang Guitar for PlayStation 3 or a RB3 Keyboard PlayStation 3 with their respective dongles, you can connect and play them like on console after a simple setup.
 
-To start with, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
+To begin with, make sure you have the correct dongle.
+
+| **Mustang Guitar<br>Dongle** | **Wireless Keyboard<br>Dongle** |
+|:------------------:|:---------------------:|
+| ![Dongle for the RB3 Mustang Guitar](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/recprotar.png "Dongle for the RB3 Mustang Guitar") | ![Dongle for the RB3 Wireless Keyboard](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/reckeys.png "Dongle for the RB3 Wireless Keyboard") |
+
+After making sure you have the correct dongle, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
 
 Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/) and **download the latest version, then open it** up.
 
