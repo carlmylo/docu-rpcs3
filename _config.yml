@@ -41,10 +41,10 @@ feedback_email: carl@carlmylo.com
 feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-feedback_text: "Need help?"
+#feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
-feedback_link: "http://helpy.io/"
+#feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
@@ -74,7 +74,7 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: english_sidebar
+      sidebar: eng_sidebar
       topnav: topnav
   -
     scope:
@@ -100,7 +100,7 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- english_sidebar
+- eng_sidebar
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar
