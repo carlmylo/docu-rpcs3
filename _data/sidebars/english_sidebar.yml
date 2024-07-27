@@ -44,7 +44,7 @@ entries:
       type: homepage
 
     - title: User Account
-      url: /gs_useraccount.html
+      url: /gs_user.html
       output: web, pdf
       type: homepage
 
@@ -52,7 +52,6 @@ entries:
       url: /gs_quick_config.html
       output: web, pdf
       type: homepage
-
 
   - title: Instruments and Controllers
     output: web, pdf
