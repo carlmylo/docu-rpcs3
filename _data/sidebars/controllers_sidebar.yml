@@ -66,6 +66,11 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Full List
+      url: /ctrls_drums
+      output: web, pdf
+      type: homepage
+
     - title: MIDI Drums
       url: /ctrls_drums_midi
       output: web, pdf
@@ -119,8 +124,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Managing Custom Configuration
-      url: /custom_config_start_es
+    - title: Full List
+      url: /ctrls_guitar
       output: web, pdf
       type: homepage
 
@@ -128,8 +133,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Common Problems
-      url: /trbl_common_es
+    - title: Full List
+      url: /ctrls_modded
       output: web, pdf
       type: homepage
 
@@ -137,8 +142,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Passthrough Devices
-      url: /adv_passthrough_es
+    - title: Full List
+      url: /ctrls_pads
       output: web, pdf
       type: homepage
 
@@ -146,8 +151,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Pro Guitars
-      url: /conclusion_es
+    - title: Full List
+      url: /ctrls_keys
       output: web, pdf
       type: homepage
 
@@ -155,8 +160,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Pro Guitars
-      url: /conclusion_es
+    - title: Full List
+      url: /ctrls_protars
       output: web, pdf
       type: homepage
   
