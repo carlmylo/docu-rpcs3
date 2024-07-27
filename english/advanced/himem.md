@@ -7,19 +7,9 @@ folder: english
 
 We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strongly suggested and allows for better stability as well top of increasing the song limit up to 16000.
 
-> ##### WARNING
->
-> _If you downloaded and are using a [[Quick Configurations profile,]](https://rb3pc.milohax.org/english/quickconfiguration/) this is already active and you don't need to do this._
-{: .block-warning  }
-
-> ##### DANGER
->
-> _You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://rb3pc.milohax.org/english/customconfiguration#advanced). **Not doing this will cause your game to crash immediately after adding this file.**_
-{: .block-danger  }
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>If you downloaded and are using a [[Quick Configurations profile,]](https://rb3pc.milohax.org/english/quickconfiguration/) this is already active and you don't need to do this. </b> {{include.content}}</div>
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://rb3pc.milohax.org/english/customconfiguration#advanced). Not doing this will cause your game to crash immediately after adding this file!! </b> {{include.content}}</div>
-
-## How To
 
 * First, you'll need to [[download the file to enable increased memory support. Click here to download it]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
 
