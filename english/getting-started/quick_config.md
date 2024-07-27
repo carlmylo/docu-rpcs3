@@ -35,7 +35,7 @@ If you need any more information about what these settings are changing:
 	* ZCULL Accuracy: Relaxed (Fastest)
 	* VSync Enabled
 * **Audio**:
-		- Audio Buffer Duration: 32 ms
+	- Audio Buffer Duration: 32 ms
 * **Network**:
 	* Network Status: Connected
 	* DNS: Configured for RBEnhanced

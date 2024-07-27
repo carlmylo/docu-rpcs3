@@ -7,7 +7,7 @@ folder: english
 
 Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. Below is a list of instruments verified to work with Rock Band 3 on RPCS3 with their respective mapping.
 
-Controllers have been rated with a "Compatibility" rating depending on whether or not they have issues or missing features.
+Controllers have been given a "Compatibility" rating depending on whether or not they have issues and/or missing features.
 
 | SHAPE | MEANING |
 |---|---|
