@@ -11,7 +11,7 @@ We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strong
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://rb3pc.milohax.org/english/customconfiguration#advanced). Not doing this will cause your game to crash immediately after adding this file!! </b> {{include.content}}</div>
 
-* First, you'll need to [[download the file to enable increased memory support. Click here to download it]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
+First, you'll need to [[download the file to enable increased memory support. Click here to download it]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
 
 **After downloading the .zip file, extract its contents and move them to RPCS3's folder. It should combine folders automatically if you did it right.**
 

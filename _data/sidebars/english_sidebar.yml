@@ -141,3 +141,70 @@ entries:
     - title: Emulator
       url: /custom_config_emu.html
       output: web, pdf
+
+  - title: Troubleshooting
+    output: web, pdf
+    folderitems:
+
+    - title: Common Problems
+      url: /trbl_common.html
+      output: web, pdf
+      type: homepage
+
+    - title: Online
+      url: /trbl_online.html
+      output: web, pdf
+
+    - title: Crashes
+      url: /trbl_crashes.html
+      output: web, pdf
+
+    - title: Audio
+      url: /trbl_audio.html
+      output: web, pdf
+
+    - title: Controllers
+      url: /trbl_controllers.html
+      output: web, pdf
+
+    - title: Deluxe
+      url: /trbl_deluxe.html
+      output: web, pdf
+
+    - title: Misc
+      url: /trbl_misc.html
+      output: web, pdf
+
+  - title: Advanced
+    output: web, pdf
+    folderitems:
+
+    - title: Passthrough Devices
+      url: /adv_passthrough.html
+      output: web, pdf
+      type: homepage
+
+    - title: Add more memory to Rock Band 3
+      url: /adv_himem.html
+      output: web, pdf
+
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs.html
+      output: web, pdf
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex.html
+      output: web, pdf
+
+    - title: Move Game Files
+      url: /adv_movedir.html
+      output: web, pdf
+
+  - title: Conclusion
+    output: web, pdf
+    folderitems:
+
+    - title: That's It!
+      url: /conclusion.html
+      output: web, pdf
+      type: homepage

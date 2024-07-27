@@ -1,9 +1,8 @@
 ---
 title: Passthrough Devices
-author: Carl Mylo
-date: 1000-07-01
-category: English
-layout: post
+sidebar: english_sidebar
+permalink: adv_passthrough.html
+folder: english
 ---
 
 **If you're not playing with a PS3 Mustang Pro Guitar or a PS3 Keyboard with their respective dongles**, [[**skip over this section**]](https://rb3pc.milohax.org/english/troubleshooting/).
