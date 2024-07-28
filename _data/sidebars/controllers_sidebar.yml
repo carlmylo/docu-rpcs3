@@ -113,7 +113,6 @@ entries:
       output: web, pdf
       type: homepage
 
-
     - title: Unknown Drum Controllers
       url: /ctrls_drums_gen
       output: web, pdf
@@ -126,6 +125,11 @@ entries:
 
     - title: Full List
       url: /ctrls_guitar
+      output: web, pdf
+      type: homepage
+
+    - title: Fortnite Festival Guitars
+      url: /ctrls_rb4gtr_xbox
       output: web, pdf
       type: homepage
 
@@ -144,18 +148,13 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Fortnite Festival Guitars
-      url: /ctrls_rb4gtr_xbox
+    - title: Xbox 360 Guitar Hero Les Paul Guitars
+      url: /ctrls_ghlpgtr_360
       output: web, pdf
       type: homepage
 
     - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
       url: /ctrls_ghlpgtr_wii
-      output: web, pdf
-      type: homepage
-
-    - title: Xbox 360 Guitar Hero Les Paul Guitars
-      url: /ctrls_ghlpgtr_360
       output: web, pdf
       type: homepage
 
@@ -209,7 +208,7 @@ entries:
       type: homepage
 
     - title: RetroCultMods Solderless Kit
-      url: /controllers_sidebar
+      url: /ctrls_mod_rcmsl
       output: web, pdf
       type: homepage
 
@@ -258,7 +257,7 @@ entries:
       type: homepage
 
     - title: Nintendo Switch Pro Controller
-      url: /controllers_sidebar
+      url: /ctrls_pad_switch
       output: web, pdf
       type: homepage
 

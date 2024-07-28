@@ -13,14 +13,33 @@ toc: false
 ## NOTES:
 
 * **Do NOT map this instrument via Gamepad Configuration.**
-* Requires an electronic MIDI Drum Kit connected via USB or a MIDI to USB interface.
-	* **Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
+* Your MIDI Drum Kit needs to:
+	* **be set to MIDI Channel 10**
+	* **standard GM mapping.**
+	* These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
 
 ## Instructions:
 
-**Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+**If your MIDI Drum Kit has a USB port**, all you need to do is **plug it into your computer**.  
+
+>![A picture of a MIDI Drum Kit's module, showing a USB port](https://carlmylo.github.io/docu-rpcs3/images/midi/usbdrums.png "USB Drums")  
+
+**If your MIDI Drum Kit only has a MIDI output, you will need a MIDI to USB interface**.
+
+>![A picture of a MIDI Drum Kit's module, showing a 5-DIN MIDI output highlighted in blue with a dotted blue outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/mididrums.png "MIDI Drums")  
+
+Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you hit a pad**. 
+
+>![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
+
+**If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
+>![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
+
+Find whichever way is the most convenient for you then connect your MIDI Drum Kit to your computer.
+
+After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 

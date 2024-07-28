@@ -15,16 +15,36 @@ toc: false
 * There is no binding file.
 * **Do NOT map this instrument via Gamepad Configuration.**
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
-* **Requires a MIDI to USB Interface that has SYSEX support!** Consult your MIDI to USB interface's manual or manufacturer for more details.
 
-| Verified MIDI to USB interfaces |
+## SYSEX Notice
+
+**You need a MIDI to USB Interface that has SYSEX support!** Consult your MIDI to USB interface's manual or manufacturer for more details.
+
+| Verified <br> MIDI to USB interfaces |
 |:------------------:|
-| **M-Audio** Midisport Uno |
-| **Focusrite** Scarlett (4i4 and higher) [3rd Gen] |
-
+| **M-Audio** <br> Midisport Uno |
+| **Focusrite** <br> Scarlett (4i4 and higher) [3rd Gen] |
 
 ## Instructions:
-**Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+
+Since you can't use the dongle, you will need to connect Rock Band 3 Pro Guitar via the MIDI port on the bottom.
+
+>![A picture of a Rock Band 3 Mustang Pro Guitar, showing a 5-DIN MIDI output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/midiprotar.png "Rock Band Mustang Pro Guitar")  
+
+**To connect it to your computer, you will need a MIDI to USB interface**.
+
+Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**. 
+
+>![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
+
+**If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
+>![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
+
+Once again, you need [[a MIDI to USB Interface that has SYSEX support]](#sysex-notice)
+
+Find whichever way is the most convenient for you then connect your Rock Band Pro Guitar to your computer.
+
+After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 

@@ -21,7 +21,7 @@ toc: false
 
 ## Instructions
 
-Since you can't use the dongle, you will need to connect it via the MIDI port on the side.
+Since you can't use the dongle, you will need to connect the Rock Band 3 Wireless Keyboard via the MIDI port on the side.
 
 >![A picture of a Rock Band 3's Wireless Keyboard, showing a 5-DIN MIDI input and output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/rbkeys.png "Rock Band Wireless Keyboard")  
 
