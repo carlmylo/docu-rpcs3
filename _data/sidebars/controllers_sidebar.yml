@@ -76,6 +76,11 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: "Xbox One/Xbox Series Rock Band 4 Drums"
+      url: /ctrls_rb4drums_xbox
+      output: web, pdf
+      type: homepage
+
     - title: Xbox 360 Rock Band Drums
       url: /ctrls_rbdrums_360
       output: web, pdf
@@ -83,11 +88,6 @@ entries:
 
     - title: Nintendo Wii Rock Band Drums
       url: /ctrls_rbdrums_wii
-      output: web, pdf
-      type: homepage
-
-    - title: "Xbox One/Xbox Series Rock Band 4 Drums"
-      url: /ctrls_rb4drums_xbox
       output: web, pdf
       type: homepage
 
@@ -129,6 +129,11 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: "Xbox One/Xbox Series Rock Band 4 Guitars"
+      url: /ctrls_rb4gtr_xbox
+      output: web, pdf
+      type: homepage
+
     - title: Xbox 360 Rock Band Guitars
       url: /ctrls_rbgtr_360
       output: web, pdf
@@ -136,11 +141,6 @@ entries:
 
     - title: Nintendo Wii Rock Band Guitars
       url: /ctrls_rbgtr_wii
-      output: web, pdf
-      type: homepage
-
-    - title: "Xbox One/Xbox Series Rock Band 4 Guitars"
-      url: /ctrls_rb4gtr_xbox
       output: web, pdf
       type: homepage
 
@@ -198,33 +198,33 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_modded
+    - title: Santroller Powered Custom Guitars
+      url: /ctrls_mod_santroller
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_modded
+    - title: RetroCultMods V3 Wii Adapter
+      url: /ctrls_mod_rcmv3
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_modded
+    - title: RetroCultMods Solderless Kit
+      url: /controllers_sidebar
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_modded
+    - title: Riffmaster (via Adafruit Feather)
+      url: /ctrls_mod_riffada
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_modded
+    - title: Roll Limitless Drums
+      url: /ctrls_mod_rldrums
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_modded
+    - title: Legacy Guitar Configurator Guitars
+      url: /ctrls_mod_gtrcfg
       output: web, pdf
       type: homepage
 
@@ -237,53 +237,53 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: Xbox One Controller
+      url: /ctrls_pad_xbox
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: Xbox Series Controller
+      url: /ctrls_pad_xbox
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: Xbox 360 Controller
+      url: /ctrls_pad_360
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: PC Keyboard
+      url: /ctrls_pad_pckeys
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: Nintendo Switch Pro Controller
+      url: /controllers_sidebar
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: PlayStation 5 DualSense
+      url: /ctrls_pad_dualsense
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: PlayStation 4 DualShock 4
+      url: /ctrls_pad_ds4
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: "PlayStation 3 DualShock 3/Sixaxis"
+      url: /ctrls_pad_ds3
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: PlayStation 2 DualShock 2
+      url: /ctrls_pad_ds2
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_pads
+    - title: Unknown Gamepad Controllers
+      url: /ctrls_pad_gen
       output: web, pdf
       type: homepage
 
@@ -296,18 +296,23 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_keys
+    - title: MIDI Keyboard
+      url: /ctrls_keys_midi
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_keys
+    - title: PlayStation 3 Rock Band Wireless Keyboard
+      url: /ctrls_keys_ps3
       output: web, pdf
       type: homepage
 
-    - title: Full List
-      url: /ctrls_keys
+    - title: Xbox 360 Rock Band Wireless Keyboard
+      url: /ctrls_keys_360
+      output: web, pdf
+      type: homepage
+
+    - title: Nintendo Wii Rock Band Wireless Keyboard
+      url: /ctrls_keys_wii
       output: web, pdf
       type: homepage
 
@@ -320,18 +325,23 @@ entries:
       output: web, pdf
       type: homepage
   
-    - title: Full List
-      url: /ctrls_protars
+    - title: PlayStation 3 Fender Mustang
+      url: /ctrls_protar_ps3
       output: web, pdf
       type: homepage
   
-    - title: Full List
-      url: /ctrls_protars
+    - title: Xbox 360 Rock Fender Mustang
+      url: /ctrls_protar_360
       output: web, pdf
       type: homepage
   
-    - title: Full List
-      url: /ctrls_protars
+    - title: Nintendo Wii Fender Mustang
+      url: /ctrls_protar_wii
+      output: web, pdf
+      type: homepage
+    
+    - title: Rock Band 3 Squier Stratocaster
+      url: /ctrls_protar_midi
       output: web, pdf
       type: homepage
   

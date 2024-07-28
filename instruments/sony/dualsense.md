@@ -1,9 +1,9 @@
 ---
 title: PlayStation 5 DualSense
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_pad_dualsense
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps5.png" alt="Platform" title="Platform"></div>

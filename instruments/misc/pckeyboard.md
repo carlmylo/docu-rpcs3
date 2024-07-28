@@ -1,9 +1,9 @@
 ---
-title: PC Typing Keyboard
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+title: PC Keyboard
+sidebar: controllers_sidebar
+permalink: ctrls_pad_pckeys
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/pc.png" alt="Platform" title="Platform"></div>

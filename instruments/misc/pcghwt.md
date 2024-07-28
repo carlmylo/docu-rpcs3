@@ -5,6 +5,7 @@ permalink: ctrls_ghwtgtr_pc
 folder: instruments
 toc: false
 ---
+
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/pc.png" alt="Platform" title="Platform"></div>
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ghwtcontroller.png" alt="Controller" title="Controller"></div>

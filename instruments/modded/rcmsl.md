@@ -1,9 +1,9 @@
 ---
 title: RetroCultMods Solderless Kit
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_mod_rcmsl
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/rcm.png" alt="Platform" title="Platform"></div>
@@ -12,7 +12,7 @@ layout: post
 
 ## NOTES
 
-* **This is specifically for the SOLDERLESS DIY RGB Kit for Guitar Hero Controllers by RetroCultMods!** Please consult your sales receipt to confirm that it is indeed a Solderless DIY RGB Kit for Guitar Hero Controllers by RetroCultMods.
+* **This is specifically for the** [**[SOLDERLESS DIY RGB Kit for Guitar Hero Controllers by RetroCultMods]**](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero)**!** Please consult your sales receipt to confirm that it is indeed a Solderless DIY RGB Kit for Guitar Hero Controllers by RetroCultMods.
 
 ## Pad Information
 

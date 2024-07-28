@@ -1,9 +1,9 @@
 ---
 title: PlayStation 4 DualShock 4
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_pad_ds4
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps4.png" alt="Platform" title="Platform"></div>

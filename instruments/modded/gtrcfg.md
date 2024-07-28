@@ -1,9 +1,9 @@
 ---
 title: Legacy Guitar Configurator Guitars
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_mod_gtrcfg
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/santroller.png" alt="Platform" title="Platform"></div>

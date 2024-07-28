@@ -1,9 +1,9 @@
 ---
-title: Xbox One/Series Controller
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+title: "Xbox One/Series Controller"
+sidebar: controllers_sidebar
+permalink: ctrls_pad_xbox
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/xbx.png" alt="Platform" title="Platform"></div>
