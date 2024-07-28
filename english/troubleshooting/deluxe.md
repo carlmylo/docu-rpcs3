@@ -1,8 +1,9 @@
 ---
-title: Common
+title: Deluxe
 sidebar: english_sidebar
 permalink: trbl_deluxe
 folder: english
+toc: false
 ---
 
 <div class="panel-group" id="accordion">
