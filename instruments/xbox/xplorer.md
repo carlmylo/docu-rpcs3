@@ -1,4 +1,4 @@
-y---
+---
 title: Xbox 360 Guitar Hero Xplorer Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghxpgtr_360
