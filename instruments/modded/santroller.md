@@ -6,7 +6,7 @@ folder: instruments
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/rcm.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/santroller.png" alt="Platform" title="Platform"></div>
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rcmgtrs.png" alt="Controller" title="Controller"></div>
 
