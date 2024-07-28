@@ -135,7 +135,7 @@ entries:
       type: homepage
 
     - title: Nintendo Wii Rock Band Guitars
-      url: /ctrls_rbgtr_360
+      url: /ctrls_rbgtr_wii
       output: web, pdf
       type: homepage
 

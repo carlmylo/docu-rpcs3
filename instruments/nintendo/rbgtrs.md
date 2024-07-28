@@ -1,7 +1,7 @@
 ---
 title: Nintendo Wii Rock Band Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_rbgtr_360
+permalink: ctrls_rbgtr_wii
 folder: instruments
 toc: false
 ---
