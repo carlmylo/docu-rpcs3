@@ -22,12 +22,11 @@ folder: english
 Options &gt; Deluxe Settings &gt; Advanced &gt; Controller &gt; Change Controller Type</li>
 </ul>
 </li>
-</ul>
-</a>.
+</ul>.
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
+                    <!-- /.panel -->    
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -66,6 +65,21 @@ Options &gt; Deluxe Settings &gt; Advanced &gt; Controller &gt; Change Controlle
                             </h4>
                         </div>
                         <div id="collapseFour" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <ul>
+<li>Please read the <a href="https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/edit#heading=h.qxzngdakbkv"><strong>[PS3 Customs guide]</strong></a> section on this.</li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                                        <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">My customs aren't showing up in lobbies even though my lobby have the same customs.</a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li>Please read the <a href="https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/edit#heading=h.qxzngdakbkv"><strong>[PS3 Customs guide]</strong></a> section on this.</li>

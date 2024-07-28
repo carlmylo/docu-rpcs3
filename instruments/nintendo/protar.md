@@ -32,8 +32,6 @@ Since you can't use the dongle, you will need to connect Rock Band 3 Pro Guitar 
 
 >![A picture of a Rock Band 3 Mustang Pro Guitar, showing a 5-DIN MIDI output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/midimustang.png "Rock Band Mustang Pro Guitar")  
 
->![A picture of a Rock Band 3 Mustang Pro Guitar, showing a 5-DIN MIDI output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/midisquier.png "Rock Band Mustang Pro Guitar")  
-
 **To connect it to your computer, you will need a MIDI to USB interface**.
 
 Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**. 
