@@ -1,9 +1,9 @@
 ---
 title: Xbox 360 Rock Band Guitars
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_rbgtr_360
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/360.png" alt="Platform" title="Platform"></div>

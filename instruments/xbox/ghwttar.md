@@ -1,9 +1,9 @@
 ---
 title: Xbox 360 Guitar Hero Genericaster (World Tour and later) Guitars
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_ghwtgtr_360
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/360.png" alt="Platform" title="Platform"></div>

@@ -1,9 +1,9 @@
 ---
 title: PlayStation 3 Guitar Hero Les Paul Guitars
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_ghlpgtr_ps3
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps3.png" alt="Platform" title="Platform"></div>

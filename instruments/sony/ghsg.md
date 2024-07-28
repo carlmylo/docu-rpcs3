@@ -1,9 +1,9 @@
 ---
 title: PlayStation 2 Guitar Hero SG Guitars
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_ghsggtr_ps2
+folder: instruments
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps2.png" alt="Platform" title="Platform"></div>

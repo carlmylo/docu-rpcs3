@@ -129,9 +129,99 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Xbox 360 Rock Band Guitars
+      url: /ctrls_rbgtr_360
+      output: web, pdf
+      type: homepage
+
+    - title: Nintendo Wii Rock Band Guitars
+      url: /ctrls_rbgtr_360
+      output: web, pdf
+      type: homepage
+
+    - title: "Xbox One/Xbox Series Rock Band 4 Guitars"
+      url: /ctrls_rb4gtr_xbox
+      output: web, pdf
+      type: homepage
+
+    - title: Fortnite Festival Guitars
+      url: /ctrls_rb4gtr_xbox
+      output: web, pdf
+      type: homepage
+
+    - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
+      url: /ctrls_ghlpgtr_wii
+      output: web, pdf
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Les Paul Guitars
+      url: /ctrls_ghlpgtr_360
+      output: web, pdf
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Genericaster (World Tour and later) Guitars
+      url: /ctrls_ghwtgtr_360
+      output: web, pdf
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Xplorer Guitars
+      url: /ctrls_ghxpgtr_360
+      output: web, pdf
+      type: homepage
+
+    - title: PlayStation 2 Guitar Hero SG Guitars
+      url: /ctrls_ghsggtr_ps2
+      output: web, pdf
+      type: homepage
+
+    - title: PlayStation 3 Guitar Hero Les Paul Guitars
+      url: /ctrls_ghlpgtr_ps3
+      output: web, pdf
+      type: homepage
+
+    - title: "PC/Mac Guitar Hero World Tour Guitars"
+      url: /ctrls_ghwtgtr_pc
+      output: web, pdf
+      type: homepage
+
+    - title: Unknown Guitar Controller
+      url: /ctrls_gtr_gen
+      output: web, pdf
+      type: homepage
+
   - title: Modded Controllers
     output: web, pdf
     folderitems:
+
+    - title: Full List
+      url: /ctrls_modded
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_modded
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_modded
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_modded
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_modded
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_modded
+      output: web, pdf
+      type: homepage
 
     - title: Full List
       url: /ctrls_modded
@@ -147,9 +237,74 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_pads
+      output: web, pdf
+      type: homepage
+
   - title: Keyboards
     output: web, pdf
     folderitems:
+
+    - title: Full List
+      url: /ctrls_keys
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_keys
+      output: web, pdf
+      type: homepage
+
+    - title: Full List
+      url: /ctrls_keys
+      output: web, pdf
+      type: homepage
 
     - title: Full List
       url: /ctrls_keys
@@ -160,6 +315,21 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Full List
+      url: /ctrls_protars
+      output: web, pdf
+      type: homepage
+  
+    - title: Full List
+      url: /ctrls_protars
+      output: web, pdf
+      type: homepage
+  
+    - title: Full List
+      url: /ctrls_protars
+      output: web, pdf
+      type: homepage
+  
     - title: Full List
       url: /ctrls_protars
       output: web, pdf
