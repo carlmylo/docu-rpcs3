@@ -13,24 +13,26 @@ You did not follow the guide and did not [**[enable Write Color Buffers in the G
 
 ![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png "GPU")
 
+
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Flying instruments</a>
-                            </h4>
+                            <h2 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">General performance issues</a>
+                            </h2>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
+                                <ul>
                                 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar." title="Graphical issues"></p>
 <p>There is a fix being worked on for this. Stay tuned for further development. Join the <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> if you want to help test.</p>
 <p>You can use <a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob"><strong>[this list]</strong></a> as a reference for which hats, hairsyles, and microphones to avoid.</p>
+</ul>
                             </div>
                         </div>
                     </div>
                     <!-- /.panel -->
 </div>
-<!-- /.panel-group -->
 
 
 ## [Online] I crash when joining sessions/searching for players
@@ -53,9 +55,9 @@ src="https://www.youtube.com/embed/UoCMEQbNThs">
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">General Performance Problems</a>
-                            </h4>
+                            <h2 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">General performance issues</a>
+                            </h2>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
@@ -75,6 +77,5 @@ src="https://www.youtube.com/embed/UoCMEQbNThs">
                     </div>
                     <!-- /.panel -->
 </div>
-<!-- /.panel-group -->
 
 {% include links.html %}
