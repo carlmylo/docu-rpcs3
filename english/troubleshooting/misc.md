@@ -1,5 +1,5 @@
 ---
-title: Common
+title: Misc
 sidebar: english_sidebar
 permalink: trbl_misc
 folder: english
