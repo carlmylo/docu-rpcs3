@@ -13,12 +13,11 @@ You did not follow the guide and did not [**[enable Write Color Buffers in the G
 
 ![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png "GPU")
 
-
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h2 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">General performance issues</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Flying instruments</a>
                             </h2>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
@@ -59,7 +58,7 @@ src="https://www.youtube.com/embed/UoCMEQbNThs">
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">General performance issues</a>
                             </h2>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li>Set your computer to the <a href="https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-">[High Performance power plan]</a>.</li>
