@@ -13,13 +13,25 @@ You did not follow the guide and did not [**[enable Write Color Buffers in the G
 
 ![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png "GPU")
 
-## Flying instruments
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Flying instruments</a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar." title="Graphical issues"></p>
+<p>There is a fix being worked on for this. Stay tuned for further development. Join the <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> if you want to help test.</p>
+<p>You can use <a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob"><strong>[this list]</strong></a> as a reference for which hats, hairsyles, and microphones to avoid.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
 
-![A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar.](https://carlmylo.github.io/docu-rpcs3/images/trbl/flyinst.png "Graphical issues")
-
-There is a fix being worked on for this. Stay tuned for further development. Join the [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) if you want to help test.
-
-You can use [**[this list]**](https://rb3pc.milohax.org/extra/teleprob) as a reference for which hats, hairsyles, and microphones to avoid.
 
 ## [Online] I crash when joining sessions/searching for players
 
@@ -41,9 +53,9 @@ src="https://www.youtube.com/embed/UoCMEQbNThs">
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h2 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">General performance issues</a>
-                            </h2>
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">General Performance Problems</a>
+                            </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
@@ -58,12 +70,11 @@ src="https://www.youtube.com/embed/UoCMEQbNThs">
 <li>If your motherboard has a Realtek audio chip (most computers), try <a href="https://realtek-download.com/download-hd/">[installing the latest driver]</a>. This is a <a href="https://github.com/RPCS3/rpcs3/issues/14648">[known issue]</a> where using the default “High Definition Audio” driver doesn’t use all threads.</li>
 <li>Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client <a href="https://github.com/Vencord/Vesktop">[like Vesktop]</a>, but I claim no responsibility for your Discord account.</li>
 </ul>
-
-.
                             </div>
                         </div>
                     </div>
                     <!-- /.panel -->
 </div>
+<!-- /.panel-group -->
 
 {% include links.html %}
