@@ -14,7 +14,7 @@ h4 {color: #808080; }
 }
 
 .nav > li.active > a {
-    background-color: #4d4d4d;
+    background-color: #347DBE;
 }
 
 .nav > li > a:hover {
@@ -38,8 +38,8 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: ##2D335E;;
-    border-color: #6B9FC8;
+    background-color: #347DBE;
+    border-color: #015CAE;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
