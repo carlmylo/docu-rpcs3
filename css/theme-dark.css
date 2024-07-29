@@ -8,6 +8,14 @@ a {
     color: #44a8ff;
 }
 
+textarea {
+  color: black;
+}
+
+ul#results-container a {
+    background-color: #000000d9;
+}
+
 table > thead > tr > th {
     background-color: #282828;
     color: #e1e1e1;
@@ -116,7 +124,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: #333;
+    background-color: #000;
     border-color: #fff;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
