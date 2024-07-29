@@ -20,11 +20,11 @@ textarea {
 #search-input {
     color: black;
 }
-//*search end*//
 
 ul#results-container a {
-    background-color: #000000d9;
+    background-color: #5151519e;
 }
+/*search end*/
 
 table > thead > tr > th {
     background-color: #060606;
