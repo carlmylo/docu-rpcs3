@@ -1,5 +1,6 @@
 ---
 title: "Getting Started pages"
+tagName: getting_started
 sidebar: english_sidebar
 search: exclude
 permalink: tags-gs
