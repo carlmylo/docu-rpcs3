@@ -30,12 +30,16 @@ div#toc >ul::before {
 }
 
 .nav a:hover, .nav li.active > a {
-    background-color: #AAA;
+    background-color: #FFF;
     color: #000;
 }
 
 .nav ul li a {
-    background-color: #686868;
+    background-color: #424242;
+}
+
+.nav li a {
+    background-color: #000;
 }
 
 /*overwrites end*/
