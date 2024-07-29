@@ -1,7 +1,7 @@
 ---
 title: Downloads
 sidebar: english_sidebar
-keywords: getting-started, english
+tags: [getting-started, english]
 summary: "What you need to download for Rock Band 3 on RPCS3."
 permalink: gs_downloads
 folder: english

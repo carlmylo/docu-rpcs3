@@ -1,7 +1,7 @@
 ---
 title: User Account
 sidebar: english_sidebar
-keywords: getting-started, english
+tags: [getting-started, english]
 summary: "How to set up a proper user account on RPCN."
 permalink: gs_user
 folder: english

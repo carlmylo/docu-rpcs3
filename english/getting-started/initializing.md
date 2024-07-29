@@ -1,7 +1,7 @@
 ---
 title: Initializing
 sidebar: english_sidebar
-keywords: getting-started, english
+tags: [getting-started, english]
 summary: "What to do with the stuff you downloaded in the previous page."
 permalink: gs_init
 folder: english

@@ -1,7 +1,7 @@
 ---
 title: Requirements
 sidebar: english_sidebar
-keywords: getting-started, english
+tags: [getting-started, english]
 summary: "What you need to play Rock Band 3 on RPCS3."
 permalink: gs_reqs
 folder: english
