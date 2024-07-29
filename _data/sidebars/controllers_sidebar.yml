@@ -343,25 +343,6 @@ entries:
       url: /ctrls_protar_midi
       output: web, pdf
       type: homepage
-  
-  - title: Online
-    output: web, pdf
-    folderitems:
-
-    - title: RPCN - Getting Started
-      url: /rpcn_intro
-      output: web, pdf
-      type: homepage
-
-    - title: RPCN - Managing Friends
-      url: /rpcn_friends
-      output: web, pdf
-      type: homepage
-
-    - title: GoCentral
-      url: /gocentral
-      output: web, pdf
-      type: homepage
 
   - title: Custom Configuration
     output: web, pdf
@@ -399,6 +380,25 @@ entries:
     - title: Emulator
       url: /custom_config_emu
       output: web, pdf
+
+  - title: Online
+    output: web, pdf
+    folderitems:
+
+    - title: RPCN - Getting Started
+      url: /rpcn_intro
+      output: web, pdf
+      type: homepage
+
+    - title: RPCN - Managing Friends
+      url: /rpcn_friends
+      output: web, pdf
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral
+      output: web, pdf
+      type: homepage
 
   - title: Troubleshooting
     output: web, pdf

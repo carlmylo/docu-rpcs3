@@ -20,20 +20,52 @@ toc: false
 
 ## Instructions
 
-You cannot connect this keyboard up via its dongle and will need to connect it via the MIDI port on the side.
+There are two different ways to connect this keyboard. Pick whichever is the most convenient for you:
 
->![A picture of a Rock Band 3's Wireless Keyboard, showing a 5-DIN MIDI input and output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/rbkeys.png "Rock Band Wireless Keyboard")  
+<ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#360rec" data-toggle="tab">Xbox 360 Wireless Gaming Receiver</a></li>
+    <li><a href="#miditousb" data-toggle="tab">MIDI to USB interface</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="360rec">
+    <h2>Connecting with the Xbox 360 Wireless Gaming Receiver</h2>
+<p>You will need an Xbox 360 Wireless Gaming Receiver for Windows to connect your keyboard to your computer.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/receiver.png" alt="Xbox 360 Wireless Gaming Receiver for Windows" title="Xbox 360 Wireless Gaming Receiver for Windows"></p>
+<p>First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[download loopMIDI]</a>.</p>
+<p><a href="https://www.tobias-erichsen.de/software/loopmidi.html" title="Tobias Erichsen - loopMIDI"><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/midictrlloopMIDIdl.png" alt="A screenshot of loopMIDI's download page."></a></p>
+<p>Install loopMIDI. <strong>Launch it after it finishes.</strong></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/midictrlloopMIDIinst.png" alt="A screenshot of loopMIDI's installer." title="loopMIDI Setup"></p>
+<p>Add two new ports by clicking on the <code>+</code> button in the bottom. You should name the ports, too. It’s been named “Pro Keys” in this example.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/360ctrlloopMIDI.png" alt="A screenshot of loopMIDI, with a mouse cursor over the Plus symbol for &quot;Add Port&quot;. Additionally, &quot;New port name&quot; is highlighted in blue with a dotted outline, with &quot;Pro Keys&quot; typed out in the text field." title="loopMIDI"></p>
+<p>Now, <a href="https://github.com/TheNathannator/RB3_X360_Keyboard/releases">[download the latest version of RB3_X360_Keyboard by TheNathannator.]</a></p>
+<p>Extract it and open it.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/360ctrlkeysappopen.png" alt="A screenshot of RB3_X360_Keyboard.exe in its folder, with a cursor hovering it." title="RB3_X360_Keyboard"></p>
+<p>In RB3_X360_Keyboard, set the output type to the port you made earlier and select the port you made earlier.<br>
+After that, click the Start button on the right side.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/360ctrlkeysapp1.png" alt="A screenshot of RB3_X360_Keyboard, showing &quot;MIDI&quot; in the &quot;Output Type&quot; section set to &quot;Pro Keys&quot; and highlighted in blue with a dotted outline. &quot;Start&quot; is highlighted in tan with a solid outline" title="RB3_X360_Keyboard"></p>
 
-**To connect it to your computer, you will need a MIDI to USB interface**.
 
-Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**. 
+</div>
 
->![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
+<div role="tabpanel" class="tab-pane" id="miditousb">
+    <h2>Connecting with a MIDI to USB interface</h2>
+    <p>You will need to connect to your keyboard via the MIDI port on the side.</p>
+<blockquote>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/midi/rbkeys.png" alt="A picture of a Rock Band 3's Wireless Keyboard, showing a 5-DIN MIDI input and output highlighted in blue with a dotted white outline." title="Rock Band Wireless Keyboard"></p>
+</blockquote>
+<p><strong>For this, you will need a MIDI to USB interface</strong>.</p>
+<p>Here’s an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. <strong>To check that you’ve plugged it in correctly, you should see “MIDI In” blinking when you press a key</strong>.</p>
+<blockquote>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png" alt="A picture of a MIDI to USB interface." title="MIDI to USB interface"></p>
+</blockquote>
+<p><strong>If you have an audio interface, you may already have a way to plug in MIDI</strong> to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.</p>
+<blockquote>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png" alt="A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output." title="Focusrite Scarlett MIDI in/out"></p>
+</blockquote>
+</div>
+</div>
+</div>
 
-**If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
->![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
-
-Find whichever way is the most convenient for you then connect your Rock Band Wireless Keyboard to your computer.
 
 After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
