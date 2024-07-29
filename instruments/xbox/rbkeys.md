@@ -64,7 +64,6 @@ After that, click the Start button on the right side.</p>
 </blockquote>
 </div>
 </div>
-</div>
 
 
 After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
