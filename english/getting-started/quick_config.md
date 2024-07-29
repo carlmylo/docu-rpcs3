@@ -1,6 +1,8 @@
 ---
 title: Quick Configuration
 sidebar: english_sidebar
+keywords: getting-started, english
+summary: "The central page for RPCS3 Quick Configuration."
 permalink: gs_quick_config
 folder: english
 toc: false

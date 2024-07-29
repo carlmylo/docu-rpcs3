@@ -78,11 +78,10 @@ defaults:
   -
     scope:
       path: ""
-      type: "tooltips"
+      type: "tags"
     values:
       layout: "page"
       search: true
-      tooltip: true
 
   -
     scope:
