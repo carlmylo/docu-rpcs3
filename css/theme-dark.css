@@ -30,6 +30,7 @@ table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
     border: 1px solid #ddd;
+    vertical-align: center;
 }
 
 blockquote {
@@ -41,7 +42,7 @@ hr.shaded {
 }
 
 div#toc ul {
-    background-color: #060606;
+    background-color: #00000078;
     color: white;
 }
 
