@@ -17,10 +17,10 @@ You did not follow the guide and did not [**[enable Write Color Buffers in the G
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h2 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Flying instruments</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#flying-instruments">Flying instruments</a>
                             </h2>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+                        <div id="flying-instruments" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
                                 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar." title="Graphical issues"></p>
@@ -55,10 +55,10 @@ src="https://www.youtube.com/embed/UoCMEQbNThs">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h2 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">General performance issues</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#general-performance-issues">General performance issues</a>
                             </h2>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="general-performance-issues" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li>Set your computer to the <a href="https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-">[High Performance power plan]</a>.</li>

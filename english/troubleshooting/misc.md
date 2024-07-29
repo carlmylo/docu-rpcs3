@@ -3,16 +3,17 @@ title: Misc
 sidebar: english_sidebar
 permalink: trbl_misc
 folder: english
+toc: false
 ---
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Scrolling through the library has long pauses.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#scrolling-through-the-library-has-long-pauses">Scrolling through the library has long pauses.</a>
                             </h4>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+                        <div id="scrolling-through-the-library-has-long-pauses" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
 <li>You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
@@ -24,10 +25,10 @@ folder: english
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">My game doesn't fill the screen.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-doesnt-fill-the-screen">My game doesn't fill the screen.</a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="my-game-doesnt-fill-the-screen" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
 <li>Enable “Overscan” in Rock Band 3’s System Settings.</li>
@@ -39,10 +40,10 @@ folder: english
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">I can't drag and drop PKGs into RPCS3.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-cant-drag-and-drop-pkgs-into-rpcs3">I can't drag and drop PKGs into RPCS3.</a>
                             </h4>
                         </div>
-                        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+                        <div id="i-cant-drag-and-drop-pkgs-into-rpcs3" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li>This is a known issue with RPCS3. Restart it and it will should work.</li>
@@ -54,10 +55,10 @@ folder: english
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">You didn't mention changing (SETTING) in the guide. It helped my performance.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per">You didn't mention changing (SETTING) in the guide. It helped my performance.</a>
                             </h4>
                         </div>
-                        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
+                        <div id="you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li><a href="https://github.com/hmxmilohax/rb3-pc/issues/new">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.</li>

@@ -10,10 +10,10 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">My Deluxe settings are not saving.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-deluxe-settings-are-not-saving">My Deluxe settings are not saving.</a>
                             </h4>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+                        <div id="my-deluxe-settings-are-not-saving" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li>You set “<strong>Confirm DX Settings Save</strong>” to <strong>Off</strong>. Reenable it in Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Functional Options &gt; Confirm DX Settings Save.</li>
@@ -25,10 +25,10 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">I ruined the track camera settings.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-ruined-the-track-camera-settings">I ruined the track camera settings.</a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="i-ruined-the-track-camera-settings" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
 <li>Restarting the game will reset them back to normal.</li>
