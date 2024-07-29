@@ -36,13 +36,13 @@ There are two different ways to connect this keyboard. Pick whichever is the mos
 <p>Install loopMIDI. <strong>Launch it after it finishes.</strong></p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images//instruments/xtra/midi/midictrlloopMIDIinst.png" alt="A screenshot of loopMIDI's installer." title="loopMIDI Setup"></p>
 <p>Add two new ports by clicking on the <code>+</code> button in the bottom. You should name the ports, too. It’s been named “Pro Keys” in this example.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/360ctrlloopMIDI.png" alt="A screenshot of loopMIDI, with a mouse cursor over the Plus symbol for &quot;Add Port&quot;. Additionally, &quot;New port name&quot; is highlighted in blue with a dotted outline, with &quot;Pro Keys&quot; typed out in the text field." title="loopMIDI"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images//instruments/xtra/midi/360ctrlloopMIDI.png" alt="A screenshot of loopMIDI, with a mouse cursor over the Plus symbol for &quot;Add Port&quot;. Additionally, &quot;New port name&quot; is highlighted in blue with a dotted outline, with &quot;Pro Keys&quot; typed out in the text field." title="loopMIDI"></p>
 <p>Now, <a href="https://github.com/TheNathannator/RB3_X360_Keyboard/releases">[download the latest version of RB3_X360_Keyboard by TheNathannator.]</a></p>
 <p>Extract it and open it.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/360ctrlkeysappopen.png" alt="A screenshot of RB3_X360_Keyboard.exe in its folder, with a cursor hovering it." title="RB3_X360_Keyboard"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images//instruments/xtra/midi/360ctrlkeysappopen.png" alt="A screenshot of RB3_X360_Keyboard.exe in its folder, with a cursor hovering it." title="RB3_X360_Keyboard"></p>
 <p>In RB3_X360_Keyboard, set the output type to the port you made earlier and select the port you made earlier.<br>
 After that, click the Start button on the right side.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/360ctrlkeysapp1.png" alt="A screenshot of RB3_X360_Keyboard, showing &quot;MIDI&quot; in the &quot;Output Type&quot; section set to &quot;Pro Keys&quot; and highlighted in blue with a dotted outline. &quot;Start&quot; is highlighted in tan with a solid outline" title="RB3_X360_Keyboard"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images//instruments/xtra/midi/360ctrlkeysapp1.png" alt="A screenshot of RB3_X360_Keyboard, showing &quot;MIDI&quot; in the &quot;Output Type&quot; section set to &quot;Pro Keys&quot; and highlighted in blue with a dotted outline. &quot;Start&quot; is highlighted in tan with a solid outline" title="RB3_X360_Keyboard"></p>
 
 
 </div>
