@@ -32,6 +32,10 @@ table > tfoot > tr > td {
     border: 1px solid #ddd;
 }
 
+blockquote {
+    border-left: 5px solid #eeeeee40
+}
+
 hr.shaded {
     background: #fff;
 }
@@ -62,6 +66,10 @@ div#toc >ul::before {
     background-color: #000;
 }
 
+.panel {
+    background-color: #000;
+}
+
 /*overwrites end*/
 
 .summary {
@@ -70,7 +78,7 @@ div#toc >ul::before {
     font-size:16px;
 }
 
-h3 {color: #ED1951; }
+h3 {color: #F57F9F; }
 h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
@@ -79,7 +87,7 @@ h4 {color: #808080; }
 }
 
 .nav > li.active > a {
-    background-color: #ED1951;
+    background-color: #FFF;
 }
 
 .nav > li > a:hover {
