@@ -172,3 +172,4 @@ You will have to reopen these programs every time you want to play.
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
+Wireless connection research by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
