@@ -1,18 +1,37 @@
+/* overwrites */
 body    {
     background-color: #131516;
     color: #ffffff;
+}
+
+a {
+    color: #44a8ff;
 }
 
 table {
     color: #1c1c1c;
 }
 
+hr.shaded {
+    background: #333;
+}
+
+div#toc ul {
+    background-color: #5b5b5b;
+    color: white;
+}
+
+div#toc >ul::before {
+    color: #fff;
+}
+
+/*overwrites end*/
+
 .summary {
     color: #808080;
     border-left: 5px solid #ED1951;
     font-size:16px;
 }
-
 
 h3 {color: #ED1951; }
 h4 {color: #808080; }
