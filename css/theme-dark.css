@@ -30,7 +30,7 @@ table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
     border: 1px solid #ddd;
-    vertical-align: center;
+    vertical-align: middle;
 }
 
 blockquote {
@@ -68,6 +68,10 @@ div#toc >ul::before {
 }
 
 .panel {
+    background-color: #1c1b1b;
+}
+
+.tab-content {
     background-color: #1c1b1b;
 }
 
