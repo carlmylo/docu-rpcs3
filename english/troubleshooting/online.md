@@ -21,9 +21,8 @@ toc: false
 <img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="A diagram of Rock Band 3's multiplayer slots. It shows a guitar, bass, and keyboard on slot 1 and 4, drums on slot 2, and vocals on slot 3.">
 <ul>
 <li>You can bypass this with Rock Band 3 Deluxe with its ability to change instrument type.<br>
-!<img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="An animated GIF of Deluxe changing instrument type. The user goes to Options, then Deluxe Settings, Advanced, Controller, Change Instrument Type, then hovers over the selection of Guitar, Keys, Drums"></li>
+!<img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotanim.gif" alt="An animated GIF of Deluxe changing instrument type. The user goes to Options, then Deluxe Settings, Advanced, Controller, Change Instrument Type, then hovers over the selection of Guitar, Keys, Drums"></li>
 </ul>
-</li>
 </li>
 </ul>.
                             </div>
