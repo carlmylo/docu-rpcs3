@@ -13,16 +13,29 @@ table {
 }
 
 hr.shaded {
-    background: #333;
+    background: #fff;
 }
 
 div#toc ul {
-    background-color: #5b5b5b;
+    background-color: #2d2d2d;
     color: white;
 }
 
 div#toc >ul::before {
     color: #fff;
+}
+
+.nav a {
+    color: #fff;
+}
+
+.nav a:hover, .nav li.active > a {
+    background-color: #AAA;
+    color: #000;
+}
+
+.nav ul li a {
+    background-color: #686868;
 }
 
 /*overwrites end*/
@@ -66,8 +79,8 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: #347DBE;
-    border-color: #015CAE;
+    background-color: #333;
+    border-color: #fff;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
