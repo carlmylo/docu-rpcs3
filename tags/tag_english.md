@@ -3,7 +3,7 @@ title: "All in English pages"
 sidebar: english_sidebar
 search: exclude
 tagName: english
-permalink: tags-english
+permalink: tag_english
 folder: tags
 toc: false
 ---

@@ -3,7 +3,7 @@ title: "Getting Started pages"
 sidebar: english_sidebar
 search: exclude
 tagName: getting-started
-permalink: tags-gs
+permalink: tag_getting-started
 folder: tags
 toc: false
 ---
