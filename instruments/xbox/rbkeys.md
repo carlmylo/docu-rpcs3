@@ -97,7 +97,7 @@ You can shift octaves with the X and B buttons.
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="using-a-computer-keyboard-along-with-a-25-key-keyboard">Using a computer keyboard along with a 25 key keyboard</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#using-a-computer-keyboard-along-with-a-25-key-keyboard">Using a computer keyboard along with a 25 key keyboard</a>
                             </h4>
                         </div>
                         <div id="using-a-computer-keyboard-along-with-a-25-key-keyboard" class="panel-collapse collapse noCrossRef">
