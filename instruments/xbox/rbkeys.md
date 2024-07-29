@@ -30,17 +30,29 @@ There are two different ways to connect this keyboard. Pick whichever is the mos
 <div role="tabpanel" class="tab-pane active" id="360rec">
     <h2>Connecting with the Xbox 360 Wireless Gaming Receiver</h2>
 <p>You will need an Xbox 360 Wireless Gaming Receiver for Windows to connect your keyboard to your computer.</p>
+<blockquote>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/receiver.png" alt="Xbox 360 Wireless Gaming Receiver for Windows" title="Xbox 360 Wireless Gaming Receiver for Windows"></p>
+</blockquote>
 <p>First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[download loopMIDI]</a>.</p>
+<blockquote>
 <p><a href="https://www.tobias-erichsen.de/software/loopmidi.html" title="Tobias Erichsen - loopMIDI"><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlloopMIDIdl.png" alt="A screenshot of loopMIDI's download page."></a></p>
+</blockquote>
 <p>Install loopMIDI. <strong>Launch it after it finishes.</strong></p>
+<blockquote>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlloopMIDIinst.png" alt="A screenshot of loopMIDI's installer." title="loopMIDI Setup"></p>
+</blockquote>
 <p>Add two new ports by clicking on the <code>+</code> button in the bottom. You should name the ports, too. It’s been named “Pro Keys” in this example.</p>
+<blockquote>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/360ctrlloopMIDI.png" alt="A screenshot of loopMIDI, with a mouse cursor over the Plus symbol for &quot;Add Port&quot;. Additionally, &quot;New port name&quot; is highlighted in blue with a dotted outline, with &quot;Pro Keys&quot; typed out in the text field." title="loopMIDI"></p>
+</blockquote>
 <p>Now, <a href="https://github.com/TheNathannator/RB3_X360_Keyboard/releases">[download the latest version of RB3_X360_Keyboard by TheNathannator.]</a></p>
+<blockquote>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/360ctrlkeysappdl.png" alt="A screenshot of Github, showing a release for RB3_X360_Keyboard, with a cursor hovering the download." title="GitHub: RB3_X360_Keyboard"></p>
+</blockquote>
 <p>Extract it and open it.</p>
+<blockquote>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/360ctrlkeysappopen.png" alt="A screenshot of RB3_X360_Keyboard.exe in its folder, with a cursor hovering it." title="RB3_X360_Keyboard"></p>
+</blockquote>
 <p>In RB3_X360_Keyboard, set the output type to the port you made earlier and select the port you made earlier.<br>
 After that, click the Start button on the right side.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/360ctrlkeysapp1.png" alt="A screenshot of RB3_X360_Keyboard, showing &quot;MIDI&quot; in the &quot;Output Type&quot; section set to &quot;Pro Keys&quot; and highlighted in blue with a dotted outline. &quot;Start&quot; is highlighted in tan with a solid outline" title="RB3_X360_Keyboard"></p>
