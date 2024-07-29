@@ -1,5 +1,5 @@
 ---
-title: PlayStation 4/PlayStation 5 Rock Band 4/Fortnite Festival Guitars
+title: "PlayStation 4/PlayStation 5 Rock Band 4/Fortnite Festival Guitars"
 author: Carl Mylo
 date: 
 category: Instruments
