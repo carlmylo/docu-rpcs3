@@ -5,6 +5,8 @@ tags: [getting-started, english]
 summary: "How to set up a proper user account on RPCN."
 permalink: gs_user
 folder: english
+series: "Getting Started"
+weight: 1.0
 ---
 
 In RPCS3, go to **Manage > User Accounts** 
@@ -17,3 +19,7 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 **Now change it** to whatever you want, then close it out.  
 
 ![RPCS3's "Rename User", showing the user changing the name.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3namepanel.png "RPCS3: Rename User")
+
+{% include custom/series_acme_next.html %}
+
+{% include links.html %}

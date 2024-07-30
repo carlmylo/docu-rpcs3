@@ -4,8 +4,10 @@ sidebar: english_sidebar
 tags: [getting-started, english]
 summary: "The central page for RPCS3 Quick Configuration."
 permalink: gs_quick_config
-folder: english
 toc: false
+folder: english
+series: "Getting Started"
+weight: 1.0
 ---
 
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config_start.html/) to tweak to what's best for your computer.  
@@ -70,5 +72,7 @@ If you need any more information about what these settings are changing:
 	* Driver Wake-Up Delay: 40 µs
 * **Emulator**:
 	* Show trophy popups: Off
+
+{% include custom/series_acme_next.html %}
 
 {% include links.html %}

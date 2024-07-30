@@ -5,6 +5,8 @@ tags: [getting-started, english]
 summary: "What to do with the stuff you downloaded in the previous page."
 permalink: gs_init
 folder: english
+series: "Getting Started"
+weight: 1.0
 ---
 
 Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
@@ -63,5 +65,7 @@ If it installed successfully, you should see that the Rock Band 3 icon has chang
 ![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](https://carlmylo.github.io/docu-rpcs3/images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
 You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "Rename In Game List."
+
+{% include custom/series_acme_next.html %}
 
 {% include links.html %}

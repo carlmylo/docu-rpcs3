@@ -5,6 +5,8 @@ tags: [getting-started, english]
 summary: "What you need to play Rock Band 3 on RPCS3."
 permalink: gs_reqs
 folder: english
+series: "Getting Started"
+weight: 1.0
 ---
 
 You will need:
@@ -49,3 +51,8 @@ You will need:
 <sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible.</sub>  
 <sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
 <sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://rb3pc.milohax.org/instruments/misc/midikeys)</sub>  
+
+
+{% include custom/series_acme_next.html %}
+
+{% include links.html %}

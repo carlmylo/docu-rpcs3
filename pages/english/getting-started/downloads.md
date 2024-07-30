@@ -5,6 +5,8 @@ tags: [getting-started, english]
 summary: "What you need to download for Rock Band 3 on RPCS3."
 permalink: gs_downloads
 folder: english
+series: "Getting Started"
+weight: 1.0
 ---
 
 Before you begin, **make sure your drivers and operating system are up to date**.
@@ -51,5 +53,7 @@ Once that's extracted, [**[download the PlayStation 3 system software from Sony'
 _**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU RIGHT-CLICK AND "Save link as," or your download MAY become stuck.**_
 
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](https://carlmylo.github.io/docu-rpcs3/images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
+
+{% include custom/series_acme_next.html %}
 
 {% include links.html %}
