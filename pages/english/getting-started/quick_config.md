@@ -7,7 +7,7 @@ permalink: gs_quick_config
 toc: false
 folder: english
 series: "Getting Started"
-weight: 1.0
+weight: 6.0
 ---
 
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config_start.html/) to tweak to what's best for your computer.  
