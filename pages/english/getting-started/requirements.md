@@ -6,7 +6,7 @@ summary: "What you need to play Rock Band 3 on RPCS3."
 permalink: gs_reqs
 folder: english
 series: "Getting Started"
-weight: 2.0
+weight: 0.2
 ---
 
 You will need:
