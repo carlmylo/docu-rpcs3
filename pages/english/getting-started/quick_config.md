@@ -73,6 +73,6 @@ If you need any more information about what these settings are changing:
 * **Emulator**:
 	* Show trophy popups: Off
 
-{% include custom/series_acme_next.html %}
+{% include custom/series_getting_started_next.html %}
 
 {% include links.html %}

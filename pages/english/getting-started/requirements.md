@@ -53,6 +53,6 @@ You will need:
 <sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://rb3pc.milohax.org/instruments/misc/midikeys)</sub>  
 
 
-{% include custom/series_acme_next.html %}
+{% include custom/series_getting_started_next.html %}
 
 {% include links.html %}

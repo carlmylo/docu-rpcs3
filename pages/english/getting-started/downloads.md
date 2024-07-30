@@ -54,6 +54,6 @@ _**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU R
 
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](https://carlmylo.github.io/docu-rpcs3/images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
-{% include custom/series_acme_next.html %}
+{% include custom/series_getting_started_next.html %}
 
 {% include links.html %}

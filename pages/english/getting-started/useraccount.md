@@ -20,6 +20,6 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 
 ![RPCS3's "Rename User", showing the user changing the name.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3namepanel.png "RPCS3: Rename User")
 
-{% include custom/series_acme_next.html %}
+{% include custom/series_getting_started_next.html %}
 
 {% include links.html %}
