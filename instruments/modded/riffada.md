@@ -69,26 +69,104 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 ![A screenshot of SantrollerConfigurator, in the "Usb Host Inputs" section. There are circles over the disabled Back and D-pad Left buttons, showing them as disabled.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanhostin.png "Usb Host Inputs")
 
 
-## Mappings
+By default, XInput has most things bound correctly. You only need to remap the following:
 
-| **RPCS3**          | **Controller** |
-|:------------------:|:---------------------:|
-| Cross | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| Circle | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| Square | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| Triangle | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad: Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad: Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
-| D-Pad: Left | ![D-Pad: Left](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad: Left") |
-| D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad: Right") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: <br/> Up *or* Down | ![Effects Switch](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Effects Switch") |
-| L2 | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") |
-| R1 | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") |
-| Start | ![Plus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png "Start") |
-| Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png "Back") |
-| PS Button | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home") |
+| **RPCS3** | **XInput** | **Guitar** |
+|:--------:|:-----------:|:-----------:|
+| R1 | ![Right Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") | 
+| L2 | ![Right Stick Click](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png "Right Stick Click") | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") | 
+| Right Stick: <br> Down | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | ![Effects Switch](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Effects Switch") |
+
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-mapping">Advanced Mapping</a>
+                            </h4>
+                        </div>
+                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+
+<table>
+<thead>
+<tr>
+<th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Guitar</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cross</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
+</tr>
+<tr>
+<td align="center">Circle</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
+</tr>
+<tr>
+<td align="center">Square</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
+</tr>
+<tr>
+<td align="center">Triangle</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
+</tr>
+<tr>
+<td align="center">L1</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
+</tr>
+<tr>
+<td align="center">D-Pad: Up</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
+</tr>
+<tr>
+<td align="center">D-Pad: Down</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
+</tr>
+<tr>
+<td align="center">D-Pad: Left</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png" alt="D-Pad: Left" title="D-Pad: Left"></td>
+</tr>
+<tr>
+<td align="center">D-Pad: Right</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png" alt="D-Pad: Right" title="D-Pad: Right"></td>
+</tr>
+<tr>
+<td align="center">Right Stick: <br> Left/Right</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
+</tr>
+<tr>
+<td align="center">Right Stick: <br> Up <em>or</em> Down</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png" alt="Effects Switch" title="Effects Switch"></td>
+</tr>
+<tr>
+<td align="center">L2</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png" alt="Solo Buttons" title="Solo Buttons"></td>
+</tr>
+<tr>
+<td align="center">R1</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png" alt="Tilt" title="Tilt"></td>
+</tr>
+<tr>
+<td align="center">Start</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png" alt="Plus" title="Start"></td>
+</tr>
+<tr>
+<td align="center">Select</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png" alt="Minus" title="Back"></td>
+</tr>
+<tr>
+<td align="center">PS Button</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+</tr>
+</tbody>
+</table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
 
 ## Profile
 
