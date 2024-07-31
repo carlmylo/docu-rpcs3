@@ -83,7 +83,7 @@ div#toc >ul::before {
 .nav a:hover, .nav li.active > a
 {
     background-color: #E1E1E1;
-    color: #ffffff;
+    color: #000;
 }
 
 code {
