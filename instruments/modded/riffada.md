@@ -55,19 +55,7 @@ A community made preset exists (courtesy of jnack) to help speed things up. Load
 
 After loading the preset, **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-### Additional Notes
-The picoconfig preset binds a few things for a better experience.
-- The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
-- D-Pad: Left and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad Left which is very uncomfortable.
-
-If you wish to remove these tweaks, click the "`Remove`" next to the D-pad Left and Back buttons at the bottom of Santroller Configurator.
-
-![A screenshot of SantrollerConfigurator, scrolled to the bottom. There are circles over the "Remove" buttons next to Back and D-pad Left.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanrem.png "SantrollerConfigurator")
-
-After that, go to the "`Usb Host Inputs`" section and enable the original buttons again.
-
-![A screenshot of SantrollerConfigurator, in the "Usb Host Inputs" section. There are circles over the disabled Back and D-pad Left buttons, showing them as disabled.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanhostin.png "Usb Host Inputs")
-
+## Mapping
 
 By default, XInput has most things bound correctly. You only need to remap the following:
 
@@ -167,6 +155,19 @@ By default, XInput has most things bound correctly. You only need to remap the f
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
+
+## Additional Notes
+The picoconfig preset binds a few things for a better experience.
+- The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
+- D-Pad: Left and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad Left which is very uncomfortable.
+
+If you wish to remove these tweaks, click the "`Remove`" next to the D-pad Left and Back buttons at the bottom of Santroller Configurator.
+
+![A screenshot of SantrollerConfigurator, scrolled to the bottom. There are circles over the "Remove" buttons next to Back and D-pad Left.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanrem.png "SantrollerConfigurator")
+
+After that, go to the "`Usb Host Inputs`" section and enable the original buttons again.
+
+![A screenshot of SantrollerConfigurator, in the "Usb Host Inputs" section. There are circles over the disabled Back and D-pad Left buttons, showing them as disabled.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanhostin.png "Usb Host Inputs")
 
 ## Profile
 
