@@ -130,6 +130,11 @@ h4 {color: #808080; }
     background-color: #248ec2;
 }
 
+.dropdown-menu > li > a {
+    color: #c8c3bc;
+    background-color: #347DBE;
+}
+
 div.navbar-collapse .dropdown-menu > li > a:hover {
     background-color: #347DBE;
 }
