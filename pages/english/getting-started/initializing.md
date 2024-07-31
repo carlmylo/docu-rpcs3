@@ -6,7 +6,7 @@ summary: "What to do with the stuff you downloaded in the previous page."
 permalink: gs_init
 folder: english
 series: "Getting Started"
-weight: 0.4
+weight: 4
 ---
 
 Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  

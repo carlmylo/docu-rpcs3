@@ -6,7 +6,7 @@ summary: "What you need to download for Rock Band 3 on RPCS3."
 permalink: gs_downloads
 folder: english
 series: "Getting Started"
-weight: 0.3
+weight: 3
 ---
 
 Before you begin, **make sure your drivers and operating system are up to date**.

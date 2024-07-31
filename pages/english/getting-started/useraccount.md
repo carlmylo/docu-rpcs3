@@ -6,7 +6,7 @@ summary: "How to set up a proper user account on RPCN."
 permalink: gs_user
 folder: english
 series: "Getting Started"
-weight: 0.5
+weight: 5
 ---
 
 In RPCS3, go to **Manage > User Accounts** 
