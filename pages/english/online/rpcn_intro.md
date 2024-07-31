@@ -41,4 +41,6 @@ Now **go to your email inbox to check for your verification token. The email wil
 **Paste the token** into RPCS3 and click OK:  
 ![A screenshot RPCS3 telling the user an account was successfully created. They are also prompted for the verification token to reset their password in the future.](https://carlmylo.github.io/docu-rpcs3/images/rpcn/created.png "RPCN: Username")
 
+{% include custom/series_online_next.html %}
+
 {% include links.html %}

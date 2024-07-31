@@ -51,4 +51,6 @@ To add anyone here, simply **right click the name and** you will be able to **se
 
 ![A screenshot of RPCN's Friends window, with the user adding a recent player.](https://carlmylo.github.io/docu-rpcs3/images/rpcn/friendrecent.png "RPCS3: Recent Players")
 
+{% include custom/series_online_next.html %}
+
 {% include links.html %}

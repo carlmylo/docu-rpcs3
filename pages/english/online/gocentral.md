@@ -78,4 +78,6 @@ That's it! You should soon find other players!
 
 ![A screenshot of Rock Band 3 in a multiplayer lobby.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/online/hostlobby.png "Finding GoCentral Players")
 
+{% include custom/series_online_next.html %}
+
 {% include links.html %}
