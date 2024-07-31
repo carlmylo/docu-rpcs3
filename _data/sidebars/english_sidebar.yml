@@ -90,7 +90,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Managing Custom Configuration
+    - title: Intro
       url: /custom_config_start
       output: web, pdf
       type: homepage

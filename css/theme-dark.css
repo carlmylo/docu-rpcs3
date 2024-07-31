@@ -140,6 +140,7 @@ h4 {color: #808080; }
 
 .nav > li > a:focus, .nav > li > a:hover
 {
+    font:#fff;
     background-color: #2f2f2f;
 }
 
