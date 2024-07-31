@@ -3,6 +3,7 @@ title: MIDI Keyboard
 sidebar: controllers_sidebar
 permalink: ctrls_keys_midi
 folder: instruments
+tags: [midi, english]
 toc: false
 ---
 

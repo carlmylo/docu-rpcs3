@@ -3,6 +3,7 @@ title: Rock Band 3 Pro Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_protar_midi
 folder: instruments
+tags: [midi, english]
 toc: false
 ---
 

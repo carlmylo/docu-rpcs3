@@ -3,6 +3,7 @@ title: PlayStation 3 Rock Band 3 Pro Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_protar_ps3
 folder: instruments
+tags: [midi, english]
 toc: false
 ---
 

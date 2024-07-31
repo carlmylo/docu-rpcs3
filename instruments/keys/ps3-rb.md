@@ -3,6 +3,7 @@ title: PlayStation 3 Rock Band Wireless Keyboard
 sidebar: controllers_sidebar
 permalink: ctrls_keys_ps3
 folder: instruments
+tags: [midi, english]
 toc: false
 ---
 

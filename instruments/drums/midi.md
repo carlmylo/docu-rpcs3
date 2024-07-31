@@ -3,6 +3,7 @@ title: MIDI Drums
 sidebar: controllers_sidebar
 permalink: ctrls_drums_midi
 folder: instruments
+tags: [midi, english]
 toc: false
 ---
 
