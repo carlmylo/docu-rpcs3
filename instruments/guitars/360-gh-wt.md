@@ -3,6 +3,7 @@ title: Xbox 360 Guitar Hero Genericaster (World Tour and later) Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghwtgtr_360
 folder: instruments
+tags: [xbox-360, english]
 toc: false
 ---
 

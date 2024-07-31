@@ -3,6 +3,7 @@ title: Xbox 360 Guitar Hero Les Paul Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghlpgtr_360
 folder: instruments
+tags: [xbox-360, english]
 toc: false
 ---
 

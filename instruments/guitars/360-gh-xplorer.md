@@ -3,6 +3,7 @@ title: Xbox 360 Guitar Hero Xplorer Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghxpgtr_360
 folder: instruments
+tags: [xbox-360, english]
 toc: false
 ---
 
