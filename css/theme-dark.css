@@ -87,7 +87,8 @@ div#toc >ul::before {
 }
 
 code {
-    color:#9d1e3e;
+    color:#F57F9F;
+    background-color: #282828;
 }
 
 .nav ul li a {
