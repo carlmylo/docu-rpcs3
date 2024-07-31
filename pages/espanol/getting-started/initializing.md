@@ -66,4 +66,6 @@ Si se instala correctamente, el icono de Rock Band 3 va a cambiar.
 
 Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist" (Renombrar en lista de juegos).
 
+{% include custom/series_empezando_next.html %}
+
 {% include links.html %}

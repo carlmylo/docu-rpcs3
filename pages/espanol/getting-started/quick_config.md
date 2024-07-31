@@ -81,4 +81,6 @@ Se necesitas mas detalles sobre estas configuraciones:
 - **Emulator**:
 	- Show trophy popups (Enseñar notificaciones de trofeos): Desactivado
 
+{% include custom/series_empezando_next.html %}
+
 {% include links.html %}
