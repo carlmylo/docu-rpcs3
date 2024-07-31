@@ -9,8 +9,6 @@ series: "Playing Online"
 weight: 1
 ---
 
-**If you're not interested in playing online, skip to the [[next section]](https://rb3pc.milohax.org/english/passthroughdevices/).**
-
 Before hopping online, you need to create an RPCN account. RPCN is RPCS3's equivalent of PSN (PlayStation Network.) We'll be going over how to create an RPCN account and manage friends on it.
 
 Go to **Configuration > RPCN**
