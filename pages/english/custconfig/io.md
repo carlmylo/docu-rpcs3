@@ -1,8 +1,12 @@
 ---
-title: I/O
+title: "Custom Configuration: I/O"
 sidebar: english_sidebar
 permalink: custom_config_io
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 5
 ---
 
 **This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!**
@@ -21,5 +25,7 @@ folder: english
 Revisit the [[Controllers page]](https://rb3pc.milohax.org/english/controllers) if you need help.
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

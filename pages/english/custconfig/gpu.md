@@ -1,8 +1,12 @@
 ---
-title: GPU
+title: "Custom Configuration: GPU"
 sidebar: english_sidebar
 permalink: custom_config_gpu
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 3
 ---
 
 ![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/gpu.png "GPU")
@@ -28,5 +32,7 @@ folder: english
 			* You can use "RCAS Sharpening Strength" below to adjust the strength of its effect.
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

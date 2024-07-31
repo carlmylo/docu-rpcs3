@@ -1,8 +1,12 @@
 ---
-title: CPU
+title: "Custom Configuration: CPU"
 sidebar: english_sidebar
 permalink: custom_config_cpu
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 2
 ---
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/cpu.png "CPU")
@@ -13,5 +17,7 @@ folder: english
 	* **Change "Thread Scheduler" to "RPCS3 Scheduler", or "RPCS3 Alternative Scheduler"** - **FOR CPUs WITH 12+ THREADS ONLY!** May help with thread distribution to prevent microstutters.
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

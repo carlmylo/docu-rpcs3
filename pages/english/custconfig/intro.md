@@ -4,6 +4,10 @@ sidebar: english_sidebar
 permalink: custom_config_start
 folder: english
 toc: false
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 1
 ---
 
 While Quick Configuration should work in most cases, some users might want to squeeze more fidelity or performance out of their game or prefer setting everything up themselves. This involves creating or editing a Custom Configuration for Rock Band 3.
@@ -29,5 +33,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 | ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

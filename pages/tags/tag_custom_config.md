@@ -1,9 +1,9 @@
 ---
-title: "All pages in English"
+title: "Custom Configuration pages"
 sidebar: english_sidebar
 search: exclude
-tagName: english
-permalink: tag_english
+tagName: custom-config
+permalink: tag_custom-config
 folder: tags
 toc: false
 ---

@@ -1,8 +1,12 @@
 ---
-title: Network
+title: "Custom Configuration: Network"
 sidebar: english_sidebar
 permalink: custom_config_net
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 6
 ---
 
 ![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/network.png "Network")
@@ -16,5 +20,7 @@ folder: english
 		* Set IP/Hosts switches to `rb3ps3live.hmxservices.com=45.33.44.103`.  
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

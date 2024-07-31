@@ -1,8 +1,12 @@
 ---
-title: Audio
+title: "Custom Configuration: Audio"
 sidebar: english_sidebar
 permalink: custom_config_aud
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 4
 ---
 
 ![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png "Audio")
@@ -21,5 +25,7 @@ folder: english
 	* Once again, keep in mind that playing with framerates higher than 60 may cause issues with vocal detection.
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

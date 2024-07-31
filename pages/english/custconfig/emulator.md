@@ -1,8 +1,12 @@
 ---
-title: Emulator
+title: "Custom Configuration: Emulator"
 sidebar: english_sidebar
 permalink: custom_config_emu
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 8
 ---
 
 ![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface."](https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png "Emulator")
@@ -16,5 +20,7 @@ You can leave this as is if you want, but I would consider changing the followin
 	* **"Use Native Interface"** - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups. This can also fix a problem with instrument controllers soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}

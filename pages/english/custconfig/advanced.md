@@ -1,8 +1,12 @@
 ---
-title: Advanced
+title: "Custom Configuration: Advanced"
 sidebar: english_sidebar
 permalink: custom_config_adv
 folder: english
+tags: [custom-config, english]
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+series: "Custom Configuration"
+weight: 7
 ---
 
 ![A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, "Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png "Advanced")
@@ -20,5 +24,7 @@ folder: english
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.
 
 <br/>
+
+{% include custom/series_custom_config_next %}
 
 {% include links.html %}
