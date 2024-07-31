@@ -1,8 +1,12 @@
 ---
-title: RPCN - Getting Started
+title: "RPCN - Getting Started"
 sidebar: english_sidebar
 permalink: rpcn_intro
 folder: english
+tags: [online, english]
+summary: "How to set up RPCN to play online"
+series: "Playing Online"
+weight: 1
 ---
 
 **If you're not interested in playing online, skip to the [[next section]](https://rb3pc.milohax.org/english/passthroughdevices/).**

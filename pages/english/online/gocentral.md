@@ -1,8 +1,12 @@
 ---
-title: GoCentral
+title: "Playing Online: GoCentral"
 sidebar: english_sidebar
 permalink: gocentral
 folder: english
+tags: [online, english]
+summary: "How to use GoCentral to play online"
+series: "Playing Online"
+weight: 3
 ---
 
 Thanks to the talented crew at RBEnhanced, the GoCentral project has revived Rock Band 3's online mode. This part will be going over how to get the most out of your experience while playing online.

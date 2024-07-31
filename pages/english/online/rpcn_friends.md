@@ -1,8 +1,12 @@
 ---
-title: RPCN - Managing Friends
+title: "RPCN - Managing Friends"
 sidebar: english_sidebar
 permalink: rpcn_friends
 folder: english
+tags: [online, english]
+summary: "How to add manage friends on RPCN"
+series: "Playing Online"
+weight: 2
 ---
 
 Let's go over how to manage friends in RPCN.

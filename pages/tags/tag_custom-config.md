@@ -1,5 +1,5 @@
 ---
-title: "Custom Configuration pages"
+title: "Pages on Custom Configuration"
 sidebar: english_sidebar
 search: exclude
 tagName: custom-config

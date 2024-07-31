@@ -1,9 +1,9 @@
 ---
-title: "Pages for Getting Started"
+title: "Pages on playing online"
 sidebar: english_sidebar
 search: exclude
-tagName: getting-started
-permalink: tag_getting-started
+tagName: online
+permalink: tag_online
 folder: tags
 toc: false
 ---
