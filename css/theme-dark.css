@@ -140,8 +140,7 @@ h4 {color: #808080; }
 
 .nav > li > a:focus, .nav > li > a:hover
 {
-    font:#fff;
-    background-color: #2f2f2f;
+    background-color: #8e8e8e;
 }
 
 .dropdown-menu > li > a {
