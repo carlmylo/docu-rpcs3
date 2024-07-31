@@ -80,9 +80,14 @@ div#toc >ul::before {
     color: #fff;
 }
 
-.nav a:hover, .nav li.active > a {
+.nav a:hover, .nav li.active > a
+{
     background-color: #E1E1E1;
-    color: #fff;
+    color: #ffffff;
+}
+
+code {
+    color:#9d1e3e;
 }
 
 .nav ul li a {
@@ -185,8 +190,13 @@ a.navbar-brand:hover {
 
 .btn-primary {
     color: #ffffff;
-    background-color: #347DBE;
-    border-color: #347DBE;
+    background-color: #c40034;
+    border-color: #ffffff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
+    background-color: #f42355;
+    border-color: #000;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
