@@ -1,7 +1,7 @@
 ---
 title: "Configuración Personalizada: GPU"
 sidebar: espanol_sidebar
-permalink: custom_config_emu_es
+permalink: custom_config_gpu_es
 folder: espanol
 tags: [conf-pers, espanol]
 summary: "Que cambiar bajo la pestaña de GPU dentro de la configuración personalizada de RPCS3"
