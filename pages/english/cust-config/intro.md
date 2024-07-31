@@ -24,9 +24,8 @@ If you're editing a Custom Configuration, **right click on Rock Band 3** in RPCS
 
 <br/>
 
-**Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**
-
-* ![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
+**Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**  
+![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
 ## Color Guide
 

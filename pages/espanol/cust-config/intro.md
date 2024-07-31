@@ -23,9 +23,8 @@ Si quieres cambiar una configuración personalizada, **haz click derecho en Rock
 
 <br/>
 
-**Recuerda de hacer click en "Apply"** (Aplicar) **y "Save custom configuration"** (Guardar configuración personalizada) **después de hacer tus ajustes!**
-
-* ![Una captura de RPCS3, dentro de la configuración personalizada de Rock Band 3, con el ratón sobre "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
+**Recuerda de hacer click en "Apply"** (Aplicar) **y "Save custom configuration"** (Guardar configuración personalizada) **después de hacer tus ajustes!**  
+![Una captura de RPCS3, dentro de la configuración personalizada de Rock Band 3, con el ratón sobre "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
 ## Guía de colores
 
