@@ -13,7 +13,7 @@ weight: 5
 * **If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard,** [[**skip** over **this section**].](https://carlmylo.github.io/docu-rpcs3/custom_config_net)  
 * **If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,** [[**skip** over **this section**].](https://carlmylo.github.io/docu-rpcs3/custom_config_net)  
 
-**If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**
+**Make sure your MIDI instrument is connected.** After that, let's go ahead and **focus on RPCS3's I/O tab.**
 **YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!**
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/io.png "I/O")
 * ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Tan Square") **For third party Keyboard, wired Pro Guitar, and Pro Drums players**: 

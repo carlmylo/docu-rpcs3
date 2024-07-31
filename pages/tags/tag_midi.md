@@ -9,6 +9,4 @@ toc: false
 ---
 {% include taglogic.html %}
 
-Do **not** bind these with "`Gamepad Configuration`".
-
 {% include links.html %}

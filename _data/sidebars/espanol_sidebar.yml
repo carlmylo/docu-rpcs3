@@ -86,11 +86,11 @@ entries:
       url: /ctrls_protars_es
       output: web, pdf
 
-  - title: Custom Configuration
+  - title: Configuración Personalizada
     output: web, pdf
     folderitems:
 
-    - title: Managing Custom Configuration
+    - title: Introducción
       url: /custom_config_start_es
       output: web, pdf
       type: homepage
