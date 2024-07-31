@@ -21,6 +21,6 @@ You can leave this as is if you want, but I would consider changing the followin
 
 <br/>
 
-{% include custom/series_custom_config_next %}
+{% include custom/series_custom_config_next.html %}
 
 {% include links.html %}

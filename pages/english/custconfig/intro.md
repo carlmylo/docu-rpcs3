@@ -34,6 +34,6 @@ This may seem overwhelming because of the sheer number of options, but I have co
 
 <br/>
 
-{% include custom/series_custom_config_next %}
+{% include custom/series_custom_config_next.html %}
 
 {% include links.html %}

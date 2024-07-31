@@ -26,6 +26,6 @@ Revisit the [[Controllers page]](https://rb3pc.milohax.org/english/controllers) 
 
 <br/>
 
-{% include custom/series_custom_config_next %}
+{% include custom/series_custom_config_next.html %}
 
 {% include links.html %}
