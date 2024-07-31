@@ -3,6 +3,10 @@ title: "GoCentral [ES]"
 sidebar: espanol_sidebar
 permalink: gocentral_es
 folder: espanol
+tags: [jugando-en-linea, espanol]
+summary: "Como usr GoCentral para jugar en linea"
+series: "Jugando En Linea"
+weight: 3
 ---
 
 Gracias al equipo talentoso en RBEnhanced, el proyecto de GoCentral ha revivido las funciones del internet para Rock Band 3. Esta parte de la guía te va dar detalles sobre cómo tomar ventaja de todas las opciones disponibles para jugar en línea.
@@ -73,5 +77,7 @@ Buscando a jugadores funciona como funciono originalmente.
 Eso es todo! Si alguien mas esta buscando, se van a encontrar.
 
 ![Una captura de Rock Band 3 en una partida de Rock Band 3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/go/hostlobbyes.png "Buscando Jugadores en GoCentral")
+
+{% include custom/series_jugando_en_linea_next.html %}
 
 {% include links.html %}

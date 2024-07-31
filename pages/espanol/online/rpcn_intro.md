@@ -3,6 +3,10 @@ title: RPCN - Empezando
 sidebar: espanol_sidebar
 permalink: rpcn_intro_es
 folder: espanol
+tags: [jugando-en-linea, espanol]
+summary: "Como configurar RPCN para jugar en linea"
+series: "Jugando En Linea"
+weight: 1
 ---
 
 Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](https://rb3pc.milohax.org/espanol/configuracionrapida/)
@@ -35,5 +39,7 @@ Ve a la bandeja de entrada de tu Email. Puede tardar unos minutos para que te ll
 
 **Pega el token** a RPCS3 Y presiona "OK":  
 ![A screenshot RPCS3 telling the user an account was successfully created.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/created.png "RPCN: Username")
+
+{% include custom/series_jugando_en_linea_next.html %}
 
 {% include links.html %}

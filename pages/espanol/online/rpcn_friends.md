@@ -3,6 +3,10 @@ title: RPCN - Administrando Amigos
 sidebar: espanol_sidebar
 permalink: rpcn_friends_es
 folder: espanol
+tags: [jugando-en-linea, espanol]
+summary: "Como administrar amigos dentro de RPCN"
+series: "Jugando En Linea"
+weight: 2
 ---
 
 Ahora, vamos a ver como administrar tu lista de amigos.
@@ -45,5 +49,7 @@ Todas las solicitudes de amigos estarán bajo "Friend Requests" (Solicitudes de 
 Cualquier persona con quien haz jugado recientemente estará en la lista bajo "Recent Players." Para añadir personas por esta manera, haz **click derecho en su nombre y manda una solicitud con "Send Friend Request"** (Mandar Solicitud de Amistad).
 
 ![A screenshot of RPCN's Friends window, with the user adding a recent player.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendrecent.png "RPCS3: Recent Players")
+
+{% include custom/series_jugando_en_linea_next.html %}
 
 {% include links.html %}

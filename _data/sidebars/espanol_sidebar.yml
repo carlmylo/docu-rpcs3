@@ -123,7 +123,7 @@ entries:
       url: /custom_config_emu_es
       output: web, pdf
   
-  - title: Online
+  - title: Jugando En Linea
     output: web, pdf
     folderitems:
 
