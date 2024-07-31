@@ -3,6 +3,10 @@ title: Cuenta de Usuario
 sidebar: espanol_sidebar
 permalink: gs_user_es
 folder: espanol
+tags: [empezando, espanol]
+summary: "Como configurar una cuenta de usuario en RPCS3"
+series: "Empezando"
+weight: 5
 ---
 
 En RPCS3, ve a **Manage > User Accounts** (Administrar > Cuentas de usuario)  

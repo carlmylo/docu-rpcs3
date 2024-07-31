@@ -3,6 +3,10 @@ title: Descargas
 sidebar: espanol_sidebar
 permalink: gs_downloads_es
 folder: espanol
+tags: [empezando, espanol]
+summary: "Lo que necesitas descargar para jugar Rock Band 3 en RPCS3"
+series: "Empezando"
+weight: 3
 ---
 
 Antes de empezar con la instalación, **asegúrate que tus controladores y sistema operativo estén actualizados.**

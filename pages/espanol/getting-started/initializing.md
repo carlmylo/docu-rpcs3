@@ -3,6 +3,10 @@ title: Iniciando
 sidebar: espanol_sidebar
 permalink: gs_init_es
 folder: espanol
+tags: [empezando, espanol]
+summary: "Lo que tienes que hacer con lo que bajaste en la pagina anterior"
+series: "Empezando"
+weight: 4
 ---
 
 Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta abierta en el fondo. **Marca "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again"** (No volver a mostrar) **y, al final, haz clic en "Continue"** (Continuar).  
