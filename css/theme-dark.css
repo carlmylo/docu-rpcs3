@@ -81,12 +81,12 @@ div#toc >ul::before {
 }
 
 .nav a:hover, .nav li.active > a {
-    background-color: #FFF;
+    background-color: #E1E1E1;
     color: #000;
 }
 
 .nav ul li a {
-    background-color: #424242;
+    background-color: #323638;
 }
 
 .nav li a {
