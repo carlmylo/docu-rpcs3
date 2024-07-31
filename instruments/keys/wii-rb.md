@@ -3,7 +3,8 @@ title: Nintendo Wii Rock Band Wireless Keyboard
 sidebar: controllers_sidebar
 permalink: ctrls_keys_wii
 folder: instruments
-tags: [midi, english]
+tags: [midi, wii, english]
+summary: "How to connect and configure Nintendo Wii Wireless keyboards (MIDI) on RPCS3"
 toc: false
 ---
 
