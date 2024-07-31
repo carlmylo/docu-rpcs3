@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: "Custom Configuration: Intro"
 sidebar: english_sidebar
 permalink: custom_config_start
 folder: english
