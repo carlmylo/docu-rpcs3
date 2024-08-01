@@ -31,7 +31,7 @@ If you haven't initlized your controller yet, start up Santroller.
 In the start screen, select your Device. This will depend on what device your modded guitar has. In the tutorial screenshots, it was a "`Raspberry Pi Pico`".
 After that, click on Configure.
 
-![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/san/initsl.png "initsan")
+![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/san/initsan.png "initsan")
 
 In Controller Settings, set your configuration to the following:
 * Emulation Type: Controller
