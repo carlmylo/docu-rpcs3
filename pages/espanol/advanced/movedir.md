@@ -1,56 +1,57 @@
 ---
-title: Move Game Files
+title: Mover Archivos del Juego
 sidebar: espanol_sidebar
 permalink: adv_movedir_es
 folder: espanol
 ---
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>This is meant for advanced users only. **Your game and installation may break!** Proceed with caution! </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Estos ajustes son para usuarios avanzados. **¡¡¡Tu juego y instalacion puede fallar!!!** ¡Procede con precaución! </b> {{include.content}}</div>
 
-If Rock Band 3's files are taking up too much space on your main drive, you can move them to a different drive while keeping RPCS3 itself on your main drive.
+Si los archivos de Rock Band 3 están tomando mucho espacio en tu disco primario, puedes moverlos a otro disco mientras el emulador se quede en tu disco primario.
 
-Make sure RPCS3 is closed before starting this.
+Antes de empezar, cierra RPCS3.
 
-First, create a folder where all of this stuff will be moved to.
+Primero, crea una carpeta donde vas a mover esta carpeta.
 
-I'll be naming the folder "RPCS3 Directory" in this tutorial.
+En las capturas, yo nombre la carpeta "RPCS3 Directory" (Directorio de RPCS3).
 
-![A screenshot of the folder created, which is named "RPCS3 Directory" in this tutorial.) en la categoría de 7-Zip.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfolder.png "RPCS3 Directory")
+![Una captura de la carpeta creada, que se llama "RPCS3 Directory."](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfolder.png "RPCS3 Directory")
 
 Now, back in the folder RPCS3 is in, cut the following folders:
-* dev_bdvd
-* dev_flash
-* dev_flash2
-* dev_flash3
-* dev_hdd0
-* dev_hdd1
-* dev_usb000
-* games
+* `dev_bdvd`
+* `dev_flash`
+* `dev_flash2`
+* `dev_flash3`
+* `dev_hdd0`
+* `dev_hdd1`
+* `dev_usb000`
+* `games`
 
-![A screenshot of the folders listed being cut.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dircut.png "Cut (CTRL+X")
+![Una captura de las carpetas siendo cortadas.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dircut.png "Cut (CTRL+X")
 
-Paste them inside of the folder you created.
+Pega las carpetas en la carpeta que creaste.
 
-![A GIF of the folders that were cut being pasted into the "RPCS3 Directory" folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirpaste.gif "RPCS3 Directory")
+![Una animación de las carpetas que fueron cortadas siendo pegadas en la carpeta "RPCS3 Directory."](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirpaste.gif "RPCS3 Directory")
 
-When it finishes pasting, reopen RPCS3.
+Cuando termine de mover los archivos, abre RPCS3.
 
-Click on Manage > Virtual File System
+Haz click en **Manage** (Administrar) **>** **Virtual File System** (Sistema de archivos virtual.)
 
-![A screenshot of RPCS3, with the user hovering over "Virtual File System", under the "Manage" category.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
 
-In the Virtual File System window, click on the `+` symbol near the bottom right.
+![Una captura de RPCS3, con el cursor sobre "Virtual File System", en la categoría de "Manage."](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
 
-![A screenshot of RPCS3's Virtual File System Menu, showing the cursor hovering over the plus symbol at the bottom.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfsadd.png "Virtual File System")
+En la pantalla de Virtual File System, haz click en símbolo `+` hacia la parte inferior derecha.
 
-Go to the folder you created, click on it, and then click on "Select Folder."
+![Una captura de Virtual File System, con el cursor sobre el símbolo +.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfsadd.png "Virtual File System")
 
-![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
+Busca la carpeta que creaste, seleccionala, y haz click a "Select Folder" (Elegir Carpeta).
 
-Finally, click "Save".
+![Una captura con la carpeta creada siendo seleccionada.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
 
-![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
+Finalmente, haz click en "Save" (Guardar).
 
-That's it!
+![Una captura de Virtual File System, con la carpeta creada en la lista de EmulatorDir.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
+
+Eso es todo!
 
 {% include links.html %}

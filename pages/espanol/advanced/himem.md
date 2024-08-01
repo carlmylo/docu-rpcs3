@@ -1,24 +1,26 @@
 ---
-title: Add more memory to Rock Band 3
+title: Agregar mas memoria a Rock Band 3
 sidebar: espanol_sidebar
 permalink: adv_himem_es
 folder: espanol
 ---
 
-We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strongly suggested and allows for better stability as well top of increasing the song limit up to 16000.
+Vamos a darle mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando porque ayuda la estabilidad y también sube el limite de canciones hasta 16000.
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>If you downloaded and are using a [[Quick Configurations profile,]](https://rb3pc.milohax.org/english/quickconfiguration/) this is already active and you don't need to do this. </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Si bajaste y estas usando [[un perfil de la Configuración Rápida,]](https://rb3pc.milohax.org/espanol/configuracionrapida/) ya tienes esto activado y no necesitas hacer nada. </b> {{include.content}}</div>
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://rb3pc.milohax.org/english/customconfiguration#advanced). Not doing this will cause your game to crash immediately after adding this file!! </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#advanced). ¡¡¡Si no haces esto, tu juego va a parar de funcionar!!! </b> {{include.content}}</div>
 
-First, you'll need to [[download the file to enable increased memory support. Click here to download it]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
+Primero, vas a necesitar [[bajar el archivo que activa memoria adicional. Haz click aquí para bajarlo.]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
 
-**After downloading the .zip file, extract its contents and move them to RPCS3's folder. It should combine folders automatically if you did it right.**
+**Después de bajar el archivo, extrae los contenidos en muevelos a la carpeta donde esta RPCS3. Las carpetas se combinaran si lo hiciste bien.**
 
-In the GIF example below, the `devhdd_0` folder from the archive (memory.zip) was extracted and its contents were moved into RPCS3's folder.
+El ejemplo abajo enseña, la carpeta `devhdd_0` del archivo (memory.zip) fue extraída y sus contenidos fueron movidos a la carpeta de RPCS3.
 
-![A GIF of "dev_hdd0" from "memory.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/docu-rpcs3/images/cust/himem.gif "memory.zip")
+![Una animacion de "dev_hdd0" de "memory.zip" siendo arrastrado a la carpeta de RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/cust/himem.gif "Recommended.zip")
 
 That's it! Enjoy the increased stability and extra song space!
+
+¡Eso es todo! Disfruta la capacidad de canciones aumentada y estabilidad adicional.
 
 {% include links.html %}
