@@ -12,46 +12,42 @@ toc: false
 
 ## NOTES
 
-* **Please note that your Santroller Configurator may have different settings, depending on whoever modded your guitar.**
+* **Please note that your Santroller Configurator may have different settings, depending on how your guitar was modded.** If you purchased your guitar pre-modded, contact the seller for more information.
 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Setup
 
-If you haven't initlized your controller yet, start up RetroCultMod's Programming Tool.
+If you haven't initlized your controller yet, start up Santroller.
 
-In the start screen, select your Device. It will usually show up as "`Raspberry Pi Pico`".
-After that, select your Device Type depending on which RetroCultMod product you have.
-Then finally, set Device Variant to "`Default`". **You don't need Auth, Slider, or Joystick** support.
-After that, click on Erase and configure and wait for the progress bar to finish.
+In the start screen, select your Device. This will depend on what device your modded guitar has. In the tutorial screenshots, it was a "`Raspberry Pi Pico`".
+After that, click on Configure.
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Zeroboard SL (Solderless Kit)", and Device Variant is set to "Zeroboard SL - Default."](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/initsl.png "RetroCultMods Programming Tool")
-
-When it finishes, click on Configure.
-
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to "Zeroboard SL - Default" and the mouse is hovering over "Configure."](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/seldevsl.png "RetroCultMods Programming Tool")
+![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/san/initsl.png "initsan")
 
 In Controller Settings, set your configuration to the following:
+* Emulation Type: Controller
+* Controller Type: Rock Band Guitar
 * Swap Switch Face Buttons: (Depends on your guitar)
 * Windows Controller Mode: HID Game Controller
-* Slider Bar: (Depends on your guitar)
+* Use USB Passthrough with RPCS3: Disabled
 * Tilt: Enabled
 
-![A screenshot of RetroCultMods Programming Tool. The settings reflect exactly what is above.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/consetsl.png "RetroCultMods Programming Tool")
+![A screenshot of Santroller's Controller Settings. The settings reflect exactly what is above.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/san/consetsan.png "Santroller: Controller Settings")
 
 It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
 
 **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/savesl.png "RetroCultMods Programming Tool")
+![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/san/savesan.png "RetroCultMods Programming Tool")
 
 ## Mappings
 

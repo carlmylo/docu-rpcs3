@@ -8,7 +8,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/lgc.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/wiilpcontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rcmgtrs.png" alt="Controller" title="Controller"></div>
 
 ## NOTES:
 
@@ -16,7 +16,7 @@ toc: false
 * This requires advanced setup.
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 
-![Guitar Configuration](https://carlmylo.github.io/docu-rpcs3/images/instruments/picolpguitarconfigurator.png "Guitar Configurator")  
+![Guitar Configuration](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrcfg/picolpguitarconfigurator.png "Guitar Configurator")  
 
 * Change the controller output type to XInput and Guitar Hero Guitar.
 
