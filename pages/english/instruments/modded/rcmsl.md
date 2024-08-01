@@ -83,4 +83,4 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
 Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
-Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures.
+Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures

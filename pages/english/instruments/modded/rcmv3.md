@@ -29,8 +29,8 @@ toc: false
 
 If you haven't initlized your Wii Adapter yet, start up RetroCultMod's Programming Tool.
 
-In the start screen, select your Device. It will usually show up as `Raspberry Pi Pico`.
-After that, select `"Wii Adapter"`` as your Device Type.
+In the start screen, select your Device. It will usually show up as "`Raspberry Pi Pico`".
+After that, select "`Wii Adapter`" as your Device Type.
 Then finally, set Device Variant to "RCM Wii Guitar Adapter - Default". **You don't need Auth, Slider, or Joystick** support.
 
 ![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Wii Adapter", and Device Variant is set to "RCM Wii Guitar Adapter - Default."](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/initv3.png "RetroCultMods Programming Tool")
@@ -51,7 +51,7 @@ In Controller Settings, set your configuration to the following:
 
 It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Wii Extension Inputs and calibrate it.
 
-**MAKE SURE YOU CLICK ON `"WRITE SETTINGS"` before closing the program or you will lose progress!**
+**MAKE SURE YOU CLICK ON "`Save Setting"`" before closing the program or you will lose progress!**
 
 ![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/savev3.png "RetroCultMods Programming Tool")
 
@@ -90,4 +90,5 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption)
+Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption)  
+Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures

@@ -12,7 +12,7 @@ toc: false
 
 ## NOTES
 
-* **This is specifically for the SOLDERLESS DIY RGB Kit for Guitar Hero Controllers by RetroCultMods!** Please consult your sales receipt to confirm that it is indeed a Solderless DIY RGB Kit for Guitar Hero Controllers by RetroCultMods.
+* **Please note that your Santroller Configurator may have different settings, depending on whoever modded your guitar.**
 
 ## Pad Information
 
