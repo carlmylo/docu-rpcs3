@@ -111,6 +111,10 @@ entries:
       url: /custom_config_io_es
       output: web, pdf
 
+    - title: System
+      url: /custom_config_sys_es
+      output: web, pdf
+
     - title: Network
       url: /custom_config_net_es
       output: web, pdf
@@ -123,7 +127,7 @@ entries:
       url: /custom_config_emu_es
       output: web, pdf
   
-  - title: Jugando En Linea
+  - title: Jugando en linea
     output: web, pdf
     folderitems:
 
@@ -175,16 +179,16 @@ entries:
       url: /trbl_misc_es
       output: web, pdf
 
-  - title: Advanced
+  - title: Adicional
     output: web, pdf
     folderitems:
 
-    - title: Passthrough Devices
+    - title: Conexión Directa
       url: /adv_passthrough_es
       output: web, pdf
       type: homepage
 
-    - title: Add more memory to Rock Band 3
+    - title: Agregar mas memoria
       url: /adv_himem_es
       output: web, pdf
 
@@ -192,12 +196,12 @@ entries:
       url: /adv_customsongs_es
       output: web, pdf
 
-    - title: Add Custom Textures to Rock Band 3 Deluxe
-      url: /adv_customtex_es
+    - title: Mover Archivos del Juego
+      url: /adv_movedir_es
       output: web, pdf
 
-    - title: Move Game Files
-      url: /adv_movedir_es
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex_es
       output: web, pdf
 
   - title: Conclusion
