@@ -1,7 +1,7 @@
 ---
 title: "Configuración Personalizada: System"
 sidebar: espanol_sidebar
-permalink: custom_config_io_es
+permalink: custom_config_sys_es
 folder: espanol
 tags: [conf-pers, espanol]
 summary: "Que cambiar bajo la pestaña de System dentro de la configuración personalizada de RPCS3"
