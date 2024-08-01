@@ -1,39 +1,45 @@
 ---
-title: Passthrough Devices
+title: Conexión Directa
 sidebar: espanol_sidebar
 permalink: adv_passthrough_es
 folder: espanol
 ---
 
-**If you're not playing with a PS3 Mustang Pro Guitar or a PS3 Keyboard with their respective dongles**, [[**skip over this section**]](https://rb3pc.milohax.org/english/troubleshooting/).
+Jugando con un Teclado o Guitarra Pro (Mustang) de PlayStation 3 es fácil. Solo requiere una configuración simple. Después de hacer esto, se pueden usar en el emulador.
 
-To start with, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
+Para empezar, asegúrate que tengas el recibidor correcto para tu instrumento.
 
-Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/) and **download the latest version, then open it** up.
+| **Receptor para la<br>guitarra Mustang** | **Receptor para el<br>teclado inalámbrico** |
+|:------------------:|:---------------------:|
+| ![Receptor para la guitarra Mustang](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/recprotar.png "Receptor para la guitarra Mustang") | ![Receptor para el teclado inalámbrico](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/reckeys.png "Receptor para el teclado inalámbrico") |
 
-Click on **Options** then **List All Devices**.  
-![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadiglistall.png "Zadig: Options: List All Devices")
+Después de comprobar que tengas el receptor correcto, **cierra RPCS3** y conecta el receptor del instrumento a tu computadora.
 
-You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we're using the Mustang Pro Guitar, which shows up as "Harmonix RB3 Mustang Guitar for PlayStation® 3".  
-![A screenshot of Zadig showing "Harmonix RB3 Mustang Guitar for PlayStation® 3" highlighted in the devices listed.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigsel.png "Zadig: Harmonix RB3 Mustang Guitar for PlayStation® 3")
+Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/) y **descárgalo**. Cuando termine de bajar, **ábrelo**.
+[![Una captura de la pagina de Zadig](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigdles.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
 
-**After selecting the right device, you should see the option to replace the driver. _MAKE SURE YOU ARE REPLACING THE DRIVER ONLY FOR THE PRO GUITAR/KEYBOARD!!_** Click Replace Driver.  
-![A screenshot of Zadig with "Replace Driver" highlighted.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigreplace.png "Zadig: Replace Driver")
+Haz click en **Options** (Opciones) y luego en **List All Devices** (Listar todos los dispositivos).  
+![Una captura de Zadig mostrando "Listar todos los dispositivos" resaltado bajo "Opciones".](https://carlmylo.github.io/docu-rpcs3/images/pass/zadiglistall.png "Zadig: Opciones: Listar todos los dispositivos")
 
-A warning will appear. **Again, make sure you have selected your RB3 Pro Guitar or keyboard instrument.** After you have made sure, **click** "**Yes**."  
-![A screenshot of Zadig warning the user that they're about to modify a system driver, with "Yes" highlighted](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigreplace.png "Zadig: Warning - System Driver")
+Deberías ver una lista de dispositivos ahora. **Selecciona tu Instrumento Pro de Rock Band 3**. En este ejemplo, estamos utilizando la Guitarra Mustang Pro, que aparece como "Harmonix RB3 Mustang Guitar for PlayStation® 3".  
+![Una captura de Zadig mostrando "Harmonix RB3 Mustang Guitar for PlayStation® 3" resaltado en la lista de dispositivos.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigsel.png "Zadig: Harmonix RB3 Mustang Guitar for PlayStation® 3")
 
-It will then install the driver. As the program says, it may take a few minutes.  
-![A screenshot of Zadig in the middle of a driver install.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigprogress.png "Zadig: Installing Driver...")
+Después de seleccionar el dispositivo correcto, deberías ver la opción para reemplazar el controlador. **ASEGÚRATE DE QUE SOLO ESTÁS REEMPLAZANDO EL CONTROLADOR DEL INSTRUMENTO PRO DE ROCK BAND 3**. **Haz click en "Replace Driver" (Reemplazar controlador)**.  
+![Una captura de Zadig con "Reemplazar controlador" resaltado.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigreplace.png "Zadig: Reemplazar controlador")
 
+Va a parecer una advertencia. **Nuevamente, asegúrate de haber seleccionado tu Guitarra Mustang Pro o teclado de Rock Band 3.** Después de haberlo verificado, haz click en "**Yes**" (Sí).  
+![Una captura de Zadig advirtiendo al usuario que está a punto de modificar un controlador del sistema, con "Sí" resaltado](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigreplace.png "Zadig: Advertencia - Controlador del sistema")
 
-If everything goes well, you will get this message:  
-![A screenshot of Zadig telling the user that the driver was installed successfully with "Close" highlighted.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigdone.png "Zadig: Success")
+Luego, se instalará el controlador. Como dice el programa, esto puede llevar algunos minutos.  
+![Una captura de Zadig en medio de una instalación de controladores.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigprogress.png "Zadig: Instalando controlador...")
 
-**Close Zadig** and, **with the dongle** still **connected**, **open up RPCS3** and **open Rock Band 3**.
+Si todo sale bien, verás este mensaje:  
+![Una captura de Zadig que indica al usuario que el controlador se instaló correctamente, con "Cerrar" resaltado.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigdone.png "Zadig: Éxito")
 
-Turn your controller on and you should see it automatically assign a player number.  
-![A picture of a Mustang Pro Guitar with the second player LED lit up.](https://carlmylo.github.io/docu-rpcs3/images/pass/protaron.png "Fender Mustang Pro Guitar: Player 2")
+**Cierra Zadig** y, con el receptor todavía conectado, **abre RPCS3** y **abre Rock Band 3**.
 
-Likewise, in Rock Band 3, you will see the instrument ready to join.  
-![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](https://carlmylo.github.io/docu-rpcs3/images/pass/rb3player.png "Rock Band 3: Pro Guitar ready to join")
+Enciende tu controlador y deberías ver que automáticamente se le asigna un número de jugador.
+![Una imagen de una Guitarra Mustang Pro con el LED del segundo jugador encendido.](https://carlmylo.github.io/docu-rpcs3/images/pass/protaron.png "Guitarra Mustang Pro de Fender: Jugador 2")
+
+Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.  
+![Una captura de Rock Band 3 con una Guitarra Pro lista para unirse.](https://carlmylo.github.io/docu-rpcs3/images/pass/rb3player.png "Rock Band 3: Guitarra Pro lista para unirse")
