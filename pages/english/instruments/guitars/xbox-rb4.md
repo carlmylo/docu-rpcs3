@@ -42,6 +42,8 @@ Please refer to RB4InstrumentMapper's documentation.
 
 This is the recommended mode and should not require any mapping. You simply need to assign the Handler, Device, and Device Class/Type.
 
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xboxrb4gtrsmapping.png" alt="Mapping" title="Mapping"></div>
+
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -129,14 +131,13 @@ This is the recommended mode and should not require any mapping. You simply need
 </tr>
 </tbody>
 </table>
+<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360rbgtrsmapping.png" alt="Mapping" title="Mapping"></div></p>
                             </div>
                         </div>
                     </div>
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
-
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360rbgtrsmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
