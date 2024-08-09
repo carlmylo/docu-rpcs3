@@ -4,7 +4,7 @@ sidebar: espanol_sidebar
 permalink: gocentral_es
 folder: espanol
 tags: [jugando-en-linea, espanol]
-summary: "Como usr GoCentral para jugar en linea"
+summary: "Como usar GoCentral para jugar en linea"
 series: "Jugando En Linea"
 weight: 3
 ---
