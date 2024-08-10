@@ -39,6 +39,8 @@ This may seem overwhelming because of the sheer number of options, but I have co
 
 <br/>
 
+## Configuration
+
 <ul id="profileTabs" class="nav nav-tabs">
     <li class="active"><a href="#cpu" data-toggle="tab">CPU</a></li>
     <li><a href="#gpu" data-toggle="tab">GPU</a></li>
@@ -61,7 +63,6 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </li>
 </ul>
 </div>
-
 <div role="tabpanel" class="tab-pane" id="gpu">
     <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/gpu.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline." title="GPU"></p>
 <ul>
@@ -101,9 +102,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-
 </div>
-
 <div role="tabpanel" class="tab-pane" id="audio">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png" alt="A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline." title="Audio"></p>
 <ul>
@@ -130,9 +129,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-
 </div>
-
 <div role="tabpanel" class="tab-pane" id="io">
 <p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
 <ul>
@@ -152,9 +149,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </li>
 </ul>
 <p>Revisit the <a href="https://rb3pc.milohax.org/english/controllers">[Controllers page]</a> if you need help.</p>
-
 </div>
-
 <div role="tabpanel" class="tab-pane" id="network">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
 <ul>
@@ -176,9 +171,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-
 </div>
-
 <div role="tabpanel" class="tab-pane" id="advanced">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png" alt="A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, &quot;Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline." title="Advanced"></p>
 <ul>
@@ -208,7 +201,6 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </li>
 </ul>
 </div>
-
 <div role="tabpanel" class="tab-pane" id="emulator">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png" alt="A screenshot of Rock Band 3's Emulator custom settings, showing &quot;Show trophy popups&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show Shader Compilation hint&quot;, &quot;Start Games in fullscreen mode&quot;, &quot;Use native user interface.&quot;" title="Emulator"></p>
 <p>You can leave this as is if you want, but I would consider changing the following options:</p>
@@ -223,8 +215,6 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-
-</div>
 </div>
 </div>
 
