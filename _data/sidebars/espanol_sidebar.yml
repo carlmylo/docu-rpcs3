@@ -6,209 +6,164 @@ entries:
   version: 
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
   - title: Empezando
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Advertencias
       url: /gs_disc_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Requisitos
       url: /gs_reqs_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Descargas
       url: /gs_downloads_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Iniciando
       url: /gs_init_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Cuenta De Usuario
       url: /gs_user_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Configuración Rápida
       url: /gs_quick_config_es
-      output: web, pdf
+      output: web
       type: homepage
 
   - title: Instrumentos y Controles
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Intro
       url: /ctrls_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Baterías
       url: /ctrls_drums_es
-      output: web, pdf
+      output: web
 
     - title: Guitarras
       url: /ctrls_guitar_es
-      output: web, pdf
+      output: web
 
     - title: Controles Modeados
       url: /modded_ctrls_es
-      output: web, pdf
+      output: web
 
     - title: Mandos
       url: /ctrls_pads_es
-      output: web, pdf
+      output: web
 
     - title: Teclados
       url: /ctrls_keys_es
-      output: web, pdf
+      output: web
 
     - title: Guitarras Pro
       url: /ctrls_protars_es
-      output: web, pdf
+      output: web
 
   - title: Configuración Personalizada
-    output: web, pdf
+    output: web
     folderitems:
 
-    - title: Introducción
-      url: /custom_config_start_es
-      output: web, pdf
+    - title: Como Configurar RPCS3
+      url: /custom_config_es
+      output: web
       type: homepage
 
-    - title: CPU
-      url: /custom_config_cpu_es
-      output: web, pdf
-
-    - title: GPU
-      url: /custom_config_gpu_es
-      output: web, pdf
-
-    - title: Audio
-      url: /custom_config_aud_es
-      output: web, pdf
-
-    - title: I/O
-      url: /custom_config_io_es
-      output: web, pdf
-
-    - title: System
-      url: /custom_config_sys_es
-      output: web, pdf
-
-    - title: Network
-      url: /custom_config_net_es
-      output: web, pdf
-
-    - title: Advanced
-      url: /custom_config_adv_es
-      output: web, pdf
-
-    - title: Emulator
-      url: /custom_config_emu_es
-      output: web, pdf
-  
   - title: Jugando en linea
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: RPCN - Empezando
       url: /rpcn_intro_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: RPCN - Administrando Amigos
       url: /rpcn_friends_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: GoCentral
       url: /gocentral_es
-      output: web, pdf
+      output: web
       type: homepage
 
   - title: Problemas y soluciones
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Problemas comunes
       url: /trbl_common_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Internet
       url: /trbl_online_es
-      output: web, pdf
+      output: web
 
     - title: Crasheos
       url: /trbl_crashes_es
-      output: web, pdf
+      output: web
 
     - title: Sonido
       url: /trbl_audio_es
-      output: web, pdf
+      output: web
 
     - title: Controles
       url: /trbl_controllers_es
-      output: web, pdf
+      output: web
 
     - title: Deluxe
       url: /trbl_deluxe_es
-      output: web, pdf
+      output: web
 
     - title: Misc
       url: /trbl_misc_es
-      output: web, pdf
+      output: web
 
   - title: Adicional
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Conexión Directa
       url: /adv_passthrough_es
-      output: web, pdf
+      output: web
       type: homepage
 
     - title: Agregar mas memoria
       url: /adv_himem_es
-      output: web, pdf
+      output: web
 
     - title: Agregar canciones
       url: /adv_customsongs_es
-      output: web, pdf
+      output: web
 
     - title: Mover archivos de el juego
       url: /adv_movedir_es
-      output: web, pdf
+      output: web
 
     - title: Add Custom Textures to Rock Band 3 Deluxe
       url: /adv_customtex_es
-      output: web, pdf
+      output: web
 
   - title: Conclusion
-    output: web, pdf
+    output: web
     folderitems:
 
     - title: Eso es todo
       url: /conclusion_es
-      output: web, pdf
+      output: web
       type: homepage
