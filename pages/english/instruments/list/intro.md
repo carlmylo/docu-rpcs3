@@ -31,7 +31,20 @@ Click on the instrument icon or the **"[CLICK HERE]"** link to be taken to their
 Once you've finished configuring, **remember to click "Save".**
 
 
+## Contributing
+
+Do you have a controller we don't have documentation on? Want to help expand this list further? Contact me (@carlmylo) on [**[the Milohax discord]**](https://discord.gg/milohax) or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new).  
+The following information is needed:
+* Instrument brand and model
+* Adapter(s) used
+* Platform for instrument (Xbox 360, PlayStation 4, etc.)
+* Bindings for every button (Green Fret = Cross)
+* Bindings file (`RPCS3\config\input_configs\BLUS30463\Default.yml`)
+* Screenshot of Custom Gamepad Configuration
+
 ## Using Profiles
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>This is not suggested for people using multiple controllers at once. </b> {{include.content}}</div>
 
 Profiles are premade setup files made by the community. They are drag and drop files which have preconfigured mappings for various instruments.
 Before you install, **if you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
@@ -42,9 +55,9 @@ Before you install, **if you have any bindings in `config\input_configs\BLUS3046
 
 ![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
 
-Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
+Most of the time, these controller profiles should work out of the box. If they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
 
-The profiles are formatted for single players. If you need to use a combination of various controllers for local multiplayer or want to quickly swap between multiple instruments, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
+Keep in mind that the profiles are formatted for single players. You will need to add all instruments needed.
 
 Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ or Sublime Text.
 Select everything from line 2 to the end of line 86 in the `Default.yml` file of the instrument you want to add, then copy it. 
@@ -55,16 +68,5 @@ Paste it into:
 * Line 346 to 430 for Player 5
 * Line 432 to 516 for Player 6
 * Line 518 to 602 for Player 7
-
-## Contributing
-
-Do you have a controller we don't have documentation on? Want to help expand this list further? Contact me (@carlmylo) on [**[the Milohax discord]**](https://discord.gg/milohax) or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new).  
-The following information is needed:
-* Instrument brand and model
-* Adapter(s) used
-* Platform for instrument (Xbox 360, PlayStation 4, etc.)
-* Bindings for every button ((Green Fret = Cross)
-* Bindings file (`RPCS3\config\input_configs\BLUS30463\Default.yml`)
-* Screenshot of Custom Gamepad Configuration
 
 {% include links.html %}

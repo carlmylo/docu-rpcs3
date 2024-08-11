@@ -1,27 +1,27 @@
 ---
 title: "Custom Configuration: Intro"
 sidebar: english_sidebar
-permalink: custom_config_start
+permalink: custom_config
 folder: english
-toc: false
 tags: [custom-config, english]
 summary: "What to change for Rock Band 3 in RPCS3's Custom Configuration"
-series: "Custom Configuration"
-weight: 1
 ---
 
-While Quick Configuration should work in most cases, some users might want to squeeze more fidelity or performance out of their game or prefer setting everything up themselves. This involves creating or editing a Custom Configuration for Rock Band 3.
+While Quick Configuration should work in most cases, some things require additional settings, like microphones and MIDI instruments. This involves creating or editing a Custom Configuration for Rock Band 3.
 
-## Creating a Custom Configuration
+<ul id="confeditTabs" class="nav nav-tabs">
+    <li class="active"><a href="#changecustomconfig" data-toggle="tab">Changing a Custom Configuration</a></li>
+    <li><a href="#createcustomconfig" data-toggle="tab">Creating a Custom Configuration</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="changecustomconfig">
+<p>If you’re editing a Custom Configuration (like the one you installed from Quick Configuration), <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Change Custom Configuration</strong>”.<br>
+<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Change Custom Configuration&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
 
-If you don't have a Custom Configuration yet, **right click on Rock Band 3** in RPCS3, then click on "**Create Custom Configuration From Default Settings**".  
-![A screenshot of RPCS3's right click menu, showing "Create Custom Configuration From Default Settings" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfig.png "Create Custom Configuration From Default Settings")
-
-## Changing a Custom Configuration
-
-If you're editing a Custom Configuration, **right click on Rock Band 3** in RPCS3, then click on "**Change Custom Configuration**".  
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Create Custom Configuration From Default Settings")
-
+<div role="tabpanel" class="tab-pane" id="createcustomconfig">
+<p>If you don’t have a Custom Configuration yet, <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Create Custom Configuration From Default Settings</strong>”.<br>
+<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfig.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Create Custom Configuration From Default Settings&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
+</div>
 <br/>
 
 **Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**  
@@ -41,7 +41,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 
 ## Configuration
 
-<ul id="profileTabs" class="nav nav-tabs">
+<ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#cpu" data-toggle="tab">CPU</a></li>
     <li><a href="#gpu" data-toggle="tab">GPU</a></li>
     <li><a href="#audio" data-toggle="tab">Audio</a></li>
@@ -134,7 +134,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
 <ul>
 <li><strong>If you’re not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
-<li><strong>If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough">[<strong>skip</strong> over <strong>this section</strong>].</a></li>
+<li><strong>If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough">[<strong>[Passthrough Devices]</strong>]</a>section. </li>
 </ul>
 <p><strong>Make sure your MIDI instrument is connected.</strong> After that, let’s go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>
@@ -218,7 +218,5 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </div>
 </div>
 
-
-{% include custom/series_custom_config_next.html %}
 
 {% include links.html %}
