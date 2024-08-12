@@ -3,11 +3,12 @@ title: "Custom Configuration"
 sidebar: english_sidebar
 permalink: custom_config
 folder: english
+toc: false
 tags: [custom-config, english]
 summary: "What to change for Rock Band 3 in RPCS3's Custom Configuration"
 ---
 
-While Quick Configuration should work in most cases, some things require additional settings, like microphones and MIDI instruments. This involves creating or editing a Custom Configuration for Rock Band 3.
+While a Quick Configuration should work in most cases, some things require additional settings, like microphones and MIDI instruments. This involves creating or editing a Custom Configuration for Rock Band 3.
 
 <ul id="confeditTabs" class="nav nav-tabs">
     <li class="active"><a href="#changecustomconfig" data-toggle="tab">Changing a Custom Configuration</a></li>
@@ -27,9 +28,9 @@ While Quick Configuration should work in most cases, some things require additio
 **Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**  
 ![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
-## Color Guide
+## Configuration
 
-This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Anything not colored should be left alone.
+This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Anything not colored **should be left on defaults**.
 
 | COLOR | MEANING |
 |---|---|
@@ -38,8 +39,6 @@ This may seem overwhelming because of the sheer number of options, but I have co
 | ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
 
 <br/>
-
-## Configuration
 
 <ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#cpu" data-toggle="tab">CPU</a></li>
