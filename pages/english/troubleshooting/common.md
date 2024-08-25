@@ -3,6 +3,7 @@ title: Common
 sidebar: english_sidebar
 permalink: trbl_common
 folder: english
+toc: false
 ---
 
 <div class="panel-group" id="accordion">
