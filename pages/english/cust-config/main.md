@@ -28,7 +28,7 @@ While a Quick Configuration should work in most cases, some things require addit
 **Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**  
 ![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
-## Configuration
+## Color Guide
 
 This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Anything not colored **should be left on defaults**.
 
@@ -39,6 +39,8 @@ This may seem overwhelming because of the sheer number of options, but I have co
 | ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
 
 <br/>
+
+## Custom Configuration
 
 <ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#cpu" data-toggle="tab">CPU</a></li>
