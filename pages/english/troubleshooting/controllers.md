@@ -41,8 +41,10 @@ toc: false
                         </div>
                         <div id="pro-drums-my-e-kit-doesnt-work" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.
+                                <ul>
+                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
                                 <li>Make sure your E-Kit is mapped correctly and on the right channel. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi">[the MIDI Drums page]</a> for more help.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
