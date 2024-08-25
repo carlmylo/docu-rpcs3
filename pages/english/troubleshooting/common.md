@@ -83,10 +83,9 @@ folder: english
                         </div>
                         <div id="my-audio-is-stutteringchoppy" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe> 
-<ul>
-<li>Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.</li>
-</ul></ul>
+<ul><li><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe> 
+</li></ul>
+<li>Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.</li></ul>
                             </div>
                         </div>
                     </div>
