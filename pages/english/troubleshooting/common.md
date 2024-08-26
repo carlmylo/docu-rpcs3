@@ -53,19 +53,6 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-i-crash-when-joining-sessionssearching-for-players">[Online] I crash when joining sessions/searching for players</a>
-                            </h4>
-                        </div>
-                        <div id="online-i-crash-when-joining-sessionssearching-for-players" class="panel-collapse collapse">
-                            <div class="panel-body">
-<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network section]</a>, and disable “Enable UPNP.” You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide">[search how to port forward in your router]</a>.</p></ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-feels-off">My game feels off</a>
                             </h4>
                         </div>
@@ -86,7 +73,7 @@ toc: false
                             <div class="panel-body">
 <ul><li><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe> 
 </li></ul>
-<li>Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.</li></ul>
+<ul><li>Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.</li></ul>
                             </div>
                         </div>
                     </div>

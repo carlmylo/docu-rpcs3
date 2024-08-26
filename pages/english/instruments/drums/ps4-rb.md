@@ -1,5 +1,5 @@
 ---
-title: PlayStation 4/PlayStation 5 Rock Band 4 Drums
+title: "PlayStation 4 Rock Band 4 Drums"
 sidebar: controllers_sidebar
 permalink: ctrls_rb4drums_ps4
 folder: instruments
@@ -53,4 +53,4 @@ toc: false
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g)
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
