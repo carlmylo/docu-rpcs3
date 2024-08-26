@@ -14,7 +14,7 @@ toc: false
 ## NOTES
 
 * **Tilt, Whammy, and pickup switch WILL NOT work at all!** Solo buttons may or may not work.
-	* If you won a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, tilt, and a multiplatform guitar.
+	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, tilt, and a multiplatform guitar.
 * **The Rock Band 4 Jaguar and Stratocaster controllers are known for having horrible latency.**
 * PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
