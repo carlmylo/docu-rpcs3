@@ -115,12 +115,12 @@ entries:
       output: web
       type: homepage
 
-    - title: Fortnite Festival Guitars
+    - title: Xbox One Fortnite Festival Guitars
       url: /ctrls_rb4gtr_xbox
       output: web
       type: homepage
 
-    - title: "Xbox One/Xbox Series Rock Band 4 Guitars"
+    - title: "Xbox One Rock Band 4 Guitars"
       url: /ctrls_rb4gtr_xbox
       output: web
       type: homepage
@@ -167,6 +167,16 @@ entries:
 
     - title: "PC/Mac Guitar Hero World Tour Guitars"
       url: /ctrls_ghwtgtr_pc
+      output: web
+      type: homepage
+
+    - title: PlayStation 4 Fortnite Festival Guitars
+      url: /ctrls_rb4gtr_ps4
+      output: web
+      type: homepage
+
+    - title: "PlayStation 4 Rock Band 4 Guitars"
+      url: /ctrls_rb4gtr_ps4
       output: web
       type: homepage
 

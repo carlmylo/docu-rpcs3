@@ -94,7 +94,6 @@ entries:
       output: web
       type: homepage
 
-
     - title: "Batería de Rock Band 4 para PlayStation 4"
       url: /ctrls_rb4drums_ps4_es
       output: web
@@ -115,12 +114,12 @@ entries:
       output: web
       type: homepage
 
-    - title: Guitarra de Fortnite Festival
+    - title: Guitarra de Fortnite Festival para Xbox One
       url: /ctrls_rb4gtr_xbox_es
       output: web
       type: homepage
 
-    - title: "Guitarra de Rock Band 4 para Xbox One/Xbox Series"
+    - title: "Guitarra de Rock Band 4 para Xbox One"
       url: /ctrls_rb4gtr_xbox_es
       output: web
       type: homepage
@@ -167,6 +166,16 @@ entries:
 
     - title: "Guitarra de World Tour para PC/Mac"
       url: /ctrls_ghwtgtr_pc_es
+      output: web
+      type: homepage
+
+    - title: Guitarra de Fortnite Festival para PlayStation 4
+      url: /ctrls_rb4gtr_ps4_es
+      output: web
+      type: homepage
+
+    - title: "Guitarra de Rock Band 4 para PlayStation 4"
+      url: /ctrls_rb4gtr_ps4_es
       output: web
       type: homepage
 
