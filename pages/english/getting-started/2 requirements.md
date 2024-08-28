@@ -26,6 +26,7 @@ You will need:
 	* _MIDI Electronic Drum Kit (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)_
 	* [_[Click here for a visual guide]_](https://rb3pc.milohax.org/english/controllers)
 *   _A computer_
+
 | **Minimum** | **Recommended** |
 |--|--|
 | `OS:` <br>Windows 10 | `OS:` Windows 10 or higher |
@@ -34,6 +35,7 @@ You will need:
 | `Graphics:` <br>GeForce GT 730 2GB (or equivalent) with Vulkan support | `Graphics:` <br>NVIDIA GeForce GTX 1650 (or equivalent) or better with Vulkan support |
 | `Storage:` <br>7200 RPM Hard Drive with ~11.2 GBs of space for Rock Band 3 and Rock Band 3 Deluxe. <br>No DLC at all. <br>Additional custom songs require more space. | `Storage:` SATA SSD (or faster) with ~67.4 GBs forRock Band 3, Rock Band 3 Deluxe, all DLC, and exports after installation. <br>An additional 16.7 GBs are required for Rock Band 4, Rock Band Rivals, and Rock Band 4 DLC. <br>An additional 80 GBs are required for RBN 1+2. <br>Additional custom songs require more space. |
 | `Notes:` The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 100 ms audio latency, 60 Hz with occasional performance drops | `Notes:` Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 32 ms audio (or lower.) |
+
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit exaggerated for this game.
 	* **Laptop users** should check [[the RPCS3 website]]((https://rpcs3.net/quickstart)) for requirements.
 *   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
