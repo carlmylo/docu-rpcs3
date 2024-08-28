@@ -16,11 +16,11 @@ While a Quick Configuration should work in most cases, some things require addit
 </ul>
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="changecustomconfig">
-<p>If you’re editing a Custom Configuration (like the one you installed from Quick Configuration), <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Change Custom Configuration</strong>”.<br>
+<p>If you're editing a Custom Configuration (like the one you installed from Quick Configuration), <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Change Custom Configuration</strong>”.<br>
 <img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Change Custom Configuration&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
 
 <div role="tabpanel" class="tab-pane" id="createcustomconfig">
-<p>If you don’t have a Custom Configuration yet, <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Create Custom Configuration From Default Settings</strong>”.<br>
+<p>If you don't have a Custom Configuration yet, <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Create Custom Configuration From Default Settings</strong>”.<br>
 <img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfig.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Create Custom Configuration From Default Settings&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
 </div>
 <br/>
@@ -79,21 +79,21 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li><strong>Enable “VSync”</strong> - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. <strong>Do not enable this with the frame limiter</strong>.</li>
 <li><strong>Change "Frame Limit"</strong>
 <ul>
-<li>Set it to “Off” to use higher VBlank Frequencies, which may introduce jitter, <strong>or if you’re using VSync.</strong></li>
+<li>Set it to “Off” to use higher VBlank Frequencies, which may introduce jitter, <strong>or if you're using VSync.</strong></li>
 <li>Auto will use default RPCS3 settings.</li>
-<li>It is suggested to use your graphics driver’s settings or software like MSI Afterburner to limit your framerate instead.</li>
+<li>It is suggested to use your graphics driver's settings or software like MSI Afterburner to limit your framerate instead.</li>
 <li>Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.</li>
 <li>Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.</li>
-<li>It’s suggested to disable VSync within Rock Band 3 Deluxe itself in <code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics &gt; VSync</code></li>
+<li>It's suggested to disable VSync within Rock Band 3 Deluxe itself in <code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics &gt; VSync</code></li>
 </ul>
 </li>
 <li><strong>Change “ZCULL Accuracy” to “Relaxed”</strong> - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.</li>
-<li><strong>Adjust “Resolution Scale”</strong> to preference and to what your computer can handle. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution. Lowering this below 100% isn’t worth it as it won’t give much, if any, framerate gains.</li>
-<li><strong>Adjust “Output Scaling”</strong> to preference and to what your computer can handle. This affects how the game is “blown up” in size when fitting to your monitor’s native resolution. Helpful for those keeping Resolution Scale (mentioned above) at 100% while playing on a monitor larger than 1280x720.
+<li><strong>Adjust “Resolution Scale”</strong> to preference and to what your computer can handle. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution. Lowering this below 100% isn't worth it as it won't give much, if any, framerate gains.</li>
+<li><strong>Adjust “Output Scaling”</strong> to preference and to what your computer can handle. This affects how the game is “blown up” in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale (mentioned above) at 100% while playing on a monitor larger than 1280x720.
 <ul>
 <li>“Nearest” is completely unfiltered and gives you a raw unmodified image. This can cause the game to look pixelated.</li>
 <li>“Bilinear” uses smoothing to scale the image up. This may cause the game to look blurry.</li>
-<li>FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image when it gets blown up to your monitor’s resolution. This can create odd artifacts in some instances.
+<li>FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image when it gets blown up to your monitor's resolution. This can create odd artifacts in some instances.
 <ul>
 <li>You can use “RCAS Sharpening Strength” below to adjust the strength of its effect.</li>
 </ul>
@@ -110,7 +110,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on audio hardware and CPU</strong>:</p>
 <ul>
-<li><strong>Adjust “Audio Buffer Duration”</strong> depending on system.
+<li><strong>Adjust “Audio Buffer Duration”</strong> depending on system. Ideally you want this as low as possible.
 <ul>
 <li>Lower values give you less audio latency but use more CPU.</li>
 <li>Higher values give you more audio latency but use less CPU.</li>
@@ -118,7 +118,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>You can change this while the game is running, but it will require re-calibrating in Rock Band 3’s system settings.</li>
 </ul>
 </li>
-<li><strong>Change “Audio Out” to “XAudio2”</strong> - While <strong>most users should stay on Cubeb</strong>, a couple of people have experienced better performance with XAudio2. Your milage may vary.</li>
+<li><strong>Change “Audio Out” to “XAudio2”</strong> - While <strong>most users should stay on Cubeb</strong>, a couple of people have experienced better performance with XAudio2. Your mileage may vary.</li>
 </ul>
 </li>
 <li>
@@ -134,10 +134,10 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <div role="tabpanel" class="tab-pane" id="io">
 <p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
 <ul>
-<li><strong>If you’re not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
-<li><strong>If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough">[<strong>[Passthrough Devices]</strong>]</a>section. </li>
+<li><strong>If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
+<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough">[<strong>[Passthrough Devices]</strong>]</a>section. </li>
 </ul>
-<p><strong>Make sure your MIDI instrument is connected.</strong> After that, let’s go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
+<p><strong>Make sure your MIDI instrument is connected.</strong> After that, let's go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>
 <img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline." title="I/O"></p>
 <ul>
@@ -164,7 +164,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For online multiplayer</strong>:</p>
 <ul>
 <li>You can tick <strong>“Enable UPNP”</strong> or <strong>forward port 9103 (UDP) in your firewall</strong>.</li>
-<li>To play Rock Band 3 online, add Rock Band Enhanced’s Server IP.
+<li>To play Rock Band 3 online, add Rock Band Enhanced's Server IP.
 <ul>
 <li>Set IP/Hosts switches to <code>rb3ps3live.hmxservices.com=45.33.44.103</code>.</li>
 </ul>
@@ -185,7 +185,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Depending on your computer</strong>:</p>
 <ul>
-<li><strong>Adjust VBlank Frequency</strong> if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. <strong>It’s best left alone</strong> and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
+<li><strong>Adjust VBlank Frequency</strong> if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. <strong>It's best left alone</strong> and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
 <ul>
 <li>Once again, having a higher VBlank can cause issues with vocal detection.</li>
 </ul>
@@ -210,7 +210,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <ul>
 <li><strong>"Show trophy popups"</strong> - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.</li>
 <li><strong>"Show PPU compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the “Recompiler (LLVM)” setting in the CPU tab does this when launching the game.</li>
-<li><strong>"Show shader compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. <strong>The game will</strong> appear to <strong>stutter when this happens</strong>. <strong>This happens on ALL computer systems. When it finishes</strong> compiling an effect, <strong>it will usually never happen again</strong>. <strong>The best way to deal with this is</strong> just <strong>to</strong> <strong>play the game</strong> as it will quickly go away. You can also use Rock Band 3 Deluxe’s Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.</li>
+<li><strong>"Show shader compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. <strong>The game will</strong> appear to <strong>stutter when this happens</strong>. <strong>This happens on ALL computer systems. When it finishes</strong> compiling an effect, <strong>it will usually never happen again</strong>. <strong>The best way to deal with this is</strong> just <strong>to</strong> <strong>play the game</strong> as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.</li>
 <li><strong>"Start games in Fullscreen mode"</strong> - Switches to Fullscreen when you start Rock Band 3.</li>
 <li><strong>"Use Native Interface"</strong> - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups. This can also fix a problem with instrument controllers soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.</li>
 </ul>
