@@ -7,6 +7,7 @@ permalink: gs_reqs
 folder: english
 series: "Getting Started"
 weight: 2
+toc: false
 ---
 
 You will need:
