@@ -10,27 +10,31 @@ weight: 2
 ---
 
 You will need:
-* A copy of Rock Band 3 for the PS3 on your computer. **BLUS-30463 version only!** 
-* _A controller. You can use:_
-	* Rock Band and Guitar Hero Guitars (PS2, PS3, Wii, X360, XBONE) <sup>a
-	* Rock Band and Guitar Hero Drums (PS3, Wii, X360, XBONE) <sup>a
-	* Standard controllers/computer keyboards for "Padtar" or vocals <sup>b
-	* A Rock Band 3 MIDI Pro Adapter with a compatible MIDI guitar, and MIDI keyboard (PS3 version only) <sup>c
-	* A Rock Band 3 MIDI Pro Adapter with a compatible MIDI drum kit (PS3, Wii, X360) <sup>c
-	* A Rock Band 3 Keyboard \[**Wireless**\] (PS3 version via dongle only) <sup>c
-	* A Rock Band 3 Keyboard \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter) <sup>d
-	* A Rock Band 3 Fender Mustang PRO Guitar \[**Wireless**\] (PS3 version via dongle only) <sup>c
-	* A Rock Band 3 Fender Mustang PRO Guitar \[**Wired**\] (via MIDI to USB adapter)
-	* A Rock Band 3 Squier Stratocaster PRO Guitar (PS3, Wii, X360 via MIDI to USB adapter)
-	* Any MIDI Keyboard (**37 keys minimum** via USB or MIDI to USB adapter) <sup>d 
-	* MIDI Electronic Drum Kit (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)
+# A copy of Rock Band 3 for the PS3 on your computer.
+**BLUS-30463 version only!** 
+
+# A controller.
+You can use:
+
+* Rock Band and Guitar Hero Guitars (PS2, PS3, Wii, X360, XBONE) <sup>a
+* Rock Band and Guitar Hero Drums (PS3, Wii, X360, XBONE) <sup>a
+* Standard controllers/computer keyboards for "Padtar" or vocals <sup>b
+* A Rock Band 3 MIDI Pro Adapter with a compatible MIDI guitar, and MIDI keyboard (PS3 version only) <sup>c
+* A Rock Band 3 MIDI Pro Adapter with a compatible MIDI drum kit (PS3, Wii, X360) <sup>c
+* A Rock Band 3 Keyboard \[**Wireless**\] (PS3 version via dongle only) <sup>c
+* A Rock Band 3 Keyboard \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter) <sup>d
+* A Rock Band 3 Fender Mustang PRO Guitar \[**Wireless**\] (PS3 version via dongle only) <sup>c
+* A Rock Band 3 Fender Mustang PRO Guitar \[**Wired**\] (via MIDI to USB adapter)
+* A Rock Band 3 Squier Stratocaster PRO Guitar (PS3, Wii, X360 via MIDI to USB adapter)
+* Any MIDI Keyboard (**37 keys minimum** via USB or MIDI to USB adapter) <sup>d 
+* MIDI Electronic Drum Kit (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)
 
 <sup>a</sup> <sub>Some instrument controllers are missing features like tilt or effect switches. Refer to the instrument section for more information.</sub>  
 <sup>b</sup> <sub>This guide supports both auto-strum and non-autostrum (Fortnite Festival Pro) modes.</sub>  
 <sup>c</sup> <sub>Certain Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
-<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://rb3pc.milohax.org/instruments/misc/midikeys){:target="_blank"}</sub>  
+<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi){:target="_blank"}</sub>  
 
-* A computer
+## A Computer
 
 | **Minimum** | **Recommended** |
 |--|--|
