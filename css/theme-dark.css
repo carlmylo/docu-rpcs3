@@ -4,6 +4,9 @@ body    {
     color: #ffffff;
 }
 
+h3 {color: #F57F9F; }
+h4 {color: #e6e6e6; }
+
 a {
     color: #44a8ff;
 }
@@ -121,9 +124,6 @@ code {
     font-size:16px;
     background:#222;
 }
-
-h3 {color: #F57F9F; }
-h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
