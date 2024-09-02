@@ -10,10 +10,10 @@ weight: 2
 ---
 
 You will need:
-# A copy of Rock Band 3 for the PS3 on your computer.
+#### A copy of Rock Band 3 for the PS3 on your computer.
 **BLUS-30463 version only!** 
 
-# A controller.
+#### A controller.
 You can use:
 
 * Rock Band and Guitar Hero Guitars (PS2, PS3, Wii, X360, XBONE) <sup>a
@@ -34,7 +34,7 @@ You can use:
 <sup>c</sup> <sub>Certain Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
 <sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi){:target="_blank"}</sub>  
 
-## A Computer
+#### A Computer
 
 | **Minimum** | **Recommended** |
 |--|--|
@@ -47,7 +47,8 @@ You can use:
 
 * You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart){:target="_blank"} although they may be a bit exaggerated for this game.
 * **Laptop users** should check [[the RPCS3 website]](https://rpcs3.net/quickstart){:target="_blank"} for requirements.
-*   _[[7-Zip]](https://www.7-zip.org/download.html){:target="_blank"} (or WinRAR if you hate yourself)_
+#### [[7-Zip]](https://www.7-zip.org/download.html){:target="_blank"} or [[NanaZip]](https://apps.microsoft.com/detail/9n8g7tscl18r){:target="_blank"} if you're on Windows 11.
+(or WinRAR if you hate yourself)
 
 
 {% include custom/series_getting_started_next.html %}
