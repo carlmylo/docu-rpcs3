@@ -1,9 +1,10 @@
 ---
 title: PlayStation 3 Guitar Hero Genericaster (World Tour and later) Guitars
-author: Carl Mylo
-date: 
-category: Instruments
-layout: post
+sidebar: controllers_sidebar
+permalink: ctrls_ghwtgtr_ps3
+folder: instruments
+tags: [ps3, english]
+toc: false
 ---
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps3.png" alt="Platform" title="Platform"></div>
@@ -12,7 +13,9 @@ layout: post
 
 ## NOTES
 
-* You may experience softlocks when opening up interface menus, like RPCN related ones. Tilt the guitar to recover from softlocks.
+* **This controller is known for having horrible latency.**
+	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero).
+* You may experience softlocks when opening up interface menus, like RPCN related ones. You may be able to tilt the guitar to recover from softlocks.
 
 ## Pad Information
 
@@ -26,7 +29,7 @@ layout: post
 
 ## Mappings
 
-* Tilt can be set up but it is very complicated. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not tilt.
+* Tilt can be set up but it is very complicated and will take up the select button. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not tilt.
 	* To bind multiple buttons to one RPCS3 button, hold Shift then click on the RPCS3 button you want to assign multiple buttons to.
 * Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
