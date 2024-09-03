@@ -28,8 +28,8 @@ toc: false
                         </div>
                         <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <p>Unbind L2 from your guitar in your gamepad configuration.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a Rock Band 3 keyboard. When X (which is 1 on the Wii keyboard) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B is pressed, it shifts up to C3 to C5." title="L2 Unbound"></p>
+                                <p>Unbind L2 from your guitar in your gamepad configuration by right clicking it.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a RPCS3's Gamepad Configuration. L2 button is being unbound." title="L2 Unbound"></p>
                             </div>
                         </div>
                     </div>
@@ -88,6 +88,22 @@ toc: false
                         <div id="pro-drums-hitting-two-cymbals-registers-as-a-tom" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 This is an infamous Rock Band 3 bug called the “double cymbal glitch” and plagues all versions of Rock Band 3, even console versions. You can try to slightly <a href="https://en.wikipedia.org/wiki/Drum_rudiment#Flam">[flam]</a> the two inputs to get around this.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                                        <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#miditar-my-protar-doesnt-work">[Pro Guitar] My guitar doesn't work.</a>
+                            </h4>
+                        </div>
+                        <div id="miditar-my-protar-doesnt-work" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <ul>
+                                <li>Pro Guitars require a MIDI interface with SYSEX capabilities. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_protars">[your Pro Guitar's page]</a> to see which interfaces are confirmed to work.</li></li>
+                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
