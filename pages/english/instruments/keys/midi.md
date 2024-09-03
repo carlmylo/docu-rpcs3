@@ -70,9 +70,9 @@ MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
 | #42 | F#2 | F#1 | ![Circle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle") |
 | #44 | G#2 | G#1 | ![Cross](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross") |
 | #46 | A#2 | A#1 | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
+| Pitch Bend | Pitch Bend | Pitch Bend | Whammy/Touch Strip |
 | CC#1 | Modwheel | Modwheel | Deploy Overdrive |
 | CC#64 | Sustain | Sustain | Deploy Overdrive |
-| Pitch Bend | Pitch Bend | Pitch Bend | Whammy/Touch Strip |
 
 #### 25 Key Keyboards
 
