@@ -27,6 +27,7 @@ toc: false
 | Verified <br> MIDI to USB interfaces |
 |:------------------:|
 | **M-Audio** <br> Midisport Uno |
+| **Roland** <br> UM-ONE mk2 |
 | **Focusrite** <br> Scarlett (4i4 and higher) [3rd Gen] |
 
 ## Instructions:
