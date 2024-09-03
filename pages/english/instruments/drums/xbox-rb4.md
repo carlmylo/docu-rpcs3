@@ -52,7 +52,6 @@ This is the recommended mode and should not require any mapping. You simply need
                             <div class="panel-body">
 <p><a href="https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
 <p>This is not suggested as it requires lots of manual mapping. You should instead use <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
-<ul>
 <p>By default, XInput has most things bound correctly. You only need to remap the following:</p>
 
 <table>
