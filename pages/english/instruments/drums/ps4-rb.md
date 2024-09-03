@@ -15,7 +15,7 @@ toc: false
 * **PRO Cymbals do not work at all.**
 * Latency may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * Velocity sensitivity doesn't seem to work.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -51,6 +51,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiirbdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

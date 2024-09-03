@@ -17,6 +17,7 @@ toc: false
 * Gem colors do not match the pads.
 * This was tested with a Raphnet "Classic controller to USB adapter".
 	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -56,6 +57,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiighdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
 
-Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g)
+Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

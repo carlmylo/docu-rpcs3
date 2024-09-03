@@ -20,7 +20,7 @@ toc: false
 	* **standard GM mapping.**
 	* These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads).
+* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Instructions:
 
@@ -78,7 +78,7 @@ Below are the defaults and what each option does.
 #### Remapping
 If your MIDI Drum Kit has incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
 * To do this:
-	* Go to [MIDI Monitor](https://www.midimonitor.com/)
+	* Go to [MIDI Monitor](https://www.midimonitor.com/){:target="_blank"}
 	* Play the pad you want to replace to find its MIDI Note number ("Note #[number]").
 
 The file uses the following note names:
@@ -119,8 +119,8 @@ This is left here for reference. These are the bindings the official Harmonix Ro
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/){:target="_blank"}
 
 
-Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
-Implemented by [[nswarm]](https://github.com/nswarm)
+Research by [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}
+Implemented by [[nswarm]](https://github.com/nswarm){:target="_blank"}

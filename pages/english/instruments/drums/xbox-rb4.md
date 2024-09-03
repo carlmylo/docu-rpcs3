@@ -12,11 +12,11 @@ toc: false
 
 ## NOTES
 
-* Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/)
+* Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
 * Works with or without the Pro Cymbal expansions.
 	* Make sure to tell the game which cymbals are connected in the Drum Options menu.
 * Velocity sensitivity doesn't seem to work.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -31,7 +31,7 @@ toc: false
 ## Additional Setup
 
 Please refer to RB4InstrumentMapper's documentation.  
-[[Click here to go there]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.md).
+[[Click here to go there]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.md){:target="_blank"}.
 
 ## Mapping
 
@@ -162,6 +162,6 @@ This is the recommended mode and should not require any mapping. You simply need
 </div>
 <!-- /.panel-group -->
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
