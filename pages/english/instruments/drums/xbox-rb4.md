@@ -39,8 +39,6 @@ Please refer to RB4InstrumentMapper's documentation.
 
 This is the recommended mode and should not require any mapping. You simply need to assign the Handler, Device, and Device Class/Type.
 
-### Controller Emulation Mode: ViGEmBus
-
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -52,6 +50,35 @@ This is the recommended mode and should not require any mapping. You simply need
                             <div class="panel-body">
 <p><a href="https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
 <p>This is not suggested as it requires lots of manual mapping. You should instead use <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
+<ul>
+<p>By default, XInput has most things bound correctly. You only need to remap the following:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>XInput</strong></th>
+<th align="center"><strong>Drums</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">R1</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lsc.png" alt="Left Stick Click" title="Left Stick Click"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Second Foot Pedal" title="Second Foot Pedal"></td>
+</tr>
+<tr>
+<td align="center">L3</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png" alt="Right Stick Click" title="Right Stick Click"></td>
+<td align="center">Pad Modifier</td>
+</tr>
+<tr>
+<td align="center">R3</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rb.png" alt="Right Bumper" title="Right Bumper"></td>
+<td align="center">Cymbal Modifier</td>
+</tr>
+</tbody>
+</table><h3 id="advanced-mapping">Advanced Mapping</h3>
 <ul>
 <li>Rock Band Drums send multiple button presses out at once. For example, a Red pad will send “<code>B</code>” and “<code>Right Stick Click</code>” (which translates to “<code>Circle</code>” and “<code>L3</code>”.) Keep in mind these are needed to the emulator to tell your cymbals apart.
 <ul>
@@ -65,74 +92,68 @@ This is the recommended mode and should not require any mapping. You simply need
 <thead>
 <tr>
 <th align="center"><strong>RPCS3</strong></th>
-<th align="center"><strong>Controller</strong></th>
+<th align="center"><strong>Drums</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
+</tr>
+<tr>
+<td align="center">R3</td>
+<td align="center">Cymbal Modifier</td>
+</tr>
+<tr>
+<td align="center">L3</td>
+<td align="center">Pad Modifier</td>
 </tr>
 <tr>
 <td align="center">L1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Up</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Down</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Left</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png" alt="D-Pad: Left" title="D-Pad: Left"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Right</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png" alt="D-Pad: Right" title="D-Pad: Right"></td>
-</tr>
-<tr>
-<td align="center">Right Stick: <br> Left/Right</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
-</tr>
-<tr>
-<td align="center">Right Stick: <br> Up <em>or</em> Down</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png" alt="Effects Switch" title="Effects Switch"></td>
-</tr>
-<tr>
-<td align="center">L2</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png" alt="Solo Buttons" title="Solo Buttons"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png" alt="Tilt" title="Tilt"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Second Foot Pedal" title="Second Foot Pedal"></td>
 </tr>
 <tr>
-<td align="center">Start</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png" alt="Plus" title="Start"></td>
+<td align="center">Cross</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/a.png" alt="A Button" title="A Button"></td>
 </tr>
 <tr>
-<td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png" alt="Minus" title="Back"></td>
+<td align="center">Circle</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/b.png" alt="B Button" title="B Button"></td>
+</tr>
+<tr>
+<td align="center">Square</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/x.png" alt="X Button" title="X Button"></td>
+</tr>
+<tr>
+<td align="center">Triangle</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/y.png" alt="Y Button" title="Y Button"></td>
+</tr>
+<tr>
+<td align="center">D-Pad</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png" alt="D-Pad" title="D-Pad"></td>
 </tr>
 <tr>
 <td align="center">PS Button</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png" alt="Home" title="Home"></td>
 </tr>
+</tbody>
+</table>
 <p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xborbdrmsmapping.png" alt="Mapping" title="Mapping"></div></p>
 </tbody>
 </table>
