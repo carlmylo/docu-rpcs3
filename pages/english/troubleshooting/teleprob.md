@@ -30,7 +30,7 @@ After that:
 2. Go into the `rb3_ps3_guitar_glitch_fix` folder you extracted. 
 3. You should see `gen` in both file browser windows.
 4. Drag the `gen` folder from the right `rb3_ps3_guitar_glitch_fix` folder to the left `USRDIR` folder.  
-5. Click `Replace the files in the destination` when prompted.
+5. Click `Replace the file in the destination` when prompted.
 
 ![A GIF of the files within the gen folder being replaced.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchrepl.gif "Replacing gen folder")
 
