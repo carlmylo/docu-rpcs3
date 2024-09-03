@@ -70,6 +70,6 @@ toc: false
 | ![Right Bumper](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
 | ![Right Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xboxmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xboxpadmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)

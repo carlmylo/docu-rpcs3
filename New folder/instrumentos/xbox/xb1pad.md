@@ -28,7 +28,7 @@ layout: post
 
 ![Control](https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/xbxcontroller.png "Control") 
 
-![Mapeando](https://carlmylo.github.io/docu-rpcs3/images/instruments/xboxmapping.png "Mapeando") 
+![Mapeando](https://carlmylo.github.io/docu-rpcs3/images/instruments/xboxpadmapping.png "Mapeando") 
 
 [[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 

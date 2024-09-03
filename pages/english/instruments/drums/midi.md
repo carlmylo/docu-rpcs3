@@ -20,7 +20,7 @@ toc: false
 	* **standard GM mapping.**
 	* These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
+* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads).
 
 ## Instructions:
 
@@ -51,8 +51,8 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 
 ## Mapping
 By default:
-* START: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
-* SELECT: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
+* `START`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
+* `SELECT`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
 * Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
 
 ### Additional Setup:
@@ -104,6 +104,7 @@ Examples of common replacements:
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
 
 ### Default Mapping
+This is left here for reference. These are the bindings the official Harmonix Rock Band Pro MIDI Adapter used.
 
 | **MIDI Note#** | **Trigger Type** | **In-Game Action** |
 |:--------:|:-------------------:|:-----------------:|
