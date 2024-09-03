@@ -74,6 +74,10 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 | Select | ![Back](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png "Back") |
 | PS Button | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
 
+### Passthrough Mode
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
+
 ## Profile
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/RetroCultMods%20Solderless%20Kit.7z)
