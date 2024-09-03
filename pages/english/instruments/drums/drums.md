@@ -39,4 +39,4 @@ toc: false
 | R3 | Cymbal Modifier | |
 | L3 | Pad Modifier | |
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)

@@ -51,6 +51,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiirbdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

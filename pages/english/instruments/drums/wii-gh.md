@@ -57,6 +57,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiighdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
 Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

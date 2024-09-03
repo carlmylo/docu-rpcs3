@@ -162,6 +162,6 @@ This is the recommended mode and should not require any mapping. You simply need
 </div>
 <!-- /.panel-group -->
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
