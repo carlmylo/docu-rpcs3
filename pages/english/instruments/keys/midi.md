@@ -53,24 +53,32 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 
 ### Mapping
 
+MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
+
 ![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](https://carlmylo.github.io/docu-rpcs3/images/midi/keysctrl.png "MIDI Keyboard Reference")
 
-| **Note** | **Button** |
-|:--------:|:-------------------:|
-| C2 | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
-| D2 | ![D-Pad Left](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png "D-Pad Left") |
-| E2 | ![D-Pad Right](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png "D-Pad Right") |
-| F2 | ![D-Pad Up](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png "D-Pad Up") |
-| G2 | ![D-Pad Down](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png "D-Pad Down") |
-| A2 | Deploy Overdrive |
-| C#2 | ![Triangle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle") |
-| D#2 | ![Square](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square") |
-| F#2 | ![Circle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle") |
-| G#2 | ![Cross](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross") |
-| A#2 | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
-| Modwheel | Deploy Overdrive |
-| Sustain | Deploy Overdrive |
-| Pitch Wheel | Whammy/Touch Strip |
+**Note#** | **Note** | **Note (Yamaha)** | **Button** |
+|:-------:|:--------:|:-----------------:|:----------:|
+| #36 | C2 | C1 | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
+| #38 | D2 | D1 | ![D-Pad Left](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png "D-Pad Left") |
+| #40 | E2 | E1 | ![D-Pad Right](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png "D-Pad Right") |
+| #41 | F2 | F1 | ![D-Pad Up](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png "D-Pad Up") |
+| #43 | G2 | G1 | ![D-Pad Down](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png "D-Pad Down") |
+| #45 | A2 | A1 | Deploy Overdrive |
+| #37 | C#2 | C#1 | ![Triangle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle") |
+| #39 | D#2 | D#1 | ![Square](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square") |
+| #42 | F#2 | F#1 | ![Circle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle") |
+| #44 | G#2 | G#1 | ![Cross](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross") |
+| #46 | A#2 | A#1 | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
+| CC#1 | Modwheel | Modwheel | Deploy Overdrive |
+| CC#64 | Sustain | Sustain | Deploy Overdrive |
+| Pitch Bend | Pitch Bend | Pitch Bend | Whammy/Touch Strip |
+
+#### 25 Key Keyboards
+
+Keyboards with less than 25 keys will have to shift octaves when switching between the game keys and the game buttons.
+
+![A GIF of a MIDI keyboard. When the octave down button is activated, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When the octave down button is deactivated, it shifts back up to C3 to C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midikeysoctshift.gif "Octave Shifting") 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

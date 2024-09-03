@@ -52,7 +52,7 @@ Since the keyboard controller buttons don't function like they do when connected
 
 You can shift octaves with the 1 and B buttons.
 
-![A GIF of a Rock Band 3 keyboard. When X (which is 1 on the Wii keyboard) is pressed, a yellow highlight, showing which notes are being used, shifts down to C to C4. When B is pressed, it shifts up to C3 to C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/rbkeysoctshift.gif "Octave Shifting") 
+![A GIF of a Rock Band 3 keyboard. When X (which is 1 on the Wii keyboard) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B is pressed, it shifts up to C3 to C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/rbkeysoctshift.gif "Octave Shifting") 
 
 | **Note** | **Button** |
 |:--------:|:-------------------:|
