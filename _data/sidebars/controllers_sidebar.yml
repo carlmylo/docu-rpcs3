@@ -140,13 +140,13 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
-      url: /ctrls_ghlpgtr_wii
+    - title: Xbox 360 Guitar Hero Genericaster (World Tour and later) Guitars
+      url: /ctrls_ghwtgtr_360
       output: web
       type: homepage
 
-    - title: Xbox 360 Guitar Hero Genericaster (World Tour and later) Guitars
-      url: /ctrls_ghwtgtr_360
+    - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
+      url: /ctrls_ghlpgtr_wii
       output: web
       type: homepage
 
@@ -162,6 +162,11 @@ entries:
 
     - title: PlayStation 3 Guitar Hero Les Paul Guitars
       url: /ctrls_ghlpgtr_ps3
+      output: web
+      type: homepage
+
+    - title: PlayStation 3 Guitar Hero Genericaster (World Tour and later) Guitars
+      url: /ctrls_ghwtgtr_ps3
       output: web
       type: homepage
 
