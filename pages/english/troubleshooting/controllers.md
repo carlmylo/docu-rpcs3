@@ -75,6 +75,20 @@ toc: false
                         </div>
                     </div>
                     <!-- /.panel -->
+                                        <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solos-have-auto-strum-enabled">I cannot use Automatic Calibration in System Settings.</a>
+                            </h4>
+                        </div>
+                        <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <p>Unbind L2 from your guitar in your gamepad configuration.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a Rock Band 3 keyboard. When X (which is 1 on the Wii keyboard) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B is pressed, it shifts up to C3 to C5." title="L2 Unbound"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
 

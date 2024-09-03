@@ -51,11 +51,6 @@ You can use:
 #### [[7-Zip]](https://www.7-zip.org/download.html){:target="_blank"} or [[NanaZip]](https://apps.microsoft.com/detail/9n8g7tscl18r){:target="_blank"} if you're on Windows 11.
 (or WinRAR if you hate yourself)
 
-## Solos have auto-strum enabled
-
-adadaddadedaedaedeadaedaedaedadad
-
-
 
 {% include custom/series_getting_started_next.html %}
 
