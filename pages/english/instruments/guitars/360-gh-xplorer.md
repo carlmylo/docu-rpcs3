@@ -62,7 +62,7 @@ To unmap a button, right click on a button.
 
 ## Profile
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360xplorermapping.png" alt="Mapping" title="Mapping"></div>
 

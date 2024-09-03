@@ -119,8 +119,7 @@ This is left here for reference. These are the bindings the official Harmonix Ro
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/){:target="_blank"}
-
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}
 Implemented by [[nswarm]](https://github.com/nswarm){:target="_blank"}

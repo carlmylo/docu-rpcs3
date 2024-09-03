@@ -76,7 +76,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 ## Profile
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/RetroCultMods%20Solderless%20Kit.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/RetroCultMods%20Solderless%20Kit.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/rcmslmapping.png" alt="Mapping" title="Mapping"></div>
 

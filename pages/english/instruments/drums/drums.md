@@ -38,3 +38,5 @@ toc: false
 | R1 | ![Second Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Orange Cymbal") |
 | R3 | Cymbal Modifier | |
 | L3 | Pad Modifier | |
+
+[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums){:target="_blank"}
