@@ -10,7 +10,7 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">Bugged textures</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">Bugged character textures/graphics</a>
                             </h4>
                         </div>
                         <div id="bugged-textures" class="panel-collapse collapse noCrossRef">
