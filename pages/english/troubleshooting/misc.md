@@ -31,7 +31,9 @@ toc: false
                         <div id="my-game-doesnt-fill-the-screen" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Enable “Overscan” in Rock Band 3’s System Settings.</li>
+<li>Activate "Overscan" in Rock Band 3.
+<ul>
+<li>To do this, go to <code>Menu &gt; Options &gt; System Settings &gt; Overscan</code></li>
 </ul>
                             </div>
                         </div>

@@ -39,14 +39,15 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#rock-band-3-deluxe-i-crash-in-the-intro-video">[Rock Band 3 Deluxe] "I crash in the intro video.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#rock-band-3-deluxe-i-crash-in-the-intro-video">[Rock Band 3 Deluxe] I crash on boot.</a>
                             </h4>
                         </div>
                         <div id="rock-band-3-deluxe-i-crash-in-the-intro-video" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3’s game directory in <code>dev_hdd0\game\BLUS30463\USRDIR</code> and delete every <code>.dta</code> file aside from <code>dx_high_memory.dta</code>.</li>
+<li>Make sure you're on the latest firmware.</li>
 <li>If you still have this issue, redownload Rock Band 3 Deluxe as Github sometimes doesn’t download correctly.</li>
+<li>If you're updating from an older version of Deluxe, you may have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3’s game directory in <code>dev_hdd0\game\BLUS30463\USRDIR</code> and delete every <code>.dta</code> file aside from <code>dx_high_memory.dta</code>.</li>
 </ul>
                             </div>
                         </div>
