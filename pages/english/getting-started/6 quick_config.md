@@ -28,54 +28,104 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/docu-rpcs3/images/cust/quickconf.gif "Recommended.zip")
 
-## Affected Settings
-If you need any more information about what these settings are changing:
-
-### Recommended
-
-* **CPU**:
-	* SPU Block Size: Mega
-* **GPU**:
-	* Write Color Buffers
-	* Framelimit: Off
-	* Resolution Scale: 150% (1920x1080)
-	* Anisotropic Filter: 16x
-	* ZCULL Accuracy: Relaxed (Fastest)
-	* VSync Enabled
-* **Audio**:
-	- Audio Buffer Duration: 32 ms
-* **Network**:
-	* Network Status: Connected
-	* DNS: Configured for RBEnhanced
-	* Enable UPNP: On
-* **Advanced**:
-	* Debug Console Mode: On
-	* Exclusive Fullscreen Mode: Prefer Borderless fullscreen
-	* Driver Wake-Up Delay: 20 µs
-* **Emulator**:
-	* Show trophy popups: Off
-
-### Minimum
-
-* **CPU**:
-	* SPU Block Size: Mega
-	* Preferred SPU Threads: 2
-* **GPU**:
-	* Write Color Buffers
-	* Framelimit: Off
-	* ZCULL Accuracy: Relaxed (Fastest)
-* **Audio**:
-	* Audio Buffer Duration: 100 ms
-* **Network**:
-	* Network Status: Connected
-	* DNS: Configured for RBEnhanced
-	* Enable UPNP: On
-* **Advanced**:
-	* Debug Console Mode: On
-	* Exclusive Fullscreen Mode: Prefer Borderless fullscreen
-	* Driver Wake-Up Delay: 40 µs
-* **Emulator**:
-	* Show trophy popups: Off
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#affectedsettings">Affected Settings</a>
+                            </h4>
+                        </div>
+                        <div id="affectedsettings" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <p>If you need any more information about what these settings are changing:</p>
+<h3 id="recommended">Recommended</h3>
+<ul>
+<li><strong>CPU</strong>:
+<ul>
+<li>SPU Block Size: Mega</li>
+</ul>
+</li>
+<li><strong>GPU</strong>:
+<ul>
+<li>Write Color Buffers</li>
+<li>Framelimit: Off</li>
+<li>Resolution Scale: 150% (1920x1080)</li>
+<li>Anisotropic Filter: 16x</li>
+<li>ZCULL Accuracy: Relaxed (Fastest)</li>
+<li>VSync Enabled</li>
+</ul>
+</li>
+<li><strong>Audio</strong>:
+<ul>
+<li>Audio Buffer Duration: 32 ms</li>
+</ul>
+</li>
+<li><strong>Network</strong>:
+<ul>
+<li>Network Status: Connected</li>
+<li>DNS: Configured for RBEnhanced</li>
+<li>Enable UPNP: On</li>
+</ul>
+</li>
+<li><strong>Advanced</strong>:
+<ul>
+<li>Debug Console Mode: On</li>
+<li>Exclusive Fullscreen Mode: Prefer Borderless fullscreen</li>
+<li>Driver Wake-Up Delay: 20 µs</li>
+</ul>
+</li>
+<li><strong>Emulator</strong>:
+<ul>
+<li>Show trophy popups: Off</li>
+</ul>
+</li>
+</ul>
+<h3 id="minimum">Minimum</h3>
+<ul>
+<li><strong>CPU</strong>:
+<ul>
+<li>SPU Block Size: Mega</li>
+<li>Preferred SPU Threads: 2</li>
+</ul>
+</li>
+<li><strong>GPU</strong>:
+<ul>
+<li>Write Color Buffers</li>
+<li>Framelimit: Off</li>
+<li>ZCULL Accuracy: Relaxed (Fastest)</li>
+</ul>
+</li>
+<li><strong>Audio</strong>:
+<ul>
+<li>Audio Buffer Duration: 100 ms</li>
+</ul>
+</li>
+<li><strong>Network</strong>:
+<ul>
+<li>Network Status: Connected</li>
+<li>DNS: Configured for RBEnhanced</li>
+<li>Enable UPNP: On</li>
+</ul>
+</li>
+<li><strong>Advanced</strong>:
+<ul>
+<li>Debug Console Mode: On</li>
+<li>Exclusive Fullscreen Mode: Prefer Borderless fullscreen</li>
+<li>Driver Wake-Up Delay: 40 µs</li>
+</ul>
+</li>
+<li><strong>Emulator</strong>:
+<ul>
+<li>Show trophy popups: Off</li>
+</ul>
+</li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
 
 {% include custom/series_getting_started_next.html %}
 
