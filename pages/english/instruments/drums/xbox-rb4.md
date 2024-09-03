@@ -164,3 +164,5 @@ This is the recommended mode and should not require any mapping. You simply need
 <!-- /.panel-group -->
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
