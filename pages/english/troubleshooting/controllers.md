@@ -20,6 +20,20 @@ toc: false
                         </div>
                     </div>
                     <!-- /.panel -->
+                                        <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solos-have-auto-strum-enabled">Solos have auto-strum enabled.</a>
+                            </h4>
+                        </div>
+                        <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <p>Unbind L2 from your guitar in your gamepad configuration.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a Rock Band 3 keyboard. When X (which is 1 on the Wii keyboard) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B is pressed, it shifts up to C3 to C5." title="L2 Unbound"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -36,14 +50,30 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#pro-drums-my-e-kit-doesnt-work">[Pro Drums] My E-Kit doesn't work.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#pro-drums-my-e-kit-doesnt-work">[MIDI Drums] My E-Kit doesn't work.</a>
                             </h4>
                         </div>
                         <div id="pro-drums-my-e-kit-doesnt-work" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
                                 <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
-                                <li>Make sure your E-Kit is mapped correctly and on the right channel. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi">[the MIDI Drums page]</a> for more help.</li>
+                                <li>Make sure your E-Kit is mapped correctly and on the right channel (Channel 10). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi">[the MIDI Drums page]</a> for more help.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                                        <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#midi-keys-my-keyboard-doesnt-work">[MIDI Keys] My Keyboard doesn't work</a>
+                            </h4>
+                        </div>
+                        <div id="midi-keys-my-keyboard-doesnt-work" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <ul>
+                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
+                                <li>Make sure your keyboard the right channel (Channel 1). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi">[the MIDI Keyboard page]</a> for more help.</li>
                                 </ul>
                             </div>
                         </div>
@@ -71,20 +101,6 @@ toc: false
                         <div id="i-cannot-use-automatic-calibration-in-system-settings" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 Automatic Calibration only works for PS3 Rock Band guitar/bass and Fender Mustang Pro Guitar controllers with passthrough.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
-                                        <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solos-have-auto-strum-enabled">I cannot use Automatic Calibration in System Settings.</a>
-                            </h4>
-                        </div>
-                        <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
-                            <div class="panel-body">
-                                <p>Unbind L2 from your guitar in your gamepad configuration.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a Rock Band 3 keyboard. When X (which is 1 on the Wii keyboard) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B is pressed, it shifts up to C3 to C5." title="L2 Unbound"></p>
                             </div>
                         </div>
                     </div>
