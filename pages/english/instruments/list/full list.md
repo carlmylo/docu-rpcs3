@@ -84,7 +84,7 @@ Once you've finished configuring, **remember to click "Save".**
 |[![Guitar Hero World Tour](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrwt.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_ghwtgtr_pc "Guitar Hero Genericaster") | Guitar Hero World Tour | ![PC](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/pc.png) | ![Bad Compatibility Symbol](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/bad.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_ghwtgtr_pc) |
 |[![Unknown Guitar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/list/gtrmyst.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_gtr_gen "Unknown Guitar") | Unknown Guitar | ![Unknown Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/plat/myst.png) | N/A |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_gtr_gen) |
 
-## Modded Guitar
+## Modded Controllers
 
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|

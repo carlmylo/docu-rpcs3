@@ -10,10 +10,14 @@ series: "Getting Started"
 weight: 6
 ---
 
-These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config/){:target="_blank"} to tweak to what's best for your computer.  
+These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/docu-rpcs3/custom_config){:target="_blank"} to tweak to what's best for your computer.  
 [[**Rock Band 3 Deluxe must be installed**]](https://rb3dx.milohax.org/){:target="_blank"} but if it's not already installed, you're not reading this guide and should go back and read it.  
 
-You will still have to set up [controllers](https://carlmylo.github.io/docu-rpcs3/ctrls_drums.html){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html){:target="_blank"}, [[Wired Pro Guitar and USB/MIDI Keyboards]](https://rb3pc.milohax.org/english/controllers/#keyboards){:target="_blank"}, [[Electronic Drum Kits]](https://rb3pc.milohax.org/instruments/misc/mididrums){:target="_blank"}, or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://rb3pc.milohax.org/english/passthroughdevices/){:target="_blank"} will still need to configure those.
+You will still have to set up [controllers](https://carlmylo.github.io/docu-rpcs3/ctrls){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html){:target="_blank"}, [[Wired Pro Guitar and USB/MIDI Keyboards]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys){:target="_blank"}, [[Electronic Drum Kits]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi){:target="_blank"}, or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough){:target="_blank"} will still need to configure those.
+
+## Quick Configuration Profiles
+
+Below are the quick configuration files. Download whichever is best for your computer.
 
 * [[Recommended settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://carlmylo.github.io/docu-rpcs3/gs_reqs#a-computer){:target="_blank"}.
 * [[Minimum settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://carlmylo.github.io/docu-rpcs3/gs_reqs#a-computer){:target="_blank"}.
