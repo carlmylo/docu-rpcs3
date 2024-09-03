@@ -155,8 +155,10 @@ This is the recommended mode and should not require any mapping. You simply need
 </tr>
 </tbody>
 </table>
-<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xborbdrmsmapping.png" alt="Mapping" title="Mapping"><</div></p>
-                            </div></div></div>
+<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xborbdrmsmapping.png" alt="Mapping" title="Mapping"></div></p>
+                            </div>
+                        </div>
+                    </div>
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
