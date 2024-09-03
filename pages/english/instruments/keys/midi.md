@@ -57,7 +57,7 @@ MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
 
 ![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](https://carlmylo.github.io/docu-rpcs3/images/midi/keysctrl.png "MIDI Keyboard Reference")
 
-**Note#** | **Note** | **Note (Yamaha)** | **Button** |
+| **Note#** | **Note** | **Note (Yamaha)** | **Button** |
 |:-------:|:--------:|:-----------------:|:----------:|
 | #36 | C2 | C1 | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
 | #38 | D2 | D1 | ![D-Pad Left](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png "D-Pad Left") |
