@@ -14,7 +14,8 @@ toc: false
 
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 * This was tested with a Raphnet "Classic controller to USB adapter".
-	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
+	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -46,10 +47,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z){:target="_blank"}
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiiraphlpmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g)
+Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

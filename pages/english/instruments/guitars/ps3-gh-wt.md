@@ -14,8 +14,8 @@ toc: false
 ## NOTES
 
 * **This controller is known for having horrible latency.**
-	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero).
-* You may experience softlocks when opening up interface menus, like RPCN related ones. You may be able to tilt the guitar to recover from softlocks.
+	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -52,10 +52,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z){:target="_blank"}
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps3ghwttarmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

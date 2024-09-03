@@ -14,7 +14,7 @@ toc: false
 
 * **This controller is known for having horrible latency.**
 	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero).
-* You may experience softlocks when opening up interface menus, like RPCN related ones. You may be able to tilt the guitar to recover from softlocks.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 

@@ -12,7 +12,9 @@ toc: false
 
 ## NOTES
 
-* This has only been verified to work with an OSTENT PS1 PS2 To PC USB 2.0 Controller Adapter Converter For Sony PS2 Wired Controller (Model Number/SKU: 014800)
+* This has only been verified to work with an OSTENT PS1 PS2 To PC USB 2.0 Controller Adapter Converter For Sony PS2 Wired Controller (Model Number/SKU: 014800). Other adapters may have issues.
+* You may be able to [[use X360CE]](https://www.x360ce.com/){:target="_blank"} to force a problematic adapter to work.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -48,7 +50,7 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z){:target="_blank"}
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps2sgmapping.png" alt="Mapping" title="Mapping"></div>
 

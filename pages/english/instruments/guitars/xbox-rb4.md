@@ -12,14 +12,14 @@ toc: false
 
 ## NOTES
 
-* Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/)
+* Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
 * This profile works for Xbox One Fender Stratocaster, Fender Jaguar, and PDP Riffmaster guitars.
 	* Fender Stratocaster and Fender Jaguar guitars require a Microsoft Xbox Wireless Adapter.
 	![Microsoft Xbox Wireless Adapter for Windows 10](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")  
 	* PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")  
-* If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU) to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU).
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
+* If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -34,7 +34,7 @@ toc: false
 ## Additional Setup
 
 Please refer to RB4InstrumentMapper's documentation.  
-[[Click here to go there]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.md).
+[[Click here to go there]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.md){:target="_blank"}.
 
 ## Mapping:
 
@@ -141,4 +141,4 @@ This is the recommended mode and should not require any mapping. You simply need
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

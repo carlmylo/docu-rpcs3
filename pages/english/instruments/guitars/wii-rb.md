@@ -49,10 +49,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Rock%20Band%20Guitars.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Rock%20Band%20Guitars.7z){:target="_blank"}
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiirbgtrsmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo)
+Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo){:target="_blank"}

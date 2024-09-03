@@ -14,6 +14,7 @@ toc: false
 ## NOTES
 
 * This controller requires advanced configuration.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -41,7 +42,7 @@ To unmap a button, right click on a button.
 	9. In RPCS3's Gamepad Configuration, set deadzones on the Left and Right Stick to None.
 
 | **RPCS3** | **Guitar** |
-|:------------------:|:---------------------:|
+|:---------:|:----------:|
 | Cross | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
 | Circle | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
 | Square | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
@@ -62,10 +63,10 @@ To unmap a button, right click on a button.
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z){:target="_blank"}
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360xplorermapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by [[Jnack]](https://www.youtube.com/@jnackmclain) and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown)
+Mapped by [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}
