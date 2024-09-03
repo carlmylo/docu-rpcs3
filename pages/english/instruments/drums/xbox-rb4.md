@@ -89,7 +89,6 @@ This is the recommended mode and should not require any mapping. You simply need
 </li>
 <li>To bind multiple buttons to one RPCS3 button, hold Shift then click on the RPCS3 button you want to assign multiple buttons to.</li>
 </ul>
-
 <table>
 <thead>
 <tr>
@@ -156,7 +155,7 @@ This is the recommended mode and should not require any mapping. You simply need
 </tr>
 </tbody>
 </table>
-<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xborbdrmsmapping.png" alt="Mapping" title="Mapping"></div></p>
+<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xborbdrmsmapping.png" alt="Mapping" title="Mapping"><</div></p>
                             </div>
                         </div>
                     </div>
