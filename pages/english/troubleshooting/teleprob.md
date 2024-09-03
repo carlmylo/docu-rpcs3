@@ -25,10 +25,12 @@ If you followed the guide, it should be within the `C:\RPCS3\games\` folder as `
 
 ![A screenshot of the "games" in RPCS3's folder being highlighted.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchgames.png "games")
 
-After that, click into the `Rock Band 3 [BLUS30463]` folder and go into `PS3_GAME > USRDIR` on the left window.  
-Go into the `rb3_ps3_guitar_glitch_fix` folder you extracted. 
-You should see `gen` in both file browser windows. Simply drag the `gen` folder from the right `rb3_ps3_guitar_glitch_fix` folder to the left `USRDIR` folder.  
-Click `Replace the files in the destination` when prompted.
+After that:
+1. click into the `Rock Band 3 [BLUS30463]` folder and go into `PS3_GAME > USRDIR` on the left window.  
+2. Go into the `rb3_ps3_guitar_glitch_fix` folder you extracted. 
+3. You should see `gen` in both file browser windows.
+4. Drag the `gen` folder from the right `rb3_ps3_guitar_glitch_fix` folder to the left `USRDIR` folder.  
+5. Click `Replace the files in the destination` when prompted.
 
 ![A GIF of the files within the gen folder being replaced.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchrepl.gif "Replacing gen folder")
 
