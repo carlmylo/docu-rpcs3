@@ -16,12 +16,12 @@ toc: false
                         <div id="i-cant-find-a-3rd-or-4th-player-when-searching" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<li>Port 9103 is blocked. You can either enable UPNP in Rock Band 3’s <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network]</a> configuration or manually forward port 9103 (UDP) in your firewall. <strong>Don’t enable UPNP while port forwarding</strong> as this can cause crashes.</li>
-<li>Rock Band 3 online lobbies can only have 2 slots of Guitar/Bass/Keys, one Drums slot, and one Vocal slot.<br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="A diagram of Rock Band 3's multiplayer slots. It shows a guitar, bass, and keyboard on slot 1 and 4, drums on slot 2, and vocals on slot 3.">
 <ul>
-<li>You can bypass this with Rock Band 3 Deluxe with its ability to change instrument type.<br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotanim.gif" alt="An animated GIF of Deluxe changing instrument type. The user goes to Options, then Deluxe Settings, Advanced, Controller, Change Instrument Type, then hovers over the selection of Guitar, Keys, Drums"></li>
+<li>Port 9103 is blocked. You can either enable UPNP in Rock Band 3’s <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network]</a> configuration or manually forward port 9103 (UDP) in your firewall.   <br><strong>Don’t enable UPNP while port forwarding</strong> as this can cause crashes.</li>
+<li>Rock Band 3 online lobbies can only have 2 slots of Guitar/Bass/Keys, one Drums slot, and one Vocal slot. <br> <img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="A diagram of Rock Band 3's multiplayer slots. It shows a guitar, bass, and keyboard on slot 1 and 4, drums on slot 2, and vocals on slot 3."><br>
+<ul>
+<li>You can bypass this with Rock Band 3 Deluxe with its ability to change instrument type at<br>
+<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Controller &gt; Change Instrument Type</code></li>
 </ul>
 </li>
 </ul>
