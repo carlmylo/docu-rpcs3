@@ -75,7 +75,7 @@ toc: false
                             </div>
                         </div>
                     </div>
-                    <<!-- /.panel -->
+                    <!-- /.panel -->
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -91,7 +91,7 @@ toc: false
                             </div>
                         </div>
                     </div>
-                    <<!-- /.panel -->
+                    <!-- /.panel -->
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
