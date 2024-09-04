@@ -77,9 +77,7 @@ You can access the system menu by going to:<br>
 <ul><li><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe><br> 
 Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers.<br>
 Alternatively, you can check the general performance issues section right below this.</ul>
-                            </div>
-                        </div>
-                    </div>
+                            </div></div></div>
                     <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
