@@ -16,9 +16,9 @@ toc: false
                         <div id="my-deluxe-settings-are-not-saving" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<ul>You set “<strong>Confirm DX Settings Save</strong>” to <strong>Off</strong>. Reenable it in<br>
-<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Functional Options &gt; Confirm DX Settings Save.</code>
-</ul>
+<ul><p>You set “<strong>Confirm DX Settings Save</strong>” to <strong>Off</strong>.<br>
+Reenable it in:<br>
+<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Functional Options &gt; Confirm DX Settings Save.</code></p></ul>
                             </div>
                         </div>
                     </div>
