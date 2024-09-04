@@ -15,13 +15,12 @@ toc: false
                         </div>
                         <div id="i-cant-find-a-3rd-or-4th-player-when-searching" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <ul>
 <ul>
 <li>Port 9103 is blocked. You can either enable UPNP in Rock Band 3’s <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network]</a> configuration or manually forward port 9103 (UDP) in your firewall.   <br><strong>Don’t enable UPNP while port forwarding</strong> as this can cause crashes.</li>
 <li>Rock Band 3 online lobbies can only have 2 slots of Guitar/Bass/Keys, one Drums slot, and one Vocal slot. <br> <img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="A diagram of Rock Band 3's multiplayer slots. It shows a guitar, bass, and keyboard on slot 1 and 4, drums on slot 2, and vocals on slot 3."><br>
 <ul>
 <li>You can bypass this with Rock Band 3 Deluxe with its ability to change instrument type at<br>
-<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Controller &gt; Change Instrument Type</code><br>
+<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Controller &gt; Change Instrument Type</code> <br>
 You will still be able to pick the part you want when the song’s part select screen comes up.</li>
 </ul>
 </li>
