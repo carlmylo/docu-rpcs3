@@ -23,7 +23,7 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solos-have-auto-strum-enabled">Solos have auto-strum enabled.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solos-have-auto-strum-enabled">[Guitar Hero guitars] Solos have auto-strum enabled.</a>
                             </h4>
                         </div>
                         <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
@@ -101,7 +101,7 @@ toc: false
                         <div id="miditar-my-protar-doesnt-work" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-                                <li>Pro Guitars require a MIDI interface with SYSEX capabilities. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_protars">[your Pro Guitar's page]</a> to see which interfaces are confirmed to work.</li></li>
+                                <li>Pro Guitars require a MIDI interface with SYSEX capabilities. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_protars">[your Pro Guitar's page]</a> to see which interfaces are confirmed to work.</li>
                                 <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
                                 </ul>
                             </div>
