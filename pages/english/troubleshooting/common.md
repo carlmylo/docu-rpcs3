@@ -10,7 +10,7 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">Bugged character textures/graphics</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">My character has textures/graphics.</a>
                             </h4>
                         </div>
                         <div id="bugged-textures" class="panel-collapse collapse noCrossRef">
@@ -25,7 +25,7 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#flying-instruments">Flying instruments</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#flying-instruments">My character's items are teleporting.</a>
                             </h4>
                         </div>
                         <div id="flying-instruments" class="panel-collapse collapse">
@@ -41,7 +41,7 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-i-crash-when-joining-sessionssearching-for-players">[Online] I crash when joining sessions/searching for players</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-i-crash-when-joining-sessionssearching-for-players">[Online] I crash when joining sessions/searching for players.</a>
                             </h4>
                         </div>
                         <div id="online-i-crash-when-joining-sessionssearching-for-players" class="panel-collapse collapse">
@@ -54,12 +54,14 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-feels-off">My game feels off</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-feels-off">My game feels off.</a>
                             </h4>
                         </div>
                         <div id="my-game-feels-off" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Run Calibration in Rock Band 3’s System Settings if you haven’t for some reason. Disable “Dolby Digital” if you enabled it in the same menu.</p></ul>
+<ul><p>Calibrate your game in Rock Band 3’s System Settings. Disable “Dolby Digital” if it’s enabled as well.<br>
+You can access the system menu by going to:<br>
+<code>Menu &gt; Options &gt; System Settings</code></p></ul>
                             </div>
                         </div>
                     </div>
@@ -67,14 +69,14 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-audio-is-stutteringchoppy">My audio is stuttering/choppy</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-audio-is-stutteringchoppy">My audio is stuttering/choppy.</a>
                             </h4>
                         </div>
                         <div id="my-audio-is-stutteringchoppy" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><li><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe> 
-</li></ul>
-<ul><li>Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.</li></ul>
+<ul><li><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe><br> 
+Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers.<br>
+Alternatively, you can check the general performance issues section right below this.</ul>
                             </div>
                         </div>
                     </div>
