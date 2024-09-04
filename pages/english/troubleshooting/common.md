@@ -30,9 +30,10 @@ toc: false
                         </div>
                         <div id="flying-instruments" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar." title="Graphical issues"></p>
-<p>There is a fix being worked on for this. Stay tuned for further development. Join the <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> if you want to help test.</p>
-<p>You can use <a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob"><strong>[this list]</strong></a> as a reference for which hats, hairsyles, and microphones to avoid.</p></ul>
+<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues."><br>
+This is an issue that happens on real hardware (PS3) but is MUCH worse on RPCS3.<br>
+There is currently a patch to fix guitars teleporting along with a list of what equipable items have issues.<br>
+<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob">[Click here for more information.]</a></p></ul>
                             </div>
                         </div>
                     </div>
