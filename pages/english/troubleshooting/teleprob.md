@@ -7,12 +7,7 @@ folder: english
 
 ## Guitar Patch
 
-You can eliminate 99% of guitar teleportation bugs by installing a work-in-progress patch. You will need to [[join the Milohax Discord server]](https://rb3dx.milohax.org/discord) to download the patch for the time being.
-
-Once in the Milohax Discord server, go to the [[#milo-dev channel]](https://discord.com/channels/961352072140324924/1147550649324671107).  
-Check the pins for the guitar patch archive. It will be called `rb3_ps3_guitar_glitch_fix.7z`. Download it.
-
-![A screenshot of the Milohax Discord's #milo-dev channel, with the pins open and a cursor hovering over the rb3_ps3_guitar_glitch_fix.7z archive.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchdl.png "#milo-dev")
+You can eliminate 99% of guitar teleportation bugs by installing a work-in-progress patch. First, download the [[`rb3_ps3_guitar_glitch_fix.7z` archive]](https://github.com/hmxmilohax/rock-band-3-deluxe/raw/main/dependencies/ps3_patcher/rb3_ps3_guitar_glitch_fix.7z).
 
 ![The rb3_ps3_guitar_glitch_fix.7z archive in a browser's download tray.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchfldr.png "rb3_ps3_guitar_glitch_fix.7z")
 
