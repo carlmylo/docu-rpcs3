@@ -31,7 +31,7 @@ toc: false
                         </div>
                         <div id="my-game-crashes-when-practicing-on-regular-guitar-bass" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<ul><li>You didn’t read the guide and did not install Rock Band 3 Deluxe, which fixes this.</li></ul>
+<ul>You didn’t read the guide and did not install Rock Band 3 Deluxe, which fixes this.</ul>
                             </div>
                         </div>
                     </div>

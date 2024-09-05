@@ -16,7 +16,7 @@ toc: false
                         <div id="scrolling-through-the-library-has-long-pauses" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-<li>You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
+You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.
 </ul>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ To do this, go to:<br>
                         <div id="i-cant-drag-and-drop-pkgs-into-rpcs3" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<li>This is a known issue with RPCS3. Restart it and it will should work.</li>
+This is a known issue with RPCS3. Restart it and it will should work.
 </ul>
                             </div>
                         </div>
@@ -61,7 +61,7 @@ To do this, go to:<br>
                         <div id="you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<li><a href="https://github.com/hmxmilohax/rb3-pc/issues/new">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.</li>
+<a href="https://github.com/hmxmilohax/rb3-pc/issues/new">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.
 </ul>
                             </div>
                         </div>

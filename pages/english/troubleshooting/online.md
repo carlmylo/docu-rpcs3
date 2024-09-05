@@ -39,7 +39,7 @@ You will still be able to pick the part you want when the song’s part select s
                             <div class="panel-body">
                                 <ul>
 <li>Make sure you have copied the correct settings in the Rock Band 3’s <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network]</a> configuration.</li>
-<li>You may have lost connection to RPCN  and will have to restart the game. If you continue to get this after restart, close out Rock Band 3, go to the top menu in RPCS3, “Configuration” &gt; “RPCN” &gt; “Account” &gt; “Test Account” then restart the game to force a reconnection.</li>
+<li>You may have lost connection to RPCN  and will have to restart the game.</li>
 </ul>
                             </div>
                         </div>
@@ -53,8 +53,11 @@ You will still be able to pick the part you want when the song’s part select s
                         </div>
                         <div id="i-keep-disconnecting-constantly-while-playing-online" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <ul>
-<li>Double check to make sure your connection is stable. Try connecting via Ethernet cable if possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, there’s not much that can be done aside from getting better internet.</li>
+<ul>
+<li>Double check to make sure your connection is stable</li>
+<li>Try connecting via Ethernet cable if you’re on Wi-Fi.</li>
+<li>If you have increased your VBlank past 60 Hz, set it back to 60 Hz.</li>
+<li>Get better internet.</li>
 </ul>
                             </div>
                         </div>

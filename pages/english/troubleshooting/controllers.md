@@ -15,7 +15,14 @@ toc: false
                         </div>
                         <div id="my-game-gets-stuck-when-naming-a-character-or-band" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                This seems to vary by controller. Try using the whammy or effects switch if you have it. I’d also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don’t have enough buttons to use the on-screen keyboard. You can also try disabling the Native Interface as mentioned in <a href="https://rb3pc.milohax.org/english/customconfiguration#emulator">[the Emulator section of Custom Configuration]</a>.
+                                <p>This varies from controller to controller.</p>
+<ul>
+<li>Try moving the whammy or effects switch on your guitar.</li>
+<li>Reconnect your controller.</li>
+<li>Open the Gamepad Configuration menu and close it.</li>
+<li>Disable the Native Interface as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_emu">[the Emulator section of Custom Configuration]</a>.</li>
+<li>Use a standard <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_pads">[gamepad]</a> or keyboard for any sort of character customization or naming.</li>
+</ul>
                             </div>
                         </div>
                     </div>
