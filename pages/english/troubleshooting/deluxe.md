@@ -15,11 +15,12 @@ toc: false
                         </div>
                         <div id="my-deluxe-settings-are-not-saving" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <ul>
 <ul><p>You set “<strong>Confirm DX Settings Save</strong>” to <strong>Off</strong>.<br>
-Reenable it in:<br>
-<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Functional Options &gt; Confirm DX Settings Save. </code> </p></ul>
-                            </div></div></div>
+You can enable it again in:<br>
+<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Functional Options &gt; Confirm DX Settings Save</code></p></ul>
+                            </div>
+                        </div>
+                    </div>
                     <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -27,11 +28,9 @@ Reenable it in:<br>
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-ruined-the-track-camera-settings">I ruined the track camera settings.</a>
                             </h4>
                         </div>
-                        <div id="i-ruined-the-track-camera-settings" class="panel-collapse collapse noCrossRef">
+                        <div id="i-ruined-the-track-camera-settings" class="panel-collapse collapse">
                             <div class="panel-body">
-                                <ul>
-<li>Restarting the game will reset them back to normal.</li>
-</ul>
+                                <ul><p>Restarting your game will reset them back to normal.</p></ul>
                             </div>
                         </div>
                     </div>
