@@ -11,9 +11,9 @@ Controllers have been given a "Compatibility" rating depending on whether or not
 
 | SHAPE | MEANING |
 |---|---|
-| ![A red triangle.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/bad.png "Red Triangle") | **Bad Compatibility** |
-| ![A green square.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/okay.png "Green Square") | **Okay Compatibility** |
-| ![An orange circle.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/instruments/compat/great.png "Orange Circle") | **Great Compatibility** |
+| ![A red triangle.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/bad.png "Red Triangle") | **Bad Compatibility** |
+| ![A green square.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/okay.png "Green Square") | **Okay Compatibility** |
+| ![An orange circle.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png "Orange Circle") | **Great Compatibility** |
 
 ## Mapping
 
@@ -53,7 +53,7 @@ Before you install, **if you have any bindings in `config\input_configs\BLUS3046
 2. Extract the .7z file.
 3. Drag the `config` folder into the folder you have RPCS3 in.
 
-![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc//main/assets/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
+![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
 
 Most of the time, these controller profiles should work out of the box. If they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
 

@@ -61,7 +61,7 @@ This is a known issue with RPCS3. Restart it and it will should work.
                         <div id="you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<a href="https://github.com/hmxmilohax/rb3-pc/issues/new">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.
+<a href="https://github.com/carlmylo/docu-rpcs3/issues">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.
 </ul>
                             </div>
                         </div>
