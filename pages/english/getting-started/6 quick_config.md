@@ -2,7 +2,7 @@
 title: Quick Configuration
 sidebar: english_sidebar
 tags: [getting-started, english]
-summary: "The central page for RPCS3 Quick Configuration."
+summary: "The central page for Quick Configurations for RPCS3."
 permalink: gs_quick_config
 toc: false
 folder: english
@@ -17,8 +17,8 @@ These files are meant for those that just want to play with minimal setup. It is
 
 Below are the quick configuration files. Download whichever is best for your computer.
 
-* [[Recommended settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://carlmylo.github.io/docu-rpcs3/gs_reqs#a-computer){:target="_blank"}.
-* [[Minimum settings]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://carlmylo.github.io/docu-rpcs3/gs_reqs#a-computer){:target="_blank"}.
+* [[Recommended settings]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://carlmylo.github.io/docu-rpcs3/gs_reqs#a-computer){:target="_blank"}.
+* [[Minimum settings]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://carlmylo.github.io/docu-rpcs3/gs_reqs#a-computer){:target="_blank"}.
 
 ## How to
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
@@ -26,7 +26,7 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/docu-rpcs3/images/cust/quickconf.gif "Recommended.zip")
 
-You will still have to set up [controllers](https://carlmylo.github.io/docu-rpcs3/ctrls_full){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html){:target="_blank"}, [[Wired Pro Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_protars), [[USB/MIDI Keyboards]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys){:target="_blank"}, [[Electronic Drum Kits]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi){:target="_blank"}, or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough){:target="_blank"} will still need to configure those.
+You will still have to set up [your instruments and controllers](https://carlmylo.github.io/docu-rpcs3/ctrls_full){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html){:target="_blank"}, [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough){:target="_blank"}, or  will still need to configure those.
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
