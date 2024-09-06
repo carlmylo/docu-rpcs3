@@ -57,7 +57,7 @@ For reference, these are the default bindings:
 
 If you want to copy Fortnite Festival's default bindings, you can use this as reference:
 
-| **RPCS3**          | **Keyboard** |
+| **Keyboard**          | **RPCS3** |
 |:------------------:|:---------------------:|
 | `D` | L1 |
 | `F` | L2 |
