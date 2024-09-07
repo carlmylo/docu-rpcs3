@@ -165,6 +165,11 @@ toc: false
 
 #### Bindings
 
+
+| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+|:------------:|:---------:|:---------------------:|:----------|
+| `2`, `8`, `A`, and `W` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+
 | **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
 |:------------:|:---------:|:---------------------:|:---------:|
 | `2`, `8`, `A`, and `W` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
