@@ -19,6 +19,8 @@ toc: false
 
 ### Default Guitars/Bass/Keys
 
+* This profile does not require strumming.
+
 #### Pad Information
 
 | Handlers | Devices |
@@ -71,6 +73,8 @@ toc: false
 
 ### Fortnite Festival:
 
+* This profile does not require strumming.
+
 #### Pad Information
 
 | Handlers | Devices |
@@ -100,6 +104,8 @@ toc: false
 {: .block-warning  }
 
 ### Fortnite Pro Guitars/Bass/Keys
+
+* This profile requires strumming.
 
 #### Pad Information
 
@@ -159,6 +165,8 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Linos GH PC
+
+* This profile does not require strumming.
 
 #### Pad Information
 
