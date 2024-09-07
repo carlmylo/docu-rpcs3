@@ -8,7 +8,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbdrmscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/wiirbdrmscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
