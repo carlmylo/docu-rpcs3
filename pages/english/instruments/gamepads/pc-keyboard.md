@@ -165,15 +165,15 @@ toc: false
 
 #### Bindings
 
-| **Keyboard**          | **RPCS3**          | **Guitars/Bass/Keys** | **Drums** |
-|:------------------:|:------------------:|:---------------------:|:---------------------:|
-| `2`, `8`, `A`, and `W` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+|:------------:|:---------:|:---------------------:|:---------:|
+| `2` , `8`, `A`, and `W` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
 | `1`, `7`, `Q`, and `SPACE` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
 | `3`,` `9`, `E`, and `S` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
 | `0`, `4`, `D`, and `R` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
 | `-`, `5`, `F`, and `T`` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-| `Shift Right` | Select | Overdrive | Overdrive
+| `Shift Right` | Select | Overdrive | Overdrive |
 
 ## Profiles
 
