@@ -3,8 +3,8 @@ title: MIDI Drums
 sidebar: controllers_sidebar
 permalink: ctrls_drums_midi
 folder: instruments
-tags: [midi, english]
-summary: "How to connect and configure a MIDI Drum Kit on RPCS3"
+tags: [midi, drums, english]
+summary: "How to setup a MIDI Drum Kit on RPCS3"
 toc: false
 ---
 
@@ -14,11 +14,11 @@ toc: false
 
 ## NOTES:
 
-* **Do NOT map this instrument via Gamepad Configuration.**
+* **Do NOT map this instrument via Pads.**
 * Your MIDI Drum Kit needs to:
 	* **be set to MIDI Channel 10**
 	* **standard GM mapping.**
-	* These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
+These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 

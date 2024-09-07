@@ -17,11 +17,11 @@ Controllers have been given a "Compatibility" rating depending on whether or not
 
 ## Mapping
 
-**Click on the Pads icon at the top of RPCS3**
+**Click on the Pads icon at the top of RPCS3**.
 
 ![A screenshot of RPCS3, showing the cursor over the Pads menu.](https://carlmylo.github.io/docu-rpcs3/images/instruments/rpcs3pad.png "Pads")
 
-Click on the instrument icon or the **"[CLICK HERE]"** link to be taken to their respective pages for more information.
+On the instrument pages, click on the instrument's icon or the **"[CLICK HERE]"** link to be taken to their respective pages for more information.
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * PS3 guitar, drum controllers, and MIDI Pro Adapters **for the Rock Band series** are plug and play and require no additional setup.
@@ -32,7 +32,7 @@ Once you've finished configuring, **remember to click "Save".**
 
 ## Using Profiles
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>This is not suggested for people using multiple controllers at once. </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
 
 Profiles are premade setup files made by the community. They are drag and drop files which have preconfigured mappings for various instruments.
 

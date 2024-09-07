@@ -3,6 +3,8 @@ title: Nintendo Wii Guitar Hero Drums (Raphnet)
 sidebar: controllers_sidebar
 permalink: ctrls_ghdrums_wii
 folder: instruments
+tags: [wii, drums, english]
+summary: "How to setup Nintendo Wii Guitar Hero drums on RPCS3"
 toc: false
 ---
 
@@ -53,9 +55,9 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z)
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiighdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmswiighmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 

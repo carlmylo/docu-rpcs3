@@ -203,9 +203,3 @@ toc: false
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 
 Alternative mapping schemes by [[Ashun]](https://www.twitch.tv/ashun_), and [[Doom05]](https://www.youtube.com/channel/UCZBzTTsPrK_gXF0ZvHkR3jA)
-
-X: 734.50
-Y: 234
-
-X:790.50
-Y: 177

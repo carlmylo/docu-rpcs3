@@ -6,10 +6,18 @@ allowed-tags:
   - getting-started
   - custom-config
   - online
+  - controllers
   - midi
-  - xbox-360
+  - modded
+  - pc
+  - ps2
   - ps3
+  - ps4
+  - ps5
+  - switch
   - wii
+  - xbox-360
+  - xbox-one
   - espanol
   - empezando
   - conf-pers

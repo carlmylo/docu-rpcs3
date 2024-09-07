@@ -3,6 +3,8 @@ title: PlayStation 3 Guitar Hero Drums
 sidebar: controllers_sidebar
 permalink: ctrls_ghdrums_ps3
 folder: instruments
+tags: [ps3, drums, english]
+summary: "How to setup PlayStation 3 Guitar Hero drums on RPCS3"
 toc: false
 ---
 
@@ -51,9 +53,9 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z){:target="_blank"}
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps3ghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps3ghmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 

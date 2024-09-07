@@ -1,8 +1,10 @@
 ---
-title: "Xbox One/Xbox Series Rock Band 4 Drums"
+title: "Xbox One Rock Band 4 Drums"
 sidebar: controllers_sidebar
 permalink: ctrls_rb4drums_xbox
 folder: instruments
+tags: [xbox-one, drums, english]
+summary: "How to setup Xbox One Rock Band drums on RPCS3"
 toc: false
 ---
 
@@ -39,7 +41,7 @@ Please refer to RB4InstrumentMapper's documentation.
 
 This is the recommended mode and should not require any mapping. You simply need to assign the Handler, Device, and Device Class/Type.
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xboxrb4rpcs3map.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsxomapping.png" alt="Mapping" title="Mapping"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -50,7 +52,7 @@ This is the recommended mode and should not require any mapping. You simply need
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
+<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
 <p>This is not suggested as it requires lots of manual mapping. You should instead use <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
 <p>By default, XInput has most things bound correctly. You only need to remap the following:</p>
 
@@ -154,7 +156,7 @@ This is the recommended mode and should not require any mapping. You simply need
 </tr>
 </tbody>
 </table>
-<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xborbdrmsmapping.png" alt="Mapping" title="Mapping"></div></p>
+<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsxboxrbmapping.png" alt="Mapping" title="Mapping"></div></p>
                             </div>
                         </div>
                     </div>

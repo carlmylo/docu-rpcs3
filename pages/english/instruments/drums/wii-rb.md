@@ -3,6 +3,8 @@ title: Nintendo Wii Rock Band Drums
 sidebar: controllers_sidebar
 permalink: ctrls_rbdrums_wii
 folder: instruments
+tags: [wii, drums, english]
+summary: "How to setup Nintendo Wii Rock Band drums on RPCS3"
 toc: false
 ---
 
@@ -53,9 +55,9 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Rock%20Band%20Drums.7z)
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Rock%20Band%20Drums.7z)
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiirbdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmswiirbmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 

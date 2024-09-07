@@ -18,11 +18,11 @@ toc: false
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Unknown | Unknown |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Drum | Unknown |
 
 ## Mapping
