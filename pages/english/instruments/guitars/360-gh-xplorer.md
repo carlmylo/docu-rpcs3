@@ -3,7 +3,8 @@ title: Xbox 360 Guitar Hero Xplorer Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghxpgtr_360
 folder: instruments
-tags: [xbox-360, english]
+tags: [xbox-360, guitars, english]
+summary: "How to setup Xbox 360 Xplorers on RPCS3"
 toc: false
 ---
 
@@ -63,10 +64,10 @@ To unmap a button, right click on a button.
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z){:target="_blank"}
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360xplorermapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtr360ghxpmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
 
 Mapped by [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}

@@ -3,6 +3,8 @@ title: Nintendo Wii Rock Band Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_rbgtr_wii
 folder: instruments
+tags: [wii, guitars, english]
+summary: "How to setup Nintendo Wii Rock Band guitars on RPCS3"
 toc: false
 ---
 
@@ -49,10 +51,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Rock%20Band%20Guitars.7z){:target="_blank"}
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Rock%20Band%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiirbgtrsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiirbmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
 
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo){:target="_blank"}

@@ -3,7 +3,9 @@ title: Xbox 360 Guitar Hero Les Paul Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghlpgtr_360
 folder: instruments
-tags: [xbox-360, english]
+folder: instruments
+tags: [xbox-360, guitars, english]
+summary: "How to setup Xbox 360 Guitar Hero Les Pauls on RPCS3"
 toc: false
 ---
 
@@ -40,7 +42,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360ghlpmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtr360ghmapping.png" alt="Mapping" title="Mapping"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -52,7 +54,7 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
                         <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <h4 id="profile">Profile</h4>
-<p><a href="https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z">[Download Profile]</a></p>
+<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Guitar.7z">[Download Profile]</a></p>
 
 <table>
 <thead>
@@ -131,6 +133,6 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
 </div>
 <!-- /.panel-group -->
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

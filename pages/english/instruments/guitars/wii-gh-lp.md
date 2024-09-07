@@ -3,6 +3,8 @@ title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
 sidebar: controllers_sidebar
 permalink: ctrls_ghlpgtr_wii
 folder: instruments
+tags: [wii, guitars, english]
+summary: "How to setup Nintendo Wii Les Pauls on RPCS3"
 toc: false
 ---
 
@@ -47,10 +49,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z){:target="_blank"}
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/wiiraphlpmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiilpmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
 
 Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

@@ -3,6 +3,8 @@ title: Unknown Guitar Controller
 sidebar: controllers_sidebar
 permalink: ctrls_gtr_gen
 folder: instruments
+tags: [guitars, english]
+summary: "General mapping for unknown guitars on RPCS3"
 toc: false
 ---
 
@@ -46,3 +48,5 @@ toc: false
 | L2 | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") | | |
 | L3 | | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") | |
 | R1 | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") | Does not work |
+
+[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)

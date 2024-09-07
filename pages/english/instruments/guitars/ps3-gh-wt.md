@@ -3,7 +3,8 @@ title: PlayStation 3 Guitar Hero Genericaster (World Tour and later) Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghwtgtr_ps3
 folder: instruments
-tags: [ps3, english]
+tags: [ps3, guitars, english]
+summary: "How to setup PS3 Guitar Hero Les Pauls on RPCS3"
 toc: false
 ---
 
@@ -52,10 +53,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z){:target="_blank"}
+[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps3ghwttarmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrps3ghmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}
