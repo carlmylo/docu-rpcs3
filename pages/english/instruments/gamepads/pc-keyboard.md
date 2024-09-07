@@ -93,7 +93,7 @@ toc: false
 
 > ##### WARNING
 >
-> _The following configurations advanced users only. They involve non-standard setups._
+> _The following configurations are for advanced users only. They involve non-standard setups._
 {: .block-warning  }
 
 ### Fortnite Pro Guitars/Bass/Keys
