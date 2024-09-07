@@ -14,9 +14,9 @@ toc: false
 
 ## NOTES
 
-* Works with or without the Pro Cymbal expansions.
-	* Make sure to tell the game which cymbals are connected in the Drum Options menu.
+* Make sure to tell the game which cymbals are connected in the Drum Options menu.
 * Velocity sensitivity doesn't seem to work.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Informations
 

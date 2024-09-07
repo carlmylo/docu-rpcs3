@@ -121,5 +121,5 @@ This is left here for reference. These are the bindings the official Harmonix Ro
 
 [[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
-Research by [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}
+Research by [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}  
 Implemented by [[nswarm]](https://github.com/nswarm){:target="_blank"}
