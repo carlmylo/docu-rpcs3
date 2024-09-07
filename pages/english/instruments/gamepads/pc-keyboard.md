@@ -42,6 +42,8 @@ toc: false
 | `W`, `A`, `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | `Space` | Select | Overdrive |
 
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbdefmapping.png" alt="Mapping" title="Mapping"></div>
+
 ### Default Drums
 
 #### Pad Information
@@ -65,7 +67,7 @@ toc: false
 | `X` | Cross | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckeyboardmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbdefdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Fortnite Festival:
 
@@ -90,6 +92,7 @@ toc: false
 | `L` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
 
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
 
 > ##### WARNING
 >
@@ -123,6 +126,8 @@ toc: false
 | `;`, `Down Arrow` | Right Stick: <br> Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | `'`, `Right Arrow` | Select | Overdrive |
 
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
+
 ### Pro Drums
 
 #### Pad Information
@@ -151,6 +156,8 @@ toc: false
 | `A`, `O`, `P`, and `S` | L3 | Pad Modifier |
 | `W`, `0`, and `-` | R3 | Cymbal Modifier |
 
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+
 ### Linos GH PC
 
 #### Pad Information
@@ -175,6 +182,10 @@ toc: false
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation | Navigation |
 | `Shift Right` | Select | Overdrive | Overdrive |
 
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbghmapping.png" alt="Mapping" title="Mapping"></div>
+
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+
 ## Profiles
 
 [[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
@@ -184,3 +195,9 @@ toc: false
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 
 Alternative mapping schemes by [[Ashun]](https://www.twitch.tv/ashun_), and [[Doom05]](https://www.youtube.com/channel/UCZBzTTsPrK_gXF0ZvHkR3jA)
+
+X: 734.50
+Y: 234
+
+X:790.50
+Y: 177
