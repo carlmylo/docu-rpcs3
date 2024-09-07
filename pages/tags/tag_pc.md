@@ -1,5 +1,5 @@
 ---
-title: "Instruments that use MIDI"
+title: "Instruments made for PC"
 sidebar: english_sidebar
 search: exclude
 tagName: pc

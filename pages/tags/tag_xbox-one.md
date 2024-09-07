@@ -1,5 +1,5 @@
 ---
-title: "Instruments for Xbox 360"
+title: "Instruments for Xbox One"
 sidebar: english_sidebar
 search: exclude
 tagName: xbox-one

@@ -1,5 +1,5 @@
 ---
-title: "Instruments that use MIDI"
+title: "Instruments that are modded"
 sidebar: english_sidebar
 search: exclude
 tagName: modded

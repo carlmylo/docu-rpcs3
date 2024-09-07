@@ -1,5 +1,5 @@
 ---
-title: "Instruments for Nintendo Wii"
+title: "Instruments for Nintendo Switch"
 sidebar: english_sidebar
 search: exclude
 tagName: switch

@@ -1,5 +1,5 @@
 ---
-title: "Instruments for PlayStation 4"
+title: "Instruments for PlayStation 5"
 sidebar: english_sidebar
 search: exclude
 tagName: ps5
