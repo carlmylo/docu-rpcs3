@@ -1,5 +1,5 @@
 ---
-title: Nintendo Wii Rock Band Drums
+title: Nintendo Wii Rock Band MIDI Pro Adapter Drums
 sidebar: controllers_sidebar
 permalink: ctrls_mpadrums_wii
 folder: instruments
