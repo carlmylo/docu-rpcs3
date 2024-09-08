@@ -3,6 +3,8 @@ title: PC Keyboard
 sidebar: controllers_sidebar
 permalink: ctrls_pad_pckeys
 folder: instruments
+tags: [pc, gamepads, english]
+summary: "How to setup PC Keyboards on RPCS3"
 toc: false
 ---
 
@@ -33,45 +35,22 @@ toc: false
 
 #### Bindings
 
-| **Keyboard**          | **RPCS3**          | **Guitars/Bass/Keys** |
-|:------------------:|:------------------:|:---------------------:|
-| `Q` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| `R` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| `E` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| `T` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| `X` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-| `W`, `A`, `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| `Space` | Select | Overdrive |
+| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+|:------------:|:---------:|:---------------------:|:----------|
+| `Q` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+| `R` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `E` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
+| `T` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
+| `X` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
+| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation | Navigation |
+| `W`, `A`, `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A |
+| `Space` | Select | Overdrive | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbdefmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
 
-### Default Drums
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbdefdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
-#### Pad Information
-
-| Handlers | Devices |
-|:------------------:|:---------------------:|
-| Keyboard | Keyboard |
-
-| Device Class | Device Subtype |
-|:------------------:|:---------------------:|
-| Standard (Pad) | PS3 Controller |
-
-#### Bindings
-
-| **Keyboard**          | **RPCS3**          | **Drums** |
-|:------------------:|:------------------:|:---------------------:|
-| `Q` | L1 | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
-| `R` | L2 | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
-| `E` | R1 | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
-| `T` | R2 | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
-| `X` | Cross | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbdefdrmsmapping.png" alt="Mapping" title="Mapping"></div>
-
-### Fortnite Festival:
+### Fortnite Festival
 
 * This profile does not require strumming.
 
@@ -87,16 +66,20 @@ toc: false
 
 #### Bindings
 
-| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** |
-|:------------:|:---------:|:---------------------:|
-| `F` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| `D` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| `J` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| `K` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| `L` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
+| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+|:------------:|:---------:|:---------------------:|:----------|
+| `F` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+| `D` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `J` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
+| `K` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
+| `L` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
+| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation | Navigation |
+| `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A |
+| `Space` | Select | Overdrive | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
+
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 > ##### WARNING
 >
@@ -162,7 +145,7 @@ toc: false
 | `A`, `O`, `P`, and `S` | L3 | Pad Modifier |
 | `W`, `0`, and `-` | R3 | Cymbal Modifier |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Linos GH PC
 
@@ -190,15 +173,15 @@ toc: false
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation | Navigation |
 | `Shift Right` | Select | Overdrive | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbghmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ## Profiles
 
 [[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 

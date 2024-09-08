@@ -3,6 +3,8 @@ title: Nintendo Switch Pro Controller
 sidebar: controllers_sidebar
 permalink: ctrls_pad_switch
 folder: instruments
+tags: [switch, gamepads, english]
+summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3"
 toc: false
 ---
 
@@ -67,8 +69,8 @@ toc: false
 | ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | Vocal Track Volume (Song) | |
 | ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | Pitch Correction (Song) | |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/swipromapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padswipromapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

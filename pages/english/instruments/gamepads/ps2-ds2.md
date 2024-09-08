@@ -3,6 +3,8 @@ title: PlayStation 2 DualShock 2
 sidebar: controllers_sidebar
 permalink: ctrls_pad_ds2
 folder: instruments
+tags: [ps2, gamepads, english]
+summary: "How to setup PS2 DualShock 2 gamepads on RPCS3"
 toc: false
 ---
 
@@ -65,8 +67,4 @@ toc: false
 | ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "R1 Button") | Vocal Track Volume (Song) | |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | Pitch Correction (Song) | |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps4ds4mapping.png" alt="Mapping" title="Mapping"></div>
-
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
-
-Research by [SlothDemon](https://www.youtube.com/@SlothDemon1991)
+[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)

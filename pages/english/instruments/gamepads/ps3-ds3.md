@@ -1,8 +1,10 @@
 ---
-title: PlayStation 3 DualShock 3/Sixaxis
+title: PlayStation 3 DualShock 3/SixAxis
 sidebar: controllers_sidebar
 permalink: ctrls_pad_ds3
 folder: instruments
+tags: [ps3, gamepads, english]
+summary: "How to setup PS3 DualShock 3 and SixAxis gamepads on RPCS3"
 toc: false
 ---
 
@@ -68,8 +70,8 @@ toc: false
 | ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "R1 Button") | Vocal Track Volume (Song) | |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | Pitch Correction (Song) | |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps3ds3mapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padps3mapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)
 
 Research by [SlothDemon](https://www.youtube.com/@SlothDemon1991)

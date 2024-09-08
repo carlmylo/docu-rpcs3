@@ -3,6 +3,8 @@ title: "Xbox One/Series Controller"
 sidebar: controllers_sidebar
 permalink: ctrls_pad_xbox
 folder: instruments
+tags: [xbox-360, xbox-series, gamepads, english]
+summary: "How to setup Xbox gamepads on RPCS3"
 toc: false
 ---
 
@@ -70,6 +72,6 @@ toc: false
 | ![Right Bumper](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
 | ![Right Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/xboxpadmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padxboxmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)

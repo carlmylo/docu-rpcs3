@@ -3,6 +3,8 @@ title: Unknown Gamepad Controllers
 sidebar: controllers_sidebar
 permalink: ctrls_pad_gen
 folder: instruments
+tags: [gamepads, english]
+summary: "How to setup gamepads on RPCS3"
 toc: false
 ---
 
@@ -63,4 +65,4 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/mystmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)
