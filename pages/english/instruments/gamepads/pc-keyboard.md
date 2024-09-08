@@ -16,6 +16,7 @@ toc: false
 
 * To bind multiple keys to one button, hold Shift then click on the button you want to assign multiple keys to.
 * **You will need to set the "Stick Multiplier" and "Stick Interpolation" for Left and Right to `0.90` for whammy to function correctly.**
+* To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
 
 ## Bindings:
 

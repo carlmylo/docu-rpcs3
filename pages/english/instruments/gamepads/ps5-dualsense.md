@@ -15,8 +15,9 @@ toc: false
 ## NOTES
 
 * PlayStation 5 DualSense controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
-* There is no binding file as all controls are default.
 * To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
+* There is no binding file as all controls are default.
+* This controller auto-strums like god intended.
 
 ## Pad Information
 

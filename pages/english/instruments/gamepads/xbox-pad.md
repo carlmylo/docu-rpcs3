@@ -18,8 +18,9 @@ toc: false
 
 ![Microsoft Xbox Wireless Adapter for Windows 10](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")
 
-* There is no binding file as all controls are default.
 * To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
+* There is no binding file as all controls are default.
+* This controller auto-strums like god intended.
 
 ## Pad Information
 
