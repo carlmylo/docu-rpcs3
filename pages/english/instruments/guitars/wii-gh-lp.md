@@ -36,7 +36,7 @@ Use Right Click to unmap a button.
 
 | **RPCS3** | **Guitar** |
 |:--------:|:-----------:|
-| L2 | | Solo Modifier |
+| L2 | Solo Modifier |
 
 **Map** the following:
 

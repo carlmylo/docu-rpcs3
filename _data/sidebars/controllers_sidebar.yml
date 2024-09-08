@@ -150,11 +150,6 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
-      url: /ctrls_ghlpgtr_wii
-      output: web
-      type: homepage
-
     - title: Xbox 360 Guitar Hero Xplorer Guitars
       url: /ctrls_ghxpgtr_360
       output: web
@@ -162,6 +157,11 @@ entries:
 
     - title: PlayStation 2 Guitar Hero SG Guitars
       url: /ctrls_ghsggtr_ps2
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
+      url: /ctrls_ghlpgtr_wii
       output: web
       type: homepage
 
