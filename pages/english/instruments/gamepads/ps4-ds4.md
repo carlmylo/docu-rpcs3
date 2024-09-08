@@ -61,7 +61,7 @@ toc: false
 | ![Circle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle Button") | Back | Mic 3 Volume (Song) |
 | ![Square Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Square Button") | Mic 1 Volume (Song) | |
 | ![Triangle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Triangle Button") | View More Info (Library) | Mic 2 Volume (Song) |
-| ![Start Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/sta.png "Start Button") | Options | Pause (Song) |
+| ![Start Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/opt.png "Start Button") | Options | Pause (Song) |
 | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Share Button") | Filters (Library) | Overdrive (Song) |
 | ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l1.png "L1 Button") | Guide Part Selection (Practice) | |
 | ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l2.png "L2 Trigger") | Voice Chat | Vocal Part Selection (Practice) |
