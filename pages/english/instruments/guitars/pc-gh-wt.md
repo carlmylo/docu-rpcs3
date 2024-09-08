@@ -17,7 +17,7 @@ toc: false
 * **NOT A RECOMMENDED CONTROLLER** but kept in this list since it's unlikely many people will have this and since not much documentation exists on this controller.
 * Whammy doesn't work, which means a crucial gameplay element doesn't work.
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad. You can also try to tilt the guitar to recover from softlocks.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
