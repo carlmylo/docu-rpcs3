@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghwtr_wii
 folder: instruments
 tags: [wii, guitars, english]
-summary: "How to setup Nintendo Wii Guitar Hero Guitars on RPCS3"
+summary: "How to setup Nintendo Wii Guitar Hero guitars on RPCS3"
 toc: false
 ---
 
@@ -49,7 +49,7 @@ Use Right Click to unmap a button.
 
 Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiiwtarmapping" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiiwtarmapping.png" alt="Mapping" title="Mapping"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

@@ -145,13 +145,8 @@ entries:
       output: web
       type: homepage
 
-    - title: Xbox 360 Guitar Hero Les Paul Guitars
-      url: /ctrls_ghlpgtr_360
-      output: web
-      type: homepage
-
-    - title: Xbox 360 Guitar Hero Genericaster (World Tour and later) Guitars
-      url: /ctrls_ghwtgtr_360
+    - title: Xbox 360 Guitar Hero Guitars
+      url: /ctrls_ghgtr_360
       output: web
       type: homepage
 
