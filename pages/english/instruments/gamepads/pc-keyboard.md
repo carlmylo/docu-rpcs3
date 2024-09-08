@@ -22,6 +22,7 @@ toc: false
 ### Default Guitars/Bass/Keys
 
 * This profile does not require strumming.
+* You should **REALLY** not use this setup for anything but controller the game.
 
 #### Pad Information
 
@@ -68,8 +69,8 @@ toc: false
 
 | **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
 |:------------:|:---------:|:---------------------:|:----------|
-| `F` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
-| `D` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `D` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+| `F` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
 | `J` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
 | `K` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
 | `L` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
