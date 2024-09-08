@@ -16,7 +16,7 @@ toc: false
 
 * Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
 * This profile works for Xbox One Fender Stratocaster, Fender Jaguar, and PDP Riffmaster guitars.
-	* Fender Stratocaster and Fender Jaguar guitars require a Microsoft Xbox Wireless Adapter.
+	* Fender Stratocaster and Fender Jaguar guitars require a Microsoft Xbox Wireless Adapter.  
 	![Microsoft Xbox Wireless Adapter for Windows 10](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")  
 	* PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")  
