@@ -22,7 +22,7 @@ weight: 5
 	* 🥁 **Pro Drums Players: Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your Electronic MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 
-Revisit the [[Controllers page]](https://rb3pc.milohax.org/english/controllers) if you need help.
+Revisit the [[Controllers page]](https://carlmylo.github.io/docu-rpcs3/ctrls_full) if you need help.
 
 <br/>
 

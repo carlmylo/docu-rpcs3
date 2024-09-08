@@ -16,7 +16,7 @@ toc: false
                         <div id="scrolling-through-the-library-has-long-pauses" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.
+You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.
 </ul>
                             </div>
                         </div>

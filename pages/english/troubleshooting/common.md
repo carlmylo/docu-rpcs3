@@ -16,7 +16,7 @@ toc: false
                         <div id="bugged-textures" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues." title="Graphical issues"></p>
-<p>You did not follow the guide and did not <a href="https://rb3pc.milohax.org/english/customconfiguration/#gpu"><strong>[enable Write Color Buffers in the GPU section]</strong></a>.</p>
+<p>You did not follow the guide and did not <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration"><strong>[enable Write Color Buffers in the GPU section]</strong></a>.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline." title="GPU"></p></ul>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                         </div>
                         <div id="online-i-crash-when-joining-sessionssearching-for-players" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://rb3pc.milohax.org/english/customconfiguration#network">[Network section]</a>, and disable “Enable UPNP.” You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide">[search how to port forward in your router]</a>.</p></ul>
+<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net">[Network section]</a>, and disable “Enable UPNP.” You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide">[search how to port forward in your router]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ Alternatively, you can check the general performance issues section right below 
                             <div class="panel-body">
 <ul>
 <li>Set your computer to the <a href="https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-">[High Performance power plan]</a>.</li>
-<li>Go back to the <a href="https://rb3pc.milohax.org/english/customconfiguration#changing-a-custom-configuration">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
+<li>Go back to the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
 <li>Disable Post Effects in Deluxe Settings.
 <ul>
 <li><code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics</code></li>

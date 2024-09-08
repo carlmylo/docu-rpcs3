@@ -16,7 +16,7 @@ toc: false
                         <div id="mic-echo" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Lower the <strong>Audio Buffer Duration</strong> tab <a href="https://rb3pc.milohax.org/english/customconfiguration/#audio">[Audio tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
+<li>Lower the <strong>Audio Buffer Duration</strong> tab <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud">[Audio tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
 <li>Deactivate pitch correction in Rock Band 3.
 <ul>
 <li>To do this, go to <code>Menu &gt; Options &gt; Vocal Options &gt; Pitch Correction</code></li>

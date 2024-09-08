@@ -149,7 +149,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-<p>Revisit the <a href="https://rb3pc.milohax.org/english/controllers">[Controllers page]</a> if you need help.</p>
+<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full">[Controllers page]</a> if you need help.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
@@ -196,7 +196,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
 <ul>
-<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://rb3pc.milohax.org/espanol/advancedstuff#add-more-memory-to-rock-band-3">[Click here for more information.]</a></li>
+<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem">[Click here for more information.]</a></li>
 <li><strong>Change “Exclusive Fullscreen Mode” to “Prefer borderless fullscreen”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
 </ul>
 </li>
