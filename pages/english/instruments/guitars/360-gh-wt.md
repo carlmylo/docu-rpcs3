@@ -40,7 +40,7 @@ Use Right Click to unmap a button.
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|
-| L2 | | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | Solo Modifier |
+| L2 | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | Solo Modifier |
 
 **Change the following** or blue and yellow frets will be inverted!
 

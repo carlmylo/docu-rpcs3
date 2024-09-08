@@ -38,7 +38,7 @@ Use Right Click to unmap a button.
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|
-| L2 | | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | Solo Modifier |
+| L2 | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | Solo Modifier |
 
 **Change the following** or blue and yellow frets will be inverted!
 
@@ -49,7 +49,7 @@ Use Right Click to unmap a button.
 
 Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtr360ghmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiiwtarmapping" alt="Mapping" title="Mapping"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
