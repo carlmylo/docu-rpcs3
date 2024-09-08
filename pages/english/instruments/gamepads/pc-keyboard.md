@@ -22,7 +22,7 @@ toc: false
 ### Default Guitars/Bass/Keys
 
 * This profile does not require strumming.
-* You should **REALLY** not use this setup for anything but controller the game.
+* You should **REALLY** not use this setup for anything but controlling the game.
 
 #### Pad Information
 
