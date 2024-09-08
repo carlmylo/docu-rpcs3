@@ -29,8 +29,6 @@ toc: false
 
 ### Mapping
 
-To unmap a button, right click on a button.
-
 * For the best experience:
 	1. Go to the Start menu and look for "Set up USB game controllers," then open it.
 	2. Right click on "Guitar Hero X-plorer"
@@ -41,6 +39,17 @@ To unmap a button, right click on a button.
 	7. On the next screen, press the whammy all the way in then release it, then click "Next."
 	8. On the next screen, move the guitar to full tilt position, then click "Next."
 	9. In RPCS3's Gamepad Configuration, set deadzones on the Left and Right Stick to None.
+
+## Mappings
+
+**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
+Use Right Click to unmap a button.
+
+| **RPCS3** | **Guitar** |
+|:--------:|:-----------:|
+| L2 | | Solo Modifier |
+
+**Map** the following:
 
 | **RPCS3** | **Guitar** |
 |:---------:|:----------:|

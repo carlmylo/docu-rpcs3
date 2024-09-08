@@ -68,7 +68,9 @@ The following information is needed:
 * Adapter(s) used
 * Platform for instrument (Xbox 360, PlayStation 4, etc.)
 * Bindings for every button (Green Fret = Cross)
-* Bindings file (`RPCS3\config\input_configs\global\ProfileName.yml`)
+* Bindings file
+	* (`RPCS3\config\input_configs\global\ProfileName.yml`) if it's with the global "Pads" menu
+	* (`RPCS3\config\input_configs\BLUS30463\Default.yml`) if it's made in "Custom Gamepad Configuration"
 * Screenshot of Custom Gamepad Configuration
 
 {% include links.html %}

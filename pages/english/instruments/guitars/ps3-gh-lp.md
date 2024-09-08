@@ -30,6 +30,15 @@ toc: false
 
 ## Mappings
 
+**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
+Use Right Click to unmap a button.
+
+| **RPCS3** | **Guitar** |
+|:--------:|:-----------:|
+| L2 | | Solo Modifier |
+
+**Map** the following:
+
 * Tilt can be set up but it is very complicated. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not tilt.
 	* To bind multiple buttons to one RPCS3 button, hold Shift then click on the RPCS3 button you want to assign multiple buttons to.
 * Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.

@@ -31,6 +31,15 @@ toc: false
 
 ## Mappings
 
+**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
+Use Right Click to unmap a button.
+
+| **RPCS3** | **Guitar** |
+|:--------:|:-----------:|
+| L2 | | Solo Modifier |
+
+**Map** the following:
+
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|
 | Cross | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |

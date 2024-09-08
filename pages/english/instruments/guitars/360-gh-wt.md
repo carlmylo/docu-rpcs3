@@ -33,7 +33,16 @@ toc: false
 
 ## Mapping
 
-By default, XInput has most things bound correctly. You only need to remap the following:
+By default, XInput has most things bound correctly. You only need to adjust the following:
+
+**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
+Use Right Click to unmap a button.
+
+| **RPCS3** | **XInput** | **Guitar** |
+|:--------:|:-----------:|:-----------:|
+| L2 | | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | Solo Modifier |
+
+**Change the following** or blue and yellow frets will be inverted!
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|

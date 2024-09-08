@@ -1,24 +1,22 @@
 ---
-title: Xbox 360 Guitar Hero Les Paul Guitars
+title: Nintendo Wii Guitar Hero Guitars (WiitarThing)
 sidebar: controllers_sidebar
-permalink: ctrls_ghlpgtr_360
+permalink: ctrls_ghwtr_wii
 folder: instruments
-folder: instruments
-tags: [xbox-360, guitars, english]
-summary: "How to setup Xbox 360 Guitar Hero Les Pauls on RPCS3"
+tags: [wii, guitars, english]
+summary: "How to setup Nintendo Wii Guitar Hero Guitars on RPCS3"
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/360.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ghlpcontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rcmgtrswii.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
-* This instrument **requires an Xbox 360 Wireless Gaming Receiver for Windows to connect to your computer.**
-
-![Xbox 360 Wireless Gaming Receiver for Windows](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/receiver.png "Xbox 360 Wireless Gaming Receiver for Windows")
-
+* Requires installing and running [[**WiitarThing**]](https://github.com/Meowmaritus/WiitarThing){:target="_blank"} along with its dependencies.
+* This configuration **requires connecting wirelessly via Bluetooth**. You need a Bluetooth receiver to connect to your computer.
+* Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
@@ -123,15 +121,15 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
 </tr>
 <tr>
 <td align="center">Start</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png" alt="Plus" title="Plus"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/back.png" alt="min" title="Minus"></td>
 </tr>
 <tr>
 <td align="center">PS Button</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
 </table>
@@ -144,4 +142,4 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
 
 [[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}
+Mapped by [diogodiogo2]

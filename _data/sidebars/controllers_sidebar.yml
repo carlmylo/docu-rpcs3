@@ -170,6 +170,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Nintendo Wii Guitar Hero Guitars (WiitarThing)
+      url: /ctrls_ghwtr_wii
+      output: web
+      type: homepage
+
     - title: PlayStation 3 Guitar Hero Les Paul Guitars
       url: /ctrls_ghlpgtr_ps3
       output: web

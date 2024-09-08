@@ -31,6 +31,15 @@ toc: false
 
 ## Mappings
 
+**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
+Use Right Click to unmap a button.
+
+| **RPCS3** | **Guitar** |
+|:--------:|:-----------:|
+| L2 | | Solo Modifier |
+
+**Map** the following:
+
 * Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
 | **RPCS3**          | **Controller** |
