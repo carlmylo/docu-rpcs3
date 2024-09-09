@@ -20,7 +20,7 @@ weight: 4
 		* Valores altos resultan en más latencia pero menos consumo de CPU.
 		* Los que juegan vocales son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.
 		* Esto se puede cambiar mientras el juego esta abierto pero **requiere recalibración** en los ajustes del sistema de Rock Band 3.
-	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - **No mas se recomienda cambiar esto para computadoras de baja gama**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con sonido.
+	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - Raramente ayuda unas personas. **Mayoría de las personas deben de quedarse en Cubeb**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido.
 
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Cuadro bronceado") **Para Vocalistas**: 
 	* **Cambia "Microphone type"** (tipo de micrófono) **a "Standard" o "Rocksmith"**. "Standard" dejara que tu micrófono se pueda usar para cantar y la chat de voz. "Rocksmith" solo te dejara cantar.

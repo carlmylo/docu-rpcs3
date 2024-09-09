@@ -24,6 +24,7 @@ weight: 3
 		* Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.
 		* It's suggested to disable VSync within Rock Band 3 Deluxe itself in `Menu > Options > Deluxe Settings > Graphics > VSync`
 	* **Change "ZCULL Accuracy" to "Relaxed"** - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.
+	* **Adjust “Anistropic Filter”** depending on what your GPU can handle. Increase for better texture filtering. Performance impact should be negligible.
 	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution. Lowering this below 100% isn't worth it as it won't give much, if any, framerate gains.
 	* **Adjust "Output Scaling"** to preference and to what your computer can handle. This affects how the game is "blown up" in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale (mentioned above) at 100% while playing on a monitor larger than 1280x720.
 		* "Nearest" is completely unfiltered and gives you a raw unmodified image. This can cause the game to look pixelated.

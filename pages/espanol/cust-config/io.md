@@ -9,7 +9,10 @@ series: "Configuración Personalizada"
 weight: 5
 ---
 
-**Si todo está conectado**, **mira la pestaña I/O de RPCS3**.  
+**Esta sección es para los que están usando teclados USB/MIDI, Guitarras Pro o Baterías MIDI.**.  
+* **Si no estas usando un teclado USB/MIDI, Guitarra Pro o Batería MIDI,** [[**vete** a **sección que sigue**].](https://carlmylo.github.io/docu-rpcs3/custom_config_sys_es)  
+* **Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3,** [[**mira esta pagina**].](https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es){:target="_blank"}  
+
 ![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos solidos, y "Pad Handler Mode" en un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/cust/io.png "I/O")
 
 * ![Un cuadrado bronceado.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Cuadrado bronceado"): **Para jugadores de teclado y guitarra Pro**:
@@ -19,7 +22,7 @@ weight: 5
 * ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png "Cuadro azul") **Ajuste dependiendo de tu PC**: 
 	* **Cambia "Pad Handler Mode"** (Modo de manejar controladores) **a "Multi-threaded"** si tienes una CPU con mas de 12 hilos/núcleos.
   
-Si necesitas mas ayuda, visita la [[pagina de instrumentos MIDI]](https://rb3pc.milohax.org/english/controllers).
+Si necesitas mas ayuda, dale otra visita a la [[pagina de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_full_es).
 
 <br/>
 
