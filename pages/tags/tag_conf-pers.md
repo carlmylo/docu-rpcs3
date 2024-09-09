@@ -1,5 +1,5 @@
 ---
-title: "Paginas de como crear una configuración personalizada"
+title: "Paginas de la configuración personalizada para RPCS3"
 sidebar: espanol_sidebar
 search: exclude
 tagName: conf-pers

@@ -1,5 +1,5 @@
 ---
-title: "Paginas para empezar jugar Rock Band 3 en RPCS3"
+title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
 sidebar: english_sidebar
 search: exclude
 tagName: empezando

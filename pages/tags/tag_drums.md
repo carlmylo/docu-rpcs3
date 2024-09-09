@@ -1,5 +1,5 @@
 ---
-title: "Instruments that use MIDI"
+title: "All Drums"
 sidebar: english_sidebar
 search: exclude
 tagName: drums

@@ -1,9 +1,9 @@
 ---
-title: "Pages on getting started"
+title: "All Guitars"
 sidebar: english_sidebar
 search: exclude
-tagName: getting-started
-permalink: tag_getting-started
+tagName: drums
+permalink: tag_guitars
 folder: tags
 toc: false
 ---
