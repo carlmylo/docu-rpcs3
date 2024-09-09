@@ -3,6 +3,8 @@ title: Conclusion
 sidebar: english_sidebar
 permalink: conclusion
 folder: english
+tags: [english]
+summary: "The end of the guide."
 toc: false
 ---
 

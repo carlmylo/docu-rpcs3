@@ -3,6 +3,8 @@ title: Online
 sidebar: english_sidebar
 permalink: trbl_online
 folder: english
+tags: [troubleshooting, english]
+summary: "How to deal with common online issues"
 toc: false
 ---
 

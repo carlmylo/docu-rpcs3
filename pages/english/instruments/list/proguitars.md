@@ -3,6 +3,9 @@ title: Pro Guitars
 sidebar: english_sidebar
 permalink: ctrls_protars
 folder: english
+tags: [controllers, gamepads, english]
+summary: "A list of verified Pro Guitars you can use in Rock Band 3 in RPCS3"
+toc: false
 ---
 
 | Picture | Name | Platform | Compatibility | Configuration |

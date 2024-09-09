@@ -5,10 +5,10 @@ allowed-tags:
   - english
   - getting-started
   - custom-config
+  - controllers
   - drums
   - guitars
   - gamepads
-  - online
   - midi
   - modded
   - pc
@@ -20,6 +20,8 @@ allowed-tags:
   - wii
   - xbox-360
   - xbox-one
+  - online
+  - troubleshooting
   - espanol
   - empezando
   - conf-pers

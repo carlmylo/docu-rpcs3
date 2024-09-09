@@ -3,6 +3,8 @@ title: Common
 sidebar: english_sidebar
 permalink: trbl_common
 folder: english
+tags: [troubleshooting, english]
+summary: "How to deal with common issues"
 toc: false
 ---
 

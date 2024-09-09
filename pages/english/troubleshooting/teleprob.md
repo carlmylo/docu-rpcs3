@@ -3,6 +3,8 @@ title: Teleporting Items
 sidebar: english_sidebar
 permalink: trbl_teleprob
 folder: english
+tags: [troubleshooting, english]
+summary: "How to deal with the visual glitches in Rock Band 3"
 ---
 
 ## Guitar Patch

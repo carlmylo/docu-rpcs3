@@ -3,6 +3,8 @@ title: Crashes
 sidebar: english_sidebar
 permalink: trbl_crashes
 folder: english
+tags: [troubleshooting, english]
+summary: "How to deal with common crashes"
 toc: false
 ---
 

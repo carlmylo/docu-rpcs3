@@ -3,6 +3,8 @@ title: Deluxe
 sidebar: english_sidebar
 permalink: trbl_deluxe
 folder: english
+tags: [troubleshooting, english]
+summary: "How to deal with common issues with Deluxe"
 toc: false
 ---
 

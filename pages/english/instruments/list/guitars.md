@@ -3,6 +3,9 @@ title: Guitars
 sidebar: english_sidebar
 permalink: ctrls_guitar
 folder: english
+tags: [controllers, guitars, english]
+summary: "A list of verified guitars you can use in Rock Band 3 in RPCS3"
+toc: false
 ---
 
 | Picture | Name | Platform | Compatibility | Configuration |

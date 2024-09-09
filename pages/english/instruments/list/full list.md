@@ -3,6 +3,9 @@ title: Instruments and Controllers
 sidebar: english_sidebar
 permalink: ctrls_full
 folder: english
+tags: [controllers, drums, gamepads, guitars, midi, english]
+summary: "A list of verified controllers you can use in Rock Band 3 in RPCS3"
+toc: false
 ---
 
 Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. Below is a list of instruments verified to work with Rock Band 3 on RPCS3 with their respective mapping.
