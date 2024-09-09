@@ -1,9 +1,9 @@
 ---
-title: "All pages on controllers"
+title: "All Gamepads"
 sidebar: english_sidebar
 search: exclude
-tagName: controllers
-permalink: tag_controllers
+tagName: gamepads
+permalink: tag_gamepads
 folder: tags
 toc: false
 ---

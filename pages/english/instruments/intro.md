@@ -3,6 +3,9 @@ title: Instruments and Controllers
 sidebar: english_sidebar
 permalink: ctrls
 folder: english
+tags: [controllers, english]
+summary: "How to map your controllers in RPCS3"
+toc: false
 ---
 
 Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. Below is a list of instruments verified to work with Rock Band 3 on RPCS3 with their respective mapping.
@@ -62,11 +65,11 @@ Paste it into:
 
 ## Contributing
 
-Do you have a controller we don't have documentation on? Want to help expand this list further? Contact me (@carlmylo) on [**[the Milohax discord]**](https://discord.gg/milohax) or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new).  
+Do you have a controller we don't have documentation on? Want to help expand this list further? Contact me (@carlmylo) on [**[the Milohax discord]**](https://discord.gg/milohax){:target="_blank"} or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new){:target="_blank"}.  
 The following information is needed:
-* Instrument brand and model
-* Adapter(s) used
-* Platform for instrument (Xbox 360, PlayStation 4, etc.)
+* Instrument brand and model (Guitar Hero Les Paul)
+* Adapter(s) used (RetroCultMods V3 Adapter)
+* Platform for instrument (Nintendo Wii)
 * Bindings for every button (Green Fret = Cross)
 * Bindings file
 	* (`RPCS3\config\input_configs\global\ProfileName.yml`) if it's with the global "Pads" menu

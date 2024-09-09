@@ -26,6 +26,7 @@ While a Quick Configuration should work in most cases, some things require addit
 <br/>
 
 **Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**  
+Keep in mind that you'll have to restart the game for most of these settings.  
 ![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
 ## Color Guide
@@ -84,10 +85,11 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>It is suggested to use your graphics driver's settings or software like MSI Afterburner to limit your framerate instead.</li>
 <li>Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.</li>
 <li>Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.</li>
-<li>It's suggested to disable VSync within Rock Band 3 Deluxe itself in <code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics &gt; VSync</code></li>
+<li>It's suggested to disable VSync within Rock Band 3 Deluxe itself in <br> <code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics &gt; VSync</code></li>
 </ul>
 </li>
 <li><strong>Change “ZCULL Accuracy” to “Relaxed”</strong> - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.</li>
+<li><strong>Adjust “Anistropic Filter”</strong> to depending on what your GPU can handle. Increase for better texture filtering. Performance impact should be negligible.</li>
 <li><strong>Adjust “Resolution Scale”</strong> to preference and to what your computer can handle. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution. Lowering this below 100% isn't worth it as it won't give much, if any, framerate gains.</li>
 <li><strong>Adjust “Output Scaling”</strong> to preference and to what your computer can handle. This affects how the game is “blown up” in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale (mentioned above) at 100% while playing on a monitor larger than 1280x720.
 <ul>
@@ -118,7 +120,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>You can change this while the game is running, but it will require re-calibrating in Rock Band 3’s system settings.</li>
 </ul>
 </li>
-<li><strong>Change “Audio Out” to “XAudio2”</strong> - While <strong>most users should stay on Cubeb</strong>, a couple of people have experienced better performance with XAudio2. Your mileage may vary.</li>
+<li><strong>Change “Audio Out” to “XAudio2” in extremely rare circumstances</strong> - <strong>Most users should stay on Cubeb</strong>, a few users have experienced better performance with XAudio2. Only do this if you absolutely need to!</li>
 </ul>
 </li>
 <li>
@@ -135,7 +137,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
 <ul>
 <li><strong>If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
-<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough">[<strong>[Passthrough Devices]</strong>]</a>section. </li>
+<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough" target="_blank">><strong>[[Passthrough Devices]]</strong></a>section. </li>
 </ul>
 <p><strong>Make sure your MIDI instrument is connected.</strong> After that, let's go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>
@@ -149,7 +151,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full">[Controllers page]</a> if you need help.</p>
+<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full" target="_blank">[Controllers page]</a> if you need help.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
@@ -161,10 +163,10 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For online multiplayer</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For online</strong>:</p>
 <ul>
 <li>You can tick <strong>“Enable UPNP”</strong> or <strong>forward port 9103 (UDP) in your firewall</strong>.</li>
-<li>To play Rock Band 3 online, add Rock Band Enhanced's Server IP.
+<li>Add Rock Band Enhanced's Server IP.
 <ul>
 <li>Set IP/Hosts switches to <code>rb3ps3live.hmxservices.com=45.33.44.103</code>.</li>
 </ul>
@@ -190,13 +192,13 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>Once again, having a higher VBlank can cause issues with vocal detection.</li>
 </ul>
 </li>
-<li><strong>Change “Maximum Number of SPURS Threads”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
+<li><strong>Change “Maximum Number of SPURS Threads”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
 </ul>
 </li>
 <li>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
 <ul>
-<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem">[Click here for more information.]</a></li>
+<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem" target="_blank">[Click here for more information.]</a></li>
 <li><strong>Change “Exclusive Fullscreen Mode” to “Prefer borderless fullscreen”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
 </ul>
 </li>

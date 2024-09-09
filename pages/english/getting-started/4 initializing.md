@@ -32,7 +32,7 @@ It will start compiling modules to load the PS3 XMB into the emulator, which may
 
 ## Rock Band 3
 
-Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
+Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
 
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](https://carlmylo.github.io/docu-rpcs3/images/install/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
@@ -48,7 +48,7 @@ This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock
 
 [**[Click here to download Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads){:target="_blank"}.
 
-[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/install/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip")
+[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/install/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip"){:target="_blank"}
 
 **When it's finished downloading, extract the archive**.  
 
