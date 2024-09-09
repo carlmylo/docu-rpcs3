@@ -15,7 +15,7 @@ To begin with, make sure you have the correct dongle.
 
 After making sure you have the correct dongle, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
 
-Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/) and **download the latest version, then open it** up.
+Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/){:target="_blank"} and **download the latest version, then open it** up.
 
 Click on **Options** then **List All Devices**.  
 ![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](https://carlmylo.github.io/docu-rpcs3/images/pass/zadiglistall.png "Zadig: Options: List All Devices")

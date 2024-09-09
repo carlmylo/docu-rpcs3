@@ -38,7 +38,7 @@ You will still be able to pick the part you want when the song’s part select s
                         <div id="im-stuck-on-registering-account-when-trying-to-connect-to-online" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<li>Make sure you have copied the correct settings in the Rock Band 3’s <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net">[Network]</a> configuration.</li>
+<li>Make sure you have copied the correct settings in the Rock Band 3’s <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network]</a> configuration.</li>
 <li>You may have lost connection to RPCN  and will have to restart the game.</li>
 </ul>
                             </div>
@@ -56,7 +56,7 @@ You will still be able to pick the part you want when the song’s part select s
 <ul>
 <li>Double check to make sure your connection is stable</li>
 <li>Try connecting via Ethernet cable if you’re on Wi-Fi.</li>
-<li>If you have increased your VBlank past 60 Hz, set it back to 60 Hz.</li>
+<li>If you have increased your VBlank past 60 Hz, <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_adv" target="_blank">set it back to 60 Hz.</a></li>
 <li>Get better internet.</li>
 </ul>
                             </div>
@@ -74,7 +74,7 @@ You will still be able to pick the part you want when the song’s part select s
                                 <ul>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/missingsong.png" alt="A screenshot of Rock Band 3, showing songs with a darker color as they are disabled." title="Rock Band 3: Missing Songs Example"></p>
 
-<li>Please read the <a href="https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/edit#heading=h.qxzngdakbkv"><strong>[PS3 Customs guide]</strong></a> section on this.</li>
+<li>Please read the <a href="https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/edit#heading=h.qxzngdakbkv" target="_blank"><strong>[PS3 Customs guide]</strong></a> section on this.</li>
 </ul>
                             </div>
                         </div>

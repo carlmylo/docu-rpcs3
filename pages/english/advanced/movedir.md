@@ -18,14 +18,14 @@ I'll be naming the folder "RPCS3 Directory" in this tutorial.
 ![A screenshot of the folder created, which is named "RPCS3 Directory" in this tutorial.) en la categoría de 7-Zip.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfolder.png "RPCS3 Directory")
 
 Now, back in the folder RPCS3 is in, cut the following folders:
-* dev_bdvd
-* dev_flash
-* dev_flash2
-* dev_flash3
-* dev_hdd0
-* dev_hdd1
-* dev_usb000
-* games
+* `dev_bdvd`
+* `dev_flash`
+* `dev_flash2`
+* `dev_flash3`
+* `dev_hdd0`
+* `dev_hdd1`
+* `dev_usb000`
+* `games`
 
 ![A screenshot of the folders listed being cut.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dircut.png "Cut (CTRL+X")
 
@@ -35,7 +35,7 @@ Paste them inside of the folder you created.
 
 When it finishes pasting, reopen RPCS3.
 
-Click on Manage > Virtual File System
+Click on `Manage > Virtual File System`
 
 ![A screenshot of RPCS3, with the user hovering over "Virtual File System", under the "Manage" category.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
 
@@ -43,11 +43,11 @@ In the Virtual File System window, click on the `+` symbol near the bottom right
 
 ![A screenshot of RPCS3's Virtual File System Menu, showing the cursor hovering over the plus symbol at the bottom.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfsadd.png "Virtual File System")
 
-Go to the folder you created, click on it, and then click on "Select Folder."
+Go to the folder you created, click on it, and then click on "`Select Folder`."
 
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
 
-Finally, click "Save".
+Finally, click "`{:target="_blank"}`".
 
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
 

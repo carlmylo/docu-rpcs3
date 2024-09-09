@@ -16,7 +16,7 @@ toc: false
                         <div id="scrolling-through-the-library-has-long-pauses" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.
+You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.
 </ul>
                             </div>
                         </div>
@@ -61,7 +61,7 @@ This is a known issue with RPCS3. Restart it and it will should work.
                         <div id="you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<a href="https://github.com/carlmylo/docu-rpcs3/issues">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.
+<a href="https://github.com/carlmylo/docu-rpcs3/issues" target="_blank">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.
 </ul>
                             </div>
                         </div>
