@@ -187,6 +187,6 @@ You will have to reopen these programs every time you want to play.</p>
 </div>
 <!-- /.panel-group -->
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Keyboards]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys)
 
 Implementation by [[Dark]](https://dark.ski/)
