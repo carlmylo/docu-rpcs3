@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghwtr_wii
 folder: instruments
 tags: [wii, guitars, english]
-summary: "How to setup Nintendo Wii Guitar Hero guitars on RPCS3"
+summary: "How to setup Nintendo Wii Guitar Hero guitars on RPCS3."
 toc: false
 ---
 

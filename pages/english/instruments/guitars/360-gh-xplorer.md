@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghxpgtr_360
 folder: instruments
 tags: [xbox-360, guitars, english]
-summary: "How to setup Xbox 360 Xplorers on RPCS3"
+summary: "How to setup Xbox 360 Xplorers on RPCS3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_xbox
 folder: instruments
 tags: [xbox-360, xbox-series, gamepads, english]
-summary: "How to setup Xbox gamepads on RPCS3"
+summary: "How to setup Xbox gamepads on RPCS3."
 toc: false
 ---
 

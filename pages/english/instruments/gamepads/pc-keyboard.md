@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_pckeys
 folder: instruments
 tags: [pc, gamepads, english]
-summary: "How to setup PC Keyboards on RPCS3"
+summary: "How to setup PC Keyboards on RPCS3."
 toc: false
 ---
 

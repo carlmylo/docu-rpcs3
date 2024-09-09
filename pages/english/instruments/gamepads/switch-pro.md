@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_switch
 folder: instruments
 tags: [switch, gamepads, english]
-summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3"
+summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3."
 toc: false
 ---
 

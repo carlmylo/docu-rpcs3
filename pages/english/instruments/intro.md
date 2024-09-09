@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: ctrls
 folder: english
 tags: [controllers, english]
-summary: "How to map your controllers in RPCS3"
+summary: "How to map your controllers on RPCS3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_gen
 folder: instruments
 tags: [gamepads, english]
-summary: "How to setup gamepads on RPCS3"
+summary: "How to setup gamepads on RPCS3."
 toc: false
 ---
 

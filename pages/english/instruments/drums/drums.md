@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_drums_gen
 folder: instruments
 tags: [drums, english]
-summary: "General mapping for unknown drums on RPCS3"
+summary: "General mapping for unknown drums on RPCS3."
 toc: false
 ---
 

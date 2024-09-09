@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_ds3
 folder: instruments
 tags: [ps3, gamepads, english]
-summary: "How to setup PS3 DualShock 3 and SixAxis gamepads on RPCS3"
+summary: "How to setup PS3 DualShock 3 and SixAxis gamepads on RPCS3."
 toc: false
 ---
 

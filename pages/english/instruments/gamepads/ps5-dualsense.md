@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_dualsense
 folder: instruments
 tags: [ps5, gamepads, english]
-summary: "How to setup PS5 DualSense gamepads on RPCS3"
+summary: "How to setup PS5 DualSense gamepads on RPCS3."
 toc: false
 ---
 

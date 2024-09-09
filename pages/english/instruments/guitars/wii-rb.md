@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_rbgtr_wii
 folder: instruments
 tags: [wii, guitars, english]
-summary: "How to setup Nintendo Wii Rock Band guitars on RPCS3"
+summary: "How to setup Nintendo Wii Rock Band guitars on RPCS3."
 toc: false
 ---
 

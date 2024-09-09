@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghwtgtr_pc
 folder: instruments
 tags: [pc, guitars, english]
-summary: "How to setup PC Guitar Hero World Tour guitars on RPCS3"
+summary: "How to setup PC Guitar Hero World Tour guitars on RPCS3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_rb4drums_ps4
 folder: instruments
 tags: [ps4, drums, english]
-summary: "How to setup PlayStation 4 Rock Band drums on RPCS3"
+summary: "How to setup PlayStation 4 Rock Band drums on RPCS3."
 toc: false
 ---
 

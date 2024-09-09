@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_rb4gtr_ps4
 folder: instruments
 tags: [ps4, guitars, english]
-summary: "How to setup PS4 Rock Band guitars on RPCS3"
+summary: "How to setup PS4 Rock Band guitars on RPCS3."
 toc: false
 ---
 

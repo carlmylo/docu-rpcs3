@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: trbl_misc
 folder: english
 tags: [troubleshooting, english]
-summary: "How to deal with miscellaneous issues"
+summary: "How to deal with miscellaneous issues."
 toc: false
 ---
 

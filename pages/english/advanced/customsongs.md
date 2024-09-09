@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: adv_customsongs
 folder: english
 tags: [advanced, english]
-summary: "How to add custom songs to Rock Band 3"
+summary: "How to add custom songs to Rock Band 3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghsggtr_ps2
 folder: instruments
 tags: [ps2, guitars, english]
-summary: "How to setup PS2 Guitar Hero SGs on RPCS3"
+summary: "How to setup PS2 Guitar Hero SGs on RPCS3."
 toc: false
 ---
 

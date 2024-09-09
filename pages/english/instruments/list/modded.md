@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: ctrls_modded
 folder: english
 tags: [controllers, gamepads, english]
-summary: "A list of verified modded controllers you can use in Rock Band 3 in RPCS3"
+summary: "A list of verified modded controllers you can use in Rock Band 3 in RPCS3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: ctrls_drums
 folder: english
 tags: [controllers, drums, english]
-summary: "A list of verified drums you can use in Rock Band 3 in RPCS3"
+summary: "A list of verified drums you can use in Rock Band 3 in RPCS3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: adv_passthrough
 folder: english
 tags: [advanced, english]
-summary: "How to add set up passthrough devices for RPCS3"
+summary: "How to add set up passthrough devices for RPCS3."
 toc: false
 ---
 

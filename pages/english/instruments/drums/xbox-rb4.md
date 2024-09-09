@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_rb4drums_xbox
 folder: instruments
 tags: [xbox-one, drums, english]
-summary: "How to setup Xbox One Rock Band drums on RPCS3"
+summary: "How to setup Xbox One Rock Band drums on RPCS3."
 toc: false
 ---
 

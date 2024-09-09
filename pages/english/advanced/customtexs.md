@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: adv_customtex
 folder: english
 tags: [advanced, english]
-summary: "How to add custom texture to Rock Band 3 Deluxe"
+summary: "How to add custom texture to Rock Band 3 Deluxe."
 toc: false
 ---
 

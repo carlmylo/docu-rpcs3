@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_ds2
 folder: instruments
 tags: [ps2, gamepads, english]
-summary: "How to setup PS2 DualShock 2 gamepads on RPCS3"
+summary: "How to setup PS2 DualShock 2 gamepads on RPCS3."
 toc: false
 ---
 

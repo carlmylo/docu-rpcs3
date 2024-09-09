@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: custom_config_io
 folder: english
 tags: [custom-config, english]
-summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration"
+summary: "What to change for Rock Band 3 under the CPU tab in RPCS3's Custom Configuration."
 series: "Custom Configuration"
 weight: 5
 ---

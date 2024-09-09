@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: trbl_audio
 folder: english
 tags: [troubleshooting, english]
-summary: "How to deal with common audio issues"
+summary: "How to deal with common audio issues."
 toc: false
 ---
 

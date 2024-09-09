@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_rb4gtr_xbox
 folder: instruments
 tags: [xbox-one, guitars, english]
-summary: "How to setup Xbox One Rock Band 4/Fortnite Festival guitars on RPCS3"
+summary: "How to setup Xbox One Rock Band 4/Fortnite Festival guitars on RPCS3."
 toc: false
 ---
 

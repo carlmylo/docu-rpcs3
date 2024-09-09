@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: adv_movedir
 folder: english
 tags: [advanced, english]
-summary: "How to move Rock Band 3's files to a different location than the emulator"
+summary: "How to move Rock Band 3's files to a different location than the emulator."
 toc: false
 ---
 

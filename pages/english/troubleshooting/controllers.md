@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: trbl_controllers
 folder: english
 tags: [troubleshooting, english]
-summary: "How to deal with common issues with your controllers"
+summary: "How to deal with common issues with your controllers."
 toc: false
 ---
 

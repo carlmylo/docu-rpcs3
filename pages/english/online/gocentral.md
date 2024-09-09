@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: gocentral
 folder: english
 tags: [online, english]
-summary: "How to use GoCentral to play online"
+summary: "How to use GoCentral to play online."
 series: "Playing Online"
 weight: 3
 ---

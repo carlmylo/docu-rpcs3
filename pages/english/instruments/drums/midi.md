@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_drums_midi
 folder: instruments
 tags: [midi, drums, english]
-summary: "How to setup a MIDI Drum Kit on RPCS3"
+summary: "How to setup a MIDI Drum Kit on RPCS3."
 toc: false
 ---
 

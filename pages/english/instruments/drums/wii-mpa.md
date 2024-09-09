@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_mpadrums_wii
 folder: instruments
 tags: [wii, drums, english]
-summary: "How to setup Nintendo Wii MPA drums on RPCS3"
+summary: "How to setup Nintendo Wii MPA drums on RPCS3."
 toc: false
 ---
 

@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_keys_ps3
 folder: instruments
 tags: [ps3, midi, english]
-summary: "How to connect and configure PlayStation 3 Wireless keyboards (MIDI) on RPCS3"
+summary: "How to connect and configure PlayStation 3 Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
 

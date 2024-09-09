@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_keys_wii
 folder: instruments
 tags: [wii, midi, english]
-summary: "How to connect and configure Nintendo Wii Wireless keyboards (MIDI) on RPCS3"
+summary: "How to connect and configure Nintendo Wii Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
 

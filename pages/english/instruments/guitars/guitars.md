@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_gtr_gen
 folder: instruments
 tags: [guitars, english]
-summary: "General mapping for unknown guitars on RPCS3"
+summary: "General mapping for unknown guitars on RPCS3."
 toc: false
 ---
 

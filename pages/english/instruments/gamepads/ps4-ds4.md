@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_ds4
 folder: instruments
 tags: [ps4, gamepads, english]
-summary: "How to setup PS3 DualShock 3 gamepads on RPCS3"
+summary: "How to setup PS3 DualShock 3 gamepads on RPCS3."
 toc: false
 ---
 

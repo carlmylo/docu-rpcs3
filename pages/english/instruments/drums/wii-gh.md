@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghdrums_wii
 folder: instruments
 tags: [wii, drums, english]
-summary: "How to setup Nintendo Wii Guitar Hero drums on RPCS3"
+summary: "How to setup Nintendo Wii Guitar Hero drums on RPCS3."
 toc: false
 ---
 

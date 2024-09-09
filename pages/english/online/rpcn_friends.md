@@ -4,7 +4,7 @@ sidebar: english_sidebar
 permalink: rpcn_friends
 folder: english
 tags: [online, english]
-summary: "How to add manage friends on RPCN"
+summary: "How to add manage friends on RPCN."
 series: "Playing Online"
 weight: 2
 ---
