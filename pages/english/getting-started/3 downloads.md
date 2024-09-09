@@ -38,7 +38,7 @@ Scroll down a bit and download the Windows version.
 [![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](https://carlmylo.github.io/docu-rpcs3/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download"){:target="_blank"}
 
 **Once it downloads, extract the .7zip file.**  
-![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://carlmylo.github.io/docu-rpcs3/images/install/extractrpcs3.png "Extract Files"){:target="_blank"}
+![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://carlmylo.github.io/docu-rpcs3/images/install/extractrpcs3.png "Extract Files")
 
 I would strongly suggest extracting the files into "C:\\Games\\RPCS3" or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 

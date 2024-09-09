@@ -48,7 +48,7 @@ This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock
 
 [**[Click here to download Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads){:target="_blank"}.
 
-[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/install/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip"){:target="_blank"}
+[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/docu-rpcs3/images/install/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip")
 
 **When it's finished downloading, extract the archive**.  
 

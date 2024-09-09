@@ -15,27 +15,27 @@ Antes de empezar con la instalación, **asegúrate que tus controladores y siste
 
 **Empezamos descargando 7-Zip**, porque va ayudar abrir mayoría de los archivos que bajamos en esta guía. **Si ya tienes 7-Zip** o una alternativa instalada, **puedes seguir adelante**.
 
-[**[Haz clic aquí para ir a la página de descarga de 7-Zip]**](https://7zip-es.updatestar.com/).
+[**[Haz clic aquí para ir a la página de descarga de 7-Zip]**](https://7zip-es.updatestar.com/){:target="_blank"}.
 
-[![Una captura de la pagina para descargar 7-Zip, con el cursor sobre el instalador .exe de 64 bits.](https://carlmylo.github.io/docu-rpcs3/images/install/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com")
+[![Una captura de la pagina para descargar 7-Zip, con el cursor sobre el instalador .exe de 64 bits.](https://carlmylo.github.io/docu-rpcs3/images/install/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com"){:target="_blank"}
 
 **Ahora**, **vamos a instalar Microsoft Visual C++ 2019 Redistributable**, porque es necesario para RPCS3. La mayoría de computadoras ya lo tienen, pero no está mal estar seguro.
 
-[**[Haz clic aquí para descargar Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+[**[Haz clic aquí para descargar Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe){:target="_blank"}.
 
 **Cuando se descargue**, ábrelo y instálalo (Install). 
 
-[![Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](https://carlmylo.github.io/docu-rpcs3/images/install/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")14.3833130")
+[![Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](https://carlmylo.github.io/docu-rpcs3/images/install/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130"){:target="_blank"}
 
 ## RPCS3
 
 **Después, vamos a descargar RPCS3**.
 
-[**[Haz clic aquí para ir al sitio de descarga de RPCS3]**](https://rpcs3.net/download).
+[**[Haz clic aquí para ir al sitio de descarga de RPCS3]**](https://rpcs3.net/download){:target="_blank"}.
 
 Baja un poco y descarga la versión para Windows.
 
-[![Una captura del sitio de descarga para RPCS3, con el cursor en la versión de Windows.](https://carlmylo.github.io/docu-rpcs3/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download")
+[![Una captura del sitio de descarga para RPCS3, con el cursor en la versión de Windows.](https://carlmylo.github.io/docu-rpcs3/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download"){:target="_blank"}
 
 **Cuando se descargue, extrae el archivo .7zip.**  
 
@@ -49,11 +49,11 @@ Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicio
 
 ## Firmware
 
-Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 del sitio de Sony]**](https://www.playstation.com/support/hardware/ps3/system-software/). **Mira un poco abajo en la página** hasta que llegues a "**Actualizar por computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar la actualización de la PS3**".
+Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 del sitio de Sony]**](https://www.playstation.com/es-mx/support/hardware/ps3/system-software/){:target="_blank"}. **Mira un poco abajo en la página** hasta que llegues a "**Actualizar por computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar la actualización de la PS3**".
 
 _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE HACER click DERECHO Y "Guardar enlace como..." o tu descarga PUEDE FALLAR.**_
 
-[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](https://carlmylo.github.io/docu-rpcs3/images/install/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3")
+[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](https://carlmylo.github.io/docu-rpcs3/images/install/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3"){:target="_blank"}
 
 {% include custom/series_empezando_next.html %}
 

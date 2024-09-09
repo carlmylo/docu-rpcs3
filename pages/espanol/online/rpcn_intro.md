@@ -9,8 +9,6 @@ series: "Jugando En Linea"
 weight: 1
 ---
 
-Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](https://rb3pc.milohax.org/espanol/configuracionrapida/)
-
 Antes que puedas jugar en linea, vas a necesitar crear una cuenta de RPCN. RPCN es el equivalente de PSN (PlayStation Network) pero para RPCS3. Esta seccion va cubrir como crear una cuenta y administrar tu lista de amigos.
 
 Ve a **Configuration > RPCN** (Configuración > RPCN)

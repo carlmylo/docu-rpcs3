@@ -32,7 +32,7 @@ Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto pu
 
 ## Rock Band 3
 
-Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" adentro de la carpeta de RPCS3**. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)  
+Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" adentro de la carpeta de RPCS3**. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U){:target="_blank"}  
 
 ![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](https://carlmylo.github.io/docu-rpcs3/images/install/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
@@ -42,11 +42,11 @@ Después de mover la carpeta de Rock Band 3, haz clic en "Refresh" (actualizar) 
 
 ## Rock Band 3 Deluxe
 
-**Ahora, vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/index_es).
+**Ahora, vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/index_es){:target="_blank"}.
 
-Rock Band 3 Deluxe es una modificación que arregla problemas críticos con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.milohax.org/features_es).
+Rock Band 3 Deluxe es una modificación que arregla problemas críticos con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.milohax.org/features_es){:target="_blank"}.
 
-[**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads_es).
+[**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads_es){:target="_blank"}.
 
 [![Carpeta .zip de Rock Band 3 Deluxe en la bandeja de descarga de Edge.](https://carlmylo.github.io/docu-rpcs3/images/install/rb3dxdles.png)](https://rb3dx.milohax.org/downloads_es "RB3DX-PS3.zip")
 
