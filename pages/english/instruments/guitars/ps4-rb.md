@@ -14,10 +14,9 @@ toc: false
 
 ## NOTES
 
-*
-* The bindings have not been verified. If you have one, please send us a message!
+* The bindings have not been verified. If you want to help, please send us a message!
 * **Tilt, Whammy, and pickup switch WILL NOT work at all!** Solo buttons may or may not work.
-	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, tilt, and a multiplatform guitar.
+	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, tilt, and convert it to a multiplatform guitar.
 * Latency on Jaguars and Stratocasters may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
@@ -54,7 +53,5 @@ toc: false
 ## Profile
 
 N/A
-
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/ps4rb4gtrsmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)

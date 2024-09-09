@@ -94,6 +94,7 @@ toc: false
                                 <ul>
                                 <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li> 
                                 <li>Make sure your keyboard the right channel (Channel 1). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi">[the MIDI Keyboard page]</a> for more help.</li>
+                                <li>If you're on a Rock Band 3 keyboard in MIDI mode, you may have activated drum mode by pressing D-Pad Up. Press D-Pad Up again to toggle it off.</li>
                                 </ul>
                             </div>
                         </div>
