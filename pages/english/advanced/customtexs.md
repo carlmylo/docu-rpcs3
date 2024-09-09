@@ -3,6 +3,9 @@ title: Add Custom Textures to Rock Band 3 Deluxe
 sidebar: english_sidebar
 permalink: adv_customtex
 folder: english
+tags: [advanced, english]
+summary: "How to add custom texture to Rock Band 3 Deluxe"
+toc: false
 ---
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>This is meant for advanced users only. **Your game and installation may break!** Proceed with caution! </b> {{include.content}}</div>

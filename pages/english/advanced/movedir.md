@@ -3,6 +3,9 @@ title: Move Game Files
 sidebar: english_sidebar
 permalink: adv_movedir
 folder: english
+tags: [advanced, english]
+summary: "How to move Rock Band 3's files to a different location than the emulator"
+toc: false
 ---
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>This is meant for advanced users only. **Your game and installation may break!** Proceed with caution! </b> {{include.content}}</div>

@@ -3,6 +3,9 @@ title: Passthrough Devices
 sidebar: english_sidebar
 permalink: adv_passthrough
 folder: english
+tags: [advanced, english]
+summary: "How to add set up passthrough devices for RPCS3"
+toc: false
 ---
 
 If you're playing with a RB3 Mustang Guitar for PlayStation 3 or a RB3 Keyboard PlayStation 3 with their respective dongles, you can connect and play them like on console after a simple setup.
@@ -43,3 +46,5 @@ Turn your controller on and you should see it automatically assign a player numb
 
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
 ![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](https://carlmylo.github.io/docu-rpcs3/images/pass/rb3player.png "Rock Band 3: Pro Guitar ready to join")
+
+{% include links.html %}
