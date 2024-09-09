@@ -26,7 +26,7 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/docu-rpcs3/images/cust/quickconf.gif "Recommended.zip")
 
-You will still have to set up [your instruments and controllers](https://carlmylo.github.io/docu-rpcs3/ctrls){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud.html){:target="_blank"}, [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough){:target="_blank"}, or  will still need to configure those.
+You will still have to set up [[your instruments and controllers]](https://carlmylo.github.io/docu-rpcs3/ctrls){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud){:target="_blank"} or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough){:target="_blank"}  will still need to configure those.
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -63,7 +63,7 @@ You will still have to set up [your instruments and controllers](https://carlmyl
 <li><strong>Network</strong>:
 <ul>
 <li>Network Status: Connected</li>
-<li>DNS: Configured for RBEnhanced</li>
+<li>IP Hosts/Switches: Configured for RBEnhanced</li>
 <li>Enable UPNP: On</li>
 </ul>
 </li>
