@@ -1,9 +1,9 @@
 ---
-title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
+title: "Instrumentos para Xbox One"
 sidebar: espanol_sidebar
 search: exclude
-tagName: empezando
-permalink: tag_empezando
+tagName: xbox-one-es
+permalink: tag_xbox-one-es
 folder: tags
 toc: false
 ---

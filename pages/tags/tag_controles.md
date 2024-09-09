@@ -1,12 +1,13 @@
 ---
-title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
+title: "Todas las paginas de controles"
 sidebar: espanol_sidebar
 search: exclude
-tagName: empezando
-permalink: tag_empezando
+tagName: controles
+permalink: tag_controles
 folder: tags
 toc: false
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}

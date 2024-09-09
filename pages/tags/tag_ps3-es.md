@@ -1,9 +1,9 @@
 ---
-title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
+title: "Instrumentos para PlayStation 3"
 sidebar: espanol_sidebar
 search: exclude
-tagName: empezando
-permalink: tag_empezando
+tagName: ps3-es
+permalink: tag_ps3-es
 folder: tags
 toc: false
 ---

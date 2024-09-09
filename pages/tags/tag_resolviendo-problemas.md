@@ -1,9 +1,9 @@
 ---
-title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
+title: "Paginas para resolver problemas"
 sidebar: espanol_sidebar
 search: exclude
-tagName: empezando
-permalink: tag_empezando
+tagName: resolviendo-problemas
+permalink: tag_resolviendo-problemas
 folder: tags
 toc: false
 ---

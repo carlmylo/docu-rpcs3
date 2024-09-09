@@ -1,9 +1,9 @@
 ---
-title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
+title: "Paginas de cosas avanzadas"
 sidebar: espanol_sidebar
 search: exclude
-tagName: empezando
-permalink: tag_empezando
+tagName: avanzado
+permalink: tag_avanzado
 folder: tags
 toc: false
 ---

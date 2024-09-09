@@ -1,9 +1,9 @@
 ---
-title: "Pages on troubleshooting"
+title: "Instrumentos para PlayStation 5"
 sidebar: english_sidebar
 search: exclude
-tagName: troubleshooting
-permalink: tag_troubleshooting
+tagName: ps5-es
+permalink: tag_ps5-es
 folder: tags
 toc: false
 ---

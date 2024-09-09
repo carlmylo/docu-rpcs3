@@ -1,9 +1,9 @@
 ---
-title: "Paginas para empezar a jugar Rock Band 3 en RPCS3"
+title: "Instrumentos para Nintendo Wii"
 sidebar: espanol_sidebar
 search: exclude
-tagName: empezando
-permalink: tag_empezando
+tagName: wii-es
+permalink: tag_wii-es
 folder: tags
 toc: false
 ---

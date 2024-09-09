@@ -50,7 +50,7 @@ Go to the folder you created, click on it, and then click on "`Select Folder`."
 
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
 
-Finally, click "`{:target="_blank"}`".
+Finally, click "`Save`".
 
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
 

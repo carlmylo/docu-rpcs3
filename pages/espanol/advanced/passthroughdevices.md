@@ -3,6 +3,9 @@ title: Conexión Directa
 sidebar: espanol_sidebar
 permalink: adv_passthrough_es
 folder: espanol
+tags: [avanzado, espanol]
+summary: "Como configurar controles para tener conexión directa para RPCS3."
+toc: false
 ---
 
 Jugando con un Teclado o Guitarra Pro (Mustang) de PlayStation 3 es fácil. Solo requiere una configuración simple. Después de hacer esto, se pueden usar en el emulador.
@@ -15,7 +18,7 @@ Para empezar, asegúrate que tengas el recibidor correcto para tu instrumento.
 
 Después de comprobar que tengas el receptor correcto, **cierra RPCS3** y conecta el receptor del instrumento a tu computadora.
 
-Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/) y **descárgalo**. Cuando termine de bajar, **ábrelo**.
+Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/){:target="_blank"} y **descárgalo**. Cuando termine de bajar, **ábrelo**.
 [![Una captura de la pagina de Zadig](https://carlmylo.github.io/docu-rpcs3/images/pass/zadigdles.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
 
 Haz click en **Options** (Opciones) y luego en **List All Devices** (Listar todos los dispositivos).  

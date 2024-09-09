@@ -10,7 +10,7 @@ toc: false
 
 You now (hopefully) have set up Rock Band 3 on your PC. While you're here, why not join some communities that are helping keep the Rock Band community alive?
 
-## Rock Band 3 Deluxe/Milohax
+## Milohax
 
 [![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMilohax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "Milohax"){:target="_blank"}
 
@@ -30,7 +30,7 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb){
 
 * [[Dark]](https://dark.ski/){:target="_blank"}, [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"}, [[lunalawl]](https://github.com/lunalawl){:target="_blank"}, [[Hughtobasic]](https://www.youtube.com/@thisisRK){:target="_blank"}, [[ihatecompvir]](https://www.youtube.com/@ihatecompvir1591){:target="_blank"}, and [[LysiX]](https://www.youtube.com/@LysiX){:target="_blank"} for technical information regarding RPCS3 and/or Rock Band 3.
 * [[lunalawl]](https://github.com/lunalawl){:target="_blank"} for helping improve new users' experiences and helping a ton with guide flow.
-* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Lynxeption]](https://www.twitch.tv/lynxeption){:target="_blank"}, [[Le Fish]](https://ko-fi.com/lefishe){:target="_blank"}, [[Aloquendiar]](https://www.twitch.tv/aloquendiar){:target="_blank"} for helping with the Spanish version.
+* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Lynxeption]](https://www.twitch.tv/lynxeption){:target="_blank"}, [[Le Fish]](https://ko-fi.com/lefishe){:target="_blank"}, and [[Aloquendiar]](https://www.twitch.tv/aloquendiar){:target="_blank"} for helping with the Spanish version.
 * [[KaijuChomps]](https://github.com/KaijuChomps){:target="_blank"} for helping with Jekyll and GitHub Pages.
 * [[qfoxb]](https://github.com/qfoxb){:target="_blank"}, [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} (tested for nearly 50 hours lmao), [knvtva](https://github.com/knvtva){:target="_blank"}, and 1osks for testing and reporting results.
 * [[SlothDemon1991]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}, [[Trish]](https://www.youtube.com/channel/UCle3t7q9UeU0npc3FklcjCg){:target="_blank"}, [[ItzSlicedcorn/Vivian]](https://www.twitch.tv/itzslicedcorn){:target="_blank"}, and [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} for helping set up scenarios for tutorial pictures.

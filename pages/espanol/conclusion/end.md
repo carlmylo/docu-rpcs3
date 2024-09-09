@@ -3,37 +3,39 @@ title: Conclusión
 sidebar: espanol_sidebar
 permalink: conclusion_es
 folder: espanol
+tags: [espanol]
+summary: "Por fin termina la guía"
 toc: false
 ---
 
 Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar Rock Band 3 en tu computadora. Mientras estás acá, ¿por qué no te unes a algunas comunidades que están ayudando a mantener viva la Comunidad de Rock Band?
 
-## Rock Band 3 Deluxe/Milohax
+## Milohax
 
-[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/index_es "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMilohax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "Milohax"){:target="_blank"}
 
-Milohax son los desarrolladores de Rock Band 3 Deluxe, que es esencial para jugar Rock Band 3. **[\[Descárgalo aquí\]](https://rb3dx.neocities.org/index_es)**. Además de [[todas la funciones que agrega]](https://rb3dx.neocities.org/features_es), también han desarrollado mods para [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (para Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) y también [para PS2](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://rb3dx.neocities.org/), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe) y [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe).
+Milohax es una comunidad dedicada a modificar y preservar el legado de los juegos de Harmonix. Han estados involucrados en muchas cosas, como [[buscando y preservando copias beta]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilación]](https://decomp.milohax.org/#/about){:target="_blank"} y también ayudando a emuladores como RPCS3 or shadPS4 para mejorar como funcionan los juegos de Harmonix. 
 
-[Puedes \[unirte al servidor de MiloHax\]](https://rb3dx.neocities.org/discord_es) aqui.
+[Puedes \[unirte al servidor de MiloHax\]](https://discord.gg/milohax){:target="_blank"} aqui.
 
 ## RBEnhanced
 
 [![RBEnhanced Logo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
 
-Desarrolladores del increíble mod RBEnhanced el cual solamente existe para Xbox 360 y Wii. Los mismos desarrolladores también ayudan y mantienen el servidor de GoCentral que fue la manera original de jugar Rock Band 3 en linea en Xbox, PS3, y Wii por el Momento.
+Desarrolladores del increíble mod llamado RBEnhanced. Los mismos desarrolladores también ayudan y mantienen el servidor de GoCentral que fue la manera original de jugar Rock Band 3 en linea en Xbox, PS3, y Wii por el Momento.
 
-Puedes [**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWXPYwb).
+Puedes [**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWXPYwb){:target="_blank"}.
 
 ## Agradecimientos
 
-* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991) y [[Lynxeption]](https://www.youtube.com/@Lynxeption)por ayudar a traducir esta guía y ayudarme a recordar como escribir Español.
-*  [[DarkRTA]](https://www.youtube.com/@darkrta), [[Linos]](https://www.youtube.com/@LinosMelendi), [[Jnack]](https://www.youtube.com/@jnackmclain), [[lunalawl]](https://github.com/lunalawl), [[Hughtobasíc]](https://www.youtube.com/@thisisRK), [[ihatecompvir]](https://www.youtube.com/@ihatecompvir1591), and [[LysiX]](https://www.youtube.com/@LysiX) por información técnica sobre RPCS3 y Rock Band 3.
-* [[KaijuChomps]](https://github.com/KaijuChomps) por ayuda técnica con Jekyll y GitHub Pages.
-*   qfoxb, [[SlothDemon]](https://www.youtube.com/@SlothDemon1991), [[Jnack]](https://www.youtube.com/@jnackmclain) (el cual hizo pruebas por 40 horas xd), knvtva, y 1osks por reportar resultados.
-* SlothDemon1991, gonakil1ya, GamerPerson22, Vex, Trish, ItzSlicedcorn/Vivian, y Linos por ayudar con capturas de pantalla.
-* RPCS3 Wiki por tener una cantidad decente de información sobre los Controladores y los Traspasos Via USB.
-* [[TheNathannator]](https://github.com/TheNathannator) por su [GitHub de PlasticBand](https://github.com/TheNathannator/PlasticBand) por la mejor documentación de controladores.
+* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Lynxeption]](https://www.twitch.tv/lynxeption){:target="_blank"}, [[Le Fish]](https://ko-fi.com/lefishe){:target="_blank"} y [[Aloquendiar]](https://www.twitch.tv/aloquendiar){:target="_blank"} por ayudar a traducir esta guía y ayudarme a recordar como escribir Español.
+*  [[Dark]](https://dark.ski/){:target="_blank"}, [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"}, [[lunalawl]](https://github.com/lunalawl){:target="_blank"}, [[Hughtobasic]](https://www.youtube.com/@thisisRK){:target="_blank"}, [[ihatecompvir]](https://www.youtube.com/@ihatecompvir1591){:target="_blank"} y [[LysiX]](https://www.youtube.com/@LysiX){:target="_blank"} por darme información técnica sobre RPCS3 y Rock Band 3.
+* [[KaijuChomps]](https://github.com/KaijuChomps) por ayuda técnica de Jekyll y GitHub Pages.
+* [[qfoxb]](https://github.com/qfoxb){:target="_blank"}, [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} (el cual hizo pruebas por casi 50 horas xd), [knvtva](https://github.com/knvtva){:target="_blank"} y 1osks por reportar resultados de la guía.
+* [[SlothDemon1991]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}, [[Trish]](https://www.youtube.com/channel/UCle3t7q9UeU0npc3FklcjCg){:target="_blank"}, [[ItzSlicedcorn/Vivian]](https://www.twitch.tv/itzslicedcorn){:target="_blank"} y [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} por ayudarme con las capturas de la guía.
+* [[La Wiki de RPCS3]](https://wiki.rpcs3.net/index.php?title=Main_Page){:target="_blank"} por información sobre los controles y de conexiones directas.
+* [[TheNathannator]](https://github.com/TheNathannator) por su [GitHub de PlasticBand](https://github.com/TheNathannator/PlasticBand) que fue una ayuda tremenda con lo de controles.
 
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
