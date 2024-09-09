@@ -48,6 +48,7 @@ Use Right Click to unmap a button.
 | **RPCS3** | **Guitar** |
 |:--------:|:-----------:|
 | L2 | Solo Modifier |
+| Right Stick: Up | - |
 
 **Map** the following:
 
@@ -63,9 +64,7 @@ Use Right Click to unmap a button.
 | D-Pad: Left | ![D-Pad: Left](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: Up | - |
 | Right Stick: Down | ![Effects Switch](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Effects Switch") |
-| L2 | - |
 | R1 | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") |
 | Start | ![Plus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png "Start") |
 | Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png "Back") |
