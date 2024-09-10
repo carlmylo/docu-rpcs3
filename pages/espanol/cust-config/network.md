@@ -9,7 +9,7 @@ series: "Configuración Personalizada"
 weight: 7
 ---
 
-![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.44.103), el estado de PSN (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](https://carlmylo.github.io/docu-rpcs3/images/cust/network.png "Network")
+![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.44.103), el estado de PSN (RPCN) y Enable UPNP (no marcado) resaltado en azul claro.](https://carlmylo.github.io/docu-rpcs3/images/cust/network.png "Network")
 
 * ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Cambia Network Status** (estado de red) **a "Connected"** (conectado) **como en la imagen. Si la dejas en "Disconnected"** (desconectado), **el juego se congelara mientras navegas por la biblioteca de canciones.**

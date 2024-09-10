@@ -150,39 +150,35 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 </ul>
-<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full" target="_blank">[Controllers page]</a> if you need help.</p>
+<p>Si necesitas mas ayuda, dale otra visita a la <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full" target="_blank">[pagina de instrumentos]</a>.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="system">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png" alt="A screenshot of Rock Band 3's Emulator custom settings, showing &quot;Show trophy popups&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show Shader Compilation hint&quot;, &quot;Start Games in fullscreen mode&quot;, &quot;Use native user interface.&quot;" title="Emulator"></p>
-<p>You can leave this as is if you want, but I would consider changing the following options:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/system.png" alt="Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando Console Language y Keyboard Type resaltados en cafe con una linea blanca solida" title="System"></p>
 <ul>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Optional tweaks</strong>:
+<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para cambiar el lenguaje del juego</strong>:
 <ul>
-<li><strong>"Show trophy popups"</strong> - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.</li>
-<li><strong>"Show PPU compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the “Recompiler (LLVM)” setting in the CPU tab does this when launching the game.</li>
-<li><strong>"Show shader compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. <strong>The game will</strong> appear to <strong>stutter when this happens</strong>. <strong>This happens on ALL computer systems. When it finishes</strong> compiling an effect, <strong>it will usually never happen again</strong>. <strong>The best way to deal with this is</strong> just <strong>to</strong> <strong>play the game</strong> as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.</li>
-<li><strong>"Start games in Fullscreen mode"</strong> - Switches to Fullscreen when you start Rock Band 3.</li>
-<li><strong>"Use Native Interface"</strong> - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups. This can also fix a problem with instrument controllers soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.</li>
+<li><strong>Cambia "Console Language"</strong> (Idioma del Sistema) <strong>a Spanish</strong> (Español) - Cambia el idioma de Rock Band 3 a Español</li>
+<li><strong>Cambia "Keyboard Type"</strong> (Tipo de teclado) <strong>a "Spanish Keyboard"</strong> (Teclado Español) - Cambia el teclado virtual a Español.</li>
 </ul>
 </li>
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.44.103), el estado de PSN (RPCN) y Enable UPNP (no marcado) resaltado en azul claro." title="Network"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUIRED</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
-<li><strong>Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.</strong></li>
+<li><strong>Cambia Network Status</strong> (estado de red) <strong>a "Connected"</strong> (conectado) <strong>como en la imagen. Si no haces esto, el juego se congelara mientras navegas la biblioteca de canciones.</strong></li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>For online</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugar en linea</strong>:</p>
 <ul>
-<li>You can tick <strong>“Enable UPNP”</strong> or <strong>forward port 9103 (UDP) in your firewall</strong>.</li>
-<li>Add Rock Band Enhanced's Server IP.
+<li>Activa <strong>“Enable UPNP”</strong> (activar UPnP) <strong>o reenvía el puerto 9103 (UDP) en tu cortafuegos</strong> No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.</li>
+<li>Agrega la direccion IP de Rock Band Enhanced.
 <ul>
-<li>Set IP/Hosts switches to <code>rb3ps3live.hmxservices.com=45.33.44.103</code>.</li>
+<li>Cambia "IP/Hosts switches" a <code>rb3ps3live.hmxservices.com=45.33.44.103</code>.</li>
 </ul>
 </li>
 </ul>
@@ -190,16 +186,16 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="advanced">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png" alt="A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, &quot;Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline." title="Advanced"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png" alt="Una captura de la configuración personalizada avanzada, con Driver Wake-Up Delay (1µ) resaltado en un cuadro verde con una línea discontinua, Exclusive Fullscreen Mode, VBlank Frequency y Maximum Number of SPURS Threads resaltados en cuadros azules con contornos punteados, y Debug Console Mode resaltado en un cuadro bronceado con un contorno solido" title="Advanced"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUIRED</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
-<li><strong>Change “Driver Wake-up Delay” to “20µ”</strong> to avoid crashing after a few songs. Increase it to “40µ” if the issue persists. If it keeps happening, keep increasing it by increments of 20.</li>
+<li><strong>Cambia el "Driver Wake-up Delay"</strong> (Retraso de activacion de controlador) <strong>a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.</strong> Si todavía sigue pasando (muy raro),  subele en incrementos de 20 cada vez.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro bronceado"> <strong>Depending on your computer</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro bronceado"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
 <li><strong>Adjust VBlank Frequency</strong> if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. <strong>It's best left alone</strong> and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
 <ul>
