@@ -117,7 +117,7 @@ toc: false
 | `;`, `Down Arrow` | Right Stick: <br> Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | `'`, `Right Arrow` | Select | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/pckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Pro Drums
 
