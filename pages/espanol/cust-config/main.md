@@ -126,7 +126,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para Vocalistas</strong>:</p>
 <ul>
 <li><strong>Cambia "Microphone type"</strong> (tipo de micrófono) <strong>a "Standard" o "Rocksmith"</strong>.</li>
-<li><strong>Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.</li>
+<li>Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.</li>
 <li>Otra vez, tener fotogramas sobre 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.</li>
 </ul>
 </li>
