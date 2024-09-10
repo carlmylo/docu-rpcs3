@@ -106,28 +106,28 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="audio">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png" alt="A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline." title="Audio"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra Audio Out y Audio Buffer Duration resaltados en cuadros azules con contornos punteados, y Microphone Settings, Microphone Type: Standard, Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido" title="Audio"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on audio hardware and CPU</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Adjust “Audio Buffer Duration”</strong> depending on system. Ideally you want this as low as possible.
+<li><strong>Ajusta el "Audio Buffer Duration"</strong> (duración de búferes de audio) dependiendo de tu sistema. Es mejor bajarlo lo mas posible.
 <ul>
-<li>Lower values give you less audio latency but use more CPU.</li>
-<li>Higher values give you more audio latency but use less CPU.</li>
-<li>Vocalists are affected the most by this, as a higher latency creates a distracting echo. Instrument players can use calibration to compensate regardless of audio buffer setting.</li>
-<li>You can change this while the game is running, but it will require re-calibrating in Rock Band 3’s system settings.</li>
+<li>Valores bajos resultan en menos latencia pero más consumo de CPU.</li>
+<li>Valores altos resultan en más latencia pero menos consumo de CPU.</li>
+<li>Vocalistas son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.</li>
+<li>Esto se puede cambiar mientras el juego esta abierto pero <strong>requiere recalibración</strong> en los ajustes del sistema de Rock Band 3.</li>
 </ul>
 </li>
-<li><strong>Change “Audio Out” to “XAudio2” in extremely rare circumstances</strong> - <strong>Most users should stay on Cubeb</strong>, a few users have experienced better performance with XAudio2. Only do this if you absolutely need to!</li>
+<li><strong>Cambia "Audio Out"</strong> (Salida de audio) <strong>a “XAudio2”</strong> - En ocasiones raras, puede ayudar. <strong>Mayoría de las personas deben de quedarse en Cubeb</strong>. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For Vocalists</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para Vocalistas</strong>:</p>
 <ul>
-<li><strong>Set Microphone type to Standard or Rocksmith</strong>.</li>
-<li><strong>Select an input device in “Mic1”, “Mic2”, and “Mic3”</strong> for vocals. If not playing vocals, Mic1 will be used for voice chat.</li>
-<li>Once again, keep in mind that playing with framerates higher than 60 may cause issues with vocal detection.</li>
+<li><strong>Cambia "Microphone type"</strong> (tipo de micrófono) <strong>a "Standard" o "Rocksmith"</strong>.</li>
+<li><strong>Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.</li>
+<li>Otra vez, tener fotogramas sobre 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.</li>
 </ul>
 </li>
 </ul>
