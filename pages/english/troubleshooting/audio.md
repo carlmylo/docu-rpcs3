@@ -12,13 +12,13 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mic-echo">There a distracting echo when playing vocals.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mic-echo">There's a distracting echo when playing vocals.</a>
                             </h4>
                         </div>
                         <div id="mic-echo" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Lower the <strong>Audio Buffer Duration</strong> tab <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud" target="_blank">[Audio tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
+<li>Lower the <strong>Audio Buffer Duration</strong> slider in the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud" target="_blank">[Audio tab when setting up a Custom Configuration]</a> for Rock Band 3.</li>
 <li>Deactivate pitch correction in Rock Band 3.
 <ul>
 <li>To do this, go to <code>Menu &gt; Options &gt; Vocal Options &gt; Pitch Correction</code></li>

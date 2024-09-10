@@ -39,7 +39,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 
 <br/>
 
-## Custom Configuration
+## Configuración Personalizada
 
 <ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#cpu" data-toggle="tab">CPU</a></li>

@@ -1,10 +1,10 @@
 ---
-title: Common
-sidebar: english_sidebar
-permalink: trbl_common
-folder: english
-tags: [troubleshooting, english]
-summary: "How to deal with common issues."
+title: Comunes
+sidebar: espanol_sidebar
+permalink: trbl_common_es
+folder: espanol
+tags: [resolviendo-problemas, espanol]
+summary: "Como resolver problemas de sonido comunes."
 toc: false
 ---
 
@@ -12,12 +12,12 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">My character has textures/graphics.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#tex-malas">Los personajes tiene gráficas corruptas.</a>
                             </h4>
                         </div>
-                        <div id="bugged-textures" class="panel-collapse collapse noCrossRef">
+                        <div id="tex-malas" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues." title="Graphical issues"></p>
+<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="Una captura de Rock Band 3, con un personaje que tiene texturas corruptas." title="Graphical issues"></p>
 <p>You did not follow the guide and did not <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank"><strong>[enable Write Color Buffers in the GPU section]</strong></a>.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline." title="GPU"></p></ul>
                             </div>
