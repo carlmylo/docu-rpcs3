@@ -46,6 +46,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
     <li><a href="#gpu" data-toggle="tab">GPU</a></li>
     <li><a href="#audio" data-toggle="tab">Audio</a></li>
     <li><a href="#io" data-toggle="tab">I/O</a></li>
+    <li><a href="#system" data-toggle="tab">System</a></li>
     <li><a href="#network" data-toggle="tab">Network</a></li>
     <li><a href="#advanced" data-toggle="tab">Advanced</a></li>
     <li><a href="#emulator" data-toggle="tab">Emulator</a></li>
@@ -105,47 +106,61 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="audio">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra Enable Buffering resaltado en un cuadro verde con una línea discontinua, Audio Out y Audio Buffer Duration resaltados en cuadros azules con contornos punteados, y Microphone Settings, Microphone Type: Standard, Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido" title="Audio"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra Audio Out y Audio Buffer Duration resaltados en cuadros azules con contornos punteados, y Microphone Settings, Microphone Type: Standard, Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido." title="Audio"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Tweak depending on audio hardware and CPU</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Adjust “Audio Buffer Duration”</strong> depending on system. Ideally you want this as low as possible.
+<li><strong>Ajusta el "Audio Buffer Duration"</strong> (duración de búferes de audio) dependiendo de tu sistema. Bájale lo mas que puedas.
 <ul>
-<li>Lower values give you less audio latency but use more CPU.</li>
-<li>Higher values give you more audio latency but use less CPU.</li>
-<li>Vocalists are affected the most by this, as a higher latency creates a distracting echo. Instrument players can use calibration to compensate regardless of audio buffer setting.</li>
-<li>You can change this while the game is running, but it will require re-calibrating in Rock Band 3’s system settings.</li>
+<li>Valores bajos resultan en menos latencia pero más consumo de CPU.</li>
+<li>Valores altos resultan en más latencia pero menos consumo de CPU.</li>
+<li>Vocalistas son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.</li>
+<li>Esto se puede cambiar mientras el juego esta abierto pero <strong>requiere recalibración</strong> en los ajustes del sistema de Rock Band 3.</li>
 </ul>
 </li>
-<li><strong>Change “Audio Out” to “XAudio2” in extremely rare circumstances</strong> - <strong>Most users should stay on Cubeb</strong>, a few users have experienced better performance with XAudio2. Only do this if you absolutely need to!</li>
+<li><strong>Cambia "Audio Out"</strong> (Salida de audio) <strong>a “XAudio2”</strong> - En ocasiones raras, puede ayudar - <strong>Mayoría de las personas deben de quedarse en Cubeb</strong>. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For Vocalists</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para Vocalistas</strong>:</p>
 <ul>
-<li><strong>Set Microphone type to Standard or Rocksmith</strong>.</li>
-<li><strong>Select an input device in “Mic1”, “Mic2”, and “Mic3”</strong> for vocals. If not playing vocals, Mic1 will be used for voice chat.</li>
-<li>Once again, keep in mind that playing with framerates higher than 60 may cause issues with vocal detection.</li>
+<li><strong>Cambia "Microphone type"</strong> (tipo de micrófono) <strong>a "Standard" o "Rocksmith".</li>
+<li><strong>Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3"</strong> para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.</li>
+<li>Otra vez, tener fotogramas sobre 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.</li>
 </ul>
 </li>
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="io">
-<p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
+<p><strong>Esta sección es para los que están usando teclados USB/MIDI, Guitarras Pro o Baterías MIDI.</strong></p>
 <ul>
-<li><strong>If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
-<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough" target="_blank">><strong>[[Passthrough Devices]]</strong></a>section. </li>
+<li><strong>Si no estas usando un teclado USB/MIDI, Guitarra Pro o Batería MIDI, puedes brincar de esta sección.</strong></li>
+<li><strong>Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3 con sus receptores propios,</strong> mira la <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es" target="_blank">><strong>[[pagina de conexiones directas]]</strong></a>. </li>
 </ul>
-<p><strong>Make sure your MIDI instrument is connected.</strong> After that, let's go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
-<strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline." title="I/O"></p>
+<p><strong>Asegúrate que tu instrumento MIDI este conectado.</strong> Luego, puedes enfocarte en la <strong>pestaña de I/O en RPCS3.</strong><br>
+<strong>Si no puedes leer unas opciones, haz la pantalla mas grande.</strong><br>
+<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando Emulated MIDI Devices, tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos solidos, y Pad Handler Mode en un cuadro azul con contorno punteado." title="I/O"></p>
 <ul>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For third party Keyboard, wired Pro Guitar, and Pro Drums players</strong>:
+<li>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li>🎹 <strong>Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
-<li>🎸 <strong>Pro Guitar Players: Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
-<li>🥁 <strong>Pro Drums Players: Change your “Emulated MIDI type” from “Keyboard” to “Drums”, then select your Electronic MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li><strong>Ajusta el "Audio Buffer Duration"</strong> (duración de búferes de audio) dependiendo de tu sistema. Bájale lo mas que puedas.
+<ul>
+<li>Valores bajos resultan en menos latencia pero más consumo de CPU.</li>
+<li>Valores altos resultan en más latencia pero menos consumo de CPU.</li>
+<li>Vocalistas son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.</li>
+<li>Esto se puede cambiar mientras el juego esta abierto pero <strong>requiere recalibración</strong> en los ajustes del sistema de Rock Band 3.</li>
+</ul>
+</li>
+<li><strong>Cambia "Audio Out"</strong> (Salida de audio) <strong>a “XAudio2”</strong> - En ocasiones raras, puede ayudar - <strong>Mayoría de las personas deben de quedarse en Cubeb</strong>. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido</li>
+</ul>
+</li>
+<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:
+<ul>
+<li>🎹 <strong>Jugadores de teclado: Deja tu "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>en "Keyboard"</strong> (teclado) <strong>y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>🎸 <strong>Jugadores de Guitarra Pro: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a “Guitar (17 Frets)”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Mustang, o "Guitar (22 Frets)"</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
+<li>🥁 <strong>Jugadores con Baterías MIDI: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a Drums”</strong> (Bateria), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
 </ul>
 </li>
 </ul>
@@ -161,7 +176,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For online</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>For online</strong>:</p>
 <ul>
 <li>You can tick <strong>“Enable UPNP”</strong> or <strong>forward port 9103 (UDP) in your firewall</strong>.</li>
 <li>Add Rock Band Enhanced's Server IP.
@@ -183,7 +198,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Tan Square"> <strong>Depending on your computer</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro bronceado"> <strong>Depending on your computer</strong>:</p>
 <ul>
 <li><strong>Adjust VBlank Frequency</strong> if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. <strong>It's best left alone</strong> and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
 <ul>
@@ -194,7 +209,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Strongly Suggested</strong>:</p>
 <ul>
 <li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem" target="_blank">[Click here for more information.]</a></li>
 <li><strong>Change “Exclusive Fullscreen Mode” to “Prefer borderless fullscreen”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
@@ -206,7 +221,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png" alt="A screenshot of Rock Band 3's Emulator custom settings, showing &quot;Show trophy popups&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show Shader Compilation hint&quot;, &quot;Start Games in fullscreen mode&quot;, &quot;Use native user interface.&quot;" title="Emulator"></p>
 <p>You can leave this as is if you want, but I would consider changing the following options:</p>
 <ul>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Optional tweaks</strong>:
+<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Optional tweaks</strong>:
 <ul>
 <li><strong>"Show trophy popups"</strong> - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.</li>
 <li><strong>"Show PPU compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the “Recompiler (LLVM)” setting in the CPU tab does this when launching the game.</li>

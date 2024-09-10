@@ -9,21 +9,18 @@ series: "Configuración Personalizada"
 weight: 4
 ---
 
-![Una captura de la configuración personalizada de audio de Rock Band 3, que muestra "Enable Buffering" resaltado en un cuadro verde con una línea discontinua, "Audio Out" y "Audio Buffer Duration" resaltados en cuadros azules con contornos punteados, y "Microphone Settings", "Microphone Type: Standard", Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png "Audio")
-
-* ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
-	* **Activa "Enable Buffering"** (Activar Búfer) - Absolutamente requerido para Rock Band 3. Debería estar activado por defecto, pero si no, actívalo.
+![Una captura de la configuración personalizada de audio de Rock Band 3, que muestra "Audio Out" y "Audio Buffer Duration" resaltados en cuadros azules con contornos punteados, y "Microphone Settings", "Microphone Type: Standard", Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png "Audio")
 
 * ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
 	* Ajusta el "Audio Buffer Duration" (duración de búferes de audio) dependiendo de tu sistema. 
 		* Valores bajos resultan en menos latencia pero más consumo de CPU.
 		* Valores altos resultan en más latencia pero menos consumo de CPU.
-		* Los que juegan vocales son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.
+		* Vocalistas son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.
 		* Esto se puede cambiar mientras el juego esta abierto pero **requiere recalibración** en los ajustes del sistema de Rock Band 3.
-	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - Raramente ayuda unas personas. **Mayoría de las personas deben de quedarse en Cubeb**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido.
+	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - En ocasiones raras, puede ayudar. **Mayoría de las personas deben de quedarse en Cubeb**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido.
 
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Cuadro bronceado") **Para Vocalistas**: 
-	* **Cambia "Microphone type"** (tipo de micrófono) **a "Standard" o "Rocksmith"**. "Standard" dejara que tu micrófono se pueda usar para cantar y la chat de voz. "Rocksmith" solo te dejara cantar.
+	* **Cambia "Microphone type"** (tipo de micrófono) **a "Standard" o "Rocksmith"**.
 	* Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.
 	* Otra vez, tener fotogramas sobre 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.
 
