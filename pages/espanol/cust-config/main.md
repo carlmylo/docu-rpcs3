@@ -23,7 +23,7 @@ Aunque la configuración rápida es buena para la mayoría de las personas, algu
 <img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfig.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Create Custom Configuration From Default Settings&quot; resaltado" title="Create Custom Configuration From Default Settings"></p></div>
 </div>
 
-**¡Recuerda de hacer click en "Apply" (Aplicar) y luego "Save custom configuration" (Guardar configuración personalizada) después de hacer ajustes!!**
+**¡Recuerda de hacer click en "Apply"** (Aplicar) **y luego "Save custom configuration"** (Guardar configuración personalizada) **después de hacer ajustes!**
 Toma en cuenta que vas a necesitar reiniciar el juego para aplicar mayoría de estos ajustes.  
 ![Una captura de la configuración personalizada de Rock Band 3 dentro de RPCS3 con el ratón sobre "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
@@ -59,7 +59,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <ul>
 <li><strong>Cambia el "SPU Block Size"</strong> (Tamaño de bloques del SPU) <strong>a "Mega""</strong> - Para juntar hilos de SPU a ser más pequeños, requiriendo menos núcleos/hilos. También tardara menos tiempo para iniciar el juego, dependiendo en tu sistema.</li>
 <li><strong>Cambia el "Preferred SPU Threads"</strong> (Hilos preferidos del SPU) <strong>a “1”, “2”, “3” o “4”</strong> - Puede ayudar a prevenir inestabilidades causadas por sobrecargas de la CPU. <strong>Empieza con 4 y bájalo si no mejora</strong>.</li>
-<li><strong>Cambia "Thread Scheduler"</strong> (Programador de hilos) <strong>a “RPCS3 Scheduler”</strong> (RPCS3 Scheduler) <strong>o “RPCS3 Alternative Scheduler”</strong>(Programador alternativo RPCS3) - <strong>¡SOLO PARA CPUs CON MÁS DE 12 HILOS!</strong>Puede ayudar con la distribución de procesos para ayudar con rendimiento.</li>
+<li><strong>Cambia "Thread Scheduler"</strong> (Programador de hilos) <strong>a “RPCS3 Scheduler”</strong> (RPCS3 Scheduler) <strong>o “RPCS3 Alternative Scheduler”</strong>(Programador alternativo RPCS3) - <strong>¡SOLO PARA CPUs CON MÁS DE 12 HILOS!</strong> Puede ayudar con la distribución de procesos para ayudar con rendimiento.</li>
 </ul>
 </li>
 </ul>
@@ -136,7 +136,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <p><strong>Esta sección es para los que están usando teclados USB/MIDI, Guitarras Pro o Baterías MIDI.</strong></p>
 <ul>
 <li><strong>Si no estas usando un teclado USB/MIDI, Guitarra Pro o Batería MIDI, puedes brincar de esta sección.</strong></li>
-<li><strong>Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3 con sus receptores propios,</strong> mira la <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es" target="_blank">><strong>[[pagina de conexiones directas]]</strong></a>. </li>
+<li><strong>Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3 con sus receptores propios,</strong> mira la <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es" target="_blank"><strong>[[pagina de conexiones directas]]</strong></a>. </li>
 </ul>
 <p><strong>Asegúrate que tu instrumento MIDI este conectado.</strong> Luego, puedes enfocarte en la <strong>pestaña de I/O en RPCS3.</strong><br>
 <strong>Si no puedes leer unas opciones, haz la pantalla mas grande.</strong><br>
@@ -146,7 +146,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <ul>
 <li>🎹 <strong>Jugadores de teclado: Deja tu "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>en "Keyboard"</strong> (teclado) <strong>y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
 <li>🎸 <strong>Jugadores de Guitarra Pro: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a “Guitar (17 Frets)”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Mustang, o "Guitar (22 Frets)"</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
-<li>🥁 <strong>Jugadores con Baterías MIDI: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a Drums”</strong> (Bateria), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>🥁 <strong>Jugadores con Baterías MIDI: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a Drums”</strong> (Bateria), <strong>y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
 </ul>
 </li>
 </ul>
@@ -197,34 +197,34 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <li>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro bronceado"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Adjust VBlank Frequency</strong> if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. <strong>It's best left alone</strong> and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
+<li><strong>Ajusta el "VBlank Frequency"</strong> (intervalo vertical) <strong>si quieres unos fotogramas internos altos.</strong> Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. <strong>Es mejor dejarlo tal como esta.</strong>. Aumentando esto usa mas recursos.
 <ul>
-<li>Once again, having a higher VBlank can cause issues with vocal detection.</li>
+<li>Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.</li>
 </ul>
 </li>
-<li><strong>Change “Maximum Number of SPURS Threads”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
+<li><strong>Cambia a "Maximum Number of SPURS Threads"</strong> (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[CPUs de Intel i5 de la cuarta generación]</a>.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Strongly Suggested</strong>:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Recomendado</strong>:</p>
 <ul>
-<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem" target="_blank">[Click here for more information.]</a></li>
-<li><strong>Change “Exclusive Fullscreen Mode” to “Prefer borderless fullscreen”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
+<li><strong>Activa "Debug Console Mode"</strong> (Modo de depuración) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem_es" target="_blank">[Haz click aquí para mas información.]</a></li>
+<li><strong>Cambia el "Exclusive Fullscreen Mode</strong> (Modo de exclusividad de pantalla llena) <strong>a "Prefer borderless fullscreen"</strong> (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.</li>
 </ul>
 </li>
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="emulator">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png" alt="A screenshot of Rock Band 3's Emulator custom settings, showing &quot;Show trophy popups&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show Shader Compilation hint&quot;, &quot;Start Games in fullscreen mode&quot;, &quot;Use native user interface.&quot;" title="Emulator"></p>
-<p>You can leave this as is if you want, but I would consider changing the following options:</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png" alt="Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando Show trophy popups, Show PPU compilation hint, Show Shader Compilation hint, Start Games in fullscreen mode, y Use native user interface. resaltados en cuadros bronceados con contornos solidos" title="Emulator"></p>
+<p>Puedes dejar esto como quieras, pero consideraría ajustar estas opciones:</p>
 <ul>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Optional tweaks</strong>:
+<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Opcional</strong>:
 <ul>
-<li><strong>"Show trophy popups"</strong> - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.</li>
-<li><strong>"Show PPU compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the “Recompiler (LLVM)” setting in the CPU tab does this when launching the game.</li>
-<li><strong>"Show shader compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. <strong>The game will</strong> appear to <strong>stutter when this happens</strong>. <strong>This happens on ALL computer systems. When it finishes</strong> compiling an effect, <strong>it will usually never happen again</strong>. <strong>The best way to deal with this is</strong> just <strong>to</strong> <strong>play the game</strong> as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.</li>
-<li><strong>"Start games in Fullscreen mode"</strong> - Switches to Fullscreen when you start Rock Band 3.</li>
-<li><strong>"Use Native Interface"</strong> - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups. This can also fix a problem with instrument controllers soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.</li>
+<li><strong>"Show trophy popups"</strong> - (Enseñar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3. Personalmente desactivo esto ya que el juego tiene sus propias notificaciones.</li>
+<li><strong>"Show PPU compilation hint"</strong> - (Enseñar notificaciones de PPUs compilándose) - Esto crea una notificación cuando RPCS3 esta compilando unidades del PPU. Esto solo sale si tienes la opción "Recompiler (LLVM)" activada en la pestaña de CPU.</li>
+<li><strong>"Show shader compilation hint"</strong> - (Enseñar notificaciones de shaders compilándose) - Esto crea una notificación cuando RPCS3 esta compilando shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los Gráficas de una PS3 a un formato que tu PC pueda usar. <strong>El juego seguirá trabándose mientras esto pase</strong> . <strong>Esto pasa en TODOS las PC's.</strong> Cuando termine de compilar un efecto <strong> esto usualmente ya no vuelve a pasar otra vez. La mejor forma de lidiar con esto es</strong> simplemente <strong>jugar al juego normalmente</strong> y luego se ira rápidamente. También puedes activar el modo de "Autoplay" y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.</li>
+<li><strong>"Start games in Fullscreen mode"</strong> (Empezar juego en pantalla llena) - Obviamente solo cambia el modo de pantalla completa cuando inicias Rock Band 3. Personalmente yo activo esto<./li>
+<li><strong>"Use Native Interface"</strong> - (Usar interfaz nativa) - Desactivar esto hará que se remuevan todas las notificaciones de RPCS3 mientras estás jugando, incluyendo el teclado y fondo mientra el juego cargue. En su lugar, verás una interfaz más antigua. Antes ayudaba antes porque RPCS3 se trababa cuando estabas nombrando algo en el juego con un controlador instrumento. Esto ya no es necesario pero la interfaz nativa si causa problemas con rendimiento en ciertas computadores en los momentos raros que sale.</li>
 </ul>
 </li>
 </ul>

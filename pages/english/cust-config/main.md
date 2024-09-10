@@ -137,7 +137,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
 <ul>
 <li><strong>If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
-<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough" target="_blank">><strong>[[Passthrough Devices]]</strong></a>section. </li>
+<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough" target="_blank"> <strong>[[Passthrough Devices]]</strong></a> section. </li>
 </ul>
 <p><strong>Make sure your MIDI instrument is connected.</strong> After that, let's go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>

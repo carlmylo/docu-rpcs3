@@ -18,7 +18,7 @@ Necesitarás:
 Puedes usar:
 
 * Guitarras de Rock Band y Guitar Hero (PS2, PS3, PS4, Wii, X360, XBONE) <sup>a
-* Batería de Rock Band y Guitar Hero (PS3, PS4, Wii, X360, XBONE) <sup>a
+* Baterías de Rock Band y Guitar Hero (PS3, PS4, Wii, X360, XBONE) <sup>a
 * Un control/teclado de computadora/mando para jugar "Padtar" (guitarra por mando) o para vocales <sup>b
 * Cualquier guitarra o teclado, con salida MIDI, compatible con el adaptador MIDI Pro de Rock Band 3 (solo la versión de PS3) <sup>c
 * Cualquier batería electrónica con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (PS3, Wii, X360) <sup>c
@@ -33,7 +33,7 @@ Puedes usar:
 <sup>a</sup> <sub>A unos instrumentos no les funciona whammy, ladeo, o el switch de efectos. Lee la pagina de instrumentos para mas información.</sub>  
 <sup>b</sup> <sub>Los mandos se funcionan con auto-strum (rasgueo automático) como en GH1-GH3. Los teclados se pueden configurar para tener rasgueo manual o auto-strum.</sub>  
 <sup>c</sup> <sub>Ciertos instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
-<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi_es)</sub>  
+<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi_es){:target="_blank"}</sub>  
 
 #### Un micrófono
 Si to computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar hasta tres micrófonos al mismo tiempo.
@@ -51,9 +51,9 @@ Pos obvio.
 | `Notas:` La configuración más básica que te va a permitir jugar. <br>• 720p/60Hz sin efectos adicionales <br>• Latencia de audio de 100ms <br>• Tirones ocasióneles | `Notas:` Rendimiento excelente. <br>• 1080p/60Hz con todos los efectos, <br>• Latencia de audio de 32 ms (o mas baja) |
 
 * Puedes ver [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart#supported_devices_laptops){:target="_blank"} (en Ingles), aunque están exagerado para este juego.
-* Para **computadora portátiles/laptops**, refiérete a las recomendaciones del [[sitio de RPCS3]](https://rpcs3.net/quickstart#supported_devices_laptops){:target="_blank") (en Ingles).
+* Para **computadora portátiles/laptops**, refiérete a las recomendaciones del [[sitio de RPCS3]](https://rpcs3.net/quickstart#supported_devices_laptops){:target="_blank"} (en Ingles).
  
-#### [[7-Zip]](https://7zip-es.updatestar.com/) o [[NanaZip]](https://apps.microsoft.com/detail/9n8g7tscl18r){:target="_blank"} si estas usando Windows 11.
+#### [[7-Zip]](https://7zip-es.updatestar.com/){:target="_blank"} o [[NanaZip]](https://apps.microsoft.com/detail/9n8g7tscl18r){:target="_blank"} si estas usando Windows 11.
 (o WinRAR si odias tu vida) para extraer archivos.
 
 #### Algo para tomar o comer
