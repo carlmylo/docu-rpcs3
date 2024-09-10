@@ -131,18 +131,6 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 </ul>
-</div>
-<div role="tabpanel" class="tab-pane" id="io">
-<p><strong>Esta sección es para los que están usando teclados USB/MIDI, Guitarras Pro o Baterías MIDI.</strong></p>
-<ul>
-<li><strong>Si no estas usando un teclado USB/MIDI, Guitarra Pro o Batería MIDI, puedes brincar de esta sección.</strong></li>
-<li><strong>Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3 con sus receptores propios,</strong> mira la <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es" target="_blank">><strong>[[pagina de conexiones directas]]</strong></a>. </li>
-</ul>
-<p><strong>Asegúrate que tu instrumento MIDI este conectado.</strong> Luego, puedes enfocarte en la <strong>pestaña de I/O en RPCS3.</strong><br>
-<strong>Si no puedes leer unas opciones, haz la pantalla mas grande.</strong><br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando Emulated MIDI Devices, tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos solidos, y Pad Handler Mode en un cuadro azul con contorno punteado." title="I/O"></p>
-<ul>
-<li>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
 <li><strong>Ajusta el "Audio Buffer Duration"</strong> (duración de búferes de audio) dependiendo de tu sistema. Bájale lo mas que puedas.
@@ -156,6 +144,17 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <li><strong>Cambia "Audio Out"</strong> (Salida de audio) <strong>a “XAudio2”</strong> - En ocasiones raras, puede ayudar - <strong>Mayoría de las personas deben de quedarse en Cubeb</strong>. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido</li>
 </ul>
 </li>
+</div>
+<div role="tabpanel" class="tab-pane" id="io">
+<p><strong>Esta sección es para los que están usando teclados USB/MIDI, Guitarras Pro o Baterías MIDI.</strong></p>
+<ul>
+<li><strong>Si no estas usando un teclado USB/MIDI, Guitarra Pro o Batería MIDI, puedes brincar de esta sección.</strong></li>
+<li><strong>Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3 con sus receptores propios,</strong> mira la <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es" target="_blank">><strong>[[pagina de conexiones directas]]</strong></a>. </li>
+</ul>
+<p><strong>Asegúrate que tu instrumento MIDI este conectado.</strong> Luego, puedes enfocarte en la <strong>pestaña de I/O en RPCS3.</strong><br>
+<strong>Si no puedes leer unas opciones, haz la pantalla mas grande.</strong><br>
+<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando Emulated MIDI Devices, tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos solidos, y Pad Handler Mode en un cuadro azul con contorno punteado." title="I/O"></p>
+<ul>
 <li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:
 <ul>
 <li>🎹 <strong>Jugadores de teclado: Deja tu "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>en "Keyboard"</strong> (teclado) <strong>y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
