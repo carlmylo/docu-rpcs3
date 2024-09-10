@@ -131,6 +131,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 </ul>
+</div>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
 <li><strong>Ajusta el "Audio Buffer Duration"</strong> (duración de búferes de audio) dependiendo de tu sistema. Bájale lo mas que puedas.
