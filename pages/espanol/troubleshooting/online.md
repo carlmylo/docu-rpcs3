@@ -1,10 +1,10 @@
 ---
-title: Online
-sidebar: english_sidebar
-permalink: trbl_online
-folder: english
-tags: [troubleshooting, english]
-summary: "How to deal with common online issues."
+title: En linea
+sidebar: espanol_sidebar
+permalink: trbl_online_es
+folder: espanol
+tags: [resolviendo-problemas, espanol]
+summary: "Como resolver problemas de internet comunes."
 toc: false
 ---
 
@@ -12,18 +12,18 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-cant-find-a-3rd-or-4th-player-when-searching">I can't find a 3rd or 4th player when searching.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#no-encuentro-jugadores">No puedo encontrar el tercero/cuarto jugador cuando busco.</a>
                             </h4>
                         </div>
-                        <div id="i-cant-find-a-3rd-or-4th-player-when-searching" class="panel-collapse collapse noCrossRef">
+                        <div id="no-encuentro-jugadores" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Port 9103 is blocked. You can either enable UPNP in Rock Band 3’s <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net">[Network]</a> configuration or manually forward port 9103 (UDP) in your firewall.   <br><strong>Don’t enable UPNP while port forwarding</strong> as this can cause crashes.</li>
-<li>Rock Band 3 online lobbies can only have 2 slots of Guitar/Bass/Keys, one Drums slot, and one Vocal slot. <br> <img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="A diagram of Rock Band 3's multiplayer slots. It shows a guitar, bass, and keyboard on slot 1 and 4, drums on slot 2, and vocals on slot 3."><br>
+<li>El puerto 9103 esta bloqueado. Puedes activar el UPNP en la<a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es">[configuración de Network para Rock Band 3]</a> o manualmente reenviar el puerto 9103 (UDP) en tu corta fuegos.   <br><strong>No actives UPNP y reenvíes el puerto al mismo tiempo</strong> porque te va a crashear.</li>
+<li>Las salas de Rock Band 3 solo aceptan 2 slots (puestos) de Guitarra/Bajo/Teclado, un slot de batería y un slot para el vocalista. <br> <img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="Un diagrama mostrando los slots disponibles de Rock Band 3. Muestra una guitarra, bajo y teclado en el slot primero y cuarto, bateria en el slot segundo, y vocales en el slot tercero."><br>
 <ul>
-<li>You can bypass this with Rock Band 3 Deluxe with its ability to change instrument type at<br>
-<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Controller &gt; Change Instrument Type</code> <br>
-You will still be able to pick the part you want when the song’s part select screen comes up.</li>
+<li>Puedes sobrepasarte de esto con Deluxe, ya que te deja cambiar slot de instrumento. Cámbialo en<br>
+<code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Avanzado &gt; Controlador &gt; Cambiar Instrumento</code> <br>
+Todavía podrás elegir la parte que quieras antes de empezar una canción/lista de reproducción.</li>
 </ul>
 </li>
 </ul>

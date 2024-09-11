@@ -18,8 +18,8 @@ toc: false
                         <div id="tex-malas" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="Una captura de Rock Band 3, con un personaje que tiene texturas corruptas." title="Graphical issues"></p>
-<p>You did not follow the guide and did not <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank"><strong>[enable Write Color Buffers in the GPU section]</strong></a>.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline." title="GPU"></p></ul>
+<p>No leíste la guía y no <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank"><strong>[activaste Write Color Buffers en la pestaña de la configuración de GPU]</strong></a>.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando Write Color Settings en un cuadro verde con una línea discontinua." title="GPU"></p></ul>
                             </div>
                         </div>
                     </div>
@@ -27,15 +27,15 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#flying-instruments">My character's items are teleporting.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#flying-instruments">Los accesorios de mi personaje están volando.</a>
                             </h4>
                         </div>
                         <div id="flying-instruments" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues."><br>
-This is an issue that happens on real hardware (PS3) but is MUCH worse on RPCS3.<br>
-There is currently a patch to fix guitars teleporting along with a list of what equipable items have issues.<br>
-<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob" target="_blank">[Click here for more information.]</a></p></ul>
+<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="Una captura de Rock Band 3 con un personaje que tiene problemas con sus accessorios."><br>
+Esto pasa en PlayStation 3 pero es peor en RPCS3.<br>
+Existe un parche que arregla las guitarras y una lista de todo los accesorios que tienen problemas.<br>
+<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a></p></ul>
                             </div>
                         </div>
                     </div>
@@ -43,12 +43,12 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-i-crash-when-joining-sessionssearching-for-players">[Online] I crash when joining sessions/searching for players.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-crasheos-de-puerto">[Online] Mi juego crashea cuando busco a/me invitan jugadores/.</a>
                             </h4>
                         </div>
-                        <div id="online-i-crash-when-joining-sessionssearching-for-players" class="panel-collapse collapse">
+                        <div id="online-crasheos-de-puerto" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network section]</a>, and disable “Enable UPNP.” You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide" target="_blank">[search how to port forward in your router]</a>.</p></ul>
+<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar que investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter].]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -56,14 +56,14 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-feels-off">My game feels off.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#se-siente-raro">No se siente bien el juego.</a>
                             </h4>
                         </div>
-                        <div id="my-game-feels-off" class="panel-collapse collapse">
+                        <div id="se-siente-raro" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Calibrate your game in Rock Band 3’s System Settings. Disable “Dolby Digital” if it’s enabled as well.<br>
-You can access the system menu by going to:<br>
-<code>Menu &gt; Options &gt; System Settings</code></p></ul>
+<ul><p>Necesitas calibrar tu juego. También desactiva “Dolby Digital” si esta activado.<br>
+Puedes ajustar esto en:<br>
+<code>Menú &gt; Opciones &gt; Ajustes Del Sistema</code></p></ul>
                             </div>
                         </div>
                     </div>
@@ -71,34 +71,34 @@ You can access the system menu by going to:<br>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-audio-is-stutteringchoppy">My audio is stuttering/choppy.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#sonido-feo">Mi juego se escucha feo.</a>
                             </h4>
                         </div>
-                        <div id="my-audio-is-stutteringchoppy" class="panel-collapse collapse">
+                        <div id="sonido-feo" class="panel-collapse collapse">
                             <div class="panel-body">
 <ul><p><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe><br> 
-Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration" target="_blank">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers.<br>
-Alternatively, you can check the general performance issues section right below this.</p></ul>
+Aumenta “Audio Buffer Duration” como mencionado en <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud_es" target="_blank">[la pestaña de Audio en la configuración de Rock Band 3]</a> Hasta que se escuche mejor. Si tienes una computadora de baja gama, empieza con 100 ms y bajale hasta lo que puedas.<br>
+Alternativamente, puedes ver la sección de problemas comunes de rendimiento abajo.</p></ul>
                             </div></div></div>
                     <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#general-performance-issues">General performance issues</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mal-rendimiento">Problemas con rendimiento comunes</a>
                             </h4>
                         </div>
-                        <div id="general-performance-issues" class="panel-collapse collapse">
+                        <div id="mal-rendimiento" class="panel-collapse collapse">
                             <div class="panel-body">
 <ul>
-<li>Set your computer to the <a href="https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-" target="_blank">[High Performance power plan]</a>.</li>
-<li>Go back to the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config" target="_blank">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
-<li>Disable Post Effects in Deluxe Settings.
+<li>Activa <a href="https://help.ableton.com/hc/es/articles/115000211304-Utilizar-el-plan-de-energ%C3%ADa-de-alto-rendimiento-Windows" target="_blank">[el plan de energía de alto rendimiento]</a>.</li>
+<li>Regresa a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_es#configuraci%C3%B3n-personalizada" target="_blank">[sección de configuración personalizada]</a> y trata la los ajustes recomendados para computadoras de baja gama.</li>
+<li>Desactiva los efectos en la configuración de Deluxe.
 <ul>
-<li><code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics</code></li>
+<li><code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos</code></li>
 </ul>
 </li>
-<li>If your motherboard has a Realtek audio chip (most computers), try <a href="https://www.realtek.com/Download/List?cate_id=593&menu_id=298" target="_blank">[installing the latest driver]</a>. This is a <a href="https://github.com/RPCS3/rpcs3/issues/14648" target="_blank">[known issue]</a> where using the default “High Definition Audio” driver doesn’t use all threads.</li>
-<li>Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client <a href="https://github.com/Vencord/Vesktop" target="_blank">[like Vesktop]</a>, but I claim no responsibility for your Discord account.</li></ul>
+<li>Si tu placa base tiene un chip de Realtek (mayoría de las computadoras), trata <a href="https://www.realtek.com/Download/List?cate_id=593&menu_id=298" target="_blank">[descargar el controlador actual]</a>. Esto es un <a href="https://github.com/RPCS3/rpcs3/issues/14648" target="_blank">[problema]</a> causado por usar el controlador integrados de Microsoft llamados “Sonido de Alta Definición.” Este controlador no usa todos los hilos.</li>
+<li>Cierra el cliente de Discord y ábrelo en tu navegador o tu celular. También puedes usar un cliente alternativo <a href="https://github.com/Vencord/Vesktop" target="_blank">[como Vesktop]</a>, pero no somos responsables por tu cuenta de Discord.</li></ul>
                             </div>
                         </div>
                     </div>
