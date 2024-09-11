@@ -35,7 +35,7 @@ Todavía podrás elegir la parte que quieras antes de empezar una canción/lista
                         <div class="panel-heading">
                             <h4 class="panel-title">
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#im-stuck-on-registering-account-when-trying-to-connect-to-online">I'm stuck on "Registering Account" when trying to connect to online servers.</a>
-                            </h4>
+                        file:///C:/Users/carlmylo/Downloads/RPCS3(49).log    </h4>
                         </div>
                         <div id="im-stuck-on-registering-account-when-trying-to-connect-to-online" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
