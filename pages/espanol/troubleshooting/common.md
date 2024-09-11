@@ -18,7 +18,7 @@ toc: false
                         <div id="tex-malas" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="Una captura de Rock Band 3, con un personaje que tiene texturas corruptas." title="Graphical issues"></p>
-<p>No leíste la guía y no <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank"><strong>[activaste Write Color Buffers en la pestaña de la configuración de GPU]</strong></a>.</p>
+<p>No leíste la guía y no <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_gpu_es" target="_blank"><strong>[activaste Write Color Buffers en la pestaña de la configuración de GPU]</strong></a>.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando Write Color Settings en un cuadro verde con una línea discontinua." title="GPU"></p></ul>
                             </div>
                         </div>
@@ -84,7 +84,7 @@ Alternativamente, puedes ver la sección de problemas comunes de rendimiento aba
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mal-rendimiento">Problemas con rendimiento comunes</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mal-rendimiento">Problemas de rendimiento comunes</a>
                             </h4>
                         </div>
                         <div id="mal-rendimiento" class="panel-collapse collapse">
