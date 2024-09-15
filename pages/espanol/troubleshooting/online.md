@@ -1,5 +1,5 @@
 ---
-title: En linea
+title: Internet
 sidebar: espanol_sidebar
 permalink: trbl_online_es
 folder: espanol
@@ -34,13 +34,13 @@ Todavía podrás elegir la parte que quieras antes de empezar una canción/lista
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#im-stuck-on-registering-account-when-trying-to-connect-to-online">I'm stuck on "Registering Account" when trying to connect to online servers.</a></h4>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#registracion-atorada">Estoy atorado en "Registrándose Online" cuando trato de jugar en GoCentral.</a></h4>
                         </div>
-                        <div id="im-stuck-on-registering-account-when-trying-to-connect-to-online" class="panel-collapse collapse noCrossRef">
+                        <div id="registracion-atorada" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<li>Make sure you have copied the correct settings in the Rock Band 3’s <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network]</a> configuration.</li>
-<li>You may have lost connection to RPCN  and will have to restart the game.</li>
+<li>Asegúrate que todo este correcto en la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[pestaña de Network dentro de la configuración personalizada de Rock Band 3]</a>.</li>
+<li>Perdiste la conexión a RPCN y vas a tener que reiniciar el juego.</li>
 </ul>
                             </div>
                         </div>
@@ -49,16 +49,16 @@ Todavía podrás elegir la parte que quieras antes de empezar una canción/lista
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-keep-disconnecting-constantly-while-playing-online">I keep disconnecting constantly while playing online.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#pierdo-conexion-en-partida">Sigo perdiendo la conexión en canciones.</a>
                             </h4>
                         </div>
                         <div id="i-keep-disconnecting-constantly-while-playing-online" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Double check to make sure your connection is stable</li>
-<li>Try connecting via Ethernet cable if you’re on Wi-Fi.</li>
-<li>If you have increased your VBlank past 60 Hz, <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_adv" target="_blank">set it back to 60 Hz.</a></li>
-<li>Get better internet.</li>
+<li>Asegúrate que tu conexión sea estable</li>
+<li>Trata de conectar por cable en vez de Wi-Fi.</li>
+<li>Si aumentaste tu VBlank a mas de 60 Hz, <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_adv_es" target="_blank">bájalo de vuelta a 60 Hz.</a></li>
+<li>Manda una queja a tu proveedor de internet o cámbialo.</li>
 </ul>
                             </div>
                         </div>
@@ -67,15 +67,15 @@ Todavía podrás elegir la parte que quieras antes de empezar una canción/lista
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-customs-arent-showing-up-in-online-lobbies-even-though-we-have">My customs aren't showing up in online lobbies even though we have the same customs.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#customs-grises">Mis customs (canciones adicionales) están desactivadas eso que todos tenemos las mismas canciones descargadas.</a>
                             </h4>
                         </div>
-                        <div id="my-customs-arent-showing-up-in-online-lobbies-even-though-we-have" class="panel-collapse collapse noCrossRef">
+                        <div id="customs-grises" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/missingsong.png" alt="A screenshot of Rock Band 3, showing songs with a darker color as they are disabled." title="Rock Band 3: Missing Songs Example"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/missingsong.png" alt="Una captura de Rock Band 3, mostrando canciones desactivadas en una sala de multijugador." title="Rock Band 3: Ejemplo de canciones no disponibles"></p>
 
-<li>Please read the <a href="https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/edit#heading=h.qxzngdakbkv" target="_blank"><strong>[PS3 Customs guide]</strong></a> section on this.</li>
+<li>Lee la guía de customs, especialmente la <a href="https://docs.google.com/document/d/1kx3-NN2lzQUFXX31KcLQ4sJ35a6pq4pnkPujm6-O2Jw/edit#heading=h.qxzngdakbkv" target="_blank"><strong>[sección aplicable a este problema]</strong></a>.</li>
 </ul>
                             </div>
                         </div>

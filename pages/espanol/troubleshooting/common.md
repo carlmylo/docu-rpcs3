@@ -43,7 +43,7 @@ Existe un parche que arregla las guitarras y una lista de todo los accesorios qu
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-crasheos-de-puerto">[Online] Mi juego crashea cuando busco a/me invitan jugadores/.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-crasheos-de-puerto">[Online] Mi juego crashea cuando busco a/me invitan jugadores.</a>
                             </h4>
                         </div>
                         <div id="online-crasheos-de-puerto" class="panel-collapse collapse">
