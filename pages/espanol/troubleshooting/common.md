@@ -43,12 +43,12 @@ Existe un parche que arregla las guitarras y una lista de todo los accesorios qu
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-crasheos-de-puerto">[Online] Mi juego crashea cuando busco a/me invitan jugadores.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#online-crasheos-de-puerto">[Internet] Mi juego crashea cuando busco a/me invitan jugadores.</a>
                             </h4>
                         </div>
                         <div id="online-crasheos-de-puerto" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar que investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter].]</a>.</p></ul>
+<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[pestaña de Network en la configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar que investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter].]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
