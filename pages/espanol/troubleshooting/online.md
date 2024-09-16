@@ -52,7 +52,7 @@ Todavía podrás elegir la parte que quieras antes de empezar una canción/lista
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#pierdo-conexion-en-partida">Sigo perdiendo la conexión en canciones.</a>
                             </h4>
                         </div>
-                        <div id="i-keep-disconnecting-constantly-while-playing-online" class="panel-collapse collapse noCrossRef">
+                        <div id="pierdo-conexion-en-partida" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
 <li>Asegúrate que tu conexión sea estable</li>
