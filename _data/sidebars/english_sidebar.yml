@@ -50,27 +50,27 @@ entries:
       type: homepage
 
     - title: Drums
-      url: /ctrls_drums
+      url: /ctrls#drums
       output: web
 
     - title: Guitars
-      url: /ctrls_guitar
+      url: /ctrls#guitars
       output: web
 
     - title: Modded Controllers
-      url: /ctrls_modded
+      url: /ctrls#modded-instruments
       output: web
 
     - title: Gamepads
-      url: /ctrls_pads
+      url: /ctrls#gamepads
       output: web
 
     - title: Keyboards
-      url: /ctrls_keys
+      url: /ctrls#keyboards
       output: web
 
     - title: Pro Guitars
-      url: /ctrls_protars
+      url: /ctrls#pro-guitars
       output: web
 
   - title: Custom Configuration
