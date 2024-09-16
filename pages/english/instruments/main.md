@@ -8,15 +8,15 @@ summary: "How to map your controllers on RPCS3."
 toc: false
 ---
 
-Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. To make things easier, we cataloged instruments to work with Rock Band 3 on RPCS3 with their respective mapping.
+Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. To make things easier, we cataloged various instruments that work with Rock Band 3 on RPCS3 with their respective mappings.
 
-Controllers have been given a "Compatibility" rating depending on whether or not they have issues and/or missing features.
+Controllers have been sorted by and given a "Compatibility" rating depending on whether or not they have issues and/or missing features.
 
 | SHAPE | MEANING |
 |---|---|
 | ![A red triangle.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/bad.png "Red Triangle") | **Bad Compatibility** |
-| ![A green square.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/okay.png "Green Square") | **Okay Compatibility** |
-| ![An orange circle.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png "Orange Circle") | **Great Compatibility** |
+| ![An orange triangle.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/okay.png "Orange Circle") | **Okay Compatibility** |
+| ![An green square.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png "Green Square") | **Great Compatibility** |
 
 ## Mapping
 
