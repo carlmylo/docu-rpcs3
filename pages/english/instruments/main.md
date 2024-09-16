@@ -157,7 +157,7 @@ Paste it into:
 |[![DualShock 2 Controller](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/padds2.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_pad_ds2 "DualShock 2 Controller") | DualShock 2 Controller | ![PlayStation 2](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/ps2.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_pad_ds2) |
 |[![Unknown Controller](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/padmyst.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_pad_gen "Unknown Controller") | Unknown Controller | ![Unknown Platform](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/myst.png) | N/A |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_pad_gen) |
 
-### Teclados
+### Keyboards
 
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
@@ -167,7 +167,7 @@ Paste it into:
 |[![Xbox 360 Rock Band Wireless Keyboard](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/prokeys.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_360 "Rock Band Wireless Keyboard") | Rock Band Wireless Keyboard | ![Xbox 360](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/360.png) | ![Okay Compatibility Symbol](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/okay.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_360) |
 |[![PlayStation 3 Rock Band Wireless Keyboard](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/prokeys.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_wii "Rock Band Wireless Keyboard") | Rock Band Wireless Keyboard | ![Nintendo Wii](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/wii.png) | ![Okay Compatibility Symbol](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/okay.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_wii) |
 
-### Guitarras Pro
+### Pro Guitars
 
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
