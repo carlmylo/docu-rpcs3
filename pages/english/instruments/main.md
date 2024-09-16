@@ -5,7 +5,6 @@ permalink: ctrls
 folder: english
 tags: [controllers, english]
 summary: "How to map your controllers on RPCS3."
-toc: false
 ---
 
 Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. To make things easier, we cataloged various instruments that work with Rock Band 3 on RPCS3 with their respective mappings.
