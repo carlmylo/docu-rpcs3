@@ -70,6 +70,8 @@ Paste it into:
 
 ## Instrument List
 
+{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
+
 ### Drums
 
 | Picture | Name | Platform | Compatibility | Configuration |

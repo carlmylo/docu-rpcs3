@@ -55,6 +55,19 @@ By default:
 * `SELECT`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
 * Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
 
+| **MIDI Note#** | **Trigger Type** | **In-Game Action** |
+|:--------:|:-------------------:|:-----------------:|
+| **38**, 31, 34, 37, 39, 40 | Snare | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+| **48**, 50 | Hi-tom | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
+| **45**, 50 | Low-tom | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
+| **41**, 43 | Floor-tom | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
+| **22**, 26, 42, 46, 54 | Hi-Hat Cymbal | ![Yellow Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yc.png "Yellow Cymbal") |
+| **51**, 53, 56, 59 | Ride Cymbal | ![Blue Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bc.png "Blue Cymbal") |
+| **49**, 52, 55, 57 | Crash Cymbal | ![Green Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gc.png "Green Cymbal") |
+| **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
+| **44** | Hi-Hat Pedal | Hi-Hat Pedal |
+| **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
+
 ### Additional Setup:
 
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder.
@@ -102,22 +115,6 @@ Examples of common replacements:
 	* `Midi id to note override: "46=Ride"`
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
-
-### Default Mapping
-This is left here for reference. These are the bindings the official Harmonix Rock Band Pro MIDI Adapter used.
-
-| **MIDI Note#** | **Trigger Type** | **In-Game Action** |
-|:--------:|:-------------------:|:-----------------:|
-| **38**, 31, 34, 37, 39, 40 | Snare | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
-| **48**, 50 | Hi-tom | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
-| **45**, 50 | Low-tom | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
-| **41**, 43 | Floor-tom | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
-| **22**, 26, 42, 46, 54 | Hi-Hat Cymbal | ![Yellow Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yc.png "Yellow Cymbal") |
-| **51**, 53, 56, 59 | Ride Cymbal | ![Blue Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bc.png "Blue Cymbal") |
-| **49**, 52, 55, 57 | Crash Cymbal | ![Green Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gc.png "Green Cymbal") |
-| **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
-| **44** | Hi-Hat Pedal | Hi-Hat Pedal |
-| **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
 [[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
