@@ -1,14 +1,14 @@
 ---
-title: Instruments and Controllers
-sidebar: english_sidebar
-permalink: ctrls
-folder: english
-tags: [controllers, english]
-summary: "How to map your controllers on RPCS3."
+title: Instrumentos y Controles
+sidebar: espanol_sidebar
+permalink: ctrls_es
+folder: espanol
+tags: [controles, espanol]
+summary: "Como configurar controles y instruments en RPCS3."
 toc: false
 ---
 
-Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. Below is a list of instruments verified to work with Rock Band 3 on RPCS3 with their respective mapping.
+Puedes usar una variedad de insturmtns con Rock Band 3 en RPCS3. Below is a list of instruments verified to work with Rock Band 3 on RPCS3 with their respective mapping.
 
 Controllers have been given a "Compatibility" rating depending on whether or not they have issues and/or missing features.
 

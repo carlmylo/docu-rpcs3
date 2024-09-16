@@ -32,12 +32,12 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solos-have-auto-strum-enabled">[Guitar Hero guitars] Solos have auto-strum enabled.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#solo-auto-strum">[Guitarras de Guitar Hero] Los solos auto-rasguean/tienen auto-strum.</a>
                             </h4>
                         </div>
-                        <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
+                        <div id="solo-auto-strum" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <p>Unbind L2 from your guitar in your gamepad configuration by right clicking it.</p>
+                                <p>En la configuración de "Pads", .</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a RPCS3's Gamepad Configuration. L2 button is being unbound." title="L2 Unbound"></p>
                             </div>
                         </div>
