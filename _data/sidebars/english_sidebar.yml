@@ -45,7 +45,7 @@ entries:
     folderitems:
 
     - title: Intro
-      url: /ctrls
+      url: /ctrls#intro
       output: web
       type: homepage
 
