@@ -22,7 +22,7 @@ weight: 5
 * ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png "Cuadro azul") **Ajuste dependiendo de tu PC**: 
 	* **Cambia "Pad Handler Mode"** (Modo de manejar controladores) **a "Multi-threaded"** si tienes una CPU con mas de 12 hilos/núcleos.
   
-Si necesitas mas ayuda, dale otra visita a la [[pagina de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_full_es).
+Si necesitas mas ayuda, dale otra visita a la [[pagina de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es).
 
 <br/>
 

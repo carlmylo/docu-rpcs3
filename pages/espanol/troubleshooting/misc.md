@@ -1,8 +1,8 @@
 ---
 title: Misc
-sidebar: english_sidebar
-permalink: trbl_misc
-folder: english
+sidebar: espanol_sidebar
+permalink: trbl_misc_es
+folder: espanol
 tags: [troubleshooting, english]
 summary: "How to deal with miscellaneous issues."
 toc: false

@@ -150,7 +150,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 </ul>
-<p>Si necesitas mas ayuda, dale otra visita a la <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full" target="_blank">[pagina de instrumentos]</a>.</p>
+<p>Si necesitas mas ayuda, dale otra visita a la <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_es" target="_blank">[pagina de instrumentos]</a>.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="system">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/system.png" alt="Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando Console Language y Keyboard Type resaltados en cafe con una linea blanca solida" title="System"></p>

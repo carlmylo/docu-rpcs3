@@ -1,8 +1,8 @@
 ---
 title: Teleporting Items
-sidebar: english_sidebar
-permalink: trbl_teleprob
-folder: english
+sidebar: espanol_sidebar
+permalink: trbl_teleprob_es
+folder: espanol
 tags: [troubleshooting, english]
 summary: "How to deal with the visual glitches in Rock Band 3."
 ---

@@ -1,8 +1,8 @@
 ---
 title: Deluxe
-sidebar: english_sidebar
-permalink: trbl_deluxe
-folder: english
+sidebar: espanol_sidebar
+permalink: trbl_deluxe_es
+folder: espanol
 tags: [troubleshooting, english]
 summary: "How to deal with common issues with Deluxe."
 toc: false
