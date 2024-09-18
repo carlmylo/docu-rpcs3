@@ -49,6 +49,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Mapping
+      url: /ctrls#mapping
+      output: web
+      type: homepage
+
     - title: Drums
       url: /ctrls#drums
       output: web
