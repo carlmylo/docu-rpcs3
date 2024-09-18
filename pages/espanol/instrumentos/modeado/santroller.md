@@ -1,7 +1,7 @@
 ---
 title: Santroller Powered Custom Guitars
 sidebar: controllers_es_sidebar
-permalink: ctrls_mod_santroller
+permalink: ctrls_mod_santroller_es
 folder: instruments
 tags: [xbox-360, midi, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
