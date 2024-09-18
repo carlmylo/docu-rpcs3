@@ -7,6 +7,7 @@ tags: [empezando, espanol]
 summary: "Lo que necesitas para jugar Rock Band 3 en RPCS3."
 series: "Empezando"
 weight: 2
+toc: false
 ---
 
 Necesitarás:
