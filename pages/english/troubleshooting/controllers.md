@@ -12,16 +12,17 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-gets-stuck-when-naming-a-character-or-band">My game gets stuck when naming a character or band.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#game-stuck">My game locks up when naming things or inviting people.</a>
                             </h4>
                         </div>
-                        <div id="my-game-gets-stuck-when-naming-a-character-or-band" class="panel-collapse collapse noCrossRef">
+                        <div id="game-stuck" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <p>This varies from controller to controller.</p>
 <ul>
 <li>Try moving the whammy or effects switch on your guitar.</li>
 <li>Reconnect your controller.</li>
 <li>Open the Gamepad Configuration menu and close it.</li>
+<li>Enable <strong>"Keep Pads Connected"</strong> as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_io" target="_blank">[the I/O section of Custom Configuration]</a>.</li>
 <li>Disable the Native Interface as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_emu" target="_blank">[the Emulator section of Custom Configuration]</a>.</li>
 <li>Use a standard <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_pads" target="_blank">[gamepad]</a> or keyboard for any sort of character customization or naming.</li>
 </ul>

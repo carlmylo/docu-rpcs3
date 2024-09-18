@@ -150,16 +150,16 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </li>
 </ul>
 </li>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For third party Keyboard, wired Pro Guitar, and Pro Drums players</strong>:
+<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Recommended</strong>:
 <ul>
-<li>🎹 <strong>Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
-<li>🎸 <strong>Pro Guitar Players: Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
-<li>🥁 <strong>Pro Drums Players: Change your “Emulated MIDI type” from “Keyboard” to “Drums”, then select your Electronic MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li>🎹 <strong>MIDI Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
+<li>🎸 <strong>MIDI Pro Guitar Players: Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li>🥁 <strong>MIDI Pro Drums Players: Change your “Emulated MIDI type” from “Keyboard” to “Drums”, then select your Electronic MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
 <li><p><strong>Enable “Keep Pads Connected”</strong> - This can help fix a problem with instrument controllers soft-locking the game when RPCS3 interfaces, such as the RPCN invites, come up.</p></li>
 </ul>
 </li>
 </ul>
-<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_full" target="_blank">[Controllers page]</a> if you need help.</p>
+<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls" target="_blank">[Controllers page]</a> if you need help.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
