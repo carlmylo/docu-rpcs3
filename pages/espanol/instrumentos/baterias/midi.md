@@ -53,7 +53,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 ## Mapeo
 Mapeo Predeterminado:
 * `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la snare (caja).
-* `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el snare rim (snarearo de la caja).
+* `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el snare rim (aro de la caja).
 * Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al kick (bombo) con el pedal.
 
 | **Numero de nota MIDI** | **Parte de batería** | **Acción en Rock Band** |
