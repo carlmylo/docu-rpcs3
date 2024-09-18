@@ -8,13 +8,13 @@ summary: "Como configurar una batería MIDI con RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/mididrumscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/mididrumscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTES:
 
-* **NO mapeés este instrumento por el menu de "Pads".**
+* **NO mapeés este instrumento por el menú de "Pads".**
 * Tu batería MIDI necesita:
 	* **estar en canal de MIDI 10**
 	* **estar configurado a mapeo de GM.**  
@@ -48,13 +48,13 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 
 ![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://carlmylo.github.io/docu-rpcs3/images/cust/iod.png "I/O")
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") : 
-	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (Bateria), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
+	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
 ## Mapeo
 Mapeo Predeterminado:
-* `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la caja (snare).
-* `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el aro de la caja (snare rim).
-* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.
+* `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la snare (caja).
+* `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el snare rim (snarearo de la caja).
+* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al kick (bombo) con el pedal.
 
 | **Numero de nota MIDI** | **Parte de batería** | **Acción en Rock Band** |
 |:--------:|:-------------------:|:-----------------:|
@@ -86,7 +86,7 @@ Abajo esta lo que hace cada opción.
 | `Midi CC status: 176` | El byte que determina el estatus. Puede ser notado como `0xB0`. **Mejor déjalo esto como esta**. |
 | `Midi CC control number: 4` | El Control Continuado/Continous Controller (CC) que esta a cargo del pedal de Hi-Hat. **Mejor déjalo esto como esta**. |
 | `Midi CC threshold: 64` | Esto es el punto medio del pedal de Hi-Hat, que separa si esta cerrado o abierto. |
-| `Midi CC invert threshold: false` | ISi lo cambias a `false`, invierte el punto de pedal mencionado arriba. |
+| `Midi CC invert threshold: false` | Si lo cambias a `false`, invierte el punto de pedal mencionado arriba. |
 
 #### Remapeando:
 Si tu batería tiene partes que necesitan ser configuradas, puedes usar `Midi id to note override: ""` para corregir notas.
