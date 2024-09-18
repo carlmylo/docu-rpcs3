@@ -15,7 +15,7 @@ toc: false
 ## NOTES
 
 * There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
+* **NO mapeés este instrumento por el menu de "Pads".**
 * It is suggested to have a keyboard with **at least 37 keys** or 25 keys and 11 drum pads.
 * Your MIDI keyboard needs to:
 	* **be set to MIDI Channel 1.**

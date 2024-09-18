@@ -14,81 +14,87 @@ toc: false
 
 ## NOTES:
 
-* **Do NOT map this instrument via the "Pads" menu.**
-* Your MIDI Drum Kit needs to:
-	* **be set to MIDI Channel 10**
-	* **be set to standard GM mapping.**  
-These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
-* D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
+* **NO mapeés este instrumento por el menu de "Pads".**
+* Tu batería MIDI necesita:
+	* **estar en canal de MIDI 10**
+	* **estar configurado a mapeo de GM.**  
+Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Consulta el manual de tu batería para estar seguro.
+* D-Pad: Izq. y D-Pad: Der. no funcionan y no pueden ser usados. Por esto. no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Instructions:
+## Instrucciones:
 
-**If your MIDI Drum Kit has a USB port**, all you need to do is **plug it into your computer**.  
+**Si tu batería MIDI tiene un puerto de USB**, solo necesitas **conectarla a tu computadora**.  
 
->![A picture of a MIDI Drum Kit's module, showing a USB port](https://carlmylo.github.io/docu-rpcs3/images/midi/usbdrums.png "USB Drums")  
+>![Una imagen del cerebro de la batería MIDI, mostrando un puerto de USB](https://carlmylo.github.io/docu-rpcs3/images/midi/usbdrums.png "Batería de MIDI USB")  
 
-**If your MIDI Drum Kit only has a MIDI output, you will need a MIDI to USB interface**.
+**Si tu batería MIDI solo tiene una salida de MIDI, vas a necesitar un adaptador de MIDI a USB**.  
 
->![A picture of a MIDI Drum Kit's module, showing a 5-DIN MIDI output highlighted in blue with a dotted blue outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/mididrums.png "MIDI Drums")  
+>![Una imagen del cerebro de la batería MIDI, mostrando un puerto MIDI estilo DIN de cinco pines.](https://carlmylo.github.io/docu-rpcs3/images/midi/mididrums.png "Batería de MIDI")  
 
-Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you hit a pad**. 
+Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED integrada para mostrar activad. **Para verificar que esta todo enchufado correcto, debes de ver "MIDI In" parpadeando cuando le pegues a un parche**. 
 
->![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
+>![Una imagen de una interfaz de MIDI a USB.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "Interfaz de MIDI a USB")  
 
-**If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
->![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
+**Si tienes una interfaz de audio, puede ser que ya tengas un puerto de MIDI** para tu computadora, ya que unas interfaces ya vienen con puertos MIDIs integrados. Por ejemplo, esta Scarlett tiene conexiones MIDI atrás.  
 
-Find whichever way is the most convenient for you then connect your MIDI Drum Kit to your computer.
+>![Una imagen del posterior de una Focusrite Scarlett, mostrando un puerto de USB y un salida/entrada MIDI por puerto DIN de cinco pines.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Salida/Entrada MIDI de Focusrite Scarlett") 
 
-After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+Decide cual manera as conveniente para ti y conecta tu batería MIDI a tu computadora.
 
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
+Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
 
-![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/iod.png "I/O")
-* ![A tan square with a solid outline](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Tan Square") : 
-	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
+![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
-## Mapping:
-Default Mapping:
-* `START`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
-* `SELECT`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
-* Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
+![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://carlmylo.github.io/docu-rpcs3/images/cust/iod.png "I/O")
+* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") : 
+	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (Bateria), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
-| **MIDI Note#** | **Trigger Type** | **In-Game Action** |
+## Mapeo
+Mapeo Predeterminado:
+* `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la caja (snare).
+* `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el aro de la caja (snare rim).
+* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.
+
+| **Numero de nota MIDI** | **Parte de batería** | **Acción en Rock Band** |
 |:--------:|:-------------------:|:-----------------:|
-| **38**, 31, 34, 37, 39, 40 | Snare | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
-| **48**, 50 | Hi-tom | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
-| **45**, 50 | Low-tom | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
-| **41**, 43 | Floor-tom | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
-| **22**, 26, 42, 46, 54 | Hi-Hat Cymbal | ![Yellow Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yc.png "Yellow Cymbal") |
-| **51**, 53, 56, 59 | Ride Cymbal | ![Blue Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bc.png "Blue Cymbal") |
-| **49**, 52, 55, 57 | Crash Cymbal | ![Green Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gc.png "Green Cymbal") |
-| **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
-| **44** | Hi-Hat Pedal | Hi-Hat Pedal |
-| **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
+| **38**, 31, 34, 37, 39, 40 | Snare/Tarola | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
+| **48**, 50 | Tom Alto | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| **45**, 50 | Tom Bajo | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
+| **41**, 43 | Tom de piso | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
+| **22**, 26, 42, 46, 54 | Hi-Hat/Contras | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yc.png "Platillo Amarillo") |
+| **51**, 53, 56, 59 | Platillo Ride/de Ritmo | ![Platillo Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bc.png "Platillo Azul") |
+| **49**, 52, 55, 57 | Platillo Crash/Remate | ![Platillo Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gc.png "Platillo Verde") |
+| **33**, 35, 36 | Pedal/Kick | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| **44** | Pedal de Hi-Hat | Pedal de Hi-Hat |
+| **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir el Hi-Hat |
 
-### Additional Setup:
+### Configuración Adicional:
 
-You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder.
-Below are the defaults and what each option does.
+Puedes ajustar una variedad de opciones en el archivo `rb3drums.yml`, que esta colocado en la carpeta llamada `config` que esta donde tienes RPCS3.
+Abajo esta lo que hace cada opción.
 
-| **Setting** | **Description** |
+
+
+| **Ajuste** | **Descripción** |
 |:--------:|:-------------------:|
-| `Pulse width ms: 30` | How long each drum pad hit is "held" for. **You should leave this alone.** |
-| `Minimum velocity: 10` | The minimum velocity (how hard a pad is hit) needed for a signal to be sent. Anything below this number will not send a signal. |
-| `Combo window in milliseconds: 2000` | Determines how long you have to press the Combos for Start, Select, and Kick Hold. |
-| `Stagger cymbal hits: true` | If you hit two cymbals at the same time, one will be delayed by the "Pulse width ms" above. **You should leave this alone.** |
-| `Midi id to note override: ""` | Allows you to remap what each MIDI note does. Read [[Remapping]](#remapping) for more information. |
+| `Pulse width ms: 30` | Duración (en ms) de cada nota por impacto en la batería. **Mejor déjalo esto como esta**. |
+| `Minimum velocity: 10` | La velocidad (intensidad) mínima para que una nota sea detectada. Cualquier con velocidad menos de este valor no va ser contada. Es como la sensibilidad de batería. |
+| `Combo window in milliseconds: 2000` | Cuanto tiempo tienes para completar los combos de `START`, `SELECT` y el atajo para escocer canciones. Si no completas un combo en este tiempo, sera ignorado. |
+| `Stagger cymbal hits: true` | Si le pegas a dos platillos al mismo tiempo, uno va ser demorado por el tiempo que tiene puesto `Pulse width ms`. **Mejor déjalo esto como esta**. |
+| `Midi id to note override: ""` | Esto es para remapear lo que hace cada nota MIDI. Lee la sección de [[Remapeando]](#remapeando) para mas información. |
+
+
+
 | `Combo Start: HihatPedal,HihatPedal,HihatPedal,Snare` | Defines what combo will trigger the Start button |
 | `Combo Select: HihatPedal,HihatPedal,HihatPedal,SnareRim` | Defines what combo will trigger the Select button |
 | `Combo Toggle Hold Kick: HihatPedal,HihatPedal,HihatPedal,Kick` | Defines what combo will trigger the Hold Kick action, for library navigation. |
-| `Midi CC status: 176` | Defines the status byte. Can be notated as `0xB0` as well. **You should leave this alone.** |
-| `Midi CC control number: 4` | Defines the number of the Continuous Controller (CC), which acts as the hi-hat pedal. **You should leave this alone.** |
+| `Midi CC status: 176` | Defines the status byte. Can be notated as `0xB0` as well. **Mejor déjalo esto como esta**. |
+| `Midi CC control number: 4` | Defines the number of the Continuous Controller (CC), which acts as the Pedal de Hi-Hat. **Mejor déjalo esto como esta**. |
 | `Midi CC threshold: 64` | Defines the middle point the hi-pedal pedal goes from closed to open. |
-| `Midi CC invert threshold: false` | Inverts the range for the hi-hat pedal, mentioned above. |
+| `Midi CC invert threshold: false` | Inverts the range for the Pedal de Hi-Hat, mentioned above. |
 
-#### Remapping
+#### Remapeando:
 If your MIDI Drum Kit has incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
 * To do this:
 	* Go to [MIDI Monitor](https://www.midimonitor.com/){:target="_blank"}
@@ -109,9 +115,9 @@ The file uses the following note names:
 `Crash`
 
 Examples of common replacements:
-* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and your kit has these reversed.
+* Platillo Azul is mapped to `Note #51` and Platillo Verdes is mapped to `Note #49` and your kit has these reversed.
 	* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
-* You want to map Open Hi-Hat to Blue cymbal.
+* You want to map Open Hi-Hat to Platillo Azul.
 	* `Midi id to note override: "46=Ride"`
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.

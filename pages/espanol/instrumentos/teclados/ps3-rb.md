@@ -15,7 +15,7 @@ toc: false
 ## NOTES
 
 * It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/english/passthroughdevices/)
-* **Do NOT map this instrument via Gamepad Configuration.**
+* **NO mapeés este instrumento por el menu de "Pads".**
 * There is no binding file.
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)

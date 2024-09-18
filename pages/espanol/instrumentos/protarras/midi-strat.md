@@ -15,7 +15,7 @@ toc: false
 ## NOTES
 
 * There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
+* **NO mapeés este instrumento por el menu de "Pads".**
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
 

@@ -13,10 +13,9 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbprotar.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
-
-* There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
+* No existe un perfil para este instrumento.
+* **NO mapeés este instrumento por el menu de "Pads".**
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
 
 ## SYSEX Notice
