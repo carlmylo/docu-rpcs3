@@ -1,10 +1,10 @@
 ---
-title: MIDI Drums
+title: Batería MIDI
 sidebar: controllers_es_sidebar
 permalink: ctrls_drums_midi_es
 folder: instruments
 tags: [midi, baterias, espanol]
-summary: "How to setup a MIDI Drum Kit on RPCS3."
+summary: "Como configurar una batería MIDI con RPCS3."
 toc: false
 ---
 
@@ -49,7 +49,7 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 * ![A tan square with a solid outline](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Tan Square") : 
 	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
-## Mapping
+## Mapping:
 Default Mapping:
 * `START`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
 * `SELECT`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
