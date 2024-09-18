@@ -73,6 +73,14 @@ entries:
       url: /ctrls#pro-guitars
       output: web
 
+    - title: Profiles
+      url: /ctrls#using-profiles
+      output: web
+
+    - title: Contributing
+      url: /ctrls#contributing
+      output: web
+
   - title: Custom Configuration
     output: web
     folderitems:

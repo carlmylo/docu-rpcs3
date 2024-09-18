@@ -41,36 +41,6 @@ Pro Tips:
 
 Once you've finished configuring, **remember to click "Save".**
 
-## Using Profiles
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
-
-Profiles are premade setup files made by the community. They are drag and drop files which have preconfigured mappings for various instruments.
-
-1. Download the .7z file in the folder for the instrument(s) you want to use.
-2. Extract the .7z file.
-3. Drag the `input_configs` folder into the `configs` folder where you have RPCS3 in.
-
-![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
-
-After that, you can select the profile in the **"Pads"** menu.
-
-![A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile.](https://carlmylo.github.io/docu-rpcs3/images/instruments/rpcs3padprofile.png "Gamepad Settings")
-
-Most of the time, these controller profiles should work out of the box. If they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
-
-Keep in mind that the profiles are formatted for single players. You will need to add all instruments needed.
-
-Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ or Sublime Text.
-Select everything from line 2 to the end of line 86 in the `Default.yml` file of the instrument you want to add, then copy it. 
-Paste it into:
-* Line 88 to 172 for Player 2
-* Line 174 to 258 for Player 3
-* Line 260 to 344 for Player 4
-* Line 346 to 430 for Player 5
-* Line 432 to 516 for Player 6
-* Line 518 to 602 for Player 7
-
 ## Instrument List
 
 {% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
@@ -181,6 +151,38 @@ Paste it into:
 |[![Xbox 360 Fender Mustang](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/promust.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_protar_360 "Fender Mustang") | Fender Mustang | ![Xbox 360](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_protar_360) |
 |[![Nintendo Wii Fender Mustang](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/promust.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_protar_wii "Fender Mustang") | Fender Mustang | ![Nintendo Wii](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_protar_wii) |
 |[![Squier Stratocaster](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/list/prostrat.png)](https://carlmylo.github.io/docu-rpcs3/ctrls_protar_midi "Squier Stratocaster") | Squier Stratocaster | ![MIDI](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/plat/midi.png) | ![Great Compatibility Symbol](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/docu-rpcs3/ctrls_protar_midi) |
+
+{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
+
+## Using Profiles
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
+
+Profiles are premade setup files made by the community. They are drag and drop files which have preconfigured mappings for various instruments.
+
+1. Download the .7z file in the folder for the instrument(s) you want to use.
+2. Extract the .7z file.
+3. Drag the `input_configs` folder into the `configs` folder where you have RPCS3 in.
+
+![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/instruments/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
+
+After that, you can select the profile in the **"Pads"** menu.
+
+![A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile.](https://carlmylo.github.io/docu-rpcs3/images/instruments/rpcs3padprofile.png "Gamepad Settings")
+
+Most of the time, these controller profiles should work out of the box. If they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
+
+Keep in mind that the profiles are formatted for single players. You will need to add all instruments needed.
+
+Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ or Sublime Text.
+Select everything from line 2 to the end of line 86 in the `Default.yml` file of the instrument you want to add, then copy it. 
+Paste it into:
+* Line 88 to 172 for Player 2
+* Line 174 to 258 for Player 3
+* Line 260 to 344 for Player 4
+* Line 346 to 430 for Player 5
+* Line 432 to 516 for Player 6
+* Line 518 to 602 for Player 7
 
 ## Contributing
 
