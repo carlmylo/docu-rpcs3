@@ -50,7 +50,7 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 ## Mapping
-By default:
+Default Mapping:
 * `START`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
 * `SELECT`: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare Rim
 * Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
