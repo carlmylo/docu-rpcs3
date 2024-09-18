@@ -40,7 +40,7 @@ Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED 
 
 >![Una imagen del posterior de una Focusrite Scarlett, mostrando un puerto de USB y un salida/entrada MIDI por puerto DIN de cinco pines.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Salida/Entrada MIDI de Focusrite Scarlett") 
 
-Decide cual manera as conveniente para ti y conecta tu batería MIDI a tu computadora.
+Decide cual manera es mas conveniente para ti y conecta tu batería MIDI a tu computadora.
 
 Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
 
@@ -70,11 +70,8 @@ Mapeo Predeterminado:
 | **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir el Hi-Hat |
 
 ### Configuración Adicional:
-
-Puedes ajustar una variedad de opciones en el archivo `rb3drums.yml`, que esta colocado en la carpeta llamada `config` que esta donde tienes RPCS3.
+Puedes ajustar varias cosas en el archivo `rb3drums.yml`, que esta colocado en la carpeta llamada `config` que esta donde tienes RPCS3.
 Abajo esta lo que hace cada opción.
-
-
 
 | **Ajuste** | **Descripción** |
 |:--------:|:-------------------:|
@@ -83,24 +80,21 @@ Abajo esta lo que hace cada opción.
 | `Combo window in milliseconds: 2000` | Cuanto tiempo tienes para completar los combos de `START`, `SELECT` y el atajo para escocer canciones. Si no completas un combo en este tiempo, sera ignorado. |
 | `Stagger cymbal hits: true` | Si le pegas a dos platillos al mismo tiempo, uno va ser demorado por el tiempo que tiene puesto `Pulse width ms`. **Mejor déjalo esto como esta**. |
 | `Midi id to note override: ""` | Esto es para remapear lo que hace cada nota MIDI. Lee la sección de [[Remapeando]](#remapeando) para mas información. |
-
-
-
-| `Combo Start: HihatPedal,HihatPedal,HihatPedal,Snare` | Defines what combo will trigger the Start button |
-| `Combo Select: HihatPedal,HihatPedal,HihatPedal,SnareRim` | Defines what combo will trigger the Select button |
-| `Combo Toggle Hold Kick: HihatPedal,HihatPedal,HihatPedal,Kick` | Defines what combo will trigger the Hold Kick action, for library navigation. |
-| `Midi CC status: 176` | Defines the status byte. Can be notated as `0xB0` as well. **Mejor déjalo esto como esta**. |
-| `Midi CC control number: 4` | Defines the number of the Continuous Controller (CC), which acts as the Pedal de Hi-Hat. **Mejor déjalo esto como esta**. |
-| `Midi CC threshold: 64` | Defines the middle point the hi-pedal pedal goes from closed to open. |
-| `Midi CC invert threshold: false` | Inverts the range for the Pedal de Hi-Hat, mentioned above. |
+| `Combo Start: HihatPedal,HihatPedal,HihatPedal,Snare` | Este es el combo que emula el botón `START`. |
+| `Combo Select: HihatPedal,HihatPedal,HihatPedal,SnareRim` | Este es el combo que emula el botón `SELECT`. |
+| `Combo Toggle Hold Kick: HihatPedal,HihatPedal,HihatPedal,Kick` | Este es el combo que emula el atajo para escocer canciones. |
+| `Midi CC status: 176` | El byte que determina el estatus. Puede ser notado como `0xB0`. **Mejor déjalo esto como esta**. |
+| `Midi CC control number: 4` | El Control Continuado/Continous Controller (CC) que esta a cargo del pedal de Hi-Hat. **Mejor déjalo esto como esta**. |
+| `Midi CC threshold: 64` | Esto es el punto medio del pedal de Hi-Hat, que separa si esta cerrado o abierto. |
+| `Midi CC invert threshold: false` | ISi lo cambias a `false`, invierte el punto de pedal mencionado arriba. |
 
 #### Remapeando:
-If your MIDI Drum Kit has incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
-* To do this:
-	* Go to [MIDI Monitor](https://www.midimonitor.com/){:target="_blank"}
-	* Play the pad you want to replace to find its MIDI Note number ("Note #[number]").
+Si tu batería tiene partes que necesitan ser configuradas, puedes usar `Midi id to note override: ""` para corregir notas.
+* Para hacer esto:
+	* Ve al sitio [MIDI Monitor](https://www.midimonitor.com/){:target="_blank"}
+	* Toca la parte que quieres re-configurar para encontrar su el numero de nota MIDI (`Note #[numero]`).
 
-The file uses the following note names:
+El archivo usa estos nombres para notas:
 
 `Kick`  
 `HihatPedal`  
@@ -114,15 +108,13 @@ The file uses the following note names:
 `Ride`  
 `Crash`
 
-Examples of common replacements:
-* Platillo Azul is mapped to `Note #51` and Platillo Verdes is mapped to `Note #49` and your kit has these reversed.
-	* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
-* You want to map Open Hi-Hat to Platillo Azul.
+Ejemplos de cambios comunes:
+* El platillo azul esta configurado a `Note #51` y el platillo verde esta configurado a `Note #49` pero tu batería los tiene al revés.
+	* `Midi id to note override: "49=Ride,51=Crash"` va a reversar los platillos para que estén sean mejor para Rock Band 3.
+* Quieres usar tu Hi-Hat cerrado para amarillo y Hi-Hat abierta para azul.
 	* `Midi id to note override: "46=Ride"`
 
-In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
-
-Research by [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}  
-Implemented by [[nswarm]](https://github.com/nswarm){:target="_blank"}
+Investigación por [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}  
+Implementado por [[nswarm]](https://github.com/nswarm){:target="_blank"}
