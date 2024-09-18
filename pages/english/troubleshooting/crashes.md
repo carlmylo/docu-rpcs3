@@ -49,7 +49,7 @@ toc: false
 <ul>
 <li>Make sure you're on the latest firmware.</li>
 <li>If you still have this issue, redownload Rock Band 3 Deluxe as Github sometimes doesn’t download correctly.</li>
-<li>If you're updating from an older version of Deluxe, you may have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3’s game directory in <code>dev_hdd0\game\BLUS30463\USRDIR</code> and delete every <code>.dta</code> file aside from <code>dx_high_memory.dta</code>.</li>
+<li>If you're updating from an older version of Deluxe, you may have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3’s Game Data folder in <code>dev_hdd0\game\BLUS30463\USRDIR</code> and delete every <code>.dta</code> file aside from <code>dx_high_memory.dta</code>.</li>
 </ul>
                             </div>
                         </div>

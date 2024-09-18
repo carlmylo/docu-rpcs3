@@ -143,11 +143,19 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>
 <img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline." title="I/O"></p>
 <ul>
+<li>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Performance Tweaks</strong>:</p>
+<ul>
+<li><p><strong>Change “Pad Handler Mode” to “Multi-threaded”</strong> - May help with thread distribution, leading to more even performance. Your mileage may vary.</p>
+</li>
+</ul>
+</li>
 <li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For third party Keyboard, wired Pro Guitar, and Pro Drums players</strong>:
 <ul>
 <li>🎹 <strong>Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
 <li>🎸 <strong>Pro Guitar Players: Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
 <li>🥁 <strong>Pro Drums Players: Change your “Emulated MIDI type” from “Keyboard” to “Drums”, then select your Electronic MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li><p><strong>Enable “Keep Pads Connected”</strong> - This can help fix a problem with instrument controllers soft-locking the game when RPCS3 interfaces, such as the RPCN invites, come up.</p></li>
 </ul>
 </li>
 </ul>

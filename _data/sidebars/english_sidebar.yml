@@ -44,7 +44,7 @@ entries:
     output: web
     folderitems:
 
-    - title: Intro
+    - title: Controlling Rock Band 3
       url: /ctrls
       output: web
       type: homepage
@@ -90,8 +90,13 @@ entries:
     output: web
     folderitems:
 
-    - title: How To
+    - title: Creating a Custom Configuration
       url: /custom_config
+      output: web
+      type: homepage
+
+    - title: What to adjust
+      url: /custom_config#custom-configuration
       output: web
       type: homepage
 

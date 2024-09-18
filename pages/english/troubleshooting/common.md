@@ -12,7 +12,7 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">My character has textures/graphics.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bugged-textures">My character has bugged textures/graphics.</a>
                             </h4>
                         </div>
                         <div id="bugged-textures" class="panel-collapse collapse noCrossRef">
@@ -35,7 +35,7 @@ toc: false
 <ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues."><br>
 This is an issue that happens on real hardware (PS3) but is MUCH worse on RPCS3.<br>
 There is currently a patch to fix guitars teleporting along with a list of what equipable items have issues.<br>
-<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob" target="_blank">[Click here for more information.]</a></p></ul>
+<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob" target="_blank">[Click here for more information]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,8 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                         </div>
                         <div id="online-i-crash-when-joining-sessionssearching-for-players" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network section]</a>, and disable “Enable UPNP.” You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide" target="_blank">[search how to port forward in your router]</a>.</p></ul>
+<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network section]</a>, and disable “Enable UPNP.”</p>
+<p>You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide" target="_blank">[to set up port forwarding in your router's control panel]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -91,7 +92,7 @@ Alternatively, you can check the general performance issues section right below 
                             <div class="panel-body">
 <ul>
 <li>Set your computer to the <a href="https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-" target="_blank">[High Performance power plan]</a>.</li>
-<li>Go back to the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config" target="_blank">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
+<li>Go back to the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
 <li>Disable Post Effects in Deluxe Settings.
 <ul>
 <li><code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics</code></li>
