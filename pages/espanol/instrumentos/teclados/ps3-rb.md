@@ -1,7 +1,7 @@
 ---
 title: PlayStation 3 Rock Band Wireless Keyboard
 sidebar: controllers_es_sidebar
-permalink: ctrls_keys_ps3
+permalink: ctrls_keys_ps3_es
 folder: instrumentos
 tags: [ps3, midi, english]
 summary: "How to connect and configure PlayStation 3 Wireless keyboards (MIDI) on RPCS3."

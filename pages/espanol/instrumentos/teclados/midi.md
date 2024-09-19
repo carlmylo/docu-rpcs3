@@ -1,7 +1,7 @@
 ---
 title: Teclado MIDI
 sidebar: controllers_es_sidebar
-permalink: ctrls_keys_midi
+permalink: ctrls_keys_midi_es
 folder: instrumentos
 tags: [midi, english]
 summary: "Como configurar un teclado MIDI con RPCS3."

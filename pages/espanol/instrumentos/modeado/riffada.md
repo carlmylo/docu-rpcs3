@@ -165,7 +165,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 ## Additional Notes
 The picoconfig preset binds a few things for a better experience.
 - The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
-- D-Pad (Cruceta): Izquierda and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad (Cruceta) Left which is very uncomfortable.
+- D-Pad (Cruceta): Izquierda and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad (Cruceta) Izquierda which is very uncomfortable.
 
 If you wish to remove these tweaks, click the "`Remove`" next to the D-pad Left and Back buttons at the bottom of Santroller Configurator.
 

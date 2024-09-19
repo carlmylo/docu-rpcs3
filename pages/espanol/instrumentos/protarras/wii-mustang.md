@@ -1,7 +1,7 @@
 ---
 title: Nintendo Wii Rock Band 3 Fender Mustang Pro Guitar
 sidebar: controllers_es_sidebar
-permalink: ctrls_protar_wii
+permalink: ctrls_protar_wii_es
 folder: instrumentos
 tags: [wii, midi, english]
 summary: "How to connect and configure Nintendo Wii Mustang Pro Guitars (MIDI) on RPCS3."
@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 * No existe un perfil para este instrumento.
-* **NO mapeés este instrumento por el menu de "Pads".**
+* **NO mapeés este instrumento por el menú de "Pads".**
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
 

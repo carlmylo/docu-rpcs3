@@ -1,7 +1,7 @@
 ---
 title: Pro Guitars
 sidebar: espanol_sidebar
-permalink: ctrls_protars
+permalink: ctrls_protars_es
 folder: espanol
 tags: [controles, protarras, espanol]
 summary: "Una lista de guitarras Pro verificadas con Rock Band 3 en RPCS3."
