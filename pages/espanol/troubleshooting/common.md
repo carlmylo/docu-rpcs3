@@ -48,7 +48,7 @@ Existe un parche que arregla las guitarras y una lista de todo los accesorios qu
                         </div>
                         <div id="online-crasheos-de-puerto" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[pestaña de Network en la configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar que investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter].]</a>.</p></ul>
+<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[pestaña de Network en la configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter]]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ Puedes ajustar esto en:<br>
                         <div id="sonido-feo" class="panel-collapse collapse">
                             <div class="panel-body">
 <ul><p><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe><br> 
-Aumenta “Audio Buffer Duration” como mencionado en <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud_es" target="_blank">[la pestaña de Audio en la configuración de Rock Band 3]</a> Hasta que se escuche mejor. Si tienes una computadora de baja gama, empieza con 100 ms y bajale hasta lo que puedas.<br>
+Aumenta “Audio Buffer Duration” como mencionado en <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud_es" target="_blank">[la pestaña de Audio en la configuración de Rock Band 3]</a> hasta que se escuche mejor el juego. Si tienes una computadora de baja gama, empieza con 100 ms y bajale hasta lo que puedas.<br>
 Alternativamente, puedes ver la sección de problemas comunes de rendimiento abajo.</p></ul>
                             </div></div></div>
                     <!-- /.panel -->
@@ -97,7 +97,7 @@ Alternativamente, puedes ver la sección de problemas comunes de rendimiento aba
 <li><code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos</code></li>
 </ul>
 </li>
-<li>Si tu placa base tiene un chip de Realtek (mayoría de las computadoras), trata <a href="https://www.realtek.com/Download/List?cate_id=593&menu_id=298" target="_blank">[descargar el controlador actual]</a>. Esto es un <a href="https://github.com/RPCS3/rpcs3/issues/14648" target="_blank">[problema]</a> causado por usar el controlador integrados de Microsoft llamados “Sonido de Alta Definición.” Este controlador no usa todos los hilos.</li>
+<li>Si tu placa base tiene un chip de Realtek (mayoría de las computadoras), trata <a href="https://www.realtek.com/Download/List?cate_id=593&menu_id=298" target="_blank">[descargar el controlador actual]</a>. Esto es un <a href="https://github.com/RPCS3/rpcs3/issues/14648" target="_blank">[problema]</a> causado por usar el controlador integrado de Microsoft llamado “Sonido de Alta Definición.” Este controlador no usa todos los hilos del procesador.</li>
 <li>Cierra el cliente de Discord y ábrelo en tu navegador o tu celular. También puedes usar un cliente alternativo <a href="https://github.com/Vencord/Vesktop" target="_blank">[como Vesktop]</a>, pero no somos responsables por tu cuenta de Discord.</li></ul>
                             </div>
                         </div>

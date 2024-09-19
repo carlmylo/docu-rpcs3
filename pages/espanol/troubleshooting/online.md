@@ -18,7 +18,7 @@ toc: false
                         <div id="no-encuentro-jugadores" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>El puerto 9103 esta bloqueado. Puedes activar el UPNP en la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es">[configuración de Network para Rock Band 3]</a> o manualmente reenviar el puerto 9103 (UDP) en tu corta fuegos.   <br><strong>No actives UPNP y reenvíes el puerto al mismo tiempo</strong> porque te va a crashear.</li>
+<li>El puerto 9103 esta bloqueado. Puedes activar el UPNP en la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[configuración de Network para Rock Band 3]</a> o reenviar el puerto 9103 (UDP) en tu corta fuegos manualmente.   <br><strong>No actives UPNP y reenvíes el puerto al mismo tiempo</strong> porque te va a crashear.</li>
 <li>Las salas de Rock Band 3 solo aceptan 2 slots (puestos) de Guitarra/Bajo/Teclado, un slot de batería y un slot para el vocalista. <br> <img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/online/slotdiag.png" alt="Un diagrama mostrando los slots disponibles de Rock Band 3. Muestra una guitarra, bajo y teclado en el slot primero y cuarto, bateria en el slot segundo, y vocales en el slot tercero."><br>
 <ul>
 <li>Puedes sobrepasarte de esto con Deluxe, ya que te deja cambiar slot de instrumento. Cámbialo en<br>
