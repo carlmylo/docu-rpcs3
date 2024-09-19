@@ -51,7 +51,7 @@ Give it a moment to program initial configuration. When prompted, click on "`Con
 After you've loaded into the configuration page, scroll down to the "`Presets`" section and click to expand it. Once expanded, click on "`Import Settings from File`"
 
 A community made preset exists (courtesy of jnack) to help speed things up. Load it up via the "Import Settings from File" option.  
-[[Download the picoconfig preset here]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/RiffmasterFeather.picoconfig)
+[[Download the picoconfig preset here]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/RiffmasterFeather.picoconfig)
 
 ![A screenshot of SantrollerConfigurator, with a cursor hovering over "Import Settings from File" under the "Presets" configuration.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanpreload.png "Presets")
 
@@ -177,7 +177,7 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Feather%20Riffmaster.7z)
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/Feather%20Riffmaster.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
 

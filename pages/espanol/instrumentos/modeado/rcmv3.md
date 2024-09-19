@@ -83,7 +83,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/picolpmapping.png" alt="Mapeo" title="Mapeo"></div>
 

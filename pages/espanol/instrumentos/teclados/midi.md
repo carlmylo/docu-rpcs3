@@ -180,7 +180,7 @@ Selecciona el otro puerto que creaste en loopMIDI ("Pro Keys") en la sección de
 Tienes que abrirlos cada vez que quieras jugar.</p>
 
 
-</ul>.
+</ul>
                             </div>
                         </div>
                     </div>
