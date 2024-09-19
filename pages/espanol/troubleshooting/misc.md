@@ -1,10 +1,10 @@
 ---
-title: Misc
+title: Misc.
 sidebar: espanol_sidebar
 permalink: trbl_misc_es
 folder: espanol
-tags: [troubleshooting, english]
-summary: "How to deal with miscellaneous issues."
+tags: [resolviendo-problemas, espanol]
+summary: "Como resolver problemas misceláneos."
 toc: false
 ---
 
@@ -12,13 +12,13 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#scrolling-through-the-library-has-long-pauses">Scrolling through the library has long pauses.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#bibl-traba">Navegando la biblioteca causa que el juego se trabe.</a>
                             </h4>
                         </div>
-                        <div id="scrolling-through-the-library-has-long-pauses" class="panel-collapse collapse noCrossRef">
+                        <div id="bibl-traba" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-You didn’t read the guide and did not set the “Network Status” to “Connected” in the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network tab when setting up the Custom Configuration]</a> for Rock Band 3.
+Ctm. Se te olvido poner “Network Status” a “Connected” en la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[pestaña “Network” al hacer la configuración personalizada]</a> para Rock Band 3, como te dijo la guía.
 </ul>
                             </div>
                         </div>
@@ -27,14 +27,14 @@ You didn’t read the guide and did not set the “Network Status” to “Conne
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-game-doesnt-fill-the-screen">My game doesn't fill the screen.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#overscan">El juego no llena toda la pantalla.</a>
                             </h4>
                         </div>
-                        <div id="my-game-doesnt-fill-the-screen" class="panel-collapse collapse noCrossRef">
+                        <div id="overscan" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<p>Activate “<strong>Overscan</strong>” in Rock Band 3.<br>
-To do this, go to:<br>
-<code>Menu &gt; Options &gt; System Settings &gt; Overscan</code></p>
+<p>Activa la opción “<strong>Tamaño</strong>” en Rock Band 3.<br>
+Puedes activarla otra vez en:<br>
+<code>Menú &gt; Opciones &gt; Ajustes del Sistema &gt; Tamaño</code></p>
                             </div>
                         </div>
                     </div>
@@ -42,13 +42,13 @@ To do this, go to:<br>
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-cant-drag-and-drop-pkgs-into-rpcs3">I can't drag and drop PKGs into RPCS3.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#no-puedo-instalar-pkg">No puedo arrastra PKGs a RPCS3.</a>
                             </h4>
                         </div>
-                        <div id="i-cant-drag-and-drop-pkgs-into-rpcs3" class="panel-collapse collapse noCrossRef">
+                        <div id="no-puedo-instalar-pkg" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-This is a known issue with RPCS3. Restart it and it will should work.
+Esto es un error común de RPCS3. Reinicíalo y va a funcionar.
 </ul>
                             </div>
                         </div>
@@ -57,13 +57,13 @@ This is a known issue with RPCS3. Restart it and it will should work.
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per">You didn't mention changing (SETTING) in the guide. It helped my performance.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#no-mencionaste">No mencionaste ajustando (OPCIÓN) en la guía, pero a mi me ayudo.</a>
                             </h4>
                         </div>
-                        <div id="you-didnt-mention-changing-setting-in-the-guide-it-helped-my-per" class="panel-collapse collapse noCrossRef">
+                        <div id="no-mencionaste" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<a href="https://github.com/carlmylo/docu-rpcs3/issues" target="_blank">[Open an issue]</a> with your suggestions or contact me on <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[the Milohax discord]</strong></a> with your findings. If it checks out, I’ll probably add it to this guide.
+<a href="https://github.com/carlmylo/docu-rpcs3/issues" target="_blank">[Abre un asunto nuevo]</a> o manda un mensaje por <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[el Discord de Milohax]</strong></a> con tu sugerencia. Si se verifica, puedo ser incluido en la guía.
 </ul>
                             </div>
                         </div>

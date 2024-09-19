@@ -3,8 +3,8 @@ title: Deluxe
 sidebar: espanol_sidebar
 permalink: trbl_deluxe_es
 folder: espanol
-tags: [troubleshooting, english]
-summary: "How to deal with common issues with Deluxe."
+tags: [resolviendo-problemas, espanol]
+summary: "Como resolver problemas comunes con Deluxe."
 toc: false
 ---
 
@@ -12,14 +12,14 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-deluxe-settings-are-not-saving">My Deluxe settings are not saving.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#deluxe-conf-no-guarda">Mis configuración de Deluxe no se guarda.</a>
                             </h4>
                         </div>
-                        <div id="my-deluxe-settings-are-not-saving" class="panel-collapse collapse noCrossRef">
+                        <div id="deluxe-conf-no-guarda" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<ul><p>You set “<strong>Confirm DX Settings Save</strong>” to <strong>Off</strong>.<br>
-You can enable it again in:<br>
-<code>Menu &gt; Options &gt; Deluxe Settings &gt; Advanced &gt; Functional Options &gt; Confirm DX Settings Save</code></p></ul>
+<ul><p>Desactivaste “<strong>Auto-Guardado de Conf. DX</strong>”.<br>
+Puedes activarla otra vez en:<br>
+<code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Avanzado &gt; Opciones Del Juego &gt; Auto-Guardado de Conf. DX</code></p></ul>
                             </div>
                         </div>
                     </div>
@@ -27,12 +27,12 @@ You can enable it again in:<br>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-ruined-the-track-camera-settings">I ruined the track camera settings.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#arruine-cam-de-pista">Arruina la camera de pista.</a>
                             </h4>
                         </div>
-                        <div id="i-ruined-the-track-camera-settings" class="panel-collapse collapse">
+                        <div id="arruine-cam-de-pista" class="panel-collapse collapse">
                             <div class="panel-body">
-                                <ul><p>Restarting your game will reset them back to normal.</p></ul>
+                                <ul><p>Reinicia el juego y todo va estar bien.</p></ul>
                             </div>
                         </div>
                     </div>

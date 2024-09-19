@@ -37,8 +37,8 @@ toc: false
                         </div>
                         <div id="solo-auto-strum" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                <p>En la configuración de "Pads", .</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a RPCS3's Gamepad Configuration. L2 button is being unbound." title="L2 Unbound"></p>
+                                <p>En la configuración de "Pads", borra cualquier botón tienes mapeado a L2.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="Una animaction de Gamepad Configuracion de RPCS3. Se borra el boton que esta puesto en L2." title="L2 Borrado"></p>
                             </div>
                         </div>
                     </div>
@@ -46,12 +46,12 @@ toc: false
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#my-ps3-rock-band-instrument-controller-shows-up-as-two-controlle">My PS3 Rock Band instrument controller shows up as two controllers.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#ps3-rb-dos-instrumentos">Mi instrumento de Rock Band para PS3 sale como si fuera dos.</a>
                             </h4>
                         </div>
-                        <div id="my-ps3-rock-band-instrument-controller-shows-up-as-two-controlle" class="panel-collapse collapse noCrossRef">
+                        <div id="ps3-rb-dos-instrumentos" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                You did <a href="https://carlmylo.github.io/docu-rpcs3/ctrls#mapping" target="_blank">[controller configuration]</a> for a PS3 Rock Band controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
+                                Creaste una <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_es#mapeando" target="_blank">[configuración de controles personalizada]</a> para un control de Rock Band para PS3, eso que necesitas hacer eso porque tiene conexión directa. Borra la configuración y todo debe de estar bien.
                             </div>
                         </div>
                     </div>
@@ -59,14 +59,14 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#pro-drums-my-e-kit-doesnt-work">[MIDI Drums] My E-Kit doesn't work.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#no-sirve-bateria-midi">[Batería MIDI] Mi batería no funciona.</a>
                             </h4>
                         </div>
-                        <div id="pro-drums-my-e-kit-doesnt-work" class="panel-collapse collapse noCrossRef">
+                        <div id="no-sirve-bateria-midi" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
-                                <li>Make sure your E-Kit is mapped correctly and on the right channel (Channel 10). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi" target="_blank">[the MIDI Drums page]</a> for more help.</li>
+                                <li>Windows no deja que aplicaciones compartan instrumentos de MIDI. Si tienes algo mas abierto que esta usando el instrumento (incluso MIDI Monitor), ciérralo antes de iniciar Rock Band 3.</li>
+                                <li>Asegúrate que tu batería este mapeada correctamente y en el canal correcto (Canal 10). Revisa <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi_es" target="_blank">[la pagina de información para baterías MIDI]</a>.</li>
                                 </ul>
                             </div>
                         </div>
@@ -75,12 +75,12 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#pro-drums-hitting-two-cymbals-registers-as-a-tom">[Pro Drums] Hitting two cymbals registers as a tom.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#dos-platillos-tom">[Batería Pro] Si toco dos platillos, se registra como un tom.</a>
                             </h4>
                         </div>
-                        <div id="pro-drums-hitting-two-cymbals-registers-as-a-tom" class="panel-collapse collapse noCrossRef">
+                        <div id="dos-platillos-tom" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                This is an infamous Rock Band 3 bug called the “double cymbal glitch” and plagues all versions of Rock Band 3, even console versions. You can try to slightly <a href="https://en.wikipedia.org/wiki/Drum_rudiment#Flam" target="_blank">[flam]</a> the two inputs to get around this.
+                                Este es un problema conocido de Rock Band 3 que afecta todas las versiones, incluso las de consolas. Puedes tocar estas cosas con un <a href="https://es.wikipedia.org/wiki/Rudimento#Terminolog%C3%ADa" target="_blank">[flam/mordente]</a> para evitar esto.
                             </div>
                         </div>
                     </div>
@@ -88,15 +88,15 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#midi-keys-my-keyboard-doesnt-work">[MIDI Keys] My Keyboard doesn't work</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#teclado-midi-no-funciona">[Teclado MIDI] Mi teclado no funciona</a>
                             </h4>
                         </div>
-                        <div id="midi-keys-my-keyboard-doesnt-work" class="panel-collapse collapse noCrossRef">
+                        <div id="teclado-midi-no-funciona" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li> 
-                                <li>Make sure your keyboard the right channel (Channel 1). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi" target="_blank">[the MIDI Keyboard page]</a> for more help.</li>
-                                <li>If you're on a Rock Band 3 keyboard in MIDI mode, you may have activated drum mode by pressing D-Pad Up. Press D-Pad Up again to toggle it off.</li>
+                                <li>Windows no deja que aplicaciones compartan instrumentos de MIDI. Si tienes algo mas abierto que esta usando el instrumento (incluso MIDI Monitor), ciérralo antes de iniciar Rock Band 3.</li> 
+                                <li>Asegúrate que tu teclado este mapeado correctamente y en el canal correcto (Canal 1). Revisa <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi_es" target="_blank">[la pagina de información para teclados MIDI]</a>.</li>
+                                <li>Si estas usando un teclado de Rock Band 3 conectado por el puerto de MIDI, es posible que activaste el modo de batería. Presiona la D-Pad (Cruceta) Arriba para desactivarlo.</li>
                                 </ul>
                             </div>
                         </div>
@@ -105,14 +105,14 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#miditar-my-protar-doesnt-work">[Pro Guitar] My guitar doesn't work.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#protarra-no-funciona">[Guitarra Pro] Mi guitarra pro no funciona.</a>
                             </h4>
                         </div>
-                        <div id="miditar-my-protar-doesnt-work" class="panel-collapse collapse noCrossRef">
+                        <div id="protarra-no-funciona" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-                                <li>Pro Guitars require a MIDI interface with SYSEX capabilities. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_protars" target="_blank">[your Pro Guitar's page]</a> to see which interfaces are confirmed to work.</li>
-                                <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
+                                <li>Guitarras Pro requieren una interfaz de MIDI a USB que tome datos SYSEX. Revisa <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_es#guitarras-pro" target="_blank">[la pagina de tu guitarra Pro]</a> para ver cuales interfaces funcionan.</li>
+                                <li>Windows no deja que aplicaciones compartan instrumentos de MIDI. Si tienes algo mas abierto que esta usando el instrumento (incluso MIDI Monitor), ciérralo antes de iniciar Rock Band 3.</li>
                                 </ul>
                             </div>
                         </div>
@@ -121,12 +121,12 @@ toc: false
                                         <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#i-cannot-use-automatic-calibration-in-system-settings">I cannot use Automatic Calibration in System Settings.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#no-cali-auto">No puedo usar la Calibración Automática.</a>
                             </h4>
                         </div>
-                        <div id="i-cannot-use-automatic-calibration-in-system-settings" class="panel-collapse collapse noCrossRef">
+                        <div id="no-cali-auto" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                Automatic Calibration only works for PS3 Rock Band guitar/bass and Fender Mustang Pro Guitar controllers with passthrough.
+                                La calibración automática solo funciona con las guitarras de PS3 con conexión directa.
                             </div>
                         </div>
                     </div>
