@@ -199,7 +199,7 @@ Se necesita esta información:
 * De que sistema es (Nintendo Wii)
 * Configuración escrita para cada botón (Traste verde = Cross (Cruz))
 * Los archivos de configuración
-* Esta en (`RPCS3\config\input_configs\global\ProfileName.yml`) si lo creaste por el menú de "Pads"
+* Esta en (`RPCS3\config\input_configs\global\PerfilName.yml`) si lo creaste por el menú de "Pads"
 * Esta en (`RPCS3\config\input_configs\BLUS30463\Default.yml`) si lo creaste por el menú de "Custom Gamepad Configuration"
 * Una captura de la configuración
 

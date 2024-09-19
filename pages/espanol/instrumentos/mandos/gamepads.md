@@ -2,7 +2,7 @@
 title: Unknown Gamepad Controllers
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_gen_es
-folder: instruments
+folder: instrumentos
 tags: [mandos, espanol]
 summary: "How to setup gamepads on RPCS3."
 toc: false
@@ -18,7 +18,7 @@ toc: false
 * To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick them.
 	- Additionally you can configure the layout within Rock Band 3 Deluxe's Advanced settings in-game.
 
-## Pad Information
+## Información de Control:
 
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
@@ -33,7 +33,7 @@ toc: false
 | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
 | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
 | Cross (Cruz) | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| Left Stick | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
+| Palanca Izquierda | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | Select | Overdrive |
 
 ### Drums 
@@ -50,7 +50,7 @@ toc: false
 
 | **PlayStation (DS3)** | **Use** | **Alt Use** |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| Left Stick: <br> Up/Down/Left/Right | Navigation | |
+| Palanca Izquierda: <br> Up/Down/Left/Right | Navigation | |
 | D-Pad (Cruceta): <br> Up/Down/Left/Right | Navigation | |
 | Cross (Cruz) | Select | |
 | Circle (Circulo) | Back | Mic 3 Volume (Song) |

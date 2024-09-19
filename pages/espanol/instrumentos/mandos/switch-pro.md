@@ -2,7 +2,7 @@
 title: Nintendo Switch Pro Controller
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_switch_es
-folder: instruments
+folder: instrumentos
 tags: [switch, mandos, espanol]
 summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3."
 toc: false
@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/swiprocontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS::
+## NOTAS:
 
 * Nintendo Switch Pro controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
 * Nintendo Switch Pro controllers have a Japanese layout. This may cause problems with muscle memory.
@@ -21,7 +21,7 @@ toc: false
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -40,7 +40,7 @@ toc: false
 | ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
 | ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Minus Button") | Overdrive |
 
 ## Drums
@@ -57,7 +57,7 @@ toc: false
 
 | **Switch Pro Controller** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Left Stick") | Navigation | |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | Navigation | |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/dpad.png "D-Pad (Cruceta)") | Navigation | |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | Select | |
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/a.png "Botón A") | Back | Mic 3 Volume (Song) |

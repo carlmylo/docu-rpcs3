@@ -2,7 +2,7 @@
 title: PlayStation 2 Guitar Hero SG Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghsggtr_ps2_es
-folder: instruments
+folder: instrumentos
 tags: [ps2, guitarras, espanol]
 summary: "How to setup PS2 Guitar Hero SGs on RPCS3."
 toc: false
@@ -18,7 +18,7 @@ toc: false
 * You may be able to [[use X360CE]](https://www.x360ce.com/){:target="_blank"} to force a problematic adapter to work.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -59,7 +59,7 @@ Use Right Click to unmap Botón A.
 | Start | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z){:target="_blank"}
 

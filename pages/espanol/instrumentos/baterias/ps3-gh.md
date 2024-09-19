@@ -2,7 +2,7 @@
 title: PlayStation 3 Guitar Hero Drums
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_ps3_es
-folder: instruments
+folder: instrumentos
 tags: [ps3, baterias, espanol]
 summary: "How to setup PlayStation 3 Guitar Hero drums on RPCS3."
 toc: false
@@ -16,10 +16,10 @@ toc: false
 ## NOTAS:
 
 * La detección de velocidad no funciona.
-* Gem colors do not match the pads.
+* Los colores de notas no son iguales a los parches de este control.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -39,19 +39,19 @@ toc: false
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |
 | Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/bp.png "Parche Azul") |
 | Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Platillo Amarillo") |
-| R1 | ![Orange Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Orange Cymbal") |
+| R1 | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | Cross (Cruz) | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") |
 | Circle (Circulo) | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo) Button") |
 | Square (Cuadro) | ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro) Button") |
 | Triangle (Triangulo) | ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo) Button") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") |
-| Left Stick | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Left Stick") |
-| Start | ![Start Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start Button") |
+| Palanca Izquierda | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") |
+| Start | ![Botón Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Botón Start") |
 | Select | ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") |
 | Botón PS | ![Home Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home Button") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z){:target="_blank"}
 

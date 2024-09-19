@@ -2,7 +2,7 @@
 title: Legacy Guitar Configurator Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_gtrcfg_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, midi, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rcmgtrs.png" alt="Control" title="Control"></div>
 
-## NOTAS::
+## NOTAS:
 
 * This information is outdated, just like your software. **UPDATE TO SANTROLLER, OR CONTACT YOUR GUITAR MANUFACTURER!**
 * This requires advanced setup.
@@ -22,7 +22,7 @@ toc: false
 
 * Change the controller output type to XInput and Guitar Hero Guitar.
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
 

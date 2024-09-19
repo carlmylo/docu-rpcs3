@@ -1,8 +1,8 @@
----
+y---
 title: "PlayStation 4 Rock Band 4/Fortnite Festival Guitars"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_ps4_es
-folder: instruments
+folder: instrumentos
 tags: [ps4, guitarras, espanol]
 summary: "How to setup PS4 Rock Band guitars on RPCS3."
 toc: false
@@ -22,7 +22,7 @@ toc: false
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |	
 |:------------------:|:---------------------:|
@@ -50,7 +50,7 @@ toc: false
 | Select | ![Share](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Share") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home") |
 
-## Profile
+## Perfil
 
 N/A
 

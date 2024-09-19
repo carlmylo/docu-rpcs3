@@ -2,7 +2,7 @@
 title: Nintendo Wii Guitar Hero Guitars (WiitarThing)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtr_wii_es
-folder: instruments
+folder: instrumentos
 tags: [wii, guitarras, espanol]
 summary: "How to setup Nintendo Wii Guitar Hero guitars on RPCS3."
 toc: false
@@ -20,7 +20,7 @@ toc: false
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -56,12 +56,12 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-mapping">Mapeo avanzado</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCross (Cruz)Ref">
+                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<h4 id="profile">Profile</h4>
+<h4 id="profile">Perfil</h4>
 <p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Guitar.7z">[Bajar Perfil]</a></p>
 
 <table>

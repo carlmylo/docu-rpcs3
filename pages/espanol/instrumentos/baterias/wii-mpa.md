@@ -2,7 +2,7 @@
 title: Nintendo Wii Rock Band MIDI Pro Adapter Drums
 sidebar: controllers_es_sidebar
 permalink: ctrls_mpadrums_wii_es
-folder: instruments
+folder: instrumentos
 tags: [wii, baterias, espanol]
 summary: "How to setup Nintendo Wii MPA drums on RPCS3."
 toc: false
@@ -18,7 +18,7 @@ toc: false
 * La detección de velocidad no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Informations
+## Información de Control:s
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -53,7 +53,7 @@ toc: false
 | Start | ![Plus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus Button") |
 | Select | ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus Button") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Rock%20Band%20Drums.7z)
 

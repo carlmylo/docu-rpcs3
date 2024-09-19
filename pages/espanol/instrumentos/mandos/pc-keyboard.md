@@ -2,7 +2,7 @@
 title: PC Keyboard
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_pckeys_es
-folder: instruments
+folder: instrumentos
 tags: [pc, mandos, espanol]
 summary: "How to setup PC Keyboards on RPCS3."
 toc: false
@@ -25,7 +25,7 @@ toc: false
 * This profile does not require strumming.
 * You should **REALLY** not use this setup for anything but controlling the game.
 
-#### Pad Information
+#### Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -45,7 +45,7 @@ toc: false
 | `T` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | `X` | Cross (Cruz) | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navigation | Navigation |
-| `W`, `A`, `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A |
+| `W`, `A`, `S`, and `D` | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A |
 | `Space` | Select | Overdrive | Overdrive |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbdefmapping.png" alt="Mapeo" title="Mapeo"></div>
@@ -56,7 +56,7 @@ toc: false
 
 * This profile does not require strumming.
 
-#### Pad Information
+#### Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -76,7 +76,7 @@ toc: false
 | `K` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | `L` | Cross (Cruz) | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 | `Up`, `Down`, `Left`, and `Right` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navigation | Navigation |
-| `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A |
+| `S`, and `D` | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A |
 | `Space` | Select | Overdrive | Overdrive |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfmapping.png" alt="Mapeo" title="Mapeo"></div>
@@ -92,7 +92,7 @@ toc: false
 
 * This profile requires strumming.
 
-#### Pad Information
+#### Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -121,7 +121,7 @@ toc: false
 
 ### Pro Drums
 
-#### Pad Information
+#### Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -153,7 +153,7 @@ toc: false
 
 * This profile does not require strumming.
 
-#### Pad Information
+#### Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -179,7 +179,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-## Profiles
+## Perfils
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
 

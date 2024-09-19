@@ -2,7 +2,7 @@
 title: Roll Limitless Drums
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rldrums_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, midi, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rolllimitlesscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS::
+## NOTAS:
 
 * This controller requires advanced configuration.
 * La detección de velocidad no funciona.
@@ -26,7 +26,7 @@ toc: false
 6. Verify that Windows has detected the Roll Limitless adapter by searching for `joy.cpl` in the Start menu. It should show up in the list.
 7. If it shows up, it's ready to go. If not, make sure you're plugging it in while holding down the round Start button.
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 

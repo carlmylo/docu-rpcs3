@@ -1,8 +1,8 @@
----
+y---
 title: Nintendo Wii Rock Band Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_rbgtr_wii_es
-folder: instruments
+folder: instrumentos
 tags: [wii, guitarras, espanol]
 summary: "How to setup Nintendo Wii Rock Band guitars on RPCS3."
 toc: false
@@ -18,7 +18,7 @@ toc: false
 	* It can be unMapeado por removing the Right Stick: Up/Down mappings.
 	* You can alternatively configure the Device Class as a Guitar Hero Guitar to remove the option. You will have to swap Blue and Yellow frets.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -49,7 +49,7 @@ toc: false
 | Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Rock%20Band%20Guitar.7z){:target="_blank"}
 

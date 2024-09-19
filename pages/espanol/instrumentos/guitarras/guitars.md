@@ -2,7 +2,7 @@
 title: Unknown Guitar Controller
 sidebar: controllers_es_sidebar
 permalink: ctrls_gtr_gen_es
-folder: instruments
+folder: instrumentos
 tags: [guitarras, espanol]
 summary: "General mapping for unknown guitars on RPCS3."
 toc: false
@@ -16,7 +16,7 @@ toc: false
 
 * **This is for unknown guitar controllers**. You may have to use try different handlers until your guitar is detected.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|

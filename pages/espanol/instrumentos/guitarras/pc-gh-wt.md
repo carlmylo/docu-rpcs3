@@ -2,7 +2,7 @@
 title: "PC/Mac Guitar Hero World Tour Guitars"
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_pc_es
-folder: instruments
+folder: instrumentos
 tags: [pc, guitarras, espanol]
 summary: "How to setup PC Guitar Hero World Tour guitars on RPCS3."
 toc: false
@@ -19,7 +19,7 @@ toc: false
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -52,13 +52,13 @@ Use Right Click to unmap Botón A.
 | D-Pad (Cruceta): Left | ![D-Pad (Cruceta): Left](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Left") |
 | D-Pad (Cruceta): Right | ![D-Pad (Cruceta): Right](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Right") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Left Stick: Down | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt Vertical") |
-| Left Stick: Down | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt Horizontal") |
+| Palanca Izquierda: Down | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt Vertical") |
+| Palanca Izquierda: Down | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt Horizontal") |
 | Start | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Guitar%20Hero%20World%20Tour%20Guitar.7z)
 

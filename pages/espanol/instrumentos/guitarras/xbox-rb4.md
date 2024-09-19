@@ -2,7 +2,7 @@
 title: "Xbox One Rock Band 4/Fortnite Festival Guitars"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_xbox_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-one, guitarras, espanol]
 summary: "How to setup Xbox One Rock Band 4/Fortnite Festival guitars on RPCS3."
 toc: false
@@ -23,7 +23,7 @@ toc: false
 * If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -50,7 +50,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Mapeo avanzado</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Mapeo avanzado</a>
                             </h4>
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCross (Cruz)Ref">

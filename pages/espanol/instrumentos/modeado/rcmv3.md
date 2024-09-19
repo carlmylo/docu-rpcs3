@@ -2,7 +2,7 @@
 title: RetroCultMods V3 Wii Adapter Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rcmv3_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, midi, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
@@ -17,7 +17,7 @@ toc: false
 * **This is specifically for the** [**[V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4) by RetroCultMods]**](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for)**!** Please consult your sales receipt to confirm that it is indeed a V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4) by RetroCultMods.
 	* You can use this page for reference for V1 and V2 Wii Adapters, but you won't have tilt.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -81,7 +81,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
 

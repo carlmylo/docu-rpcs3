@@ -2,7 +2,7 @@
 title: PlayStation 3 DualShock 3/SixAxis
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_ds3_es
-folder: instruments
+folder: instrumentos
 tags: [ps3, mandos, espanol]
 summary: "How to setup PS3 DualShock 3 and SixAxis gamepads on RPCS3."
 toc: false
@@ -21,7 +21,7 @@ toc: false
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -40,7 +40,7 @@ toc: false
 | ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "R1 Button") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
 | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") | Overdrive |
 
 ## Drums
@@ -58,13 +58,13 @@ toc: false
 
 | **PlayStation (DS3)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Left Stick") | Navigation | |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | Navigation | |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") | Navigation | |
 | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") | Select | |
 | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo) Button") | Back | Mic 3 Volume (Song) |
 | ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro) Button") | Mic 1 Volume (Song) | |
 | ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo) Button") | View More Info (Library) | Mic 2 Volume (Song) |
-| ![Start Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start Button") | Options | Pause (Song) |
+| ![Botón Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Botón Start") | Options | Pause (Song) |
 | ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") | Filters (Library) | Overdrive (Song) |
 | ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "L1 Button") | Guide Part Selection (Practice) | |
 | ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "L2 Trigger") | Voice Chat | Vocal Part Selection (Practice) |

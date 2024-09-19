@@ -2,7 +2,7 @@
 title: Santroller Powered Custom Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_santroller_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, midi, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
@@ -16,7 +16,7 @@ toc: false
 
 * **Please note that your Santroller Configurator may have different settings, depending on how your guitar was modded.** If you purchased your guitar pre-modded, contact the seller for more information.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:--------:|:-------:|
@@ -76,7 +76,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/RetroCultMods%20Solderless%20Kit.7z)
 

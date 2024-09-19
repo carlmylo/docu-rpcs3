@@ -2,7 +2,7 @@
 title: PlayStation 3 Guitar Hero Genericaster (World Tour and later) Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_ps3_es
-folder: instruments
+folder: instrumentos
 tags: [ps3, guitarras, espanol]
 summary: "How to setup PS3 Guitar Hero Genericasters on RPCS3."
 toc: false
@@ -18,7 +18,7 @@ toc: false
 	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -60,7 +60,7 @@ Use Right Click to unmap Botón A.
 | Select | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Guitar.7z){:target="_blank"}
 

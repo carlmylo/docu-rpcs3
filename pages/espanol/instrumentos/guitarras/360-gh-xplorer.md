@@ -2,7 +2,7 @@
 title: Xbox 360 Guitar Hero Xplorer Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghxpgtr_360_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, guitarras, espanol]
 summary: "How to setup Xbox 360 Xplorers on RPCS3."
 toc: false
@@ -17,7 +17,7 @@ toc: false
 * This controller requires advanced configuration.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -70,7 +70,7 @@ Use Right Click to unmap Botón A.
 | Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png "Back") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z){:target="_blank"}
 

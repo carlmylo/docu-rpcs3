@@ -2,7 +2,7 @@
 title: Riffmaster (via Adafruit Feather) Guitar
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_riffada_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, midi, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
@@ -17,7 +17,7 @@ toc: false
 * **This is specifically for the** [**[Adafruit Feather RP2040 with USB Type A Host]**](https://www.adafruit.com/product/5723)**!** Please consult your sales receipt to confirm that it is indeed an [[Adafruit Feather RP2040 **with USB Type A Host**]](https://www.adafruit.com/product/5723).
 * While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://rb3pc.milohax.org/instruments/xbox/rb4gtrs) for that instead.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -71,10 +71,10 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-mapping">Mapeo avanzado</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCross (Cruz)Ref">
+                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 
 <table>
@@ -175,7 +175,7 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 ![A screenshot of SantrollerConfigurator, in the "Usb Host Inputs" section. There are circles over the disabled Back and D-pad Left buttons, showing them as disabled.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/sanhostin.png "Usb Host Inputs")
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Feather%20Riffmaster.7z)
 

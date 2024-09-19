@@ -2,7 +2,7 @@
 title: Nintendo Wii Guitar Hero Drums (Raphnet)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_wii_es
-folder: instruments
+folder: instrumentos
 tags: [wii, baterias, espanol]
 summary: "How to setup Nintendo Wii Guitar Hero drums on RPCS3."
 toc: false
@@ -12,16 +12,16 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ghdrmscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS::
+## NOTAS:
 
 * La detección de velocidad no funciona.
-* Can be used to play on Pro Drums to an extent but it's not suggested.
-* Gem colors do not match the pads.
+* Es posible jugar Batería PRO, pero no se recomienda.
+* Los colores de notas no son iguales a los parches de este control.
 * This was tested with a Raphnet "Classic controller to USB adapter".
 	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -41,19 +41,19 @@ toc: false
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |
 | Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/bp.png "Parche Azul") |
 | Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Platillo Amarillo") |
-| R1 | ![Orange Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Orange Cymbal") |
+| R1 | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | Cross (Cruz) | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/a.png "Botón A") |
 | Circle (Circulo) | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/b.png "Botón B") |
 | Square (Cuadro) | ![1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/1.png "1 Button") |
 | Triangle (Triangulo) | ![2 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/2.png "2 Button") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/dpad.png "D-Pad (Cruceta)") |
-| Left Stick | ![Analog Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/ls.png "Analog Stick") |
+| Palanca Izquierda | ![Analog Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/ls.png "Analog Stick") |
 | Start | ![Plus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus Button") |
 | Select | ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus Button") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z)
 

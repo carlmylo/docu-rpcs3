@@ -2,7 +2,7 @@
 title: "PlayStation 4 Rock Band 4 Drums"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4drums_ps4_es
-folder: instruments
+folder: instrumentos
 tags: [ps4, baterias, espanol]
 summary: "How to setup PlayStation 4 Rock Band drums on RPCS3."
 toc: false
@@ -19,7 +19,7 @@ toc: false
 * La detección de velocidad no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -47,7 +47,7 @@ toc: false
 | Select | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Share Button") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS4%20Rock%20Band%20Drums.7z)
 

@@ -2,7 +2,7 @@
 title: MIDI Keyboard
 sidebar: controllers_es_sidebar
 permalink: ctrls_keys_midi
-folder: instruments
+folder: instrumentos
 tags: [midi, english]
 summary: "How to connect and configure a MIDI Keyboard on RPCS3."
 toc: false
@@ -84,7 +84,7 @@ Keyboards with less than 25 keys will have to shift octaves when switching betwe
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#using-a-computer-keyboard-along-with-a-25-key-keyboard">Using a computer keyboard along with a 25 key keyboard</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#using-a-computer-keyboard-along-with-a-25-key-keyboard">Using a computer keyboard along with a 25 key keyboard</a>
                             </h4>
                         </div>
                         <div id="using-a-computer-keyboard-along-with-a-25-key-keyboard" class="panel-collapse collapse noCross (Cruz)Ref">

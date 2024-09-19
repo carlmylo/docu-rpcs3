@@ -2,7 +2,7 @@
 title: "Batería de Rock Band 4 para Xbox One"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4drums_xbox_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-one, baterias, espanol]
 summary: "Como configurar tu batería de Rock Band 4 para Xbox One con RPCS3."
 toc: false
@@ -21,7 +21,7 @@ toc: false
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -48,7 +48,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Mapeo avanzado</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Mapeo avanzado</a>
                             </h4>
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCross (Cruz)Ref">
@@ -82,7 +82,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <td align="center">Modificador de Platillos</td>
 </tr>
 </tbody>
-</table><h3 id="advanced-mapping">Mapeo Avanzado</h3>
+</table><h3 id="mapeo-avanzado">Mapeo Avanzado</h3>
 <ul>
 <li>Baterías de Rock Band manda mas de un botón a la vez. Por ejemplo, el Parche Rojo manda "<code>B</code>" y "<code>Palanca izquierda presionada</code>" (que para el emulador es "<code>Circle (Circulo)</code>" y “<code>L3</code>”.) Toma en cuenta que esto se requiere para que funcionen los platillos.
 <ul>

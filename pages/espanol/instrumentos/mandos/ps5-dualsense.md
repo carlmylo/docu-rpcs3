@@ -2,7 +2,7 @@
 title: PlayStation 5 DualSense
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_dualsense_es
-folder: instruments
+folder: instrumentos
 tags: [ps5, mandos, espanol]
 summary: "How to setup PS5 DualSense gamepads on RPCS3."
 toc: false
@@ -19,7 +19,7 @@ toc: false
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -38,7 +38,7 @@ toc: false
 | ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
 | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps5/shr.png "Share Button") | Overdrive |
 
 ## Drums
@@ -56,7 +56,7 @@ toc: false
 
 | **PlayStation 5 (DualSense)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | Navigation | |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | Navigation | |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navigation | |
 | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") | Select | |
 | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle (Circulo) Button") | Back | Mic 3 Volume (Song) |

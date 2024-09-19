@@ -2,7 +2,7 @@
 title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghlpgtr_wii_es
-folder: instruments
+folder: instrumentos
 tags: [wii, guitarras, espanol]
 summary: "How to setup Nintendo Wii Les Pauls on RPCS3."
 toc: false
@@ -19,7 +19,7 @@ toc: false
 	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -56,7 +56,7 @@ Use Right Click to unmap Botón A.
 | Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
 
-## Profile
+## Perfil
 
 [[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
 

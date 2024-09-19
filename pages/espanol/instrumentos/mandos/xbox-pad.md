@@ -2,7 +2,7 @@
 title: "Xbox One/Series Controller"
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_xbox_es
-folder: instruments
+folder: instrumentos
 tags: [xbox-360, xbox-series, mandos, espanol]
 summary: "How to setup Xbox gamepads on RPCS3."
 toc: false
@@ -22,7 +22,7 @@ toc: false
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
 
-## Pad Information
+## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
@@ -42,7 +42,7 @@ toc: false
 | ![Right Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rt.png "Right Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/a.png "Botón A") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") | Navigation |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![View Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
 ## Drums
@@ -60,8 +60,8 @@ toc: false
 
 | **Xbox One/Series Controller** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") | Navigation |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Palanca Izquierda") | Navigation |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") | Navigation |
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/a.png "Botón A") | Select                          |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/b.png "Botón B") | Back                            | Mic 3 Volume (Song) |
 | ![Botón X](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/x.png "Botón X") | Mic 1 Volume (Song) |
