@@ -47,6 +47,6 @@ toc: false
 | L2 | | ![Switch de efectos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Switch de efectos") | |
 | L2 | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") | | |
 | L3 | | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") | |
-| R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | No funciona |
+| Boton R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | No funciona |
 
 [[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)

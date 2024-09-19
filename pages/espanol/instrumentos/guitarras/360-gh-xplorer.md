@@ -65,7 +65,7 @@ Usa el click derecho para borrar botones.
 | D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
 | Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
 | Palanca Derecha: Abajo | ![Switch de efectos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Switch de efectos") |
-| R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
+| Boton R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
 | Start | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png "Start") |
 | Select | ![Back](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png "Back") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/home.png "Home") |

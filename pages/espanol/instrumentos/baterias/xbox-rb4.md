@@ -69,7 +69,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </thead>
 <tbody>
 <tr>
-<td align="center">R1</td>
+<td align="center">Boton R1</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lsc.png" alt="Palanca izquierda presionada" title="Palanca izquierda presionada"></td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
@@ -130,7 +130,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 </tr>
 <tr>
-<td align="center">R1</td>
+<td align="center">Boton R1</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
 <tr>

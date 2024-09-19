@@ -37,7 +37,7 @@ toc: false
 | Triangle (Triangulo) | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Platillo Amarillo") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") |
-| R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
+| Boton R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | R3 | Modificador de Platillos | |
 | L3 | Modificador de Parches | |
 

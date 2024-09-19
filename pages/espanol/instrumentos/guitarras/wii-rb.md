@@ -44,7 +44,7 @@ toc: false
 | Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
 | Right Stick: <br/> Up/Down | ![Switch de efectos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Switch de efectos") |
 | L2 | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") |
-| R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
+| Boton R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
 | Start | ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
 | Select | ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |

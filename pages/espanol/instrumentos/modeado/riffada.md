@@ -63,9 +63,9 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| R1 | ![Right Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rs.png "Right Stick") | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | 
+| Boton R1 | ![Right Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rs.png "Right Stick") | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | 
 | L2 | ![Palanca derecha presionada](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") | 
-| Right Stick: <br> Down | ![Gatillo izquierdo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Gatillo izquierdo") | ![Switch de efectos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Switch de efectos") |
+| Right Stick: <br> Down | ![Gatillo Izquierdo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | ![Switch de efectos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Switch de efectos") |
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -134,7 +134,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
-<td align="center">R1</td>
+<td align="center">Boton R1</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>

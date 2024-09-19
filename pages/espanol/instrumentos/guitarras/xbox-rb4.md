@@ -116,7 +116,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
-<td align="center">R1</td>
+<td align="center">Boton R1</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>

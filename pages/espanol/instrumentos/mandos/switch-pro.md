@@ -17,9 +17,9 @@ toc: false
 * Nintendo Switch Pro controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
 * Nintendo Switch Pro controllers have a Japanese layout. This may cause problems with muscle memory.
 	* To make the your experience more comfortable, the mapping information below reverses A/B and X/Y. 
-* To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
-* There is no binding file as all controls are default.
-* This controller auto-strums like god intended.
+* Necesitas Rock Band 3 Deluxe si quieres tocar guitarra/bajo/teclado/batería con mando (Padtar)
+* No existe un perfil porque la configuración es por defecto.
+* Este control auto-rasguea (tiene auto-strum).
 
 ## Información de Control:
 
@@ -31,7 +31,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-## Guitars/Bass/Keys
+## Guitarra/Bajo/Teclado:
 
 | **Switch Pro Controller** | **Rock Band** |
 |:------------------:|:---------------------:|
@@ -41,9 +41,9 @@ toc: false
 | ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
 | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
-| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Overdrive |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Sobrecarga |
 
-## Drums
+## Batería:
 
 | **Switch Pro Controller** | **Rock Band** |
 |:------------------:|:---------------------:|
@@ -53,25 +53,25 @@ toc: false
 | ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 
-## Vocals
+## Vocales:
 
-| **Switch Pro Controller** | **Use**                         | **Alt Use**         |
+| **Switch Pro Controller** | **Uso**                         | **Uso alternativo**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | Navigation | |
-| ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/dpad.png "D-Pad (Cruceta)") | Navigation | |
-| ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | Select | |
-| ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/a.png "Botón A") | Back | Mic 3 Volume (Song) |
-| ![Botón Y](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/y.png "Botón Y") | Mic 1 Volume (Song) | |
-| ![Botón X](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/x.png "Botón X") | View More Info (Library) | Mic 2 Volume (Song) |
-| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón + (Mas).png "Botón + (Mas)") | Options | Pause (Song) |
-| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Filters (Library) | Overdrive (Song) |
-| ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | Guide Part Selection (Practice) | |
-| ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | Voice Chat | Vocal Part Selection (Practice) |
-| ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | Vocal Track Volume (Song) | |
-| ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | Pitch Correction (Song) | |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | Navegación | |
+| ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/dpad.png "D-Pad (Cruceta)") | Navegación | |
+| ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | Seleccionar | |
+| ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/a.png "Botón A") | Atrás | Volumen micro 3 (Canción) |
+| ![Botón Y](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/y.png "Botón Y") | Volumen micro 1 (Canción) | |
+| ![Botón X](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/x.png "Botón X") | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
+| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón + (Mas).png "Botón + (Mas)") | Opciones | Pausa (Canción) |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Filtros (Biblioteca) | Sobrecarga (Canción) |
+| ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | Selección de Parte de Guía (Práctica) | |
+| ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | Chat de voz | Selección de Parte Vocal (Práctica) |
+| ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | Volumen de Pista Vocal (Canción) | |
+| ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | Corrección de Tono (Canción) | |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padswipromapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)
+[[Regresar a mandos]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

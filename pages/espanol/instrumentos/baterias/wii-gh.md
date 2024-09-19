@@ -41,7 +41,7 @@ toc: false
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |
 | Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/bp.png "Parche Azul") |
 | Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Platillo Amarillo") |
-| R1 | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
+| Boton R1 | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | Cross (Cruz) | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/a.png "Botón A") |
 | Circle (Circulo) | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/b.png "Botón B") |

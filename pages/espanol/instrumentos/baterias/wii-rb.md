@@ -43,7 +43,7 @@ toc: false
 | R3 | Modificador de Platillos |
 | L3 | Modificador de Parches |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
+| Boton R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
 | Cross (Cruz) | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/a.png "Botón A") |
 | Circle (Circulo) | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/b.png "Botón B") |
 | Square (Cuadro) | ![Botón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/1.png "Botón 1") |

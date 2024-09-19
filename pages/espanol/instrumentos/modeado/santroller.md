@@ -67,7 +67,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 | D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
 | D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
 | Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
-| R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
+| Boton R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
 | Start | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png "Start") |
 | Select | ![Back](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png "Back") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |

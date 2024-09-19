@@ -39,7 +39,7 @@ Usa el click derecho para borrar botones.
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| L2 | ![Gatillo izquierdo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Gatillo izquierdo") | Botón de solos |
+| L2 | ![Gatillo Izquierdo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | Botón de solos |
 
 ¡**Cambia esto** o los trastes amarillos y azules estarán invertidos!
 
