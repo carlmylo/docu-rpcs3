@@ -1,10 +1,10 @@
 ---
-title: Rock Band 3 Pro Guitars
+title: Guitarras Pro de Rock Band 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_protar_midi_es
 folder: instrumentos
 tags: [midi, espanol]
-summary: "How to connect and configure Rock Band 3 Pro Guitars on RPCS3."
+summary: "Como configurar guitarras Pro de Rock Band 3 con RPCS3."
 toc: false
 ---
 
@@ -17,19 +17,19 @@ toc: false
 * No existe un perfil para este instrumento.
 * **NO mapeés este instrumento por el menú de "Pads".**
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
-* This is meant for players that have their PRO Guitars connected via a Interfaz de MIDI a USB.
+* Esto es para los jugadores que tienen sus guitarras PRO conectadas con una una interfaz de MIDI a USB.
 
-## SYSEX Notice
+## Advertencia de SYSEX:
 
-**You need a Interfaz de MIDI a USB that has SYSEX support!** Consult your Interfaz de MIDI a USB's manual or manufacturer for more details.
+**¡Necesitas una interfaz de MIDI a USB que tome datos SYSEX!** Consulta el manual o el fabricante de tu interfaz para mas detalles.
 
-| Verified <br> Interfaz de MIDI a USBs |
+| Interfaces de MIDI a USB <br> verificadas |
 |:------------------:|
 | **M-Audio** <br> Midisport Uno |
 | **Roland** <br> UM-ONE mk2 |
-| **Focusrite** <br> Scarlett (4i4 and higher) [3rd Gen] |
+| **Focusrite** <br> Scarlett (4i4 o mejor) [Gen 3a] |
 
-## Instrucciones::
+## Instrucciones:
 
 To connect your Rock Band 3 Pro Guitar, you will need to connect to the MIDI port on the bottom.
 
