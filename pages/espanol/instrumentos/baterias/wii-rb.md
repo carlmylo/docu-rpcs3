@@ -15,9 +15,9 @@ toc: false
 ## NOTAS:
 
 * Funciona **con o sin** platillos PRO.
-	* Recuerda configurar cuales platillos tienes conectado dentro de Rock Band 3.
+	* Recuerda configurar cuales platillos tienes conectados dentro de Rock Band 3.
 		* `Menu > Opciones > Opciones de Batería`
-* La detección de velocidad no funciona.
+* La detección de velocidad (intensidad) no funciona.
 
 ## Información de Control:s
 

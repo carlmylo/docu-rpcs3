@@ -15,9 +15,9 @@ toc: false
 ## NOTAS:
 * Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
 * Funciona **con o sin** platillos PRO.
-    * Recuerda configurar cuales platillos tienes conectado dentro de Rock Band 3.
+    * Recuerda configurar cuales platillos tienes conectados dentro de Rock Band 3.
         * `Menu > Opciones > Opciones de Batería`
-* La detección de velocidad no funciona.
+* La detección de velocidad (intensidad) no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 
@@ -84,9 +84,9 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </tbody>
 </table><h3 id="mapeo-avanzado">Mapeo Avanzado</h3>
 <ul>
-<li>Baterías de Rock Band mandan mas de un botón a la vez. Por ejemplo, el Parche Rojo manda "<code>B</code>" y "<code>Palanca izquierda presionada</code>" (que para el emulador es "<code>Circle (Circulo)</code>" y “<code>L3</code>”.) Toma en cuenta que esto se requiere para que funcionen los platillos correctamente.
+<li>Baterías de Rock Band mandan mas de un botón a la vez. Por ejemplo, el Parche Rojo manda "<code>B</code>" y "<code>Palanca izquierda presionada</code>" (que para el emulador es "<code>Circle</code>" y “<code>L3</code>”.) Toma en cuenta que esto se requiere para que funcionen los platillos correctamente.
 <ul>
-<li>Recomendamos que uses un mando de Xbox para mapear todo para después cambiar el XInput Device a tu batería de Rock Band para Xbox 360.</li>
+<li>Recomendamos que uses un mando de Xbox para mapear todo y después que cambies el XInput Device a tu batería de Rock Band para Xbox 360.</li>
 </ul>
 </li>
 <li>Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.</li>

@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* La detección de velocidad no funciona.
+* La detección de velocidad (intensidad) no funciona.
 * Es posible jugar Batería PRO, pero no se recomienda.
 * Los colores de notas no son iguales a los parches de este control.
 * Esto fue probado con el adaptador de Raphnet "Classic controller to USB adapter" (Adaptador de control clásico a USB).

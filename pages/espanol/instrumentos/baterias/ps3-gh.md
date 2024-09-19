@@ -15,7 +15,7 @@ toc: false
 
 ## NOTAS:
 
-* La detección de velocidad no funciona.
+* La detección de velocidad (intensidad) no funciona.
 * Los colores de notas no son iguales a los parches de este control.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 

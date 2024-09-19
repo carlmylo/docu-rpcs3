@@ -15,7 +15,7 @@ toc: false
 ## NOTAS:
 
 * This controller requires advanced configuration.
-* La detección de velocidad no funciona.
+* La detección de velocidad (intensidad) no funciona.
 
 #### Configuración Adicional:
 1. Put the Roll Limitless Adapter in firmware updating mode. To do this, press and hold the rectangular button on the top of the adapter, near the micro USB port.
