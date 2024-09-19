@@ -1,10 +1,10 @@
 ---
-title: Xbox 360 Rock Band 3 Fender Mustang Pro Guitar
+title: Guitarra Pro Fender Mustang de Rock Band 3 para Xbox 360
 sidebar: controllers_es_sidebar
 permalink: ctrls_protar_360_es
 folder: instrumentos
 tags: [xbox-360, midi, protarras, espanol]
-summary: "How to connect and configure Xbox 360 Mustang Pro Guitars (MIDI) on RPCS3."
+summary: "Como configurar guitarras Fender Mustang Pro para Xbox 360 con RPCS3."
 toc: false
 ---
 
@@ -31,11 +31,11 @@ toc: false
 
 ## Instrucciones:
 
-Since you can't use the dongle, you will need to connect Rock Band 3 Pro Guitar via the MIDI port on the bottom.
+Como no puedes conectar la guitarra con el receptor, necesitas conectarla con el puerto de MIDI por abajo.
 
->![A picture of a Rock Band 3 Mustang Pro Guitar, showing a 5-DIN MIDI output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/midimustang.png "Rock Band Mustang Pro Guitar")  
+>![Una imagen de una guitarra Mustang de Rock Band 3, con un puerto de MIDI estilo DIN con cinco pines resaltado en cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/midi/midimustang.png "Rock Band Mustang Pro Guitar")  
 
-**Para conectarlo a tu computadora, necesitarás un convertidor/interfaz de MIDI a USB**.
+**Para conectarla a tu computadora, necesitarás un convertidor/interfaz de MIDI a USB**.
 
 Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED integrada para mostrar activad. **Para verificar que esta todo enchufado correctamente, debes de ver "MIDI In" parpadeando cuando le toques una nota**.
 
@@ -44,9 +44,9 @@ Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED 
 **Si tienes una interfaz de audio, puede ser que ya tengas un puerto de MIDI** para tu computadora, ya que unas interfaces tienen puertos de MIDIs integrados. Por ejemplo, esta Scarlett tiene conexiones MIDI por detrás.    
 >![Una imagen del posterior de una Focusrite Scarlett, mostrando un puerto de USB y un salida/entrada MIDI por puerto DIN de cinco pines.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Salida/Entrada MIDI de Focusrite Scarlett") 
 
-Once again, you need [[a Interfaz de MIDI a USB that has SYSEX support]](#sysex-notice)
+Como fue dicho antes, necesitas [[una interfaz de MIDI a USB que toma datos de SYSEX]](#advertencia-de-sysex)
 
-Find whichever way is the most convenient for you then connect your Rock Band Pro Guitar to your computer.
+Decide cual manera es mas conveniente para ti y conecta tu guitarra pro a tu computadora.
 
 Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
 
@@ -56,8 +56,8 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") :
 
-	* 🎸 **Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your Interfaz de MIDI a USB in the drop-down menu next to it.**
+	* 🎸 **Cambia tu "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Guitar (17 Frets)"** (guitarra (17 trastes)) **si tienes una guitarra Pro Mustang, o “Guitar (22 Frets)”** (guitarra (22 trastes)) **si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él.**
 
-[[Back to Pro Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_protars)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
-Implementation by [[Dark]](https://dark.ski/)
+Implementado por [[Dark]](https://dark.ski/)

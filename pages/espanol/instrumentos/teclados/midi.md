@@ -190,4 +190,4 @@ Tienes que abrirlos cada vez que quieras jugar.</p>
 
 [[Regresar a teclados]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys)
 
-Implementation by [[Dark]](https://dark.ski/)
+Implementado por [[Dark]](https://dark.ski/)
