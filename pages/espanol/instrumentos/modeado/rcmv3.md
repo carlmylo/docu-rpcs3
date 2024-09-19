@@ -57,7 +57,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 ![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/rcmpt/savev3.png "RetroCultMods Programming Tool")
 
-## Mapeo
+## Mapeo:
 
 * **To map everything correctly, you will need to first map Whammy Down, which is Right Stick: Left in RPCS3. It should show up as X-. After mapping it, click `"Filter Noise"` and map the rest.**
 

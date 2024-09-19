@@ -15,8 +15,8 @@ toc: false
 ## NOTAS:
 
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
-* This was tested with a Raphnet "Classic controller to USB adapter".
-	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
+* Esto fue probado con el adaptador de Raphnet "Classic controller to USB adapter" (Adaptador de control clásico a USB).
+	* Si tu control no funciona, trata de instalar la [[herramienta de Raphnet]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:
@@ -29,7 +29,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Guitar Hero |
 
-## Mapeo
+## Mapeo:
 
 **UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
 Use Right Click to unmap Botón A.
@@ -40,7 +40,7 @@ Use Right Click to unmap Botón A.
 
 **Map** the following:
 
-* Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping Botón A and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+* Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asignar un botón y todo sale con “U+”, haz click en “Filter Noise” (filtrar ruido)** en el lado izquierdo abajo de la ventana de configuración **y luego intenta mapear otra vez**.
 
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|

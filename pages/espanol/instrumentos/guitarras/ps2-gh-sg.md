@@ -28,7 +28,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Guitar Hero |
 
-## Mapeo
+## Mapeo:
 
 **UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
 Use Right Click to unmap Botón A.

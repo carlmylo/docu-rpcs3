@@ -38,7 +38,7 @@ toc: false
 
 ### Drums 
 
-| **RPCS3**    | **Rock Band Drums** |
+| **RPCS3**    | **Batería de Rock Band** |
 |:--------:|:-------------------:|
 | L2 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | L1 | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |

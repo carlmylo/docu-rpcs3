@@ -51,7 +51,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 
 Since the keyboard controller buttons don't function like they do when connected with a dongle, you will have to shift octaves to access the buttons on the keys.
 
-You can shift octaves with the Square (Cuadro) and Circle (Circulo) buttons.
+You can shift octaves with the Square (Cuadro) and Botón Circle (Circulo)s.
 
 ![A GIF of a Rock Band 3 keyboard. When X (which is Square (Cuadro) on PS3) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B (which is Circle (Circulo) on PS3) is pressed, it shifts up to C3 to C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/rbkeysoctshift.gif "Octave Shifting") 
 

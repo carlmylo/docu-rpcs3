@@ -1,10 +1,10 @@
 ---
-title: "PlayStation 4 Rock Band 4 Drums"
+title: "Batería de Rock Band 4 para PlayStation 4"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4drums_ps4_es
 folder: instrumentos
 tags: [ps4, baterias, espanol]
-summary: "How to setup PlayStation 4 Rock Band drums on RPCS3."
+summary: "Como configurar tu batería de Rock Band 4 para PlayStation 4 con RPCS3."
 toc: false
 ---
 
@@ -14,8 +14,8 @@ toc: false
 
 ## NOTAS:
 
-* **PRO Cymbals do not work at all.**
-* Latency may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
+* **Platillos PRO no funcionan para nada.**
+* La latencia puede ser un problema dependiendo de tu receptor de Bluetooth. Puede ser difícil encontrar una calibración buena.
 * La detección de velocidad no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
@@ -29,22 +29,22 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Rock Band Pro |
 
-## Mapeo
+## Mapeo:
 
-| **RPCS3**    | **Rock Band Drums** |
+| **RPCS3**    | **Batería de Rock Band** |
 |:--------:|:-------------------:|
 | Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
 | Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | Triangle (Triangulo) | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| Cross (Cruz) | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") |
-| Circle (Circulo) | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle (Circulo) Button") |
-| Square (Cuadro) | ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Square (Cuadro) Button") |
-| Triangle (Triangulo) | ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Triangle (Triangulo) Button") |
+| Cross (Cruz) | ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Botón Cross (Cruz)") |
+| Circle (Circulo) | ![Botón Circle (Circulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Botón Circle (Circulo)") |
+| Square (Cuadro) | ![Botón Square (Cuadro)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Botón Square (Cuadro)") |
+| Triangle (Triangulo) | ![Botón Triangle (Triangulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Botón Triangle (Triangulo)") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") |
-| Start | ![Options Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/opt.png "Options Button") |
-| Select | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Share Button") |
+| Start | ![Botón de Options](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/opt.png "Botón de Options") |
+| Select | ![Botón de Share](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Botón de Share") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png "Home") |
 
 ## Perfil

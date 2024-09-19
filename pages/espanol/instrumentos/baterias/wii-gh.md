@@ -1,10 +1,10 @@
 ---
-title: Nintendo Wii Guitar Hero Drums (Raphnet)
+title: Batería de Guitar Hero para Nintendo Wii (Raphnet)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_wii_es
 folder: instrumentos
 tags: [wii, baterias, espanol]
-summary: "How to setup Nintendo Wii Guitar Hero drums on RPCS3."
+summary: "Como configurar tu batería de Guitar Hero para Nintendo Wii con RPCS3."
 toc: false
 ---
 
@@ -17,8 +17,8 @@ toc: false
 * La detección de velocidad no funciona.
 * Es posible jugar Batería PRO, pero no se recomienda.
 * Los colores de notas no son iguales a los parches de este control.
-* This was tested with a Raphnet "Classic controller to USB adapter".
-	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
+* Esto fue probado con el adaptador de Raphnet "Classic controller to USB adapter" (Adaptador de control clásico a USB).
+	* Si tu control no funciona, trata de instalar la [[herramienta de Raphnet]](https://www.raphnet-tech.com/products/adapter_manager/index.php).
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:
@@ -31,11 +31,11 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Guitar Hero |
 
-## Mapeo
+## Mapeo:
 
-* Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping Botón A and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+* Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asignar un botón y todo sale con “U+”, haz click en “Filter Noise” (filtrar ruido)** en el lado izquierdo abajo de la ventana de configuración **y luego intenta mapear otra vez**.
 
-| **RPCS3** | **Guitar Hero Drums** |
+| **RPCS3** | **Batería de Guitar Hero** |
 |:--------:|:-----------------:|
 | Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/gp.png "Parche Verde") |
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |
@@ -45,12 +45,12 @@ toc: false
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | Cross (Cruz) | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/a.png "Botón A") |
 | Circle (Circulo) | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/b.png "Botón B") |
-| Square (Cuadro) | ![1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/1.png "1 Button") |
-| Triangle (Triangulo) | ![2 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/2.png "2 Button") |
+| Square (Cuadro) | ![Botón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/1.png "Botón 1") |
+| Triangle (Triangulo) | ![Botón 2](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/2.png "Botón 2") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/dpad.png "D-Pad (Cruceta)") |
-| Palanca Izquierda | ![Analog Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/ls.png "Analog Stick") |
-| Start | ![Plus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus Button") |
-| Select | ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus Button") |
+| Palanca Izquierda | ![Palanca de control](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/ls.png "Palanca de control") |
+| Start | ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
+| Select | ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/home.png "Home") |
 
 ## Perfil

@@ -1,10 +1,10 @@
 ---
-title: Nintendo Wii Rock Band MIDI Pro Adapter Drums
+title: Batería por adaptador MIDI Pro para Nintendo Wii
 sidebar: controllers_es_sidebar
 permalink: ctrls_mpadrums_wii_es
 folder: instrumentos
 tags: [wii, baterias, espanol]
-summary: "How to setup Nintendo Wii MPA drums on RPCS3."
+summary: "Como configurar tu batería conectada a un MPA para Nintendo Wii con RPCS3."
 toc: false
 ---
 
@@ -14,7 +14,9 @@ toc: false
 
 ## NOTAS:
 
-* Recuerda configurar cuales platillos tienes en `Menu > Opciones > Opciones de Batería`.
+* Funciona **con o sin** platillos PRO.
+	* Recuerda configurar cuales platillos tienes conectado dentro de Rock Band 3.
+		* `Menu > Opciones > Opciones de Batería`
 * La detección de velocidad no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
@@ -28,13 +30,12 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Rock Band Pro |
 
-## Mapeo
+## Mapeo:
 
-* Rock Band Drums send multiple button presses out at once. Keep in mind these are needed to the emulator to tell your cymbals apart.
-	* It's strongly suggested to bind an Xbox controller like the Mapping screenshot below then swapping the Device to your Xbox 360 Rock Band Drums.
+* Baterías de Rock Band mandan mas de un botón a la vez. Toma en cuenta que esto se requiere para que funcionen los platillos correctamente.
 * Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.
 
-| **RPCS3**    | **Rock Band Drums** |
+| **RPCS3**    | **Batería de Rock Band** |
 |:--------:|:-------------------:|
 | Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
@@ -46,12 +47,12 @@ toc: false
 | R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
 | Cross (Cruz) | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/a.png "Botón A") |
 | Circle (Circulo) | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/b.png "Botón B") |
-| Square (Cuadro) | ![1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/1.png "1 Button") |
-| Triangle (Triangulo) | ![2 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/2.png "2 Button") |
+| Square (Cuadro) | ![Botón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/1.png "Botón 1") |
+| Triangle (Triangulo) | ![Botón 2](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/2.png "Botón 2") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/dpad.png "D-Pad (Cruceta)") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png "Home") |
-| Start | ![Plus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus Button") |
-| Select | ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus Button") |
+| Start | ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
+| Select | ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 
 ## Perfil
 

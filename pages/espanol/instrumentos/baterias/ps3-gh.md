@@ -1,10 +1,10 @@
 ---
-title: PlayStation 3 Guitar Hero Drums
+title: Batería de Guitar Hero para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_ps3_es
 folder: instrumentos
 tags: [ps3, baterias, espanol]
-summary: "How to setup PlayStation 3 Guitar Hero drums on RPCS3."
+summary: "Como configurar tu batería de Guitar Hero para PlayStation 3 con RPCS3."
 toc: false
 ---
 
@@ -29,11 +29,11 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Guitar Hero |
 
-## Mapeo
+## Mapeo:
 
-* Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping Botón A and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+* Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asignar un botón y todo sale con “U+”, haz click en “Filter Noise” (filtrar ruido)** en el lado izquierdo abajo de la ventana de configuración **y luego intenta mapear otra vez**.
 
-| **RPCS3** | **Guitar Hero Drums** |
+| **RPCS3** | **Batería de Guitar Hero** |
 |:--------:|:-----------------:|
 | Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/gp.png "Parche Verde") |
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |
@@ -41,15 +41,15 @@ toc: false
 | Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Platillo Amarillo") |
 | R1 | ![Platillo Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
-| Cross (Cruz) | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") |
-| Circle (Circulo) | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo) Button") |
-| Square (Cuadro) | ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro) Button") |
-| Triangle (Triangulo) | ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo) Button") |
+| Cross (Cruz) | ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") |
+| Circle (Circulo) | ![Botón Circle (Circulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Botón Circle (Circulo)") |
+| Square (Cuadro) | ![Botón Square (Cuadro)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Botón Square (Cuadro)") |
+| Triangle (Triangulo) | ![Botón Triangle (Triangulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Botón Triangle (Triangulo)") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") |
 | Palanca Izquierda | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") |
 | Start | ![Botón Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Botón Start") |
-| Select | ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") |
-| Botón PS | ![Home Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home Button") |
+| Select | ![Botón Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Botón Select") |
+| Botón PS | ![Botón Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Botón Home") |
 
 ## Perfil
 

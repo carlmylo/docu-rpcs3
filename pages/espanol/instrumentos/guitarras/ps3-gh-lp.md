@@ -28,7 +28,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Guitar Hero |
 
-## Mapeo
+## Mapeo:
 
 **UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
 Use Right Click to unmap Botón A.
@@ -41,7 +41,7 @@ Use Right Click to unmap Botón A.
 
 * Tilt can be set up but it is very complicated. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not tilt.
 	* Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.
-* Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping Botón A and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+* Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asignar un botón y todo sale con “U+”, haz click en “Filter Noise” (filtrar ruido)** en el lado izquierdo abajo de la ventana de configuración **y luego intenta mapear otra vez**.
 
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|

@@ -30,7 +30,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Guitar Hero |
 
-## Mapeo
+## Mapeo:
 
 By default, XInput has most things bound correctly. You only need to adjust the following:
 

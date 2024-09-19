@@ -57,7 +57,7 @@ A community made preset exists (courtesy of jnack) to help speed things up. Load
 
 After loading the preset, **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-## Mapeo
+## Mapeo:
 
 Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 

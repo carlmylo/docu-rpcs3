@@ -51,7 +51,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🎹 Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it.
 
-### Mapeo
+### Mapeo:
 
 MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
 

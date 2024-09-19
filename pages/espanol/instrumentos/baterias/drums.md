@@ -1,10 +1,10 @@
-y---
-title: Unknown Drum Controllers
+---
+title: Batería desconocida
 sidebar: controllers_es_sidebar
 permalink: ctrls_drums_gen_es
 folder: instrumentos
 tags: [baterias, espanol]
-summary: "General mapping for unknown drums on RPCS3."
+summary: "Mapeo general para batería desconocida con RPCS3."
 toc: false
 ---
 
@@ -15,21 +15,21 @@ toc: false
 
 ## NOTAS:
 
-* **This is for unknown drum controllers**. You may have to use try different handlers until your drums are detected.
+* **Esta pagina es para baterías desconocidas**. Trata diferente Handlers hasta que tu batería se detecte.
 
 ## Información de Control:
 
 | Handlers | Devices |
 |:--------:|:-------:|
-| Unknown | Unknown |
+| Desconocido | Desconocido |
 
 | Device Class | Device Subtype |
 |:------------:|:--------------:|
-| Drum | Unknown |
+| Drum | Desconocido |
 
-## Mapeo
+## Mapeo:
 
-| **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
+| **RPCS3**    | **Batería de Rock Band** | **Batería de Guitar Hero** |
 |:--------:|:-------------------:|:-----------------:|
 | Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/gp.png "Parche Verde") |
 | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |

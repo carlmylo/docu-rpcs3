@@ -36,22 +36,22 @@ toc: false
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
 | ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "L2 Trigger") | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "L1 Button") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "R1 Button") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
+| ![LBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "LBotón 1") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
+| ![RBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "RBotón 1") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
+| ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
 | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") | Overdrive |
+| ![Botón Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Botón Select") | Overdrive |
 
 ## Drums
 
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
 | ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "L2 Trigger") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "L1 Button") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
-| ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "R1 Button") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| ![LBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "LBotón 1") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
+| ![RBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "RBotón 1") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
-| ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
+| ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 
 
 ## Vocals
@@ -60,15 +60,15 @@ toc: false
 |:---------------------:|:-------------------------------:|:-------------------:|
 | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | Navigation | |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") | Navigation | |
-| ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") | Select | |
-| ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo) Button") | Back | Mic 3 Volume (Song) |
-| ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro) Button") | Mic 1 Volume (Song) | |
-| ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo) Button") | View More Info (Library) | Mic 2 Volume (Song) |
+| ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") | Select | |
+| ![Botón Circle (Circulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Botón Circle (Circulo)") | Back | Mic 3 Volume (Song) |
+| ![Botón Square (Cuadro)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Botón Square (Cuadro)") | Mic 1 Volume (Song) | |
+| ![Botón Triangle (Triangulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Botón Triangle (Triangulo)") | View More Info (Library) | Mic 2 Volume (Song) |
 | ![Botón Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Botón Start") | Options | Pause (Song) |
-| ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") | Filters (Library) | Overdrive (Song) |
-| ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "L1 Button") | Guide Part Selection (Practice) | |
+| ![Botón Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Botón Select") | Filters (Library) | Overdrive (Song) |
+| ![LBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "LBotón 1") | Guide Part Selection (Practice) | |
 | ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "L2 Trigger") | Voice Chat | Vocal Part Selection (Practice) |
-| ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "R1 Button") | Vocal Track Volume (Song) | |
+| ![RBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "RBotón 1") | Vocal Track Volume (Song) | |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | Pitch Correction (Song) | |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padps3mapping.png" alt="Mapeo" title="Mapeo"></div>

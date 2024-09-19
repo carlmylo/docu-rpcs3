@@ -27,7 +27,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Rock Band |
 
-### Mapeo
+### Mapeo:
 
 * For the best experience:
 	1. Go to the Start menu and look for "Set up USB game controllers," then open it.
@@ -40,7 +40,7 @@ toc: false
 	8. On the next screen, move the guitar to full tilt position, then click "Next."
 	9. In RPCS3's Gamepad Configuration, set deadzones on the Left and Right Stick to None.
 
-## Mapeo
+## Mapeo:
 
 **UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
 Use Right Click to unmap Botón A.

@@ -41,7 +41,7 @@ toc: false
 | ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
 | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Minus Button") | Overdrive |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Botón - (Menos)") | Overdrive |
 
 ## Drums
 
@@ -63,8 +63,8 @@ toc: false
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/a.png "Botón A") | Back | Mic 3 Volume (Song) |
 | ![Botón Y](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/y.png "Botón Y") | Mic 1 Volume (Song) | |
 | ![Botón X](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/x.png "Botón X") | View More Info (Library) | Mic 2 Volume (Song) |
-| ![Plus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/plus.png "Plus Button") | Options | Pause (Song) |
-| ![Minus Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Minus Button") | Filters (Library) | Overdrive (Song) |
+| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/plus.png "Botón + (Mas)") | Options | Pause (Song) |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Botón - (Menos)") | Filters (Library) | Overdrive (Song) |
 | ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | Guide Part Selection (Practice) | |
 | ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | Voice Chat | Vocal Part Selection (Practice) |
 | ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | Vocal Track Volume (Song) | |
