@@ -1,10 +1,10 @@
 ---
-title: Nintendo Switch Pro Controller
+title: Mando Pro de Nintendo Switch
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_switch_es
 folder: instrumentos
 tags: [switch, mandos, espanol]
-summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3."
+summary: "Como configurar mandos Pro de Switch en RPCS3."
 toc: false
 ---
 
@@ -14,12 +14,14 @@ toc: false
 
 ## NOTAS:
 
-* Nintendo Switch Pro controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
-* Nintendo Switch Pro controllers have a Japanese layout. This may cause problems with muscle memory.
-	* To make the your experience more comfortable, the mapping information below reverses A/B and X/Y. 
-* Necesitas Rock Band 3 Deluxe si quieres tocar guitarra/bajo/teclado/batería con mando (Padtar)
+* Mandos Pro de Nintendo Switch pueden ser conectados por USB o por Bluetooth/receptor inalámbrico. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
+* Lo Mandos Pro de Switch tienen esquema Japones. Esto puede causar problemas con tu memoria muscular.
+	* Para que sea todo mas cómodo, la información abajo invierte A/B y X/Y. 
 * No existe un perfil porque la configuración es por defecto.
 * Este control auto-rasguea (tiene auto-strum).
+* Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).
+	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
+	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
 ## Información de Control:
 
@@ -41,7 +43,7 @@ toc: false
 | ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
 | ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
 | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
-| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Sobrecarga |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Botón - (Menos)") | Sobrecarga |
 
 ## Batería:
 
@@ -63,8 +65,8 @@ toc: false
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/a.png "Botón A") | Atrás | Volumen micro 3 (Canción) |
 | ![Botón Y](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/y.png "Botón Y") | Volumen micro 1 (Canción) | |
 | ![Botón X](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/x.png "Botón X") | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
-| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón + (Mas).png "Botón + (Mas)") | Opciones | Pausa (Canción) |
-| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Filtros (Biblioteca) | Sobrecarga (Canción) |
+| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/plus.png "Botón + (Mas)") | Opciones | Pausa (Canción) |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Botón - (Menos)") | Filtros (Biblioteca) | Sobrecarga (Canción) |
 | ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | Selección de Parte de Guía (Práctica) | |
 | ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | Chat de voz | Selección de Parte Vocal (Práctica) |
 | ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | Volumen de Pista Vocal (Canción) | |

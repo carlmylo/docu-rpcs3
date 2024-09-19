@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_pad_pckeys_es
 folder: instrumentos
 tags: [pc, mandos, espanol]
-summary: "How to setup PC Keyboards on RPCS3."
+summary: "Como configurar teclados de PC en RPCS3."
 toc: false
 ---
 
@@ -14,16 +14,18 @@ toc: false
 
 ## NOTAS:
 
-* To bind multiple keys to one button, hold Shift then click on the button you want to assign multiple keys to.
-* **You will need to set the "Stick Multiplier" and "Stick Interpolation" for Left and Right to `0.90` for whammy to function correctly.**
-* Necesitas Rock Band 3 Deluxe si quieres tocar guitarra/bajo/teclado/batería con mando (Padtar)
+* Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.
+* **Para que whammy funcione correctamente, tendrás que poner "Stick Multiplier" y "Stick Interpolation" para "Left" y "Right" en `0.90`.**
+* Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).
+	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
+	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
-## Bindings:
+## Mapeo:
 
-### Default Guitars/Bass/Keys
+### Guitarra/Bajo/Teclado Predeterminado
 
-* This profile does not require strumming.
-* You should **REALLY** not use this setup for anything but controlling the game.
+* No se requiere rasguear con esta configuración.
+* Esta configuración **no es recomendada** para tocar canciones, solo para controlar menús.
 
 #### Información de Control:
 
@@ -35,18 +37,18 @@ toc: false
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-#### Bindings
+#### Mapeo:
 
-| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+| **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** | **Batería** |
 |:------------:|:---------:|:---------------------:|:----------|
 | `Q` | L1 | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
 | `R` | L2 | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | `E` | Boton R1 | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | `T` | R2 | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | `X` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación | Navegación |
-| `W`, `A`, `S`, and `D` | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") | N/A |
-| `Space` | Select | Sobrecarga | Overdrive |
+| `Arriba`, `Abajo`, `Izquierda` y `Derecha` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación | Navegación |
+| `W`, `A`, `S` y `D` | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") | N/A |
+| `Espacio` | Select | Sobrecarga | Sobrecarga |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbdefmapping.png" alt="Mapeo" title="Mapeo"></div>
 
@@ -54,7 +56,7 @@ toc: false
 
 ### Fortnite Festival
 
-* This profile does not require strumming.
+* No se requiere rasguear con esta configuración.
 
 #### Información de Control:
 
@@ -66,31 +68,31 @@ toc: false
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-#### Bindings
+#### Mapeo:
 
-| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+| **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** | **Batería** |
 |:------------:|:---------:|:---------------------:|:----------|
 | `D` | L1 | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
 | `F` | L2 | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | `J` | Boton R1 | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | `K` | R2 | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | `L` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación | Navegación |
-| `S`, and `D` | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") | N/A |
-| `Space` | Select | Sobrecarga | Overdrive |
+| `Arriba`, `Abajo`, `Izquierda` y `Derecha` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación | Navegación |
+| `S` y `D` | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") | N/A |
+| `Espacio` | Select | Sobrecarga | Sobrecarga |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-> ##### WARNING
+> ##### PELIGRO
 >
-> _The following configurations are for advanced users only. They involve non-standard setups._
+> _Las siguientes configuraciones son para jugadores avanzados._
 {: .block-warning  }
 
-### Fortnite Pro Guitars/Bass/Keys
+### Fortnite Pro Guitarra/Bajo/Teclado
 
-* This profile requires strumming.
+* Esta configuración requiere rasguear. ¡Presiona el botón de rasgueo mientras mantienes el del carril!
 
 #### Información de Control:
 
@@ -102,24 +104,24 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Guitar Hero |
 
-#### Bindings
+#### Mapeo:
 
-| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** |
+| **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** |
 |:------------------:|:------------------:|:---------------------:|
 | `1` | Cross (Cruz) | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
 | `2` | Circle (Circulo) | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
 | `3` | Square (Cuadro) | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
 | `4` | Triangle (Triangulo) | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
 | `5` | L1 | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
-| `L`, `Up Arrow` | D-Pad (Cruceta) <br> Up | ![Rasgueo para arriba](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
-| `P`, `Left Arrow` | D-Pad (Cruceta) <br> Down | ![Rasgueo para abajo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
-| `W`, `A`, `S`, and `D`  | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación |
-| `;`, `Down Arrow` | Right Stick: <br> Right | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
-| `'`, `Right Arrow` | Select | Sobrecarga |
+| `L`, `Arriba` | D-Pad (Cruceta) <br> Up | ![Rasgueo para arriba](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
+| `P`, `Izquierda` | D-Pad (Cruceta) <br> Down | ![Rasgueo para abajo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
+| `W`, `A`, `S` y `D`  | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación |
+| `;`, `Abajo` | Palanca Derecha: <br> Derecha | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
+| `'`, `Derecha` | Select | Sobrecarga |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapeo" title="Mapeo"></div>
 
-### Pro Drums
+### Batería Pro
 
 #### Información de Control:
 
@@ -131,9 +133,9 @@ toc: false
 |:------------------:|:---------------------:|
 | Drum | Rock Band Pro |
 
-#### Bindings
+#### Mapeo:
 
-| **Keyboard** | **RPCS3** | **Drums** |
+| **Teclado** | **RPCS3** | **Batería** |
 |:--------:|:-------------------:|:-----------------:|
 | `A` | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
 | `S` | Triangle (Triangulo) | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
@@ -142,16 +144,16 @@ toc: false
 | `W` | Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yc.png "Platillo Amarillo") |
 | `0` | Square (Cuadro) | ![Platillo Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bc.png "Platillo Azul") |
 | `-` | Cross (Cruz) | ![Platillo Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gc.png "Platillo Verde") |
-| `,` and `Space` | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| `,` y `Espacio` | L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | `C` | Boton R1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| `A`, `O`, `P`, and `S` | L3 | Modificador de Parches |
-| `W`, `0`, and `-` | R3 | Modificador de Platillos |
+| `A`, `O`, `P` y `S` | L3 | Modificador de Parches |
+| `W`, `0` y `-` | R3 | Modificador de Platillos |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 ### Linos GH PC
 
-* This profile does not require strumming.
+* No se requiere rasguear con esta configuración.
 
 #### Información de Control:
 
@@ -163,28 +165,28 @@ toc: false
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-#### Bindings
+#### Mapeo:
 
-| **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** |
+| **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** | **Batería** |
 |:------------:|:---------:|:---------------------:|:----------|
-| `2`, `8`, `A`, and `W` | L1 | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
-| `1`, `7`, `Q`, and `SPACE` | L2 | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| `3`, `9`, `E`, and `S` | Boton R1 | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
-| `0`, `4`, `D`, and `R` | R2 | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
-| `-`, `5`, `F`, and `T` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación | Navegación |
-| `Shift Right` | Select | Sobrecarga | Overdrive |
+| `2`, `8`, `A` y `W` | L1 | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
+| `1`, `7`, `Q` y `Espacio` | L2 | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| `3`, `9`, `E` y `S` | Boton R1 | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| `0`, `4`, `D` y `R` | R2 | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
+| `-`, `5`, `F` y `T` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
+| `Arriba`, `Abajo`, `Izquierda` y `Derecha` | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación | Navegación |
+| `Shift (Mayús) Izquierdo` | Select | Sobrecarga | Sobrecarga |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-## Perfils
+## Perfiles
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
+[[Bajar Perfiles]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
 
 [[Regresar a mandos]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es)
 
 Investigación por [[Linos]](https://www.youtube.com/@LinosMelendi)
 
-Alternative mapping schemes by [[Ashun]](https://www.twitch.tv/ashun_), and [[Doom05]](https://www.youtube.com/channel/UCZBzTTsPrK_gXF0ZvHkR3jA)
+Configuraciones alternativas por [[Ashun]](https://www.twitch.tv/ashun_) y [[Doom05]](https://www.youtube.com/channel/UCZBzTTsPrK_gXF0ZvHkR3jA)

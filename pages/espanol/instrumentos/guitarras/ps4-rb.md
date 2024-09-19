@@ -15,8 +15,8 @@ toc: false
 ## NOTAS:
 
 * The bindings have not been verified. If you want to help, please send us a message!
-* **Ladeo, Whammy, and pickup switch WILL NOT work at all!** Botón de solos may or may not work.
-	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH Ladeo for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-Ladeo-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, Ladeo, and convert it to a multiplatform guitar.
+* **Ladeo, Whammy y pickup switch WILL NOT work at all!** Botón de solos may or may not work.
+	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH Ladeo for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-Ladeo-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, Ladeo y convert it to a multiplatform guitar.
 * Latency on Jaguars and Stratocasters may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")

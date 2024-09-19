@@ -30,14 +30,14 @@ toc: false
 ### Mapeo:
 
 * Para la mejor experiencia::
-	1. Ve al menú principal de Windows y busca “Propiedades del controlador de juegos”, y ábrelo.
+	1. Ve al menú principal de Windows y busca “Propiedades del controlador de juegos” y ábrelo.
 	2. Selecciona a “Guitar Hero X-plorer” y entra a “Propiedades”.
 	3. Entra a la pestaña de “Configuración”.
 	4. Sostén la guitarra en un angulo de 45 grados.
 	5. Mientras la estas sosteniendo así, entra a “Calibración”
 	6. Haz click “Siguiente” en la pantalla de D-Pad sin presionar un botón.
-	7. En la pantalla siguiente, presiona la palanca whammy hacia adentro completamente y déjala ir, y haz click en “Siguiente.”
-	8. En la pantalla siguiente, apunta la guitarra hacia arriba, como si estuvieras activando sobrecarga/Star Power, y haz click a “Siguiente.”
+	7. En la pantalla siguiente, presiona la palanca whammy hacia adentro completamente y déjala ir y haz click en “Siguiente.”
+	8. En la pantalla siguiente, apunta la guitarra hacia arriba, como si estuvieras activando sobrecarga/Star Power y haz click a “Siguiente.”
 	9. En la Gamepad Configuration (configuración de controles), ajusta las zonas muertas de las palancas (Analog Stick Deadzone) a el valor mínimo para la palanca izquierda y derecha.
 
 ## Mapeo:

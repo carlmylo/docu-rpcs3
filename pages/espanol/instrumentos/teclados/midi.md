@@ -32,18 +32,18 @@ toc: false
 
 **If your keyboard only has a MIDI output, you will need a MIDI to USB interface**.
 
->![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output highlighted in yellow with a solid white outline, and multiple pedal inputs.](https://carlmylo.github.io/docu-rpcs3/images/midi/midikeys.png "MIDI Keyboard")  
+>![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output highlighted in yellow with a solid white outline y multiple pedal inputs.](https://carlmylo.github.io/docu-rpcs3/images/midi/midikeys.png "MIDI Keyboard")  
 
 Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**. 
 
 >![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
 
 **If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
->![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
+>![A picture of a Focusrite Scarlett's rear, showing a USB port y 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
 
 Find whichever way is the most convenient for you then connect your MIDI Keyboard to your computer.
 
-Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
+Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
 
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
@@ -55,7 +55,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 
 MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
 
-![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](https://carlmylo.github.io/docu-rpcs3/images/midi/keysctrl.png "MIDI Keyboard Reference")
+![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color y C5 under an orange color.](https://carlmylo.github.io/docu-rpcs3/images/midi/keysctrl.png "MIDI Keyboard Reference")
 
 | **Note#** | **Note** | **Note (Yamaha)** | **Button** |
 |:-------:|:--------:|:-----------------:|:----------:|
@@ -174,7 +174,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[download
 Select the other port you made in loopMIDI (“Pro Keys”) in the MIDI Outputs. This will combine both MIDI inputs into a single output.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlmidioxcombo.png" alt="A screenshot of MIDI-OX's MIDI Devices, with a keyboard and the Gamepad selected in the MIDI Inputs section and Pro Keys selected in the MIDI Outputs section." title="MIDI Devices"></p>
 <p>Finally, in RPCS3, go to Rock Band 3’s Custom Configuration then go to the I/O tab. Select the port that you selected as your output in MIDI-OX (“Pro Keys”).</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlrpcs3.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline. It is set to &quot;Keyboard - Pro Keys 3&quot;" title="Settings: [BLUS30463] Rock Band 3"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlrpcs3.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type y device selection highlighted in tan with a solid outline. It is set to &quot;Keyboard - Pro Keys 3&quot;" title="Settings: [BLUS30463] Rock Band 3"></p>
 <p>That’s it. Remember to close all <strong>three different programs</strong> when you’re not using them because they may cause issues with certain shortcuts on Windows.<br>
 You will have to reopen these programs every time you want to play.</p>
 

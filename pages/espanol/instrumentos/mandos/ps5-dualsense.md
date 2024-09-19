@@ -1,10 +1,10 @@
 ---
-title: PlayStation 5 DualSense
+title: DualSense de PlayStation 5
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_dualsense_es
 folder: instrumentos
 tags: [ps5, mandos, espanol]
-summary: "How to setup PS5 DualSense gamepads on RPCS3."
+summary: "Como configurar mandos DualSense de PS5 en RPCS3."
 toc: false
 ---
 
@@ -14,10 +14,12 @@ toc: false
 
 ## NOTAS:
 
-* PlayStation 5 DualSense controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
-* Necesitas Rock Band 3 Deluxe si quieres tocar guitarra/bajo/teclado/batería con mando (Padtar)
+* Mandos DualSense de PlayStation 5 pueden ser conectados por USB o por Bluetooth. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
 * No existe un perfil porque la configuración es por defecto.
 * Este control auto-rasguea (tiene auto-strum).
+* Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).
+	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
+	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
 ## Información de Control:
 

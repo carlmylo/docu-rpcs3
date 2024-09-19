@@ -1,10 +1,10 @@
 ---
-title: PlayStation 2 DualShock 2
+title: DualShock 2 de PlayStation 2
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_ds2_es
 folder: instrumentos
 tags: [ps2, mandos, espanol]
-summary: "How to setup PS2 DualShock 2 gamepads on RPCS3."
+summary: "Como configurar mandos DualShock 2 para PS2 en RPCS3."
 toc: false
 ---
 
@@ -14,11 +14,13 @@ toc: false
 
 ## NOTAS:
 
-* There is no binding file as it varies too much per computer.
-* This has only been verified to work with an OSTENT PS1 PS2 To PC USB 2.0 Controller Adapter Converter For Sony PS2 Wired Controller (Model Number/SKU: 014800)
-* Necesitas Rock Band 3 Deluxe si quieres tocar guitarra/bajo/teclado/batería con mando (Padtar)
+* No existe un perfil para este mando porque varia mucho por computadora.
+* Verificamos esto solo con el adaptador "OSTENT PS1 PS2 To PC USB 2.0 Control Adapter Converter For Sony PS2 Wired Control" (Numero de modelo/SKU: 014800). Otros adaptadores pueden tener problemas.
 * No existe un perfil porque la configuración es por defecto.
 * Este control auto-rasguea (tiene auto-strum).
+* Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).
+	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
+	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
 ## Información de Control:
 

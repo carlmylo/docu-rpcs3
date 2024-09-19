@@ -1,10 +1,10 @@
 ---
-title: PlayStation 3 DualShock 3/SixAxis
+title: DualShock 3/SixAxis de PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_ds3_es
 folder: instrumentos
 tags: [ps3, mandos, espanol]
-summary: "How to setup PS3 DualShock 3 and SixAxis gamepads on RPCS3."
+summary: "Como configurar mandos DualShock 3 y SixAxis de PS3 en RPCS3."
 toc: false
 ---
 
@@ -14,12 +14,14 @@ toc: false
 
 ## NOTAS:
 
-* PlayStation 3 DualShock 3 controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
-* This setup has only been tested on **DsHidMini. **AVOID ScpToolKit AS IT IS OUTDATED!**
-	* More information is available on [[RPCS3's Help page]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller).
-* Necesitas Rock Band 3 Deluxe si quieres tocar guitarra/bajo/teclado/batería con mando (Padtar)
+* Mandos DualShock 3 de PlayStation 3 pueden ser conectados por USB o por Bluetooth. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
+* Esto solo ha sido probado con  **DsHidMini. **¡NO INSTALES A ScpToolKit PORQUE ES OBSOLETO!**
+	* Mas informacion (en Ingles) esta en la [[pagina de ayuda de RPCS3]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller).
 * No existe un perfil porque la configuración es por defecto.
 * Este control auto-rasguea (tiene auto-strum).
+* Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).
+	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
+	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
 ## Información de Control:
 
@@ -33,8 +35,8 @@ toc: false
 
 ## Guitarra/Bajo/Teclado:
 
-| **DS3**          | **Rock Band** |
-|:------------------:|:---------------------:|
+| **PlayStation (DS3)** | **Rock Band** |
+|:---------------------:|:-------------:|
 | ![Gatillo L2](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "Gatillo L2") | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
 | ![Botón L1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "Botón L1") | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
 | ![Boton R1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "Boton R1") | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
@@ -45,8 +47,8 @@ toc: false
 
 ## Batería:
 
-| **DS3**          | **Rock Band** |
-|:------------------:|:---------------------:|
+| **PlayStation (DS3)** | **Rock Band** |
+|:-------:|:-------------:|
 | ![Gatillo L2](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "Gatillo L2") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | ![Botón L1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "Botón L1") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
 | ![Boton R1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "Boton R1") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
@@ -56,8 +58,8 @@ toc: false
 
 ## Vocales:
 
-| **PlayStation (DS3)** | **Uso**                         | **Uso alternativo**         |
-|:---------------------:|:-------------------------------:|:-------------------:|
+| **PlayStation (PlayStation (DS3))** | **Uso** | **Uso alternativo** |
+|:---------------------:|:-------:|:-------------------:|
 | ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | Navegación | |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") | Navegación | |
 | ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") | Seleccionar | |

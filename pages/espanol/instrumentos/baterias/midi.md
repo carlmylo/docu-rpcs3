@@ -42,7 +42,7 @@ Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED 
 
 Decide cual manera es mas conveniente para ti y conecta tu batería MIDI a tu computadora.
 
-Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
+Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
 
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
