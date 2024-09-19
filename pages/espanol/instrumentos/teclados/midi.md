@@ -108,7 +108,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[descarga
 <p>También existe un perfil pre-hecho que puedes <a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
 <p>Para usar el perfil, coloca el archivo <code>rb3gamekeys.map</code> en la carpeta llamada <code>keymap</code> donde esta la aplicación de freepiano.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlfreepnopreset.png" alt="Una captura del perfil llamado rb3gamekeys.map resaltado, dentro de la carpeta llamada keymap.." title="keymap"></p>
-<p>Selecciona el archivo <code>rb3gamekeys.map<code> en el menú despegable de "Keymap" para cargar el perfil. También, si existe creaste tu propio perfil o editaste el perfil pre-hecho, puedes hacer click en <strong>Save</strong> para guardarlo.</p>
+<p>Selecciona el archivo <code>rb3gamekeys.map</code> en el menú despegable de "Keymap" para cargar el perfil. También, si existe creaste tu propio perfil o editaste el perfil pre-hecho, puedes hacer click en <strong>Save</strong> para guardarlo.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlfreepnoselpres.png" alt="Una captura de FreePiano con el perfil de rb3gamekeys.map seleccionado." title="rb3gamekeys.map"></p>
 <p>El perfil pre-hecho esta configurado así:</p>
 
