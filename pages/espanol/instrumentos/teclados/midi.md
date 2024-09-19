@@ -3,7 +3,7 @@ title: Teclado MIDI
 sidebar: controllers_es_sidebar
 permalink: ctrls_keys_midi_es
 folder: instrumentos
-tags: [midi, english]
+tags: [midi, teclados, espanol]
 summary: "Como configurar un teclado MIDI con RPCS3."
 toc: false
 ---
@@ -75,7 +75,7 @@ Teclados MIDI tienen mapeo fijo y no puede ser cambiado dentro de RPCS3. Como no
 | CC#1 | Perilla de modulación | Perilla de modulación | Sobrecarga |
 | CC#64 | Sostén | Sostén | Sobrecarga |
 
-#### Teclado de 25 Teclas
+#### Teclado de 25 Teclas:
 
 Si tienes un teclado con menos de 37 teclas, vas a tener que cambiar de octava para tener acceso a los botones de juego.
 
@@ -105,7 +105,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[descarga
 <p>Ve a donde extrajiste el archivo <code>.zip</code> y abre la aplicación de freepiano.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlfreepnodir.png" alt="Una captura con la aplicación de freepiano resaltada." title="freepiano.exe"></p>
 <p>Puedes configurar las teclas a tu gusto usando la sección de <a href="#mapeo"><strong>[#mapeo]</strong></a> hacia arriba.</p>
-<p>También existe un perfil pre-hecho que puedes <a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
+<p>También existe un perfil pre-hecho que puedes <a href="https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
 <p>Para usar el perfil, coloca el archivo <code>rb3gamekeys.map</code> en la carpeta llamada <code>keymap</code> donde esta la aplicación de freepiano.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlfreepnopreset.png" alt="Una captura del perfil llamado rb3gamekeys.map resaltado, dentro de la carpeta llamada keymap.." title="keymap"></p>
 <p>Selecciona el archivo <code>rb3gamekeys.map</code> en el menú despegable de "Keymap" para cargar el perfil. También, si existe creaste tu propio perfil o editaste el perfil pre-hecho, puedes hacer click en <strong>Save</strong> para guardarlo.</p>
@@ -125,7 +125,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[descarga
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png" alt="Start" title="Start"></td>
 </tr>
 <tr>
-<td align="center">Shift</td>
+<td align="center">Shift (Mayús) Izquierdo</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png" alt="Select" title="Select"></td>
 </tr>
 <tr>

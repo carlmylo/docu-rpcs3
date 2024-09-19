@@ -3,7 +3,7 @@ title: Roll Limitless Drums
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rldrums_es
 folder: instrumentos
-tags: [xbox-360, midi, english]
+tags: [modeado, espanol]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
@@ -32,6 +32,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/rolllimitlessmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Mapeado por Uzny

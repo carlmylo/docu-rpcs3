@@ -3,7 +3,7 @@ title: Riffmaster (via Adafruit Feather) Guitar
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_riffada_es
 folder: instrumentos
-tags: [xbox-360, midi, english]
+tags: [modeado, espanol]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
@@ -181,6 +181,6 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Investigación por [jnackmclain](https://github.com/jnackmclain)

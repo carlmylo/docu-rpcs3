@@ -3,7 +3,7 @@ title: Legacy Guitar Configurator Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_gtrcfg_es
 folder: instrumentos
-tags: [xbox-360, midi, english]
+tags: [modeado, espanol]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
@@ -24,10 +24,10 @@ El sensor de ladeo (Tilt) no funciona correctamente. Puedes tratar de configurar
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/picolpmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Investigación por heartworthbreaking

@@ -3,7 +3,7 @@ title: RetroCultMods Solderless Kit Guitars
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rcmsl_es
 folder: instrumentos
-tags: [xbox-360, midi, english]
+tags: [modeado, espanol]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
@@ -86,7 +86,7 @@ It's also suggested you calibrate your Whammy to have the best experience. Scrol
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/rcmslmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Investigación por [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
 Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures

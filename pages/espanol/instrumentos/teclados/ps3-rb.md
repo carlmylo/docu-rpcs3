@@ -1,10 +1,10 @@
 ---
-title: PlayStation 3 Rock Band Wireless Keyboard
+title: Teclado de Rock Band 3 para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_keys_ps3_es
 folder: instrumentos
-tags: [ps3, midi, english]
-summary: "How to connect and configure PlayStation 3 Wireless keyboards (MIDI) on RPCS3."
+tags: [ps3, midi, teclados, espanol]
+summary: "Como conectar y configurar teclados de RB3 (en modo MIDI) para PS3 con RPCS3."
 toc: false
 ---
 
@@ -14,29 +14,31 @@ toc: false
 
 ## NOTAS:
 
-* It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/english/passthroughdevices/)
+* Es mejor que uses el teclado con su receptor propio, si lo tienes. [[Haz click aquí para ver como usarlo con el receptor]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es).
 * **NO mapeés este instrumento por el menú de "Pads".**
 * No existe un perfil para este instrumento.
 * Los botones del teclado no van a funcionar normalmente porque esta en modo MIDI.
+* Se puede conectar un pedal de sostén para activar sobrecarga.
 * Se requiere una versión de [[RPCS3 actual]](https://rpcs3.net/download).
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Instrucciones:
 
-Since you can't use the dongle, you will need to connect the Rock Band 3 Wireless Keyboard via the MIDI port on the side.
+Como no tienes el receptor, vas a a necesitar conectar el teclado de Rock Band 3 por el puerto de MIDI que esta en el lado.
 
->![A picture of a Rock Band 3's Wireless Keyboard, showing a 5-DIN MIDI input and output highlighted in blue with a dotted white outline.](https://carlmylo.github.io/docu-rpcs3/images/midi/rbkeys.png "Rock Band Wireless Keyboard")  
+>![Una foto del teclado de Rock Band 3, con un puerto de MIDI estilo DIN de cinco pines resaltado en un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/midi/rbkeys.png "Teclado de Rock Band 3")  
 
-**To connect it to your computer, you will need a MIDI to USB interface**.
+**Para conectarlo a tu computadora, necesitarás un convertidor/interfaz de MIDI a USB**.
 
-Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**. 
+Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED integrada para mostrar activad. **Para verificar que esta todo enchufado correctamente, debes de ver "MIDI In" parpadeando cuando le toques una nota**.
 
->![A picture of a MIDI to USB interface.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "MIDI to USB interface")  
+>![Una imagen de una interfaz de MIDI a USB.](https://carlmylo.github.io/docu-rpcs3/images/midi/miditousb.png "Interfaz de MIDI a USB")  
 
-**If you have an audio interface, you may already have a way to plug in MIDI** to your computer, as some audio interfaces come with MIDI inputs. For example, this Scarlett has MIDI connections in the back.  
->![A picture of a Focusrite Scarlett's rear, showing a USB port y 5-DIN MIDI input and output.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Focusrite Scarlett MIDI in/out") 
+**Si tienes una interfaz de audio, puede ser que ya tengas un puerto de MIDI** para tu computadora, ya que unas interfaces tienen puertos de MIDIs integrados. Por ejemplo, esta Scarlett tiene conexiones MIDI por detrás.
 
-Find whichever way is the most convenient for you then connect your Rock Band Wireless Keyboard to your computer.
+>![Una imagen del posterior de una Focusrite Scarlett, mostrando un puerto de USB y un salida/entrada MIDI por puerto DIN de cinco pines.](https://carlmylo.github.io/docu-rpcs3/images/midi/midifs.png "Salida/Entrada MIDI de Focusrite Scarlett") 
+
+Decide cual manera es mas conveniente para ti y conecta tu teclado de Rock Band 3 a tu computadora.
 
 Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).    
 
@@ -45,15 +47,32 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Cha
 ![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://carlmylo.github.io/docu-rpcs3/images/cust/io.png "I/O")
 
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") :
-	* 🎹 **Leave your "Emulated MIDI type" on "Keyboard" and select your MIDI interface in the drop-down menu next to it.**.
+	* 🎹 **Deja tu “Emulated MIDI type”** (Tipo de MIDI emulado) **en “Keyboard”** (teclado) **y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él**.
 
-### Additional Information
+### Información Adicional:
 
-Since the keyboard controller buttons don't function like they do when connected with a dongle, you will have to shift octaves to access the buttons on the keys.
+Los botones del teclado no van a funcionar como funcionan cuando esta conectado a su consola propia. Por eso vas a tener que cambiar de octava para accessar los botones de control.
 
-You can shift octaves with the Square (Cuadro) and Botón Circle (Circulo)s.
+Puedes cambiar de octava con los botones de Square (Cuadro) y Circle (Circulo).
 
-![A GIF of a Rock Band 3 keyboard. When X (which is Square (Cuadro) on PS3) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B (which is Circle (Circulo) on PS3) is pressed, it shifts up to C3 to C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/rbkeysoctshift.gif "Cambio de octava") 
+![Una animación de un teclado de Rock Band 3. Cuando se presiona el botón que seria Cuadro, un resaltado amarillo, que muestra el rango de notas activas, cambia a C2-C4. Cuando se presiona el botón que seria Circulo, cambia a C3-C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/rbkeysoctshift.gif "Cambio de octava") 
+
+| **Nota** | **Botón** |
+|:--------:|:-------------------:|
+| C2 | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
+| D2 | ![D-Pad (Cruceta) Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png "D-Pad (Cruceta) Izquierda") |
+| E2 | ![D-Pad (Cruceta) Derecha](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png "D-Pad (Cruceta) Derecha") |
+| F2 | ![D-Pad (Cruceta) Arriba](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png "D-Pad (Cruceta) Arriba") |
+| G2 | ![D-Pad (Cruceta) Abajo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png "D-Pad (Cruceta) Abajo") |
+| A2 | Sobrecarga |
+| C#2 | ![Triangle (Triangulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo)") |
+| D#2 | ![Square (Cuadro)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro)") |
+| F#2 | ![Circle (Circulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo)") |
+| G#2 | ![Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz)") |
+| A#2 | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
+| Perilla de modulación | Sobrecarga |
+| Sostén | Sobrecarga |
+| Perilla de Pitch | Franja Táctil |
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -79,7 +98,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[descarga
 <p>Ve a donde extrajiste el archivo <code>.zip</code> y abre la aplicación de freepiano.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlfreepnodir.png" alt="Una captura con la aplicación de freepiano resaltada." title="freepiano.exe"></p>
 <p>Puedes configurar las teclas a tu gusto usando la sección de <a href="#mapeo"><strong>[#mapeo]</strong></a> hacia arriba.</p>
-<p>También existe un perfil pre-hecho que puedes <a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
+<p>También existe un perfil pre-hecho que puedes <a href="https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
 <p>Para usar el perfil, coloca el archivo <code>rb3gamekeys.map</code> en la carpeta llamada <code>keymap</code> donde esta la aplicación de freepiano.</p>
 <p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/midictrlfreepnopreset.png" alt="Una captura del perfil llamado rb3gamekeys.map resaltado, dentro de la carpeta llamada keymap.." title="keymap"></p>
 <p>Selecciona el archivo <code>rb3gamekeys.map</code> en el menú despegable de "Keymap" para cargar el perfil. También, si existe creaste tu propio perfil o editaste el perfil pre-hecho, puedes hacer click en <strong>Save</strong> para guardarlo.</p>
@@ -99,7 +118,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[descarga
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png" alt="Start" title="Start"></td>
 </tr>
 <tr>
-<td align="center">Shift</td>
+<td align="center">Shift (Mayús) Izquierdo</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png" alt="Select" title="Select"></td>
 </tr>
 <tr>
