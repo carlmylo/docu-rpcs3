@@ -74,7 +74,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 
 <table>

@@ -59,7 +59,7 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <h4 id="profile">Perfil</h4>
 <p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Guitar.7z">[Bajar Perfil]</a></p>
