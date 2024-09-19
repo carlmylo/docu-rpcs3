@@ -12,15 +12,15 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/mididrumscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES:
+## NOTAS:
 
 * **NO mapeés este instrumento por el menú de "Pads".**
 * Tu batería MIDI necesita:
 	* **estar en canal de MIDI 10**
 	* **estar configurado a mapeo de GM.**  
 Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Consulta el manual de tu batería para estar seguro.
-* D-Pad: Izq. y D-Pad: Der. no funcionan y no pueden ser usados. Por esto. no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
+* D-Pad (Cruceta): Izq. y D-Pad (Cruceta): Der. no funcionan y no pueden ser usados. Por esto. no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Instrucciones:
 
@@ -50,7 +50,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Ch
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
-## Mapeo
+## Mapeo:
 Mapeo Predeterminado:
 * `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la snare (caja).
 * `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el snare rim (aro de la caja).

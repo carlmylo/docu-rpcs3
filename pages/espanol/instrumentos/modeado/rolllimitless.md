@@ -8,16 +8,16 @@ summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPC
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rolllimitlesscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rolllimitlesscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES:
+## NOTAS::
 
 * This controller requires advanced configuration.
-* Velocity sensitivity doesn't seem to work.
+* La detección de velocidad no funciona.
 
-### Additional Setup
+#### Configuración Adicional:
 1. Put the Roll Limitless Adapter in firmware updating mode. To do this, press and hold the rectangular button on the top of the adapter, near the micro USB port.
 2. Plug it into your computer while keeping the button held. If done successfully, the Roll Limitless will show up as a removable drive.
 3. [[Download the latest universal firmware for the Roll Limitless from the official website]](https://rolllimitless.com/firmwares/).
@@ -28,10 +28,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/rolllimitlessmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/rolllimitlessmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Mapped by Uzny
+Mapeado por Uzny

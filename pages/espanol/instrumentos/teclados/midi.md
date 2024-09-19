@@ -8,13 +8,13 @@ summary: "How to connect and configure a MIDI Keyboard on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/midi.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/midikeyscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/midikeyscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES
+## NOTAS:
 
-* There is no binding file.
+* No existe un perfil para este instrumento.
 * **NO mapeés este instrumento por el menu de "Pads".**
 * It is suggested to have a keyboard with **at least 37 keys** or 25 keys and 11 drum pads.
 * Your MIDI keyboard needs to:
@@ -22,9 +22,9 @@ toc: false
 	* **have modultation and pitch controls.**
 	* optionally have a sustain pedal
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
-## Instructions
+## Instrucciones:
 
 **If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
 
@@ -43,15 +43,15 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 
 Find whichever way is the most convenient for you then connect your MIDI Keyboard to your computer.
 
-After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+Después de eso, **haz click derecho en Rock Band 3** en RPCS3, y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
 
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
+![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
-![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/iod.png "I/O")
-* ![A tan square with a solid outline](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Tan Square") : 
+![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://carlmylo.github.io/docu-rpcs3/images/cust/iod.png "I/O")
+* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🎹 Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it.
 
-### Mapping
+### Mapeo
 
 MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
 
@@ -60,15 +60,15 @@ MIDI Keyboards have fixed bindings and cannot be changed within RPCS3.
 | **Note#** | **Note** | **Note (Yamaha)** | **Button** |
 |:-------:|:--------:|:-----------------:|:----------:|
 | #36 | C2 | C1 | ![Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select") |
-| #38 | D2 | D1 | ![D-Pad Left](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png "D-Pad Left") |
-| #40 | E2 | E1 | ![D-Pad Right](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png "D-Pad Right") |
-| #41 | F2 | F1 | ![D-Pad Up](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png "D-Pad Up") |
-| #43 | G2 | G1 | ![D-Pad Down](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png "D-Pad Down") |
+| #38 | D2 | D1 | ![D-Pad (Cruceta) Left](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png "D-Pad (Cruceta) Left") |
+| #40 | E2 | E1 | ![D-Pad (Cruceta) Right](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png "D-Pad (Cruceta) Right") |
+| #41 | F2 | F1 | ![D-Pad (Cruceta) Up](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png "D-Pad (Cruceta) Up") |
+| #43 | G2 | G1 | ![D-Pad (Cruceta) Down](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png "D-Pad (Cruceta) Down") |
 | #45 | A2 | A1 | Deploy Overdrive |
-| #37 | C#2 | C#1 | ![Triangle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle") |
-| #39 | D#2 | D#1 | ![Square](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square") |
-| #42 | F#2 | F#1 | ![Circle](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle") |
-| #44 | G#2 | G#1 | ![Cross](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross") |
+| #37 | C#2 | C#1 | ![Triangle (Triangulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo)") |
+| #39 | D#2 | D#1 | ![Square (Cuadro)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro)") |
+| #42 | F#2 | F#1 | ![Circle (Circulo)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo)") |
+| #44 | G#2 | G#1 | ![Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz)") |
 | #46 | A#2 | A#1 | ![Start](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start") |
 | Pitch Bend | Pitch Bend | Pitch Bend | Whammy/Touch Strip |
 | CC#1 | Modwheel | Modwheel | Deploy Overdrive |
@@ -84,10 +84,10 @@ Keyboards with less than 25 keys will have to shift octaves when switching betwe
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#using-a-computer-keyboard-along-with-a-25-key-keyboard">Using a computer keyboard along with a 25 key keyboard</a>
+                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#using-a-computer-keyboard-along-with-a-25-key-keyboard">Using a computer keyboard along with a 25 key keyboard</a>
                             </h4>
                         </div>
-                        <div id="using-a-computer-keyboard-along-with-a-25-key-keyboard" class="panel-collapse collapse noCrossRef">
+                        <div id="using-a-computer-keyboard-along-with-a-25-key-keyboard" class="panel-collapse collapse noCross (Cruz)Ref">
                             <div class="panel-body">
                                 <ul>
 <div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>This requires advanced setup!</b> {{include.content}}</div>
@@ -129,35 +129,35 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[download
 </tr>
 <tr>
 <td align="center">Up</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png" alt="D-Pad Up" title="D-Pad Up"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/du.png" alt="D-Pad (Cruceta) Up" title="D-Pad (Cruceta) Up"></td>
 </tr>
 <tr>
 <td align="center">Down</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png" alt="D-Pad Down" title="D-Pad Down"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dd.png" alt="D-Pad (Cruceta) Down" title="D-Pad (Cruceta) Down"></td>
 </tr>
 <tr>
 <td align="center">Left</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png" alt="D-Pad Left" title="D-Pad Left"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dl.png" alt="D-Pad (Cruceta) Left" title="D-Pad (Cruceta) Left"></td>
 </tr>
 <tr>
 <td align="center">Right</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png" alt="D-Pad Right" title="D-Pad Right"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dr.png" alt="D-Pad (Cruceta) Right" title="D-Pad (Cruceta) Right"></td>
 </tr>
 <tr>
 <td align="center">A</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png" alt="Cross" title="Cross"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png" alt="Cross (Cruz)" title="Cross (Cruz)"></td>
 </tr>
 <tr>
 <td align="center">S</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png" alt="Circle" title="Circle"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png" alt="Circle (Circulo)" title="Circle (Circulo)"></td>
 </tr>
 <tr>
 <td align="center">D</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png" alt="Square" title="Square"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png" alt="Square (Cuadro)" title="Square (Cuadro)"></td>
 </tr>
 <tr>
 <td align="center">F</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png" alt="Triangle" title="Triangle"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png" alt="Triangle (Triangulo)" title="Triangle (Triangulo)"></td>
 </tr>
 </tbody>
 </table><p>Once you are done mapping, click on “Instrument” at the top of Freepiano’s window and select the “Gamepad” MIDI output, which you made with loopMIDI earlier.</p>

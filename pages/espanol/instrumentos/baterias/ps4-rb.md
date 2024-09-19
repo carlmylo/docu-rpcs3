@@ -8,16 +8,16 @@ summary: "How to setup PlayStation 4 Rock Band drums on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps4.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps4.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbdrmscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbdrmscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES
+## NOTAS:
 
 * **PRO Cymbals do not work at all.**
 * Latency may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
-* Velocity sensitivity doesn't seem to work.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
+* La detección de velocidad no funciona.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Pad Information
 
@@ -29,30 +29,30 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Rock Band Pro |
 
-## Mapping
+## Mapeo
 
 | **RPCS3**    | **Rock Band Drums** |
 |:--------:|:-------------------:|
-| Cross | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
-| L1 | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
-| Cross | ![Cross Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross Button") |
-| Circle | ![Circle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle Button") |
-| Square | ![Square Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Square Button") |
-| Triangle | ![Triangle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Triangle Button") |
-| D-Pad | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") |
+| Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
+| Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
+| Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
+| Triangle (Triangulo) | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| Cross (Cruz) | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") |
+| Circle (Circulo) | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle (Circulo) Button") |
+| Square (Cuadro) | ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Square (Cuadro) Button") |
+| Triangle (Triangulo) | ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Triangle (Triangulo) Button") |
+| D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") |
 | Start | ![Options Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/opt.png "Options Button") |
 | Select | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Share Button") |
-| PS Button | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png "Home") |
+| Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png "Home") |
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS4%20Rock%20Band%20Drums.7z)
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS4%20Rock%20Band%20Drums.7z)
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps4rbmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps4rbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}
+Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

@@ -8,11 +8,11 @@ summary: "How to setup PS5 DualSense gamepads on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps5.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps5.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ps5dscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ps5dscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES
+## NOTAS:
 
 * PlayStation 5 DualSense controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
 * To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
@@ -37,7 +37,7 @@ toc: false
 | ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
 | ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Cross Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross Button") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
+| ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
 | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps5/shr.png "Share Button") | Overdrive |
 
@@ -45,11 +45,11 @@ toc: false
 
 | **PlayStation 5 (DualSense)** | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
-| ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
-| ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
-| ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
-| ![Cross Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross Button") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
+| ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
+| ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
+| ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 
 
 ## Vocals
@@ -57,11 +57,11 @@ toc: false
 | **PlayStation 5 (DualSense)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:-------------------------------:|:-------------------:|
 | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | Navigation | |
-| ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation | |
-| ![Cross Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross Button") | Select | |
-| ![Circle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle Button") | Back | Mic 3 Volume (Song) |
-| ![Square Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Square Button") | Mic 1 Volume (Song) | |
-| ![Triangle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Triangle Button") | View More Info (Library) | Mic 2 Volume (Song) |
+| ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navigation | |
+| ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/x.png "Cross (Cruz) Button") | Select | |
+| ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/o.png "Circle (Circulo) Button") | Back | Mic 3 Volume (Song) |
+| ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/s.png "Square (Cuadro) Button") | Mic 1 Volume (Song) | |
+| ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/t.png "Triangle (Triangulo) Button") | View More Info (Library) | Mic 2 Volume (Song) |
 | ![Options Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps5/opt.png "Options Button") | Options | Pause (Song) |
 | ![Share Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps5/shr.png "Share Button") | Filters (Library) | Overdrive (Song) |
 | ![L1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/l1.png "L1 Button") | Guide Part Selection (Practice) | |
@@ -69,6 +69,6 @@ toc: false
 | ![R1 Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r1.png "R1 Button") | Vocal Track Volume (Song) | |
 | ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/r2.png "R2 Trigger") | Pitch Correction (Song) | |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padps5mapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padps5mapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Back to Gamepads]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads)

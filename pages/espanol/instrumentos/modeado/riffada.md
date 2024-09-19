@@ -8,11 +8,11 @@ summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPC
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/santroller.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/santroller.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/riffmastercontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/riffmastercontroller.png" alt="Control" title="Control"></div>
 
-## NOTES
+## NOTAS:
 
 * **This is specifically for the** [**[Adafruit Feather RP2040 with USB Type A Host]**](https://www.adafruit.com/product/5723)**!** Please consult your sales receipt to confirm that it is indeed an [[Adafruit Feather RP2040 **with USB Type A Host**]](https://www.adafruit.com/product/5723).
 * While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://rb3pc.milohax.org/instruments/xbox/rb4gtrs) for that instead.
@@ -39,7 +39,7 @@ After downloading Santroller, open "SantrollerConfigurator".
 
 Hold the "Boot" button on your Adafruit Feather RP2040 with USB Type A Host if you're plugging it into your computer for the first time.
 
-![A picture of an Adafruit Feather RP2040. A button labeled "Boot" is circled in white, red, and black.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/bootada.jpg "Adafruit Feather RP2040 with USB Type A Host")
+![A picture of an Adafruit Feather RP2040. Botón A labeled "Boot" is circled in white, red, and black.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/feather/bootada.jpg "Adafruit Feather RP2040 with USB Type A Host")
 
 In SantrollerConfigurator, set "`Input Type`" to "`USB Adapter`." The Adafruit Feather RP2040 with USB Type A Host should be detected as "`Raspberry Pi Pico`." Click "`Configure`" after doing this.
 
@@ -57,24 +57,24 @@ A community made preset exists (courtesy of jnack) to help speed things up. Load
 
 After loading the preset, **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-## Mapping
+## Mapeo
 
-By default, XInput has most things bound correctly. You only need to remap the following:
+Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|
 | R1 | ![Right Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") | 
-| L2 | ![Right Stick Click](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png "Right Stick Click") | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") | 
+| L2 | ![Palanca derecha presionada](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") | 
 | Right Stick: <br> Down | ![Left Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lt.png "Left Trigger") | ![Effects Switch](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Effects Switch") |
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-mapping">Advanced Mapping</a>
+                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-mapping">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
+                        <div id="advanced-mapping" class="panel-collapse collapse noCross (Cruz)Ref">
                             <div class="panel-body">
 
 <table>
@@ -86,19 +86,19 @@ By default, XInput has most things bound correctly. You only need to remap the f
 </thead>
 <tbody>
 <tr>
-<td align="center">Cross</td>
+<td align="center">Cross (Cruz)</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
 </tr>
 <tr>
-<td align="center">Circle</td>
+<td align="center">Circle (Circulo)</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
 </tr>
 <tr>
-<td align="center">Square</td>
+<td align="center">Square (Cuadro)</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
 </tr>
 <tr>
-<td align="center">Triangle</td>
+<td align="center">Triangle (Triangulo)</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
 </tr>
 <tr>
@@ -106,20 +106,20 @@ By default, XInput has most things bound correctly. You only need to remap the f
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
 </tr>
 <tr>
-<td align="center">D-Pad: Up</td>
+<td align="center">D-Pad (Cruceta): Up</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
 </tr>
 <tr>
-<td align="center">D-Pad: Down</td>
+<td align="center">D-Pad (Cruceta): Down</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
 </tr>
 <tr>
-<td align="center">D-Pad: Left</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png" alt="D-Pad: Left" title="D-Pad: Left"></td>
+<td align="center">D-Pad (Cruceta): Left</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Left" title="D-Pad (Cruceta): Left"></td>
 </tr>
 <tr>
-<td align="center">D-Pad: Right</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png" alt="D-Pad: Right" title="D-Pad: Right"></td>
+<td align="center">D-Pad (Cruceta): Right</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Right" title="D-Pad (Cruceta): Right"></td>
 </tr>
 <tr>
 <td align="center">Right Stick: <br> Left/Right</td>
@@ -146,7 +146,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png" alt="Minus" title="Back"></td>
 </tr>
 <tr>
-<td align="center">PS Button</td>
+<td align="center">Botón PS</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
@@ -165,7 +165,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 ## Additional Notes
 The picoconfig preset binds a few things for a better experience.
 - The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
-- D-Pad: Left and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad Left which is very uncomfortable.
+- D-Pad (Cruceta): Left and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad (Cruceta) Left which is very uncomfortable.
 
 If you wish to remove these tweaks, click the "`Remove`" next to the D-pad Left and Back buttons at the bottom of Santroller Configurator.
 
@@ -177,10 +177,10 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Feather%20Riffmaster.7z)
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Feather%20Riffmaster.7z)
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360rbgtrsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
 
-Research by [jnackmclain](https://github.com/jnackmclain)
+Investigación por [jnackmclain](https://github.com/jnackmclain)

@@ -9,15 +9,15 @@ toc: false
 ---
 
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps3.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/ps3.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ghdrmscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/ghdrmscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES
+## NOTAS:
 
-* Velocity sensitivity doesn't seem to work.
+* La detección de velocidad no funciona.
 * Gem colors do not match the pads.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Pad Information
 
@@ -29,34 +29,34 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Guitar Hero |
 
-## Mapping
+## Mapeo
 
-* Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+* Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping Botón A and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
 | **RPCS3** | **Guitar Hero Drums** |
 |:--------:|:-----------------:|
-| Cross | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/gp.png "Parche Verde") |
+| Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/rp.png "Parche Rojo") |
+| Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/bp.png "Parche Azul") |
+| Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/yc.png "Platillo Amarillo") |
 | R1 | ![Orange Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/oc.png "Orange Cymbal") |
-| L1 | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Foot Pedal") |
-| Cross | ![Cross Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross Button") |
-| Circle | ![Circle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle Button") |
-| Square | ![Square Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square Button") |
-| Triangle | ![Triangle Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle Button") |
-| D-Pad | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad") |
+| L1 | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/gh/kp.png "Pedal/Kick") |
+| Cross (Cruz) | ![Cross (Cruz) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Cross (Cruz) Button") |
+| Circle (Circulo) | ![Circle (Circulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/o.png "Circle (Circulo) Button") |
+| Square (Cuadro) | ![Square (Cuadro) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/s.png "Square (Cuadro) Button") |
+| Triangle (Triangulo) | ![Triangle (Triangulo) Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/t.png "Triangle (Triangulo) Button") |
+| D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") |
 | Left Stick | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Left Stick") |
 | Start | ![Start Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sta.png "Start Button") |
 | Select | ![Select Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Select Button") |
-| PS Button | ![Home Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home Button") |
+| Botón PS | ![Home Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home Button") |
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z){:target="_blank"}
+[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps3ghmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps3ghmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
-Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}
+Mapeado por [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

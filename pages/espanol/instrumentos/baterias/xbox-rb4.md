@@ -1,24 +1,25 @@
 ---
-title: "Xbox One Rock Band 4 Drums"
+title: "Batería de Rock Band 4 para Xbox One"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4drums_xbox_es
 folder: instruments
 tags: [xbox-one, baterias, espanol]
-summary: "How to setup Xbox One Rock Band drums on RPCS3."
+summary: "Como configurar tu batería de Rock Band 4 para Xbox One con RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/xbx.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/xbx.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbdrmscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbdrmscontroller.png" alt="Control" title="Control"></div>
 
-## NOTES
+## NOTAS:
 
-* Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
-* Works with or without the Pro Cymbal expansions.
-	* Make sure to tell the game which cymbals are connected in the Drum Options menu.
-* Velocity sensitivity doesn't seem to work.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
+* Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
+* Funciona con o sin los platillos PRO.
+	* Recuerda configurar cuales platillos tienes en `Menu > Opciones > Opciones de Batería`.
+* La detección de velocidad no funciona.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
+
 
 ## Pad Information
 
@@ -30,133 +31,133 @@ toc: false
 |:------------------:|:---------------------:|
 | Drums | Rock Band Pro |
 
-## Additional Setup
+### Configuración Adicional:
 
-Please refer to RB4InstrumentMapper's documentation.  
-[[Click here to go there]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.md){:target="_blank"}.
+Por favor lee la documentación de RB4InstrumentMapper.  
+[[Haz click aquí para leerla]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md){:target="_blank"}.
 
-## Mapping
+## Mapeo:
 
 ### Controller Emulation Mode: ViGEmBus (RPCS3 compatibility)
 
-This is the recommended mode and should not require any mapping. You simply need to assign the Handler, Device, and Device Class/Type.
+Este es el modo recomendado porque no requiere configuración adicional. Solo requiere que elijes la información de control correcta (Handler, Device y Device Class/Type).
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsxomapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsxomapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Advanced Mapping</a>
+                                <a class="noCross (Cruz)Ref accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
+                        <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCross (Cruz)Ref">
                             <div class="panel-body">
-<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
-<p>This is not suggested as it requires lots of manual mapping. You should instead use <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
-<p>By default, XInput has most things bound correctly. You only need to remap the following:</p>
+<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Bajar Perfil]</a></p>
+<p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
+<p>Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:</p>
 
 <table>
 <thead>
 <tr>
 <th align="center"><strong>RPCS3</strong></th>
 <th align="center"><strong>XInput</strong></th>
-<th align="center"><strong>Drums</strong></th>
+<th align="center"><strong>Batería</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lsc.png" alt="Left Stick Click" title="Left Stick Click"></td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Second Foot Pedal" title="Second Foot Pedal"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/lsc.png" alt="Palanca izquierda presionada" title="Palanca izquierda presionada"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
 <tr>
 <td align="center">L3</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png" alt="Right Stick Click" title="Right Stick Click"></td>
-<td align="center">Pad Modifier</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rsc.png" alt="Palanca derecha presionada" title="Palanca derecha presionada"></td>
+<td align="center">Modificador de Parches</td>
 </tr>
 <tr>
 <td align="center">R3</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/rb.png" alt="Right Bumper" title="Right Bumper"></td>
-<td align="center">Cymbal Modifier</td>
+<td align="center">Modificador de Platillos</td>
 </tr>
 </tbody>
-</table><h3 id="advanced-mapping">Advanced Mapping</h3>
+</table><h3 id="advanced-mapping">Mapeo Avanzado</h3>
 <ul>
-<li>Rock Band Drums send multiple button presses out at once. For example, a Red pad will send “<code>B</code>” and “<code>Right Stick Click</code>” (which translates to “<code>Circle</code>” and “<code>L3</code>”.) Keep in mind these are needed to the emulator to tell your cymbals apart.
+<li>Baterías de Rock Band manda mas de un botón a la vez. Por ejemplo, el Parche Rojo manda "<code>B</code>" y "<code>Palanca izquierda presionada</code>" (que para el emulador es "<code>Circle (Circulo)</code>" y “<code>L3</code>”.) Toma en cuenta que esto se requiere para que funcionen los platillos.
 <ul>
-<li>It’s strongly suggested to bind an Xbox controller like the Mapping screenshot below then swapping the Device to your Xbox 360 Rock Band Drums.</li>
+<li>Recomendamos que uses un mando de Xbox para mapear todo para después cambiar el XInput Device a tu batería de Rock Band para Xbox 360.</li>
 </ul>
 </li>
-<li>To bind multiple buttons to one RPCS3 button, hold Shift then click on the RPCS3 button you want to assign multiple buttons to.</li>
+<li>Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.</li>
 </ul>
 <table>
 <thead>
 <tr>
 <th align="center"><strong>RPCS3</strong></th>
-<th align="center"><strong>Drums</strong></th>
+<th align="center"><strong>Batería</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
+<td align="center">Cross (Cruz)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
 </tr>
 <tr>
-<td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
+<td align="center">Circle (Circulo)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
 </tr>
 <tr>
-<td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
+<td align="center">Square (Cuadro)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
 </tr>
 <tr>
-<td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
+<td align="center">Triangle (Triangulo)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png" alt="Parche Amarillo" title="Parche Amarillo"></td>
 </tr>
 <tr>
 <td align="center">R3</td>
-<td align="center">Cymbal Modifier</td>
+<td align="center">Modificador de Platillos</td>
 </tr>
 <tr>
 <td align="center">L3</td>
-<td align="center">Pad Modifier</td>
+<td align="center">Modificador de Parches</td>
 </tr>
 <tr>
 <td align="center">L1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Second Foot Pedal" title="Second Foot Pedal"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
 <tr>
-<td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/a.png" alt="A Button" title="A Button"></td>
+<td align="center">Cross (Cruz)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/a.png" alt="Botón A" title="Botón A"></td>
 </tr>
 <tr>
-<td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/b.png" alt="B Button" title="B Button"></td>
+<td align="center">Circle (Circulo)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/b.png" alt="Botón B" title="Botón B"></td>
 </tr>
 <tr>
-<td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/x.png" alt="X Button" title="X Button"></td>
+<td align="center">Square (Cuadro)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/x.png" alt="Botón X" title="Botón X"></td>
 </tr>
 <tr>
-<td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/y.png" alt="Y Button" title="Y Button"></td>
+<td align="center">Triangle (Triangulo)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/y.png" alt="Botón Y" title="Botón Y"></td>
 </tr>
 <tr>
-<td align="center">D-Pad</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png" alt="D-Pad" title="D-Pad"></td>
+<td align="center">D-Pad (Cruceta)</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png" alt="D-Pad (Cruceta)" title="D-Pad (Cruceta)"></td>
 </tr>
 <tr>
-<td align="center">PS Button</td>
+<td align="center">Botón PS</td>
 <td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
 </table>
-<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsxboxrbmapping.png" alt="Mapping" title="Mapping"></div></p>
+<p><div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div></p>
                             </div>
                         </div>
                     </div>
@@ -164,6 +165,6 @@ This is the recommended mode and should not require any mapping. You simply need
 </div>
 <!-- /.panel-group -->
 
-[[Back to Drums]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
