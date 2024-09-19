@@ -1,10 +1,10 @@
 ---
-title: "Xbox One Rock Band 4/Fortnite Festival Guitars"
+title: "Guitarras de Rock Band 4/Fortnite Festival para Xbox One"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_xbox_es
 folder: instrumentos
 tags: [xbox-one, guitarras, espanol]
-summary: "How to setup Xbox One Rock Band 4/Fortnite Festival guitars on RPCS3."
+summary: "Como configurar tu guitarra de RRock Band 4/Fortnite Festival para Xbox One con RPCS3."
 toc: false
 ---
 
@@ -14,13 +14,13 @@ toc: false
 
 ## NOTAS:
 
-* Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
-* This profile works for Xbox One Fender Stratocaster, Fender Jaguar, and PDP Riffmaster guitars.
-	* Fender Stratocaster and Fender Jaguar guitars require a Microsoft Xbox Wireless Adapter.  
-	![Microsoft Xbox Wireless Adapter for Windows 10](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")  
-	* PDP Riffmaster guitars require their respective dongle.  
-	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")  
-* If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
+* Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
+* Este perfil funciona con la Fender Stratocaster, Fender Jaguar y la PDP Riffmaster para Xbox One.
+	* La Fender Stratocaster y la Fender Jaguar requieren un Adaptador inalámbrico para Windows.  
+	![Adaptador inalámbrico para Windows](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/receiver.png "Adaptador inalámbrico para Windows")  
+	* La PDP Riffmaster requiere su receptor propio.  
+	![Receptor de PDP Riffmaster](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")  
+* Si tienes una Fender Jaugar, es posible que vas a necesitar instalar una [[actualización de firmware]](https://bit.ly/2UHzonU){:target="_blank"} para conectarla al receptor. [[Haz click aqui para mas información.]](https://bit.ly/2UHzonU){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:
@@ -57,75 +57,75 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                             <div class="panel-body">
 <p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z" target="_blank">[Bajar Perfil]</a></p>
 <p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
-<p>The effects switch (pickup selector) was only able to be bound to the top half or the bottom half. The bottom half was chosen in the profile so it could be disabled.</p>
+<p>El switch de efectos solo puede ser configurado con la mitad de arriba o de abajo. Recomendamos la mitad de abajo para poder desactivar los efectos.</p>
 
 <table>
 <thead>
 <tr>
 <th align="center"><strong>RPCS3</strong></th>
-<th align="center"><strong>Controller</strong></th>
+<th align="center"><strong>Guitarra</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">Cross (Cruz)</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 </tr>
 <tr>
 <td align="center">Circle (Circulo)</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 </tr>
 <tr>
 <td align="center">Square (Cuadro)</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 </tr>
 <tr>
 <td align="center">Triangle (Triangulo)</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Up</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
+<td align="center">D-Pad (Cruceta): Arriba</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Down</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
+<td align="center">D-Pad (Cruceta): Abajo</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Left</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Left" title="D-Pad (Cruceta): Left"></td>
+<td align="center">D-Pad (Cruceta): Izquierda</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Right</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Right" title="D-Pad (Cruceta): Right"></td>
+<td align="center">D-Pad (Cruceta): Derecha</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
 </tr>
 <tr>
-<td align="center">Right Stick: <br> Left/Right</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
+<td align="center">Palanca Derecha: <br> Izq./Der.</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 </tr>
 <tr>
-<td align="center">Right Stick: <br> Up <em>or</em> Down</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png" alt="Effects Switch" title="Effects Switch"></td>
+<td align="center">Palanca Derecha: <br> Arriba <em>o</em> abajo</td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
 </tr>
 <tr>
 <td align="center">L2</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png" alt="Solo Buttons" title="Solo Buttons"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png" alt="Tilt" title="Tilt"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>
 <td align="center">Start</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png" alt="Plus" title="Start"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png" alt="Minus" title="Back"></td>
+<td align="center"><img src="https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
 </tr>
 <tr>
 <td align="center">Botón PS</td>
@@ -141,6 +141,6 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </div>
 <!-- /.panel-group -->
 
-[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
+[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

@@ -53,6 +53,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps4rbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums_es)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

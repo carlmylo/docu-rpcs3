@@ -35,13 +35,13 @@ toc: false
 
 | **Switch Pro Controller** | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Botón - (Menos)") | Overdrive |
+| ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
+| ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
+| ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
+| ![ZR Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zr.png "RL Trigger") | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
+| ![Botón B](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/b.png "Botón B") | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Overdrive |
 
 ## Drums
 
@@ -63,8 +63,8 @@ toc: false
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/a.png "Botón A") | Back | Mic 3 Volume (Song) |
 | ![Botón Y](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/y.png "Botón Y") | Mic 1 Volume (Song) | |
 | ![Botón X](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/x.png "Botón X") | View More Info (Library) | Mic 2 Volume (Song) |
-| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/plus.png "Botón + (Mas)") | Options | Pause (Song) |
-| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/minus.png "Botón - (Menos)") | Filters (Library) | Overdrive (Song) |
+| ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón + (Mas).png "Botón + (Mas)") | Options | Pause (Song) |
+| ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/Botón - (Menos).png "Botón - (Menos)") | Filters (Library) | Overdrive (Song) |
 | ![L Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/l.png "L Button") | Guide Part Selection (Practice) | |
 | ![ZL Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/zl.png "ZL Trigger") | Voice Chat | Vocal Part Selection (Practice) |
 | ![R Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/swi/r.png "R Button") | Vocal Track Volume (Song) | |

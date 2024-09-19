@@ -35,12 +35,12 @@ toc: false
 
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "L2 Trigger") | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| ![LBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "LBotón 1") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| ![RBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "RBotón 1") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![L2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l2.png "L2 Trigger") | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
+| ![LBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/l1.png "LBotón 1") | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
+| ![RBotón 1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "RBotón 1") | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
+| ![R2 Trigger](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "R2 Trigger") | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
+| ![Botón Cross (Cruz)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
+| ![Palanca Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
 | ![Botón Select](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/sel.png "Botón Select") | Overdrive |
 
 ## Drums

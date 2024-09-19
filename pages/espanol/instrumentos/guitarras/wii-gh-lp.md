@@ -1,10 +1,10 @@
 ---
-title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
+title: Les Paul de Guitar Hero para Nintendo Wii (Raphnet)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghlpgtr_wii_es
 folder: instrumentos
 tags: [wii, guitarras, espanol]
-summary: "How to setup Nintendo Wii Les Pauls on RPCS3."
+summary: "Como configurar una Les Paul de Guitar Hero para Wii en RPCS3."
 toc: false
 ---
 
@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
+* El sensor de ladeo (Tilt) no funciona correctamente. Puedes tratar de configurarlo pero no te va a ir bien así que no lo recomendamos. Esto es porque el sensor le tira pura basura a RPCS3.
 * Esto fue probado con el adaptador de Raphnet "Classic controller to USB adapter" (Adaptador de control clásico a USB).
 	* Si tu control no funciona, trata de instalar la [[herramienta de Raphnet]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es){:target="_blank"}.
@@ -31,29 +31,29 @@ toc: false
 
 ## Mapeo:
 
-**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
-Use Right Click to unmap Botón A.
+¡**BORRA ESTOS BOTONES** o tus solos de guitarra van a auto-rasguear (auto-strum)!  
+Usa el click derecho para borrar botones.
 
-| **RPCS3** | **Guitar** |
+| **RPCS3** | **Guitarra** |
 |:--------:|:-----------:|
-| L2 | Solo Modifier |
+| L2 | Botón de solos |
 
-**Map** the following:
+**Mapea** esto:
 
 * Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asignar un botón y todo sale con “U+”, haz click en “Filter Noise” (filtrar ruido)** en el lado izquierdo abajo de la ventana de configuración **y luego intenta mapear otra vez**.
 
-| **RPCS3**          | **Controller** |
+| **RPCS3**          | **Guitarra** |
 |:------------------:|:---------------------:|
-| Cross (Cruz) | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| Circle (Circulo) | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| Square (Cuadro) | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| Triangle (Triangulo) | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad (Cruceta): Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad (Cruceta): Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Start | ![Plus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus") |
-| Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus") |
+| Cross (Cruz) | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
+| Circle (Circulo) | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
+| Square (Cuadro) | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
+| Triangle (Triangulo) | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
+| L1 | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
+| D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
+| D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
+| Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
+| Start | ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
+| Select | ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
 
 ## Perfil
@@ -62,6 +62,6 @@ Use Right Click to unmap Botón A.
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiilpmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
+[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
 
 Mapeado por [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

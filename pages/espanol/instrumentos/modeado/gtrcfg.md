@@ -16,7 +16,7 @@ toc: false
 
 * This information is outdated, just like your software. **UPDATE TO SANTROLLER, OR CONTACT YOUR GUITAR MANUFACTURER!**
 * This requires advanced setup.
-* Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
+El sensor de ladeo (Tilt) no funciona correctamente. Puedes tratar de configurarlo pero no te va a ir bien así que no lo recomendamos. Esto es porque el sensor le tira pura basura a RPCS3.
 
 ![Guitar Configuration](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrcfg/picolpguitarconfigurator.png "Guitar Configurator")  
 

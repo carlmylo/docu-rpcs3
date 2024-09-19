@@ -1,4 +1,4 @@
-y---
+---
 title: "PlayStation 4 Rock Band 4/Fortnite Festival Guitars"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_ps4_es
@@ -15,8 +15,8 @@ toc: false
 ## NOTAS:
 
 * The bindings have not been verified. If you want to help, please send us a message!
-* **Tilt, Whammy, and pickup switch WILL NOT work at all!** Solo buttons may or may not work.
-	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, tilt, and convert it to a multiplatform guitar.
+* **Ladeo, Whammy, and pickup switch WILL NOT work at all!** Botón de solos may or may not work.
+	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH Ladeo for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-Ladeo-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/docu-rpcs3/ctrls_mod_riffada) to have whammy, Ladeo, and convert it to a multiplatform guitar.
 * Latency on Jaguars and Stratocasters may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
@@ -34,18 +34,18 @@ toc: false
 
 ## Mapeo:
 
-| **RPCS3**          | **Controller** |
+| **RPCS3**          | **Control** |
 |:------------------:|:---------------------:|
-| Cross (Cruz) | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| Circle (Circulo) | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| Square (Cuadro) | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| Triangle (Triangulo) | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad (Cruceta): Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad (Cruceta): Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
-| D-Pad (Cruceta): Left | ![D-Pad (Cruceta): Left](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Left") |
-| D-Pad (Cruceta): Right | ![D-Pad (Cruceta): Right](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Right") |
-| L2 | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") |
+| Cross (Cruz) | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
+| Circle (Circulo) | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
+| Square (Cuadro) | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
+| Triangle (Triangulo) | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
+| L1 | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
+| D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
+| D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
+| D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
+| D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
+| L2 | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") |
 | Start | ![Options](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/opt.png "Options") |
 | Select | ![Share](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/shr.png "Share") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/home.png "Home") |
@@ -54,4 +54,4 @@ toc: false
 
 N/A
 
-[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
+[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)

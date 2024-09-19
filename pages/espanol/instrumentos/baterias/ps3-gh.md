@@ -57,6 +57,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmsps3ghmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums_es)
 
 Mapeado por [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

@@ -1,10 +1,10 @@
-y---
-title: Nintendo Wii Rock Band Guitars
+---
+title: Guitarras de Rock Band Nintendo Wii
 sidebar: controllers_es_sidebar
 permalink: ctrls_rbgtr_wii_es
 folder: instrumentos
 tags: [wii, guitarras, espanol]
-summary: "How to setup Nintendo Wii Rock Band guitars on RPCS3."
+summary: "Como configurar guitarras de Rock Band para Wii en RPCS3."
 toc: false
 ---
 
@@ -14,9 +14,9 @@ toc: false
 
 ## NOTAS:
 
-* The effects switch seems to reset to the middle when it's adjusted, so you'll be locked to flanger.
-	* It can be unMapeado por removing the Right Stick: Up/Down mappings.
-	* You can alternatively configure the Device Class as a Guitar Hero Guitar to remove the option. You will have to swap Blue and Yellow frets.
+* Por alguna razón, el switch de efectos esta se restablece en la posición del medio, así que siempre estarás en Flanger.
+	* Puedes borrar los botones mapeados a Palanca Derecha: Arriba/Abajo para no activarlo por accidente..
+	* Alternativamente, puedes cambiar Device Class a Guitar: Guitar Hero para deshabilitar los efectos completamente. Esto requiere que inviertas el mapeo de botones con los trastes azules y amarillos.
 
 ## Información de Control:
 
@@ -30,23 +30,23 @@ toc: false
 
 ## Mapeo:
 
-| **RPCS3**          | **Controller** |
+| **RPCS3**          | **Guitarra** |
 |:------------------:|:---------------------:|
-| Cross (Cruz) | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| Circle (Circulo) | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| Square (Cuadro) | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| Triangle (Triangulo) | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad (Cruceta): Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad (Cruceta): Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
-| D-Pad (Cruceta): Left | ![D-Pad (Cruceta): Left](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Left") |
-| D-Pad (Cruceta): Right | ![D-Pad (Cruceta): Right](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Right") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: <br/> Up/Down | ![Effects Switch](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Effects Switch") |
-| L2 | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") |
-| R1 | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") |
-| Start | ![Plus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus") |
-| Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus") |
+| Cross (Cruz) | ![Traste Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Traste Verde") |
+| Circle (Circulo) | ![Traste Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Traste Rojo") |
+| Square (Cuadro) | ![Traste Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Traste Azul") |
+| Triangle (Triangulo) | ![Traste Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Traste Amarillo") |
+| L1 | ![Traste Naranja](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Traste Naranja") |
+| D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
+| D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
+| D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
+| D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
+| Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Palanca de whammy") |
+| Right Stick: <br/> Up/Down | ![Switch de efectos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Switch de efectos") |
+| L2 | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") |
+| R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") |
+| Start | ![Botón + (Mas)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
+| Select | ![Botón - (Menos)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 | Botón PS | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
 
 ## Perfil
@@ -55,6 +55,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiirbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Back to Guitars]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar)
+[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
 
 Mapeado por [[Carl Mylo]](www.twitch.tv/carlmylo){:target="_blank"}

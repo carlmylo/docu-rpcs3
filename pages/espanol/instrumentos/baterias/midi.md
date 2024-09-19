@@ -116,7 +116,7 @@ Ejemplos de cambios comunes:
 * Quieres usar tu Hi-Hat cerrada para amarillo y Hi-Hat abierta para azul.
 	* `Midi id to note override: "46=Ride"`
 
-[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums_es)
 
 Investigación por [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}  
 Implementado por [[nswarm]](https://github.com/nswarm){:target="_blank"}

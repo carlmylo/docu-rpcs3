@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* This controller requires advanced configuration.
+* Este control requiere configuración avanzada..
 * La detección de velocidad (intensidad) no funciona.
 
 #### Configuración Adicional:

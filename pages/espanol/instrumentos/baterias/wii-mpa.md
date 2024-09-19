@@ -60,6 +60,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/drmswiirbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums)
+[[Regresar a baterías]](https://carlmylo.github.io/docu-rpcs3/ctrls_drums_es)
 
 Mapeado por [[scott0852]](https://twitter.com/scott0852){:target="_blank"}
