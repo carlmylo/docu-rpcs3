@@ -55,7 +55,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCross (Cruz)Ref">
                             <div class="panel-body">
-<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z">[Bajar Perfil]</a></p>
+<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z" target="_blank">[Bajar Perfil]</a></p>
 <p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
 <p>The effects switch (pickup selector) was only able to be bound to the top half or the bottom half. The bottom half was chosen in the profile so it could be disabled.</p>
 
