@@ -53,7 +53,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Cha
 
 Los botones del teclado no van a funcionar como funcionan cuando esta conectado a su consola propia. Por eso vas a tener que cambiar de octava para accessar los botones de control.
 
-Puedes cambiar de octava con los botones de Square (Cuadro) y Circle (Circulo).
+Puedes cambiar de octava con los botones de `Square (Cuadro)` y `Circle (Circulo)`.
 
 ![Una animación de un teclado de Rock Band 3. Cuando se presiona el botón que seria Cuadro, un resaltado amarillo, que muestra el rango de notas activas, cambia a C2-C4. Cuando se presiona el botón que seria Circulo, cambia a C3-C5.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/midi/rbkeysoctshift.gif "Cambio de octava") 
 
