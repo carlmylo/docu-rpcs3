@@ -51,7 +51,7 @@ toc: false
 |:------------------:|:---------------------:|
 | ![Gatillo Izquierdo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/lt.png "Gatillo Izquierdo") | ![Pedal/Kick](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | ![Botón Bumper Izquierdo](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/lb.png "Botón Bumper Izquierdo") | ![Parche Rojo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Parche Rojo") |
-| ![Gatillo Derecho](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rt.png "Gatillo Derecho") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Pedal/Kick") |
+| ![Gatillo Derecho](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rt.png "Gatillo Derecho") | ![Parche Amarillo](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | ![Botón Bumper Derecho](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/rb.png "Botón Bumper Derecho") | ![Parche Azul](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Parche Azul") |
 | ![Botón A](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/a.png "Botón A") | ![Parche Verde](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Parche Verde") |
 | ![D-Pad (Cruceta)](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") | Navegación |
