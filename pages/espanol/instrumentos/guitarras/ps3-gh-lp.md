@@ -66,6 +66,6 @@ Usa el click derecho para borrar botones.
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrps3ghmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Mapeado por 16bitblastprocessing

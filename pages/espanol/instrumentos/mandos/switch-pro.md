@@ -74,6 +74,6 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padswipromapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a mandos]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

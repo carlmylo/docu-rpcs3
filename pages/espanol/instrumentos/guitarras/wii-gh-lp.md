@@ -62,6 +62,6 @@ Usa el click derecho para borrar botones.
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiilpmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

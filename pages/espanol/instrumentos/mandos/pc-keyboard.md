@@ -185,7 +185,7 @@ toc: false
 
 [[Bajar Perfiles]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
 
-[[Regresar a mandos]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Investigación por [[Linos]](https://www.youtube.com/@LinosMelendi)
 

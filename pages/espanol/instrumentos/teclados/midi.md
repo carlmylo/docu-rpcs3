@@ -188,6 +188,6 @@ Tienes que abrirlos cada vez que quieras jugar.</p>
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a teclados]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Implementado por [[Dark]](https://dark.ski/)

@@ -73,4 +73,4 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padps4mapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a mandos]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)

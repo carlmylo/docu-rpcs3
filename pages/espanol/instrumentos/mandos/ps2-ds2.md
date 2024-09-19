@@ -72,4 +72,4 @@ toc: false
 | ![Boton R1](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r1.png "Boton R1") | Volumen de Pista Vocal (Canción) | |
 | ![Gatillo R2](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/r2.png "Gatillo R2") | Corrección de Tono (Canción) | |
 
-[[Regresar a mandos]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)

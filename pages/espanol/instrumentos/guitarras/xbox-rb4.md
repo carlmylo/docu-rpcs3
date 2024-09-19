@@ -141,6 +141,6 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

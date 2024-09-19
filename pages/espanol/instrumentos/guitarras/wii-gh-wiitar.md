@@ -141,6 +141,6 @@ Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asign
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [diogodiogo2]

@@ -49,4 +49,4 @@ toc: false
 | L3 | | ![Botón de solos](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Botón de solos") | |
 | Boton R1 | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | ![Ladeo](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Ladeo") | No funciona |
 
-[[Regresar a guitarras]](https://carlmylo.github.io/docu-rpcs3/ctrls_guitar_es)
+[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/docu-rpcs3/ctrls_es#lista-de-instrumentos)
