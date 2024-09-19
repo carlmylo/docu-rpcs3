@@ -21,6 +21,10 @@ toc: false
 
 ## Información de Control:
 
+| Handlers | Devices |
+|:--------:|:-------:|
+| Desconocido | Desconocido |
+
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
@@ -49,20 +53,20 @@ toc: false
 
 ### Vocales:
 
-| **PlayStation (DS3)** | **Use** | **Alt Use** |
+| **RPCS3** | **Uso** | **Uso alternativo** |
 |:---------------------:|:-------------------------------:|:-------------------:|
-| Palanca Izquierda: <br> Up/Down/Left/Right | Navegación | |
-| D-Pad (Cruceta): <br> Up/Down/Left/Right | Navegación | |
+| Palanca Izquierda: <br> Arriba/Abajo/Izquierda/Derecha | Navegación | |
+| D-Pad (Cruceta): <br> Arriba/Abajo/Izquierda/Derecha | Navegación | |
 | Cross (Cruz) | Seleccionar | |
 | Circle (Circulo) | Atrás | Volumen micro 3 (Canción) |
 | Square (Cuadro) | Volumen micro 1 (Canción) | |
 | Triangle (Triangulo) | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
 | Start | Opciones | Pausa (Canción) |
 | Select | Filtros (Biblioteca) | Sobrecarga (Canción) |
-| L1 | Selección de Parte de Guía (Práctica) | |
-| L2 | Vocal Part Selection (Practice) | |
-| Boton R1 | Volumen de Pista Vocal (Canción) | |
-| R2 | Corrección de Tono (Canción) | |
+| Botón L1 | Selección de Parte de Guía (Práctica) | |
+| Gatillo L2 | Selección de Parte Vocal (Práctica) | |
+| Botón R1 | Volumen de Pista Vocal (Canción) | |
+| Gatillo R2 | Corrección de Tono (Canción) | |
 
 <div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/mystmapping.png" alt="Mapeo" title="Mapeo"></div>
 
