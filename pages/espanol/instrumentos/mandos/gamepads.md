@@ -1,10 +1,10 @@
 ---
-title: Unknown Gamepad Controllers
+title: Mandos desconocidos
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_gen_es
 folder: instrumentos
 tags: [mandos, espanol]
-summary: "How to setup gamepads on RPCS3."
+summary: "Mapeo general para mandos desconocidos con RPCS3."
 toc: false
 ---
 
@@ -14,9 +14,10 @@ toc: false
 
 ## NOTAS:
 
-* **This is for unknown controllers.** You may have to use try different handlers until your controller is detected.
-* To play Guitarra/Bajo/Teclado: on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick them.
-	- Additionally you can configure the layout within Rock Band 3 Deluxe's Advanced settings in-game.
+* **Esta pagina es para mandos desconocidos**. Trata diferente Handlers hasta que tu mando se detecte.
+* Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).
+	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
+	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
 ## Información de Control:
 
