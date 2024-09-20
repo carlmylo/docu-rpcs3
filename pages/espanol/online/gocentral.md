@@ -1,5 +1,5 @@
 ---
-title: "Jugando en linea con GoCentral"
+title: "Jugando en linea por GoCentral"
 sidebar: espanol_sidebar
 permalink: gocentral_es
 folder: espanol
