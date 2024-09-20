@@ -44,17 +44,29 @@ entries:
     output: web
     folderitems:
 
-    - title: Intro
+    - title: Controlando a Rock Band 3
       url: /ctrls_es
       output: web
       type: homepage
+
+    - title: Mapeando
+      url: /ctrls_es#mapeando
+      output: web
+
+    - title: Usando perfiles
+      url: /ctrls_es#usando-perfiles
+      output: web
+
+    - title: Contribuyendo
+      url: /ctrls_es#contribuyendo
+      output: web
 
   - title: Baterías
     output: web
     folderitems:
 
     - title: Lista Completa
-      url: /ctrls_drums_es
+      url: /ctrls_es#baterías
       output: web
       type: homepage
 
@@ -63,7 +75,7 @@ entries:
       output: web
       type: homepage
 
-    - title: "Batería de Rock Band 4 para Xbox One/Xbox Series"
+    - title: "Batería de Rock Band 4 para Xbox One"
       url: /ctrls_rb4drums_xbox_es
       output: web
       type: homepage
@@ -78,6 +90,16 @@ entries:
       output: web
       type: homepage
 
+    - title: Batería por adaptador MIDI Pro para Xbox 360
+      url: /ctrls_mpadrums_360_es
+      output: web
+      type: homepage
+
+    - title: Batería por adaptador MIDI Pro para Nintendo Wii
+      url: /ctrls_mpadrums_wii_es
+      output: web
+      type: homepage
+
     - title: Batería de Guitar Hero para Xbox 360
       url: /ctrls_ghdrums_360_es
       output: web
@@ -87,7 +109,6 @@ entries:
       url: /ctrls_ghdrums_ps3_es
       output: web
       type: homepage
-
 
     - title: Batería de Guitar Hero para Nintendo Wii (Raphnet)
       url: /ctrls_ghdrums_wii_es
@@ -99,7 +120,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Baterías Genericas
+    - title: Baterías Desconocidas
       url: /ctrls_drums_gen_es
       output: web
       type: homepage
@@ -110,42 +131,32 @@ entries:
     folderitems:
 
     - title: Lista Completa
-      url: /ctrls_guitar_es
+      url: /ctrls_es#guitarra
       output: web
       type: homepage
 
-    - title: Guitarra de Fortnite Festival para Xbox One
+    - title: Guitarras de Fortnite Festival para Xbox One
       url: /ctrls_rb4gtr_xbox_es
       output: web
       type: homepage
 
-    - title: "Guitarra de Rock Band 4 para Xbox One"
+    - title: "Guitarras de Rock Band 4 para Xbox One"
       url: /ctrls_rb4gtr_xbox_es
       output: web
       type: homepage
 
-    - title: Guitarra de Rock Band para Xbox 360
+    - title: Guitarras de Rock Band para Xbox 360
       url: /ctrls_rbgtr_360_es
       output: web
       type: homepage
 
-    - title: Guitarra de Rock Band para Nintendo Wii
+    - title: Guitarras de Rock Band para Nintendo Wii
       url: /ctrls_rbgtr_wii_es
       output: web
       type: homepage
 
-    - title: Guitarra Les Paul de Guitar Hero para Xbox 360
-      url: /ctrls_ghlpgtr_360_es
-      output: web
-      type: homepage
-
-    - title: Guitarra Les Paul de Guitar Hero para Nintendo Wii (Raphnet)
-      url: /ctrls_ghlpgtr_wii_es
-      output: web
-      type: homepage
-
-    - title: Guitarras World Tour (y despues) de Guitar Hero para Xbox 360
-      url: /ctrls_ghwtgtr_360_es
+    - title: Guitarras de Guitar Hero para Xbox 360
+      url: /ctrls_ghgtr_360
       output: web
       type: homepage
 
@@ -159,8 +170,23 @@ entries:
       output: web
       type: homepage
 
+    - title: Guitarra Les Paul de Guitar Hero para Nintendo Wii (Raphnet)
+      url: /ctrls_ghlpgtr_wii_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de Guitar Hero para Nintendo Wii (WiitarThing)
+      url: /ctrls_ghwtr_wii_es
+      output: web
+      type: homepage
+
     - title: Guitarra Les Paul de Guitar Hero para PlayStation 3
       url: /ctrls_ghlpgtr_ps3_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de GH:World Tour y despues para PlayStation 3
+      url: /ctrls_ghwtgtr_ps3
       output: web
       type: homepage
 
@@ -179,7 +205,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Guitarras Generica
+    - title: Guitarras Desconocidas
       url: /ctrls_gtr_gen_es
       output: web
       type: homepage
@@ -189,7 +215,7 @@ entries:
     folderitems:
 
     - title: Lista Completa
-      url: /ctrls_modded_es
+      url: /ctrls_es#instrumentos-modeados
       output: web
       type: homepage
 
@@ -203,7 +229,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Kit Solderless de RetroCultMods
+    - title: Kit SIN SOLDADURA de RetroCultMods
       url: /ctrls_mod_rcmsl_es
       output: web
       type: homepage
@@ -228,7 +254,7 @@ entries:
     folderitems:
 
     - title: Lista Completa
-      url: /ctrls_pads_es
+      url: /ctrls_es#mandos
       output: web
       type: homepage
 
@@ -277,7 +303,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Mandos Genericos
+    - title: Mandos Desconocidos
       url: /ctrls_pad_gen_es
       output: web
       type: homepage
@@ -287,7 +313,7 @@ entries:
     folderitems:
 
     - title: Lista Completa
-      url: /ctrls_keys_es
+      url: /ctrls_es#teclado
       output: web
       type: homepage
 
@@ -296,17 +322,17 @@ entries:
       output: web
       type: homepage
 
-    - title: Teclado Inalambrico de Rock Band para PlayStation 3
+    - title: Teclado inalambrico de Rock Band para PlayStation 3
       url: /ctrls_keys_ps3_es
       output: web
       type: homepage
 
-    - title: Teclado Inalambrico de Rock Band para Xbox 360
+    - title: Teclado inalambrico de Rock Band para Xbox 360
       url: /ctrls_keys_360_es
       output: web
       type: homepage
 
-    - title: Teclado Inalambrico de Rock Band para Nintendo Wii
+    - title: Teclado inalambrico de Rock Band para Nintendo Wii
       url: /ctrls_keys_wii_es
       output: web
       type: homepage
@@ -316,7 +342,7 @@ entries:
     folderitems:
 
     - title: Lista Completa
-      url: /ctrls_protars_es
+      url: /ctrls_es#guitarras-pro
       output: web
       type: homepage
   
@@ -344,8 +370,13 @@ entries:
     output: web
     folderitems:
 
-    - title: Como Configurar RPCS3
+    - title: Introducción
       url: /custom_config_es
+      output: web
+      type: homepage
+
+    - title: Configuración Personalizada
+      url: /custom_config_es#configuración-personalizada
       output: web
       type: homepage
 

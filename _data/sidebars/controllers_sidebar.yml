@@ -44,17 +44,30 @@ entries:
     output: web
     folderitems:
 
-    - title: Intro
+    - title: Controlling Rock Band 3
       url: /ctrls
       output: web
       type: homepage
+
+    - title: Mapping
+      url: /ctrls#mapping
+      output: web
+      type: homepage
+
+    - title: Profiles
+      url: /ctrls#using-profiles
+      output: web
+
+    - title: Contributing
+      url: /ctrls#contributing
+      output: web
 
   - title: Drums
     output: web
     folderitems:
 
     - title: Full List
-      url: /ctrls_drums
+      url: /ctrls#drums
       output: web
       type: homepage
 
@@ -104,7 +117,6 @@ entries:
       output: web
       type: homepage
 
-
     - title: "PlayStation 4 Rock Band 4 Drums"
       url: /ctrls_rb4drums_ps4
       output: web
@@ -121,7 +133,7 @@ entries:
     folderitems:
 
     - title: Full List
-      url: /ctrls_guitar
+      url: /ctrls#guitars
       output: web
       type: homepage
 
@@ -205,7 +217,7 @@ entries:
     folderitems:
 
     - title: Full List
-      url: /ctrls_modded
+      url: /ctrls#modded-instruments
       output: web
       type: homepage
 
@@ -244,7 +256,7 @@ entries:
     folderitems:
 
     - title: Full List
-      url: /ctrls_pads
+      url: /ctrls#gamepads
       output: web
       type: homepage
 
@@ -303,7 +315,7 @@ entries:
     folderitems:
 
     - title: Full List
-      url: /ctrls_keys
+      url: /ctrls#keyboards
       output: web
       type: homepage
 
@@ -332,7 +344,7 @@ entries:
     folderitems:
 
     - title: Full List
-      url: /ctrls_protars
+      url: /ctrls#pro-guitars
       output: web
       type: homepage
   

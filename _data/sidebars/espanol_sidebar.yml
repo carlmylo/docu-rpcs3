@@ -44,41 +44,58 @@ entries:
     output: web
     folderitems:
 
-    - title: Intro
+    - title: Controlando a Rock Band 3
       url: /ctrls_es
       output: web
       type: homepage
 
+    - title: Mapeando
+      url: /ctrls_es#mapeando
+      output: web
+
     - title: Baterías
-      url: /ctrls_drums_es
+      url: /ctrls_es#baterías
       output: web
 
     - title: Guitarras
-      url: /ctrls_guitar_es
+      url: /ctrls_es#guitarra
       output: web
 
     - title: Controles Modeados
-      url: /modded_ctrls_es
+      url: /ctrls_es#instrumentos-modeados
       output: web
 
     - title: Mandos
-      url: /ctrls_pads_es
+      url: /ctrls_es#mandos
       output: web
 
     - title: Teclados
-      url: /ctrls_keys_es
+      url: /ctrls_es#teclado
       output: web
 
     - title: Guitarras Pro
-      url: /ctrls_protars_es
+      url: /ctrls_es#guitarras-pro
+      output: web
+
+    - title: Usando perfiles
+      url: /ctrls_es#usando-perfiles
+      output: web
+
+    - title: Contribuyendo
+      url: /ctrls_es#contribuyendo
       output: web
 
   - title: Configuración Personalizada
     output: web
     folderitems:
 
-    - title: Como Configurar RPCS3
+    - title: Introducción
       url: /custom_config_es
+      output: web
+      type: homepage
+
+    - title: Configuración Personalizada
+      url: /custom_config_es#configuración-personalizada
       output: web
       type: homepage
 
